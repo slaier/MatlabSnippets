@@ -5765,7 +5765,7 @@
 		"body": [
 			"diff"
 		],
-		"description": "diff (Matlab method)"
+		"description": "diff(F)\ndiff(F,var)\ndiff(F,n)\ndiff(F,var,n)\ndiff(F,var1,...,varN)\nDifferentiate symbolic expression or function"
 	},
 	"diffuse": {
 		"prefix": "diffuse",
@@ -7319,7 +7319,7 @@
 		"body": [
 			"gradient"
 		],
-		"description": "gradient (Matlab method)"
+		"description": "gradient(f,v)\nGradient vector of scalar function"
 	},
 	"graph": {
 		"prefix": "graph",

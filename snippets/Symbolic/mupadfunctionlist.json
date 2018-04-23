@@ -1026,7 +1026,7 @@
         "body": [
             "hessian"
         ],
-        "description": "hessian (Matlab Symbolic mupadfunctionlist)"
+        "description": "hessian(f,v)\nHessian matrix of scalar function"
     },
     "hfarray": {
         "prefix": "hfarray",

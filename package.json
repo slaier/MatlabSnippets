@@ -1,28 +1,28 @@
 {
-    "name": "matlab-complete",
-    "displayName": "matlab-complete",
-    "description": "Matlab AutoComplete",
-    "version": "1.0.1",
-    "publisher": "slaier",
-    "galleryBanner": {
-        "theme": "light"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/slaier/matlab-complete.git"
-    },
-    "engines": {
-        "vscode": "^1.21.0"
-    },
-    "categories": [
-        "Snippets"
-    ],
-    "contributes": {
-        "snippets": [
-            {
-                "language": "matlab",
-                "path": "./snippets/Antenna/method.json"
-            },
+	"name": "matlab-complete",
+	"displayName": "matlab-complete",
+	"description": "Matlab AutoComplete",
+	"version": "1.0.1",
+	"publisher": "slaier",
+	"galleryBanner": {
+		"theme": "light"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/slaier/matlab-complete.git"
+	},
+	"engines": {
+		"vscode": "^1.21.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "matlab",
+				"path": "./snippets/Antenna/method.json"
+			},
 			{
 				"language": "matlab",
 				"path": "./snippets/Antenna/class.json"
@@ -118,6 +118,10 @@
 			{
 				"language": "matlab",
 				"path": "./snippets/Instrument/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/Matlab/method.json"
 			},
 			{
 				"language": "matlab",
@@ -258,7 +262,12 @@
 			{
 				"language": "matlab",
 				"path": "./snippets/SPS/method.json"
-			}	
-        ]
-    }
+			}
+		]
+	},
+	"__metadata": {
+		"id": "2a6cdd14-9b54-497f-bb4a-a0298c7dd4f7",
+		"publisherId": "13190d34-87ad-47d3-88a9-5940de2f686c",
+		"publisherDisplayName": "slaier"
+	}
 }
