@@ -1,0 +1,2767 @@
+{
+	"adaptfilt": {
+		"prefix": "adaptfilt",
+		"body": [
+			"adaptfilt"
+		],
+		"description": "adaptfilt (Matlab DSP method)"
+	},
+	"adaptfilt.adjlms": {
+		"prefix": "adaptfilt.adjlms",
+		"body": [
+			"adaptfilt.adjlms"
+		],
+		"description": "adaptfilt.adjlms (Matlab DSP method)"
+	},
+	"adaptfilt.ap": {
+		"prefix": "adaptfilt.ap",
+		"body": [
+			"adaptfilt.ap"
+		],
+		"description": "adaptfilt.ap (Matlab DSP method)"
+	},
+	"adaptfilt.apru": {
+		"prefix": "adaptfilt.apru",
+		"body": [
+			"adaptfilt.apru"
+		],
+		"description": "adaptfilt.apru (Matlab DSP method)"
+	},
+	"adaptfilt.bap": {
+		"prefix": "adaptfilt.bap",
+		"body": [
+			"adaptfilt.bap"
+		],
+		"description": "adaptfilt.bap (Matlab DSP method)"
+	},
+	"adaptfilt.blms": {
+		"prefix": "adaptfilt.blms",
+		"body": [
+			"adaptfilt.blms"
+		],
+		"description": "adaptfilt.blms (Matlab DSP method)"
+	},
+	"adaptfilt.blmsfft": {
+		"prefix": "adaptfilt.blmsfft",
+		"body": [
+			"adaptfilt.blmsfft"
+		],
+		"description": "adaptfilt.blmsfft (Matlab DSP method)"
+	},
+	"adaptfilt.dlms": {
+		"prefix": "adaptfilt.dlms",
+		"body": [
+			"adaptfilt.dlms"
+		],
+		"description": "adaptfilt.dlms (Matlab DSP method)"
+	},
+	"adaptfilt.fdaf": {
+		"prefix": "adaptfilt.fdaf",
+		"body": [
+			"adaptfilt.fdaf"
+		],
+		"description": "adaptfilt.fdaf (Matlab DSP method)"
+	},
+	"adaptfilt.filtxlms": {
+		"prefix": "adaptfilt.filtxlms",
+		"body": [
+			"adaptfilt.filtxlms"
+		],
+		"description": "adaptfilt.filtxlms (Matlab DSP method)"
+	},
+	"adaptfilt.ftf": {
+		"prefix": "adaptfilt.ftf",
+		"body": [
+			"adaptfilt.ftf"
+		],
+		"description": "adaptfilt.ftf (Matlab DSP method)"
+	},
+	"adaptfilt.gal": {
+		"prefix": "adaptfilt.gal",
+		"body": [
+			"adaptfilt.gal"
+		],
+		"description": "adaptfilt.gal (Matlab DSP method)"
+	},
+	"adaptfilt.hrls": {
+		"prefix": "adaptfilt.hrls",
+		"body": [
+			"adaptfilt.hrls"
+		],
+		"description": "adaptfilt.hrls (Matlab DSP method)"
+	},
+	"adaptfilt.hswrls": {
+		"prefix": "adaptfilt.hswrls",
+		"body": [
+			"adaptfilt.hswrls"
+		],
+		"description": "adaptfilt.hswrls (Matlab DSP method)"
+	},
+	"adaptfilt.lms": {
+		"prefix": "adaptfilt.lms",
+		"body": [
+			"adaptfilt.lms"
+		],
+		"description": "adaptfilt.lms (Matlab DSP method)"
+	},
+	"adaptfilt.lsl": {
+		"prefix": "adaptfilt.lsl",
+		"body": [
+			"adaptfilt.lsl"
+		],
+		"description": "adaptfilt.lsl (Matlab DSP method)"
+	},
+	"adaptfilt.nlms": {
+		"prefix": "adaptfilt.nlms",
+		"body": [
+			"adaptfilt.nlms"
+		],
+		"description": "adaptfilt.nlms (Matlab DSP method)"
+	},
+	"adaptfilt.pbfdaf": {
+		"prefix": "adaptfilt.pbfdaf",
+		"body": [
+			"adaptfilt.pbfdaf"
+		],
+		"description": "adaptfilt.pbfdaf (Matlab DSP method)"
+	},
+	"adaptfilt.pbufdaf": {
+		"prefix": "adaptfilt.pbufdaf",
+		"body": [
+			"adaptfilt.pbufdaf"
+		],
+		"description": "adaptfilt.pbufdaf (Matlab DSP method)"
+	},
+	"adaptfilt.qrdlsl": {
+		"prefix": "adaptfilt.qrdlsl",
+		"body": [
+			"adaptfilt.qrdlsl"
+		],
+		"description": "adaptfilt.qrdlsl (Matlab DSP method)"
+	},
+	"adaptfilt.qrdrls": {
+		"prefix": "adaptfilt.qrdrls",
+		"body": [
+			"adaptfilt.qrdrls"
+		],
+		"description": "adaptfilt.qrdrls (Matlab DSP method)"
+	},
+	"adaptfilt.rls": {
+		"prefix": "adaptfilt.rls",
+		"body": [
+			"adaptfilt.rls"
+		],
+		"description": "adaptfilt.rls (Matlab DSP method)"
+	},
+	"adaptfilt.sd": {
+		"prefix": "adaptfilt.sd",
+		"body": [
+			"adaptfilt.sd"
+		],
+		"description": "adaptfilt.sd (Matlab DSP method)"
+	},
+	"adaptfilt.se": {
+		"prefix": "adaptfilt.se",
+		"body": [
+			"adaptfilt.se"
+		],
+		"description": "adaptfilt.se (Matlab DSP method)"
+	},
+	"adaptfilt.ss": {
+		"prefix": "adaptfilt.ss",
+		"body": [
+			"adaptfilt.ss"
+		],
+		"description": "adaptfilt.ss (Matlab DSP method)"
+	},
+	"adaptfilt.swftf": {
+		"prefix": "adaptfilt.swftf",
+		"body": [
+			"adaptfilt.swftf"
+		],
+		"description": "adaptfilt.swftf (Matlab DSP method)"
+	},
+	"adaptfilt.swrls": {
+		"prefix": "adaptfilt.swrls",
+		"body": [
+			"adaptfilt.swrls"
+		],
+		"description": "adaptfilt.swrls (Matlab DSP method)"
+	},
+	"adaptfilt.tdafdct": {
+		"prefix": "adaptfilt.tdafdct",
+		"body": [
+			"adaptfilt.tdafdct"
+		],
+		"description": "adaptfilt.tdafdct (Matlab DSP method)"
+	},
+	"adaptfilt.tdafdft": {
+		"prefix": "adaptfilt.tdafdft",
+		"body": [
+			"adaptfilt.tdafdft"
+		],
+		"description": "adaptfilt.tdafdft (Matlab DSP method)"
+	},
+	"adaptfilt.ufdaf": {
+		"prefix": "adaptfilt.ufdaf",
+		"body": [
+			"adaptfilt.ufdaf"
+		],
+		"description": "adaptfilt.ufdaf (Matlab DSP method)"
+	},
+	"allpass2wdf": {
+		"prefix": "allpass2wdf",
+		"body": [
+			"allpass2wdf"
+		],
+		"description": "allpass2wdf (Matlab DSP method)"
+	},
+	"allpassbpc2bpc": {
+		"prefix": "allpassbpc2bpc",
+		"body": [
+			"allpassbpc2bpc"
+		],
+		"description": "allpassbpc2bpc (Matlab DSP method)"
+	},
+	"allpasslp2bp": {
+		"prefix": "allpasslp2bp",
+		"body": [
+			"allpasslp2bp"
+		],
+		"description": "allpasslp2bp (Matlab DSP method)"
+	},
+	"allpasslp2bpc": {
+		"prefix": "allpasslp2bpc",
+		"body": [
+			"allpasslp2bpc"
+		],
+		"description": "allpasslp2bpc (Matlab DSP method)"
+	},
+	"allpasslp2bs": {
+		"prefix": "allpasslp2bs",
+		"body": [
+			"allpasslp2bs"
+		],
+		"description": "allpasslp2bs (Matlab DSP method)"
+	},
+	"allpasslp2bsc": {
+		"prefix": "allpasslp2bsc",
+		"body": [
+			"allpasslp2bsc"
+		],
+		"description": "allpasslp2bsc (Matlab DSP method)"
+	},
+	"allpasslp2hp": {
+		"prefix": "allpasslp2hp",
+		"body": [
+			"allpasslp2hp"
+		],
+		"description": "allpasslp2hp (Matlab DSP method)"
+	},
+	"allpasslp2lp": {
+		"prefix": "allpasslp2lp",
+		"body": [
+			"allpasslp2lp"
+		],
+		"description": "allpasslp2lp (Matlab DSP method)"
+	},
+	"allpasslp2mb": {
+		"prefix": "allpasslp2mb",
+		"body": [
+			"allpasslp2mb"
+		],
+		"description": "allpasslp2mb (Matlab DSP method)"
+	},
+	"allpasslp2mbc": {
+		"prefix": "allpasslp2mbc",
+		"body": [
+			"allpasslp2mbc"
+		],
+		"description": "allpasslp2mbc (Matlab DSP method)"
+	},
+	"allpasslp2xc": {
+		"prefix": "allpasslp2xc",
+		"body": [
+			"allpasslp2xc"
+		],
+		"description": "allpasslp2xc (Matlab DSP method)"
+	},
+	"allpasslp2xn": {
+		"prefix": "allpasslp2xn",
+		"body": [
+			"allpasslp2xn"
+		],
+		"description": "allpasslp2xn (Matlab DSP method)"
+	},
+	"allpassrateup": {
+		"prefix": "allpassrateup",
+		"body": [
+			"allpassrateup"
+		],
+		"description": "allpassrateup (Matlab DSP method)"
+	},
+	"allpassshift": {
+		"prefix": "allpassshift",
+		"body": [
+			"allpassshift"
+		],
+		"description": "allpassshift (Matlab DSP method)"
+	},
+	"allpassshiftc": {
+		"prefix": "allpassshiftc",
+		"body": [
+			"allpassshiftc"
+		],
+		"description": "allpassshiftc (Matlab DSP method)"
+	},
+	"autoscale": {
+		"prefix": "autoscale",
+		"body": [
+			"autoscale"
+		],
+		"description": "autoscale (Matlab DSP method)"
+	},
+	"block": {
+		"prefix": "block",
+		"body": [
+			"block"
+		],
+		"description": "block (Matlab DSP method)"
+	},
+	"butter": {
+		"prefix": "butter",
+		"body": [
+			"butter"
+		],
+		"description": "butter (Matlab DSP method)"
+	},
+	"ca2tf": {
+		"prefix": "ca2tf",
+		"body": [
+			"ca2tf"
+		],
+		"description": "ca2tf (Matlab DSP method)"
+	},
+	"cheby1": {
+		"prefix": "cheby1",
+		"body": [
+			"cheby1"
+		],
+		"description": "cheby1 (Matlab DSP method)"
+	},
+	"cheby2": {
+		"prefix": "cheby2",
+		"body": [
+			"cheby2"
+		],
+		"description": "cheby2 (Matlab DSP method)"
+	},
+	"cl2tf": {
+		"prefix": "cl2tf",
+		"body": [
+			"cl2tf"
+		],
+		"description": "cl2tf (Matlab DSP method)"
+	},
+	"codegen": {
+		"prefix": "codegen",
+		"body": [
+			"codegen"
+		],
+		"description": "codegen (Matlab DSP method)"
+	},
+	"coeffs": {
+		"prefix": "coeffs",
+		"body": [
+			"coeffs"
+		],
+		"description": "coeffs (Matlab DSP method)"
+	},
+	"coeread": {
+		"prefix": "coeread",
+		"body": [
+			"coeread"
+		],
+		"description": "coeread (Matlab DSP method)"
+	},
+	"coewrite": {
+		"prefix": "coewrite",
+		"body": [
+			"coewrite"
+		],
+		"description": "coewrite (Matlab DSP method)"
+	},
+	"constraincoeffwl": {
+		"prefix": "constraincoeffwl",
+		"body": [
+			"constraincoeffwl"
+		],
+		"description": "constraincoeffwl (Matlab DSP method)"
+	},
+	"convert": {
+		"prefix": "convert",
+		"body": [
+			"convert"
+		],
+		"description": "convert (Matlab DSP method)"
+	},
+	"cost": {
+		"prefix": "cost",
+		"body": [
+			"cost"
+		],
+		"description": "cost (Matlab DSP method)"
+	},
+	"cumsec": {
+		"prefix": "cumsec",
+		"body": [
+			"cumsec"
+		],
+		"description": "cumsec (Matlab DSP method)"
+	},
+	"denormalize": {
+		"prefix": "denormalize",
+		"body": [
+			"denormalize"
+		],
+		"description": "denormalize (Matlab DSP method)"
+	},
+	"design": {
+		"prefix": "design",
+		"body": [
+			"design"
+		],
+		"description": "design (Matlab DSP method)"
+	},
+	"designmethods": {
+		"prefix": "designmethods",
+		"body": [
+			"designmethods"
+		],
+		"description": "designmethods (Matlab DSP method)"
+	},
+	"designopts": {
+		"prefix": "designopts",
+		"body": [
+			"designopts"
+		],
+		"description": "designopts (Matlab DSP method)"
+	},
+	"dfilt": {
+		"prefix": "dfilt",
+		"body": [
+			"dfilt"
+		],
+		"description": "dfilt (Matlab DSP method)"
+	},
+	"dfilt.allpass": {
+		"prefix": "dfilt.allpass",
+		"body": [
+			"dfilt.allpass"
+		],
+		"description": "dfilt.allpass (Matlab DSP method)"
+	},
+	"dfilt.calattice": {
+		"prefix": "dfilt.calattice",
+		"body": [
+			"dfilt.calattice"
+		],
+		"description": "dfilt.calattice (Matlab DSP method)"
+	},
+	"dfilt.calatticepc": {
+		"prefix": "dfilt.calatticepc",
+		"body": [
+			"dfilt.calatticepc"
+		],
+		"description": "dfilt.calatticepc (Matlab DSP method)"
+	},
+	"dfilt.cascade": {
+		"prefix": "dfilt.cascade",
+		"body": [
+			"dfilt.cascade"
+		],
+		"description": "dfilt.cascade (Matlab DSP method)"
+	},
+	"dfilt.cascadeallpass": {
+		"prefix": "dfilt.cascadeallpass",
+		"body": [
+			"dfilt.cascadeallpass"
+		],
+		"description": "dfilt.cascadeallpass (Matlab DSP method)"
+	},
+	"dfilt.cascadewdfallpass": {
+		"prefix": "dfilt.cascadewdfallpass",
+		"body": [
+			"dfilt.cascadewdfallpass"
+		],
+		"description": "dfilt.cascadewdfallpass (Matlab DSP method)"
+	},
+	"dfilt.delay": {
+		"prefix": "dfilt.delay",
+		"body": [
+			"dfilt.delay"
+		],
+		"description": "dfilt.delay (Matlab DSP method)"
+	},
+	"dfilt.df1": {
+		"prefix": "dfilt.df1",
+		"body": [
+			"dfilt.df1"
+		],
+		"description": "dfilt.df1 (Matlab DSP method)"
+	},
+	"dfilt.df1sos": {
+		"prefix": "dfilt.df1sos",
+		"body": [
+			"dfilt.df1sos"
+		],
+		"description": "dfilt.df1sos (Matlab DSP method)"
+	},
+	"dfilt.df1t": {
+		"prefix": "dfilt.df1t",
+		"body": [
+			"dfilt.df1t"
+		],
+		"description": "dfilt.df1t (Matlab DSP method)"
+	},
+	"dfilt.df1tsos": {
+		"prefix": "dfilt.df1tsos",
+		"body": [
+			"dfilt.df1tsos"
+		],
+		"description": "dfilt.df1tsos (Matlab DSP method)"
+	},
+	"dfilt.df2": {
+		"prefix": "dfilt.df2",
+		"body": [
+			"dfilt.df2"
+		],
+		"description": "dfilt.df2 (Matlab DSP method)"
+	},
+	"dfilt.df2sos": {
+		"prefix": "dfilt.df2sos",
+		"body": [
+			"dfilt.df2sos"
+		],
+		"description": "dfilt.df2sos (Matlab DSP method)"
+	},
+	"dfilt.df2t": {
+		"prefix": "dfilt.df2t",
+		"body": [
+			"dfilt.df2t"
+		],
+		"description": "dfilt.df2t (Matlab DSP method)"
+	},
+	"dfilt.df2tsos": {
+		"prefix": "dfilt.df2tsos",
+		"body": [
+			"dfilt.df2tsos"
+		],
+		"description": "dfilt.df2tsos (Matlab DSP method)"
+	},
+	"dfilt.dfasymfir": {
+		"prefix": "dfilt.dfasymfir",
+		"body": [
+			"dfilt.dfasymfir"
+		],
+		"description": "dfilt.dfasymfir (Matlab DSP method)"
+	},
+	"dfilt.dffir": {
+		"prefix": "dfilt.dffir",
+		"body": [
+			"dfilt.dffir"
+		],
+		"description": "dfilt.dffir (Matlab DSP method)"
+	},
+	"dfilt.dffirt": {
+		"prefix": "dfilt.dffirt",
+		"body": [
+			"dfilt.dffirt"
+		],
+		"description": "dfilt.dffirt (Matlab DSP method)"
+	},
+	"dfilt.dfsymfir": {
+		"prefix": "dfilt.dfsymfir",
+		"body": [
+			"dfilt.dfsymfir"
+		],
+		"description": "dfilt.dfsymfir (Matlab DSP method)"
+	},
+	"dfilt.farrowfd": {
+		"prefix": "dfilt.farrowfd",
+		"body": [
+			"dfilt.farrowfd"
+		],
+		"description": "dfilt.farrowfd (Matlab DSP method)"
+	},
+	"dfilt.farrowlinearfd": {
+		"prefix": "dfilt.farrowlinearfd",
+		"body": [
+			"dfilt.farrowlinearfd"
+		],
+		"description": "dfilt.farrowlinearfd (Matlab DSP method)"
+	},
+	"dfilt.fftfir": {
+		"prefix": "dfilt.fftfir",
+		"body": [
+			"dfilt.fftfir"
+		],
+		"description": "dfilt.fftfir (Matlab DSP method)"
+	},
+	"dfilt.latticeallpass": {
+		"prefix": "dfilt.latticeallpass",
+		"body": [
+			"dfilt.latticeallpass"
+		],
+		"description": "dfilt.latticeallpass (Matlab DSP method)"
+	},
+	"dfilt.latticear": {
+		"prefix": "dfilt.latticear",
+		"body": [
+			"dfilt.latticear"
+		],
+		"description": "dfilt.latticear (Matlab DSP method)"
+	},
+	"dfilt.latticearma": {
+		"prefix": "dfilt.latticearma",
+		"body": [
+			"dfilt.latticearma"
+		],
+		"description": "dfilt.latticearma (Matlab DSP method)"
+	},
+	"dfilt.latticemamax": {
+		"prefix": "dfilt.latticemamax",
+		"body": [
+			"dfilt.latticemamax"
+		],
+		"description": "dfilt.latticemamax (Matlab DSP method)"
+	},
+	"dfilt.latticemamin": {
+		"prefix": "dfilt.latticemamin",
+		"body": [
+			"dfilt.latticemamin"
+		],
+		"description": "dfilt.latticemamin (Matlab DSP method)"
+	},
+	"dfilt.parallel": {
+		"prefix": "dfilt.parallel",
+		"body": [
+			"dfilt.parallel"
+		],
+		"description": "dfilt.parallel (Matlab DSP method)"
+	},
+	"dfilt.scalar": {
+		"prefix": "dfilt.scalar",
+		"body": [
+			"dfilt.scalar"
+		],
+		"description": "dfilt.scalar (Matlab DSP method)"
+	},
+	"dfilt.wdfallpass": {
+		"prefix": "dfilt.wdfallpass",
+		"body": [
+			"dfilt.wdfallpass"
+		],
+		"description": "dfilt.wdfallpass (Matlab DSP method)"
+	},
+	"dsp.AdaptiveLatticeFilter": {
+		"prefix": "dsp.AdaptiveLatticeFilter",
+		"body": [
+			"dsp.AdaptiveLatticeFilter"
+		],
+		"description": "dsp.AdaptiveLatticeFilter (Matlab DSP method)"
+	},
+	"dsp.AffineProjectionFilter": {
+		"prefix": "dsp.AffineProjectionFilter",
+		"body": [
+			"dsp.AffineProjectionFilter"
+		],
+		"description": "dsp.AffineProjectionFilter (Matlab DSP method)"
+	},
+	"dsp.AllpassFilter": {
+		"prefix": "dsp.AllpassFilter",
+		"body": [
+			"dsp.AllpassFilter"
+		],
+		"description": "dsp.AllpassFilter (Matlab DSP method)"
+	},
+	"dsp.AllpoleFilter": {
+		"prefix": "dsp.AllpoleFilter",
+		"body": [
+			"dsp.AllpoleFilter"
+		],
+		"description": "dsp.AllpoleFilter (Matlab DSP method)"
+	},
+	"dsp.AnalyticSignal": {
+		"prefix": "dsp.AnalyticSignal",
+		"body": [
+			"dsp.AnalyticSignal"
+		],
+		"description": "dsp.AnalyticSignal (Matlab DSP method)"
+	},
+	"dsp.ArrayVectorAdder": {
+		"prefix": "dsp.ArrayVectorAdder",
+		"body": [
+			"dsp.ArrayVectorAdder"
+		],
+		"description": "dsp.ArrayVectorAdder (Matlab DSP method)"
+	},
+	"dsp.ArrayVectorDivider": {
+		"prefix": "dsp.ArrayVectorDivider",
+		"body": [
+			"dsp.ArrayVectorDivider"
+		],
+		"description": "dsp.ArrayVectorDivider (Matlab DSP method)"
+	},
+	"dsp.ArrayVectorMultiplier": {
+		"prefix": "dsp.ArrayVectorMultiplier",
+		"body": [
+			"dsp.ArrayVectorMultiplier"
+		],
+		"description": "dsp.ArrayVectorMultiplier (Matlab DSP method)"
+	},
+	"dsp.ArrayVectorSubtractor": {
+		"prefix": "dsp.ArrayVectorSubtractor",
+		"body": [
+			"dsp.ArrayVectorSubtractor"
+		],
+		"description": "dsp.ArrayVectorSubtractor (Matlab DSP method)"
+	},
+	"dsp.AudioFileReader": {
+		"prefix": "dsp.AudioFileReader",
+		"body": [
+			"dsp.AudioFileReader"
+		],
+		"description": "dsp.AudioFileReader (Matlab DSP method)"
+	},
+	"dsp.AudioFileWriter": {
+		"prefix": "dsp.AudioFileWriter",
+		"body": [
+			"dsp.AudioFileWriter"
+		],
+		"description": "dsp.AudioFileWriter (Matlab DSP method)"
+	},
+	"dsp.AudioPlayer": {
+		"prefix": "dsp.AudioPlayer",
+		"body": [
+			"dsp.AudioPlayer"
+		],
+		"description": "dsp.AudioPlayer (Matlab DSP method)"
+	},
+	"dsp.AudioRecorder": {
+		"prefix": "dsp.AudioRecorder",
+		"body": [
+			"dsp.AudioRecorder"
+		],
+		"description": "dsp.AudioRecorder (Matlab DSP method)"
+	},
+	"dsp.Autocorrelator": {
+		"prefix": "dsp.Autocorrelator",
+		"body": [
+			"dsp.Autocorrelator"
+		],
+		"description": "dsp.Autocorrelator (Matlab DSP method)"
+	},
+	"dsp.BiquadFilter": {
+		"prefix": "dsp.BiquadFilter",
+		"body": [
+			"dsp.BiquadFilter"
+		],
+		"description": "dsp.BiquadFilter (Matlab DSP method)"
+	},
+	"dsp.BlockLMSFilter": {
+		"prefix": "dsp.BlockLMSFilter",
+		"body": [
+			"dsp.BlockLMSFilter"
+		],
+		"description": "dsp.BlockLMSFilter (Matlab DSP method)"
+	},
+	"dsp.Buffer": {
+		"prefix": "dsp.Buffer",
+		"body": [
+			"dsp.Buffer"
+		],
+		"description": "dsp.Buffer (Matlab DSP method)"
+	},
+	"dsp.BurgAREstimator": {
+		"prefix": "dsp.BurgAREstimator",
+		"body": [
+			"dsp.BurgAREstimator"
+		],
+		"description": "dsp.BurgAREstimator (Matlab DSP method)"
+	},
+	"dsp.BurgSpectrumEstimator": {
+		"prefix": "dsp.BurgSpectrumEstimator",
+		"body": [
+			"dsp.BurgSpectrumEstimator"
+		],
+		"description": "dsp.BurgSpectrumEstimator (Matlab DSP method)"
+	},
+	"dsp.CICCompensationDecimator": {
+		"prefix": "dsp.CICCompensationDecimator",
+		"body": [
+			"dsp.CICCompensationDecimator"
+		],
+		"description": "dsp.CICCompensationDecimator (Matlab DSP method)"
+	},
+	"dsp.CICCompensationInterpolator": {
+		"prefix": "dsp.CICCompensationInterpolator",
+		"body": [
+			"dsp.CICCompensationInterpolator"
+		],
+		"description": "dsp.CICCompensationInterpolator (Matlab DSP method)"
+	},
+	"dsp.CICDecimator": {
+		"prefix": "dsp.CICDecimator",
+		"body": [
+			"dsp.CICDecimator"
+		],
+		"description": "dsp.CICDecimator (Matlab DSP method)"
+	},
+	"dsp.CICInterpolator": {
+		"prefix": "dsp.CICInterpolator",
+		"body": [
+			"dsp.CICInterpolator"
+		],
+		"description": "dsp.CICInterpolator (Matlab DSP method)"
+	},
+	"dsp.CepstralToLPC": {
+		"prefix": "dsp.CepstralToLPC",
+		"body": [
+			"dsp.CepstralToLPC"
+		],
+		"description": "dsp.CepstralToLPC (Matlab DSP method)"
+	},
+	"dsp.Chirp": {
+		"prefix": "dsp.Chirp",
+		"body": [
+			"dsp.Chirp"
+		],
+		"description": "dsp.Chirp (Matlab DSP method)"
+	},
+	"dsp.ColoredNoise": {
+		"prefix": "dsp.ColoredNoise",
+		"body": [
+			"dsp.ColoredNoise"
+		],
+		"description": "dsp.ColoredNoise (Matlab DSP method)"
+	},
+	"dsp.Convolver": {
+		"prefix": "dsp.Convolver",
+		"body": [
+			"dsp.Convolver"
+		],
+		"description": "dsp.Convolver (Matlab DSP method)"
+	},
+	"dsp.Counter": {
+		"prefix": "dsp.Counter",
+		"body": [
+			"dsp.Counter"
+		],
+		"description": "dsp.Counter (Matlab DSP method)"
+	},
+	"dsp.CoupledAllpassFilter": {
+		"prefix": "dsp.CoupledAllpassFilter",
+		"body": [
+			"dsp.CoupledAllpassFilter"
+		],
+		"description": "dsp.CoupledAllpassFilter (Matlab DSP method)"
+	},
+	"dsp.CrossSpectrumEstimator": {
+		"prefix": "dsp.CrossSpectrumEstimator",
+		"body": [
+			"dsp.CrossSpectrumEstimator"
+		],
+		"description": "dsp.CrossSpectrumEstimator (Matlab DSP method)"
+	},
+	"dsp.Crosscorrelator": {
+		"prefix": "dsp.Crosscorrelator",
+		"body": [
+			"dsp.Crosscorrelator"
+		],
+		"description": "dsp.Crosscorrelator (Matlab DSP method)"
+	},
+	"dsp.CumulativeProduct": {
+		"prefix": "dsp.CumulativeProduct",
+		"body": [
+			"dsp.CumulativeProduct"
+		],
+		"description": "dsp.CumulativeProduct (Matlab DSP method)"
+	},
+	"dsp.CumulativeSum": {
+		"prefix": "dsp.CumulativeSum",
+		"body": [
+			"dsp.CumulativeSum"
+		],
+		"description": "dsp.CumulativeSum (Matlab DSP method)"
+	},
+	"dsp.DCBlocker": {
+		"prefix": "dsp.DCBlocker",
+		"body": [
+			"dsp.DCBlocker"
+		],
+		"description": "dsp.DCBlocker (Matlab DSP method)"
+	},
+	"dsp.DCT": {
+		"prefix": "dsp.DCT",
+		"body": [
+			"dsp.DCT"
+		],
+		"description": "dsp.DCT (Matlab DSP method)"
+	},
+	"dsp.Delay": {
+		"prefix": "dsp.Delay",
+		"body": [
+			"dsp.Delay"
+		],
+		"description": "dsp.Delay (Matlab DSP method)"
+	},
+	"dsp.DelayLine": {
+		"prefix": "dsp.DelayLine",
+		"body": [
+			"dsp.DelayLine"
+		],
+		"description": "dsp.DelayLine (Matlab DSP method)"
+	},
+	"dsp.DigitalDownConverter": {
+		"prefix": "dsp.DigitalDownConverter",
+		"body": [
+			"dsp.DigitalDownConverter"
+		],
+		"description": "dsp.DigitalDownConverter (Matlab DSP method)"
+	},
+	"dsp.DigitalFilter": {
+		"prefix": "dsp.DigitalFilter",
+		"body": [
+			"dsp.DigitalFilter"
+		],
+		"description": "dsp.DigitalFilter (Matlab DSP method)"
+	},
+	"dsp.DigitalUpConverter": {
+		"prefix": "dsp.DigitalUpConverter",
+		"body": [
+			"dsp.DigitalUpConverter"
+		],
+		"description": "dsp.DigitalUpConverter (Matlab DSP method)"
+	},
+	"dsp.DyadicAnalysisFilterBank": {
+		"prefix": "dsp.DyadicAnalysisFilterBank",
+		"body": [
+			"dsp.DyadicAnalysisFilterBank"
+		],
+		"description": "dsp.DyadicAnalysisFilterBank (Matlab DSP method)"
+	},
+	"dsp.DyadicSynthesisFilterBank": {
+		"prefix": "dsp.DyadicSynthesisFilterBank",
+		"body": [
+			"dsp.DyadicSynthesisFilterBank"
+		],
+		"description": "dsp.DyadicSynthesisFilterBank (Matlab DSP method)"
+	},
+	"dsp.FFT": {
+		"prefix": "dsp.FFT",
+		"body": [
+			"dsp.FFT"
+		],
+		"description": "dsp.FFT (Matlab DSP method)"
+	},
+	"dsp.FIRDecimator": {
+		"prefix": "dsp.FIRDecimator",
+		"body": [
+			"dsp.FIRDecimator"
+		],
+		"description": "dsp.FIRDecimator (Matlab DSP method)"
+	},
+	"dsp.FIRFilter": {
+		"prefix": "dsp.FIRFilter",
+		"body": [
+			"dsp.FIRFilter"
+		],
+		"description": "dsp.FIRFilter (Matlab DSP method)"
+	},
+	"dsp.FIRHalfbandDecimator": {
+		"prefix": "dsp.FIRHalfbandDecimator",
+		"body": [
+			"dsp.FIRHalfbandDecimator"
+		],
+		"description": "dsp.FIRHalfbandDecimator (Matlab DSP method)"
+	},
+	"dsp.FIRHalfbandInterpolator": {
+		"prefix": "dsp.FIRHalfbandInterpolator",
+		"body": [
+			"dsp.FIRHalfbandInterpolator"
+		],
+		"description": "dsp.FIRHalfbandInterpolator (Matlab DSP method)"
+	},
+	"dsp.FIRInterpolator": {
+		"prefix": "dsp.FIRInterpolator",
+		"body": [
+			"dsp.FIRInterpolator"
+		],
+		"description": "dsp.FIRInterpolator (Matlab DSP method)"
+	},
+	"dsp.FIRRateConverter": {
+		"prefix": "dsp.FIRRateConverter",
+		"body": [
+			"dsp.FIRRateConverter"
+		],
+		"description": "dsp.FIRRateConverter (Matlab DSP method)"
+	},
+	"dsp.FarrowRateConverter": {
+		"prefix": "dsp.FarrowRateConverter",
+		"body": [
+			"dsp.FarrowRateConverter"
+		],
+		"description": "dsp.FarrowRateConverter (Matlab DSP method)"
+	},
+	"dsp.FastTransversalFilter": {
+		"prefix": "dsp.FastTransversalFilter",
+		"body": [
+			"dsp.FastTransversalFilter"
+		],
+		"description": "dsp.FastTransversalFilter (Matlab DSP method)"
+	},
+	"dsp.FilterCascade": {
+		"prefix": "dsp.FilterCascade",
+		"body": [
+			"dsp.FilterCascade"
+		],
+		"description": "dsp.FilterCascade (Matlab DSP method)"
+	},
+	"dsp.FilteredXLMSFilter": {
+		"prefix": "dsp.FilteredXLMSFilter",
+		"body": [
+			"dsp.FilteredXLMSFilter"
+		],
+		"description": "dsp.FilteredXLMSFilter (Matlab DSP method)"
+	},
+	"dsp.FrequencyDomainAdaptiveFilter": {
+		"prefix": "dsp.FrequencyDomainAdaptiveFilter",
+		"body": [
+			"dsp.FrequencyDomainAdaptiveFilter"
+		],
+		"description": "dsp.FrequencyDomainAdaptiveFilter (Matlab DSP method)"
+	},
+	"dsp.HDLComplexToMagnitudeAngle": {
+		"prefix": "dsp.HDLComplexToMagnitudeAngle",
+		"body": [
+			"dsp.HDLComplexToMagnitudeAngle"
+		],
+		"description": "dsp.HDLComplexToMagnitudeAngle (Matlab DSP method)"
+	},
+	"dsp.HDLFFT": {
+		"prefix": "dsp.HDLFFT",
+		"body": [
+			"dsp.HDLFFT"
+		],
+		"description": "dsp.HDLFFT (Matlab DSP method)"
+	},
+	"dsp.HDLFIRRateConverter": {
+		"prefix": "dsp.HDLFIRRateConverter",
+		"body": [
+			"dsp.HDLFIRRateConverter"
+		],
+		"description": "dsp.HDLFIRRateConverter (Matlab DSP method)"
+	},
+	"dsp.HDLIFFT": {
+		"prefix": "dsp.HDLIFFT",
+		"body": [
+			"dsp.HDLIFFT"
+		],
+		"description": "dsp.HDLIFFT (Matlab DSP method)"
+	},
+	"dsp.HDLNCO": {
+		"prefix": "dsp.HDLNCO",
+		"body": [
+			"dsp.HDLNCO"
+		],
+		"description": "dsp.HDLNCO (Matlab DSP method)"
+	},
+	"dsp.HighpassFilter": {
+		"prefix": "dsp.HighpassFilter",
+		"body": [
+			"dsp.HighpassFilter"
+		],
+		"description": "dsp.HighpassFilter (Matlab DSP method)"
+	},
+	"dsp.Histogram": {
+		"prefix": "dsp.Histogram",
+		"body": [
+			"dsp.Histogram"
+		],
+		"description": "dsp.Histogram (Matlab DSP method)"
+	},
+	"dsp.IDCT": {
+		"prefix": "dsp.IDCT",
+		"body": [
+			"dsp.IDCT"
+		],
+		"description": "dsp.IDCT (Matlab DSP method)"
+	},
+	"dsp.IFFT": {
+		"prefix": "dsp.IFFT",
+		"body": [
+			"dsp.IFFT"
+		],
+		"description": "dsp.IFFT (Matlab DSP method)"
+	},
+	"dsp.IIRFilter": {
+		"prefix": "dsp.IIRFilter",
+		"body": [
+			"dsp.IIRFilter"
+		],
+		"description": "dsp.IIRFilter (Matlab DSP method)"
+	},
+	"dsp.IIRHalfbandDecimator": {
+		"prefix": "dsp.IIRHalfbandDecimator",
+		"body": [
+			"dsp.IIRHalfbandDecimator"
+		],
+		"description": "dsp.IIRHalfbandDecimator (Matlab DSP method)"
+	},
+	"dsp.IIRHalfbandInterpolator": {
+		"prefix": "dsp.IIRHalfbandInterpolator",
+		"body": [
+			"dsp.IIRHalfbandInterpolator"
+		],
+		"description": "dsp.IIRHalfbandInterpolator (Matlab DSP method)"
+	},
+	"dsp.Interpolator": {
+		"prefix": "dsp.Interpolator",
+		"body": [
+			"dsp.Interpolator"
+		],
+		"description": "dsp.Interpolator (Matlab DSP method)"
+	},
+	"dsp.KalmanFilter": {
+		"prefix": "dsp.KalmanFilter",
+		"body": [
+			"dsp.KalmanFilter"
+		],
+		"description": "dsp.KalmanFilter (Matlab DSP method)"
+	},
+	"dsp.LDLFactor": {
+		"prefix": "dsp.LDLFactor",
+		"body": [
+			"dsp.LDLFactor"
+		],
+		"description": "dsp.LDLFactor (Matlab DSP method)"
+	},
+	"dsp.LMSFilter": {
+		"prefix": "dsp.LMSFilter",
+		"body": [
+			"dsp.LMSFilter"
+		],
+		"description": "dsp.LMSFilter (Matlab DSP method)"
+	},
+	"dsp.LPCToAutocorrelation": {
+		"prefix": "dsp.LPCToAutocorrelation",
+		"body": [
+			"dsp.LPCToAutocorrelation"
+		],
+		"description": "dsp.LPCToAutocorrelation (Matlab DSP method)"
+	},
+	"dsp.LPCToCepstral": {
+		"prefix": "dsp.LPCToCepstral",
+		"body": [
+			"dsp.LPCToCepstral"
+		],
+		"description": "dsp.LPCToCepstral (Matlab DSP method)"
+	},
+	"dsp.LPCToLSF": {
+		"prefix": "dsp.LPCToLSF",
+		"body": [
+			"dsp.LPCToLSF"
+		],
+		"description": "dsp.LPCToLSF (Matlab DSP method)"
+	},
+	"dsp.LPCToLSP": {
+		"prefix": "dsp.LPCToLSP",
+		"body": [
+			"dsp.LPCToLSP"
+		],
+		"description": "dsp.LPCToLSP (Matlab DSP method)"
+	},
+	"dsp.LPCToRC": {
+		"prefix": "dsp.LPCToRC",
+		"body": [
+			"dsp.LPCToRC"
+		],
+		"description": "dsp.LPCToRC (Matlab DSP method)"
+	},
+	"dsp.LSFToLPC": {
+		"prefix": "dsp.LSFToLPC",
+		"body": [
+			"dsp.LSFToLPC"
+		],
+		"description": "dsp.LSFToLPC (Matlab DSP method)"
+	},
+	"dsp.LSPToLPC": {
+		"prefix": "dsp.LSPToLPC",
+		"body": [
+			"dsp.LSPToLPC"
+		],
+		"description": "dsp.LSPToLPC (Matlab DSP method)"
+	},
+	"dsp.LUFactor": {
+		"prefix": "dsp.LUFactor",
+		"body": [
+			"dsp.LUFactor"
+		],
+		"description": "dsp.LUFactor (Matlab DSP method)"
+	},
+	"dsp.LevinsonSolver": {
+		"prefix": "dsp.LevinsonSolver",
+		"body": [
+			"dsp.LevinsonSolver"
+		],
+		"description": "dsp.LevinsonSolver (Matlab DSP method)"
+	},
+	"dsp.LogicAnalyzer": {
+		"prefix": "dsp.LogicAnalyzer",
+		"body": [
+			"dsp.LogicAnalyzer"
+		],
+		"description": "dsp.LogicAnalyzer (Matlab DSP method)"
+	},
+	"dsp.LowerTriangularSolver": {
+		"prefix": "dsp.LowerTriangularSolver",
+		"body": [
+			"dsp.LowerTriangularSolver"
+		],
+		"description": "dsp.LowerTriangularSolver (Matlab DSP method)"
+	},
+	"dsp.LowpassFilter": {
+		"prefix": "dsp.LowpassFilter",
+		"body": [
+			"dsp.LowpassFilter"
+		],
+		"description": "dsp.LowpassFilter (Matlab DSP method)"
+	},
+	"dsp.MatFileReader": {
+		"prefix": "dsp.MatFileReader",
+		"body": [
+			"dsp.MatFileReader"
+		],
+		"description": "dsp.MatFileReader (Matlab DSP method)"
+	},
+	"dsp.MatFileWriter": {
+		"prefix": "dsp.MatFileWriter",
+		"body": [
+			"dsp.MatFileWriter"
+		],
+		"description": "dsp.MatFileWriter (Matlab DSP method)"
+	},
+	"dsp.Maximum": {
+		"prefix": "dsp.Maximum",
+		"body": [
+			"dsp.Maximum"
+		],
+		"description": "dsp.Maximum (Matlab DSP method)"
+	},
+	"dsp.Mean": {
+		"prefix": "dsp.Mean",
+		"body": [
+			"dsp.Mean"
+		],
+		"description": "dsp.Mean (Matlab DSP method)"
+	},
+	"dsp.Median": {
+		"prefix": "dsp.Median",
+		"body": [
+			"dsp.Median"
+		],
+		"description": "dsp.Median (Matlab DSP method)"
+	},
+	"dsp.Minimum": {
+		"prefix": "dsp.Minimum",
+		"body": [
+			"dsp.Minimum"
+		],
+		"description": "dsp.Minimum (Matlab DSP method)"
+	},
+	"dsp.NCO": {
+		"prefix": "dsp.NCO",
+		"body": [
+			"dsp.NCO"
+		],
+		"description": "dsp.NCO (Matlab DSP method)"
+	},
+	"dsp.Normalizer": {
+		"prefix": "dsp.Normalizer",
+		"body": [
+			"dsp.Normalizer"
+		],
+		"description": "dsp.Normalizer (Matlab DSP method)"
+	},
+	"dsp.NotchPeakFilter": {
+		"prefix": "dsp.NotchPeakFilter",
+		"body": [
+			"dsp.NotchPeakFilter"
+		],
+		"description": "dsp.NotchPeakFilter (Matlab DSP method)"
+	},
+	"dsp.ParametricEQFilter": {
+		"prefix": "dsp.ParametricEQFilter",
+		"body": [
+			"dsp.ParametricEQFilter"
+		],
+		"description": "dsp.ParametricEQFilter (Matlab DSP method)"
+	},
+	"dsp.PeakFinder": {
+		"prefix": "dsp.PeakFinder",
+		"body": [
+			"dsp.PeakFinder"
+		],
+		"description": "dsp.PeakFinder (Matlab DSP method)"
+	},
+	"dsp.PeakToPeak": {
+		"prefix": "dsp.PeakToPeak",
+		"body": [
+			"dsp.PeakToPeak"
+		],
+		"description": "dsp.PeakToPeak (Matlab DSP method)"
+	},
+	"dsp.PeakToRMS": {
+		"prefix": "dsp.PeakToRMS",
+		"body": [
+			"dsp.PeakToRMS"
+		],
+		"description": "dsp.PeakToRMS (Matlab DSP method)"
+	},
+	"dsp.PhaseExtractor": {
+		"prefix": "dsp.PhaseExtractor",
+		"body": [
+			"dsp.PhaseExtractor"
+		],
+		"description": "dsp.PhaseExtractor (Matlab DSP method)"
+	},
+	"dsp.PhaseUnwrapper": {
+		"prefix": "dsp.PhaseUnwrapper",
+		"body": [
+			"dsp.PhaseUnwrapper"
+		],
+		"description": "dsp.PhaseUnwrapper (Matlab DSP method)"
+	},
+	"dsp.PulseMetrics": {
+		"prefix": "dsp.PulseMetrics",
+		"body": [
+			"dsp.PulseMetrics"
+		],
+		"description": "dsp.PulseMetrics (Matlab DSP method)"
+	},
+	"dsp.RCToAutocorrelation": {
+		"prefix": "dsp.RCToAutocorrelation",
+		"body": [
+			"dsp.RCToAutocorrelation"
+		],
+		"description": "dsp.RCToAutocorrelation (Matlab DSP method)"
+	},
+	"dsp.RCToLPC": {
+		"prefix": "dsp.RCToLPC",
+		"body": [
+			"dsp.RCToLPC"
+		],
+		"description": "dsp.RCToLPC (Matlab DSP method)"
+	},
+	"dsp.RLSFilter": {
+		"prefix": "dsp.RLSFilter",
+		"body": [
+			"dsp.RLSFilter"
+		],
+		"description": "dsp.RLSFilter (Matlab DSP method)"
+	},
+	"dsp.RMS": {
+		"prefix": "dsp.RMS",
+		"body": [
+			"dsp.RMS"
+		],
+		"description": "dsp.RMS (Matlab DSP method)"
+	},
+	"dsp.SampleRateConverter": {
+		"prefix": "dsp.SampleRateConverter",
+		"body": [
+			"dsp.SampleRateConverter"
+		],
+		"description": "dsp.SampleRateConverter (Matlab DSP method)"
+	},
+	"dsp.ScalarQuantizerDecoder": {
+		"prefix": "dsp.ScalarQuantizerDecoder",
+		"body": [
+			"dsp.ScalarQuantizerDecoder"
+		],
+		"description": "dsp.ScalarQuantizerDecoder (Matlab DSP method)"
+	},
+	"dsp.ScalarQuantizerEncoder": {
+		"prefix": "dsp.ScalarQuantizerEncoder",
+		"body": [
+			"dsp.ScalarQuantizerEncoder"
+		],
+		"description": "dsp.ScalarQuantizerEncoder (Matlab DSP method)"
+	},
+	"dsp.SignalSink": {
+		"prefix": "dsp.SignalSink",
+		"body": [
+			"dsp.SignalSink"
+		],
+		"description": "dsp.SignalSink (Matlab DSP method)"
+	},
+	"dsp.SignalSource": {
+		"prefix": "dsp.SignalSource",
+		"body": [
+			"dsp.SignalSource"
+		],
+		"description": "dsp.SignalSource (Matlab DSP method)"
+	},
+	"dsp.SineWave": {
+		"prefix": "dsp.SineWave",
+		"body": [
+			"dsp.SineWave"
+		],
+		"description": "dsp.SineWave (Matlab DSP method)"
+	},
+	"dsp.SpectrumEstimator": {
+		"prefix": "dsp.SpectrumEstimator",
+		"body": [
+			"dsp.SpectrumEstimator"
+		],
+		"description": "dsp.SpectrumEstimator (Matlab DSP method)"
+	},
+	"dsp.StandardDeviation": {
+		"prefix": "dsp.StandardDeviation",
+		"body": [
+			"dsp.StandardDeviation"
+		],
+		"description": "dsp.StandardDeviation (Matlab DSP method)"
+	},
+	"dsp.StateLevels": {
+		"prefix": "dsp.StateLevels",
+		"body": [
+			"dsp.StateLevels"
+		],
+		"description": "dsp.StateLevels (Matlab DSP method)"
+	},
+	"dsp.SubbandAnalysisFilter": {
+		"prefix": "dsp.SubbandAnalysisFilter",
+		"body": [
+			"dsp.SubbandAnalysisFilter"
+		],
+		"description": "dsp.SubbandAnalysisFilter (Matlab DSP method)"
+	},
+	"dsp.SubbandSynthesisFilter": {
+		"prefix": "dsp.SubbandSynthesisFilter",
+		"body": [
+			"dsp.SubbandSynthesisFilter"
+		],
+		"description": "dsp.SubbandSynthesisFilter (Matlab DSP method)"
+	},
+	"dsp.TransferFunctionEstimator": {
+		"prefix": "dsp.TransferFunctionEstimator",
+		"body": [
+			"dsp.TransferFunctionEstimator"
+		],
+		"description": "dsp.TransferFunctionEstimator (Matlab DSP method)"
+	},
+	"dsp.TransitionMetrics": {
+		"prefix": "dsp.TransitionMetrics",
+		"body": [
+			"dsp.TransitionMetrics"
+		],
+		"description": "dsp.TransitionMetrics (Matlab DSP method)"
+	},
+	"dsp.UDPReceiver": {
+		"prefix": "dsp.UDPReceiver",
+		"body": [
+			"dsp.UDPReceiver"
+		],
+		"description": "dsp.UDPReceiver (Matlab DSP method)"
+	},
+	"dsp.UDPSender": {
+		"prefix": "dsp.UDPSender",
+		"body": [
+			"dsp.UDPSender"
+		],
+		"description": "dsp.UDPSender (Matlab DSP method)"
+	},
+	"dsp.UniformDecoder": {
+		"prefix": "dsp.UniformDecoder",
+		"body": [
+			"dsp.UniformDecoder"
+		],
+		"description": "dsp.UniformDecoder (Matlab DSP method)"
+	},
+	"dsp.UniformEncoder": {
+		"prefix": "dsp.UniformEncoder",
+		"body": [
+			"dsp.UniformEncoder"
+		],
+		"description": "dsp.UniformEncoder (Matlab DSP method)"
+	},
+	"dsp.UpperTriangularSolver": {
+		"prefix": "dsp.UpperTriangularSolver",
+		"body": [
+			"dsp.UpperTriangularSolver"
+		],
+		"description": "dsp.UpperTriangularSolver (Matlab DSP method)"
+	},
+	"dsp.VariableBandwidthFIRFilter": {
+		"prefix": "dsp.VariableBandwidthFIRFilter",
+		"body": [
+			"dsp.VariableBandwidthFIRFilter"
+		],
+		"description": "dsp.VariableBandwidthFIRFilter (Matlab DSP method)"
+	},
+	"dsp.VariableBandwidthIIRFilter": {
+		"prefix": "dsp.VariableBandwidthIIRFilter",
+		"body": [
+			"dsp.VariableBandwidthIIRFilter"
+		],
+		"description": "dsp.VariableBandwidthIIRFilter (Matlab DSP method)"
+	},
+	"dsp.VariableFractionalDelay": {
+		"prefix": "dsp.VariableFractionalDelay",
+		"body": [
+			"dsp.VariableFractionalDelay"
+		],
+		"description": "dsp.VariableFractionalDelay (Matlab DSP method)"
+	},
+	"dsp.VariableIntegerDelay": {
+		"prefix": "dsp.VariableIntegerDelay",
+		"body": [
+			"dsp.VariableIntegerDelay"
+		],
+		"description": "dsp.VariableIntegerDelay (Matlab DSP method)"
+	},
+	"dsp.Variance": {
+		"prefix": "dsp.Variance",
+		"body": [
+			"dsp.Variance"
+		],
+		"description": "dsp.Variance (Matlab DSP method)"
+	},
+	"dsp.VectorQuantizerDecoder": {
+		"prefix": "dsp.VectorQuantizerDecoder",
+		"body": [
+			"dsp.VectorQuantizerDecoder"
+		],
+		"description": "dsp.VectorQuantizerDecoder (Matlab DSP method)"
+	},
+	"dsp.VectorQuantizerEncoder": {
+		"prefix": "dsp.VectorQuantizerEncoder",
+		"body": [
+			"dsp.VectorQuantizerEncoder"
+		],
+		"description": "dsp.VectorQuantizerEncoder (Matlab DSP method)"
+	},
+	"dsp.Window": {
+		"prefix": "dsp.Window",
+		"body": [
+			"dsp.Window"
+		],
+		"description": "dsp.Window (Matlab DSP method)"
+	},
+	"dsp.ZeroCrossingDetector": {
+		"prefix": "dsp.ZeroCrossingDetector",
+		"body": [
+			"dsp.ZeroCrossingDetector"
+		],
+		"description": "dsp.ZeroCrossingDetector (Matlab DSP method)"
+	},
+	"dsp_links": {
+		"prefix": "dsp_links",
+		"body": [
+			"dsp_links"
+		],
+		"description": "dsp_links (Matlab DSP method)"
+	},
+	"dsplib": {
+		"prefix": "dsplib",
+		"body": [
+			"dsplib"
+		],
+		"description": "dsplib (Matlab DSP method)"
+	},
+	"dspstartup": {
+		"prefix": "dspstartup",
+		"body": [
+			"dspstartup"
+		],
+		"description": "dspstartup (Matlab DSP method)"
+	},
+	"dspunfold": {
+		"prefix": "dspunfold",
+		"body": [
+			"dspunfold"
+		],
+		"description": "dspunfold (Matlab DSP method)"
+	},
+	"ellip": {
+		"prefix": "ellip",
+		"body": [
+			"ellip"
+		],
+		"description": "ellip (Matlab DSP method)"
+	},
+	"euclidfactors": {
+		"prefix": "euclidfactors",
+		"body": [
+			"euclidfactors"
+		],
+		"description": "euclidfactors (Matlab DSP method)"
+	},
+	"fcfwrite": {
+		"prefix": "fcfwrite",
+		"body": [
+			"fcfwrite"
+		],
+		"description": "fcfwrite (Matlab DSP method)"
+	},
+	"fdatool": {
+		"prefix": "fdatool",
+		"body": [
+			"fdatool"
+		],
+		"description": "fdatool (Matlab DSP method)"
+	},
+	"fdesign": {
+		"prefix": "fdesign",
+		"body": [
+			"fdesign"
+		],
+		"description": "fdesign (Matlab DSP method)"
+	},
+	"fdesign.arbgrpdelay": {
+		"prefix": "fdesign.arbgrpdelay",
+		"body": [
+			"fdesign.arbgrpdelay"
+		],
+		"description": "fdesign.arbgrpdelay (Matlab DSP method)"
+	},
+	"fdesign.arbmag": {
+		"prefix": "fdesign.arbmag",
+		"body": [
+			"fdesign.arbmag"
+		],
+		"description": "fdesign.arbmag (Matlab DSP method)"
+	},
+	"fdesign.arbmagnphase": {
+		"prefix": "fdesign.arbmagnphase",
+		"body": [
+			"fdesign.arbmagnphase"
+		],
+		"description": "fdesign.arbmagnphase (Matlab DSP method)"
+	},
+	"fdesign.audioweighting": {
+		"prefix": "fdesign.audioweighting",
+		"body": [
+			"fdesign.audioweighting"
+		],
+		"description": "fdesign.audioweighting (Matlab DSP method)"
+	},
+	"fdesign.bandpass": {
+		"prefix": "fdesign.bandpass",
+		"body": [
+			"fdesign.bandpass"
+		],
+		"description": "fdesign.bandpass (Matlab DSP method)"
+	},
+	"fdesign.bandstop": {
+		"prefix": "fdesign.bandstop",
+		"body": [
+			"fdesign.bandstop"
+		],
+		"description": "fdesign.bandstop (Matlab DSP method)"
+	},
+	"fdesign.ciccomp": {
+		"prefix": "fdesign.ciccomp",
+		"body": [
+			"fdesign.ciccomp"
+		],
+		"description": "fdesign.ciccomp (Matlab DSP method)"
+	},
+	"fdesign.comb": {
+		"prefix": "fdesign.comb",
+		"body": [
+			"fdesign.comb"
+		],
+		"description": "fdesign.comb (Matlab DSP method)"
+	},
+	"fdesign.decimator": {
+		"prefix": "fdesign.decimator",
+		"body": [
+			"fdesign.decimator"
+		],
+		"description": "fdesign.decimator (Matlab DSP method)"
+	},
+	"fdesign.differentiator": {
+		"prefix": "fdesign.differentiator",
+		"body": [
+			"fdesign.differentiator"
+		],
+		"description": "fdesign.differentiator (Matlab DSP method)"
+	},
+	"fdesign.fracdelay": {
+		"prefix": "fdesign.fracdelay",
+		"body": [
+			"fdesign.fracdelay"
+		],
+		"description": "fdesign.fracdelay (Matlab DSP method)"
+	},
+	"fdesign.halfband": {
+		"prefix": "fdesign.halfband",
+		"body": [
+			"fdesign.halfband"
+		],
+		"description": "fdesign.halfband (Matlab DSP method)"
+	},
+	"fdesign.highpass": {
+		"prefix": "fdesign.highpass",
+		"body": [
+			"fdesign.highpass"
+		],
+		"description": "fdesign.highpass (Matlab DSP method)"
+	},
+	"fdesign.hilbert": {
+		"prefix": "fdesign.hilbert",
+		"body": [
+			"fdesign.hilbert"
+		],
+		"description": "fdesign.hilbert (Matlab DSP method)"
+	},
+	"fdesign.interpolator": {
+		"prefix": "fdesign.interpolator",
+		"body": [
+			"fdesign.interpolator"
+		],
+		"description": "fdesign.interpolator (Matlab DSP method)"
+	},
+	"fdesign.isinchp": {
+		"prefix": "fdesign.isinchp",
+		"body": [
+			"fdesign.isinchp"
+		],
+		"description": "fdesign.isinchp (Matlab DSP method)"
+	},
+	"fdesign.isinclp": {
+		"prefix": "fdesign.isinclp",
+		"body": [
+			"fdesign.isinclp"
+		],
+		"description": "fdesign.isinclp (Matlab DSP method)"
+	},
+	"fdesign.lowpass": {
+		"prefix": "fdesign.lowpass",
+		"body": [
+			"fdesign.lowpass"
+		],
+		"description": "fdesign.lowpass (Matlab DSP method)"
+	},
+	"fdesign.notch": {
+		"prefix": "fdesign.notch",
+		"body": [
+			"fdesign.notch"
+		],
+		"description": "fdesign.notch (Matlab DSP method)"
+	},
+	"fdesign.nyquist": {
+		"prefix": "fdesign.nyquist",
+		"body": [
+			"fdesign.nyquist"
+		],
+		"description": "fdesign.nyquist (Matlab DSP method)"
+	},
+	"fdesign.octave": {
+		"prefix": "fdesign.octave",
+		"body": [
+			"fdesign.octave"
+		],
+		"description": "fdesign.octave (Matlab DSP method)"
+	},
+	"fdesign.parameq": {
+		"prefix": "fdesign.parameq",
+		"body": [
+			"fdesign.parameq"
+		],
+		"description": "fdesign.parameq (Matlab DSP method)"
+	},
+	"fdesign.peak": {
+		"prefix": "fdesign.peak",
+		"body": [
+			"fdesign.peak"
+		],
+		"description": "fdesign.peak (Matlab DSP method)"
+	},
+	"fdesign.polysrc": {
+		"prefix": "fdesign.polysrc",
+		"body": [
+			"fdesign.polysrc"
+		],
+		"description": "fdesign.polysrc (Matlab DSP method)"
+	},
+	"fdesign.pulseshaping": {
+		"prefix": "fdesign.pulseshaping",
+		"body": [
+			"fdesign.pulseshaping"
+		],
+		"description": "fdesign.pulseshaping (Matlab DSP method)"
+	},
+	"fdesign.rsrc": {
+		"prefix": "fdesign.rsrc",
+		"body": [
+			"fdesign.rsrc"
+		],
+		"description": "fdesign.rsrc (Matlab DSP method)"
+	},
+	"fftcoeffs": {
+		"prefix": "fftcoeffs",
+		"body": [
+			"fftcoeffs"
+		],
+		"description": "fftcoeffs (Matlab DSP method)"
+	},
+	"filterbuilder": {
+		"prefix": "filterbuilder",
+		"body": [
+			"filterbuilder"
+		],
+		"description": "filterbuilder (Matlab DSP method)"
+	},
+	"filtstates.cic": {
+		"prefix": "filtstates.cic",
+		"body": [
+			"filtstates.cic"
+		],
+		"description": "filtstates.cic (Matlab DSP method)"
+	},
+	"fircband": {
+		"prefix": "fircband",
+		"body": [
+			"fircband"
+		],
+		"description": "fircband (Matlab DSP method)"
+	},
+	"firceqrip": {
+		"prefix": "firceqrip",
+		"body": [
+			"firceqrip"
+		],
+		"description": "firceqrip (Matlab DSP method)"
+	},
+	"fircls": {
+		"prefix": "fircls",
+		"body": [
+			"fircls"
+		],
+		"description": "fircls (Matlab DSP method)"
+	},
+	"fireqint": {
+		"prefix": "fireqint",
+		"body": [
+			"fireqint"
+		],
+		"description": "fireqint (Matlab DSP method)"
+	},
+	"firgr": {
+		"prefix": "firgr",
+		"body": [
+			"firgr"
+		],
+		"description": "firgr (Matlab DSP method)"
+	},
+	"firhalfband": {
+		"prefix": "firhalfband",
+		"body": [
+			"firhalfband"
+		],
+		"description": "firhalfband (Matlab DSP method)"
+	},
+	"firlp2hp": {
+		"prefix": "firlp2hp",
+		"body": [
+			"firlp2hp"
+		],
+		"description": "firlp2hp (Matlab DSP method)"
+	},
+	"firlp2lp": {
+		"prefix": "firlp2lp",
+		"body": [
+			"firlp2lp"
+		],
+		"description": "firlp2lp (Matlab DSP method)"
+	},
+	"firlpnorm": {
+		"prefix": "firlpnorm",
+		"body": [
+			"firlpnorm"
+		],
+		"description": "firlpnorm (Matlab DSP method)"
+	},
+	"firls": {
+		"prefix": "firls",
+		"body": [
+			"firls"
+		],
+		"description": "firls (Matlab DSP method)"
+	},
+	"firminphase": {
+		"prefix": "firminphase",
+		"body": [
+			"firminphase"
+		],
+		"description": "firminphase (Matlab DSP method)"
+	},
+	"firnyquist": {
+		"prefix": "firnyquist",
+		"body": [
+			"firnyquist"
+		],
+		"description": "firnyquist (Matlab DSP method)"
+	},
+	"firpr2chfb": {
+		"prefix": "firpr2chfb",
+		"body": [
+			"firpr2chfb"
+		],
+		"description": "firpr2chfb (Matlab DSP method)"
+	},
+	"firtype": {
+		"prefix": "firtype",
+		"body": [
+			"firtype"
+		],
+		"description": "firtype (Matlab DSP method)"
+	},
+	"freqrespest": {
+		"prefix": "freqrespest",
+		"body": [
+			"freqrespest"
+		],
+		"description": "freqrespest (Matlab DSP method)"
+	},
+	"freqrespopts": {
+		"prefix": "freqrespopts",
+		"body": [
+			"freqrespopts"
+		],
+		"description": "freqrespopts (Matlab DSP method)"
+	},
+	"freqsamp": {
+		"prefix": "freqsamp",
+		"body": [
+			"freqsamp"
+		],
+		"description": "freqsamp (Matlab DSP method)"
+	},
+	"freqz": {
+		"prefix": "freqz",
+		"body": [
+			"freqz"
+		],
+		"description": "freqz (Matlab DSP method)"
+	},
+	"fvtool": {
+		"prefix": "fvtool",
+		"body": [
+			"fvtool"
+		],
+		"description": "fvtool (Matlab DSP method)"
+	},
+	"gain": {
+		"prefix": "gain",
+		"body": [
+			"gain"
+		],
+		"description": "gain (Matlab DSP method)"
+	},
+	"grpdelay": {
+		"prefix": "grpdelay",
+		"body": [
+			"grpdelay"
+		],
+		"description": "grpdelay (Matlab DSP method)"
+	},
+	"ifir": {
+		"prefix": "ifir",
+		"body": [
+			"ifir"
+		],
+		"description": "ifir (Matlab DSP method)"
+	},
+	"iirbpc2bpc": {
+		"prefix": "iirbpc2bpc",
+		"body": [
+			"iirbpc2bpc"
+		],
+		"description": "iirbpc2bpc (Matlab DSP method)"
+	},
+	"iircomb": {
+		"prefix": "iircomb",
+		"body": [
+			"iircomb"
+		],
+		"description": "iircomb (Matlab DSP method)"
+	},
+	"iirftransf": {
+		"prefix": "iirftransf",
+		"body": [
+			"iirftransf"
+		],
+		"description": "iirftransf (Matlab DSP method)"
+	},
+	"iirgrpdelay": {
+		"prefix": "iirgrpdelay",
+		"body": [
+			"iirgrpdelay"
+		],
+		"description": "iirgrpdelay (Matlab DSP method)"
+	},
+	"iirlinphase": {
+		"prefix": "iirlinphase",
+		"body": [
+			"iirlinphase"
+		],
+		"description": "iirlinphase (Matlab DSP method)"
+	},
+	"iirlp2bp": {
+		"prefix": "iirlp2bp",
+		"body": [
+			"iirlp2bp"
+		],
+		"description": "iirlp2bp (Matlab DSP method)"
+	},
+	"iirlp2bpc": {
+		"prefix": "iirlp2bpc",
+		"body": [
+			"iirlp2bpc"
+		],
+		"description": "iirlp2bpc (Matlab DSP method)"
+	},
+	"iirlp2bs": {
+		"prefix": "iirlp2bs",
+		"body": [
+			"iirlp2bs"
+		],
+		"description": "iirlp2bs (Matlab DSP method)"
+	},
+	"iirlp2bsc": {
+		"prefix": "iirlp2bsc",
+		"body": [
+			"iirlp2bsc"
+		],
+		"description": "iirlp2bsc (Matlab DSP method)"
+	},
+	"iirlp2hp": {
+		"prefix": "iirlp2hp",
+		"body": [
+			"iirlp2hp"
+		],
+		"description": "iirlp2hp (Matlab DSP method)"
+	},
+	"iirlp2lp": {
+		"prefix": "iirlp2lp",
+		"body": [
+			"iirlp2lp"
+		],
+		"description": "iirlp2lp (Matlab DSP method)"
+	},
+	"iirlp2mb": {
+		"prefix": "iirlp2mb",
+		"body": [
+			"iirlp2mb"
+		],
+		"description": "iirlp2mb (Matlab DSP method)"
+	},
+	"iirlp2mbc": {
+		"prefix": "iirlp2mbc",
+		"body": [
+			"iirlp2mbc"
+		],
+		"description": "iirlp2mbc (Matlab DSP method)"
+	},
+	"iirlp2xc": {
+		"prefix": "iirlp2xc",
+		"body": [
+			"iirlp2xc"
+		],
+		"description": "iirlp2xc (Matlab DSP method)"
+	},
+	"iirlp2xn": {
+		"prefix": "iirlp2xn",
+		"body": [
+			"iirlp2xn"
+		],
+		"description": "iirlp2xn (Matlab DSP method)"
+	},
+	"iirlpnorm": {
+		"prefix": "iirlpnorm",
+		"body": [
+			"iirlpnorm"
+		],
+		"description": "iirlpnorm (Matlab DSP method)"
+	},
+	"iirlpnormc": {
+		"prefix": "iirlpnormc",
+		"body": [
+			"iirlpnormc"
+		],
+		"description": "iirlpnormc (Matlab DSP method)"
+	},
+	"iirls": {
+		"prefix": "iirls",
+		"body": [
+			"iirls"
+		],
+		"description": "iirls (Matlab DSP method)"
+	},
+	"iirnotch": {
+		"prefix": "iirnotch",
+		"body": [
+			"iirnotch"
+		],
+		"description": "iirnotch (Matlab DSP method)"
+	},
+	"iirparameq": {
+		"prefix": "iirparameq",
+		"body": [
+			"iirparameq"
+		],
+		"description": "iirparameq (Matlab DSP method)"
+	},
+	"iirpeak": {
+		"prefix": "iirpeak",
+		"body": [
+			"iirpeak"
+		],
+		"description": "iirpeak (Matlab DSP method)"
+	},
+	"iirpowcomp": {
+		"prefix": "iirpowcomp",
+		"body": [
+			"iirpowcomp"
+		],
+		"description": "iirpowcomp (Matlab DSP method)"
+	},
+	"iirrateup": {
+		"prefix": "iirrateup",
+		"body": [
+			"iirrateup"
+		],
+		"description": "iirrateup (Matlab DSP method)"
+	},
+	"iirshift": {
+		"prefix": "iirshift",
+		"body": [
+			"iirshift"
+		],
+		"description": "iirshift (Matlab DSP method)"
+	},
+	"iirshiftc": {
+		"prefix": "iirshiftc",
+		"body": [
+			"iirshiftc"
+		],
+		"description": "iirshiftc (Matlab DSP method)"
+	},
+	"impz": {
+		"prefix": "impz",
+		"body": [
+			"impz"
+		],
+		"description": "impz (Matlab DSP method)"
+	},
+	"int": {
+		"prefix": "int",
+		"body": [
+			"int"
+		],
+		"description": "int (Matlab DSP method)"
+	},
+	"isallpass": {
+		"prefix": "isallpass",
+		"body": [
+			"isallpass"
+		],
+		"description": "isallpass (Matlab DSP method)"
+	},
+	"isfir": {
+		"prefix": "isfir",
+		"body": [
+			"isfir"
+		],
+		"description": "isfir (Matlab DSP method)"
+	},
+	"islinphase": {
+		"prefix": "islinphase",
+		"body": [
+			"islinphase"
+		],
+		"description": "islinphase (Matlab DSP method)"
+	},
+	"ismaxphase": {
+		"prefix": "ismaxphase",
+		"body": [
+			"ismaxphase"
+		],
+		"description": "ismaxphase (Matlab DSP method)"
+	},
+	"isminphase": {
+		"prefix": "isminphase",
+		"body": [
+			"isminphase"
+		],
+		"description": "isminphase (Matlab DSP method)"
+	},
+	"issos": {
+		"prefix": "issos",
+		"body": [
+			"issos"
+		],
+		"description": "issos (Matlab DSP method)"
+	},
+	"liblinks": {
+		"prefix": "liblinks",
+		"body": [
+			"liblinks"
+		],
+		"description": "liblinks (Matlab DSP method)"
+	},
+	"limitcycle": {
+		"prefix": "limitcycle",
+		"body": [
+			"limitcycle"
+		],
+		"description": "limitcycle (Matlab DSP method)"
+	},
+	"maxflat": {
+		"prefix": "maxflat",
+		"body": [
+			"maxflat"
+		],
+		"description": "maxflat (Matlab DSP method)"
+	},
+	"maximizestopband": {
+		"prefix": "maximizestopband",
+		"body": [
+			"maximizestopband"
+		],
+		"description": "maximizestopband (Matlab DSP method)"
+	},
+	"maxstep": {
+		"prefix": "maxstep",
+		"body": [
+			"maxstep"
+		],
+		"description": "maxstep (Matlab DSP method)"
+	},
+	"measure": {
+		"prefix": "measure",
+		"body": [
+			"measure"
+		],
+		"description": "measure (Matlab DSP method)"
+	},
+	"mfilt": {
+		"prefix": "mfilt",
+		"body": [
+			"mfilt"
+		],
+		"description": "mfilt (Matlab DSP method)"
+	},
+	"mfilt.cascade": {
+		"prefix": "mfilt.cascade",
+		"body": [
+			"mfilt.cascade"
+		],
+		"description": "mfilt.cascade (Matlab DSP method)"
+	},
+	"mfilt.cicdecim": {
+		"prefix": "mfilt.cicdecim",
+		"body": [
+			"mfilt.cicdecim"
+		],
+		"description": "mfilt.cicdecim (Matlab DSP method)"
+	},
+	"mfilt.cicinterp": {
+		"prefix": "mfilt.cicinterp",
+		"body": [
+			"mfilt.cicinterp"
+		],
+		"description": "mfilt.cicinterp (Matlab DSP method)"
+	},
+	"mfilt.farrowsrc": {
+		"prefix": "mfilt.farrowsrc",
+		"body": [
+			"mfilt.farrowsrc"
+		],
+		"description": "mfilt.farrowsrc (Matlab DSP method)"
+	},
+	"mfilt.fftfirinterp": {
+		"prefix": "mfilt.fftfirinterp",
+		"body": [
+			"mfilt.fftfirinterp"
+		],
+		"description": "mfilt.fftfirinterp (Matlab DSP method)"
+	},
+	"mfilt.firdecim": {
+		"prefix": "mfilt.firdecim",
+		"body": [
+			"mfilt.firdecim"
+		],
+		"description": "mfilt.firdecim (Matlab DSP method)"
+	},
+	"mfilt.firfracdecim": {
+		"prefix": "mfilt.firfracdecim",
+		"body": [
+			"mfilt.firfracdecim"
+		],
+		"description": "mfilt.firfracdecim (Matlab DSP method)"
+	},
+	"mfilt.firfracinterp": {
+		"prefix": "mfilt.firfracinterp",
+		"body": [
+			"mfilt.firfracinterp"
+		],
+		"description": "mfilt.firfracinterp (Matlab DSP method)"
+	},
+	"mfilt.firinterp": {
+		"prefix": "mfilt.firinterp",
+		"body": [
+			"mfilt.firinterp"
+		],
+		"description": "mfilt.firinterp (Matlab DSP method)"
+	},
+	"mfilt.firsrc": {
+		"prefix": "mfilt.firsrc",
+		"body": [
+			"mfilt.firsrc"
+		],
+		"description": "mfilt.firsrc (Matlab DSP method)"
+	},
+	"mfilt.firtdecim": {
+		"prefix": "mfilt.firtdecim",
+		"body": [
+			"mfilt.firtdecim"
+		],
+		"description": "mfilt.firtdecim (Matlab DSP method)"
+	},
+	"mfilt.holdinterp": {
+		"prefix": "mfilt.holdinterp",
+		"body": [
+			"mfilt.holdinterp"
+		],
+		"description": "mfilt.holdinterp (Matlab DSP method)"
+	},
+	"mfilt.iirdecim": {
+		"prefix": "mfilt.iirdecim",
+		"body": [
+			"mfilt.iirdecim"
+		],
+		"description": "mfilt.iirdecim (Matlab DSP method)"
+	},
+	"mfilt.iirinterp": {
+		"prefix": "mfilt.iirinterp",
+		"body": [
+			"mfilt.iirinterp"
+		],
+		"description": "mfilt.iirinterp (Matlab DSP method)"
+	},
+	"mfilt.iirwdfdecim": {
+		"prefix": "mfilt.iirwdfdecim",
+		"body": [
+			"mfilt.iirwdfdecim"
+		],
+		"description": "mfilt.iirwdfdecim (Matlab DSP method)"
+	},
+	"mfilt.iirwdfinterp": {
+		"prefix": "mfilt.iirwdfinterp",
+		"body": [
+			"mfilt.iirwdfinterp"
+		],
+		"description": "mfilt.iirwdfinterp (Matlab DSP method)"
+	},
+	"mfilt.linearinterp": {
+		"prefix": "mfilt.linearinterp",
+		"body": [
+			"mfilt.linearinterp"
+		],
+		"description": "mfilt.linearinterp (Matlab DSP method)"
+	},
+	"midicallback": {
+		"prefix": "midicallback",
+		"body": [
+			"midicallback"
+		],
+		"description": "midicallback (Matlab DSP method)"
+	},
+	"midicontrols": {
+		"prefix": "midicontrols",
+		"body": [
+			"midicontrols"
+		],
+		"description": "midicontrols (Matlab DSP method)"
+	},
+	"midiid": {
+		"prefix": "midiid",
+		"body": [
+			"midiid"
+		],
+		"description": "midiid (Matlab DSP method)"
+	},
+	"midiread": {
+		"prefix": "midiread",
+		"body": [
+			"midiread"
+		],
+		"description": "midiread (Matlab DSP method)"
+	},
+	"midisync": {
+		"prefix": "midisync",
+		"body": [
+			"midisync"
+		],
+		"description": "midisync (Matlab DSP method)"
+	},
+	"minimizecoeffwl": {
+		"prefix": "minimizecoeffwl",
+		"body": [
+			"minimizecoeffwl"
+		],
+		"description": "minimizecoeffwl (Matlab DSP method)"
+	},
+	"msepred": {
+		"prefix": "msepred",
+		"body": [
+			"msepred"
+		],
+		"description": "msepred (Matlab DSP method)"
+	},
+	"msesim": {
+		"prefix": "msesim",
+		"body": [
+			"msesim"
+		],
+		"description": "msesim (Matlab DSP method)"
+	},
+	"multistage": {
+		"prefix": "multistage",
+		"body": [
+			"multistage"
+		],
+		"description": "multistage (Matlab DSP method)"
+	},
+	"noisepsd": {
+		"prefix": "noisepsd",
+		"body": [
+			"noisepsd"
+		],
+		"description": "noisepsd (Matlab DSP method)"
+	},
+	"noisepsdopts": {
+		"prefix": "noisepsdopts",
+		"body": [
+			"noisepsdopts"
+		],
+		"description": "noisepsdopts (Matlab DSP method)"
+	},
+	"normalize": {
+		"prefix": "normalize",
+		"body": [
+			"normalize"
+		],
+		"description": "normalize (Matlab DSP method)"
+	},
+	"normalizefreq": {
+		"prefix": "normalizefreq",
+		"body": [
+			"normalizefreq"
+		],
+		"description": "normalizefreq (Matlab DSP method)"
+	},
+	"nstates": {
+		"prefix": "nstates",
+		"body": [
+			"nstates"
+		],
+		"description": "nstates (Matlab DSP method)"
+	},
+	"phasedelay": {
+		"prefix": "phasedelay",
+		"body": [
+			"phasedelay"
+		],
+		"description": "phasedelay (Matlab DSP method)"
+	},
+	"phasez": {
+		"prefix": "phasez",
+		"body": [
+			"phasez"
+		],
+		"description": "phasez (Matlab DSP method)"
+	},
+	"polyphase": {
+		"prefix": "polyphase",
+		"body": [
+			"polyphase"
+		],
+		"description": "polyphase (Matlab DSP method)"
+	},
+	"qreport": {
+		"prefix": "qreport",
+		"body": [
+			"qreport"
+		],
+		"description": "qreport (Matlab DSP method)"
+	},
+	"realizemdl": {
+		"prefix": "realizemdl",
+		"body": [
+			"realizemdl"
+		],
+		"description": "realizemdl (Matlab DSP method)"
+	},
+	"rebuffer_delay": {
+		"prefix": "rebuffer_delay",
+		"body": [
+			"rebuffer_delay"
+		],
+		"description": "rebuffer_delay (Matlab DSP method)"
+	},
+	"reffilter": {
+		"prefix": "reffilter",
+		"body": [
+			"reffilter"
+		],
+		"description": "reffilter (Matlab DSP method)"
+	},
+	"reorder": {
+		"prefix": "reorder",
+		"body": [
+			"reorder"
+		],
+		"description": "reorder (Matlab DSP method)"
+	},
+	"scale": {
+		"prefix": "scale",
+		"body": [
+			"scale"
+		],
+		"description": "scale (Matlab DSP method)"
+	},
+	"scalecheck": {
+		"prefix": "scalecheck",
+		"body": [
+			"scalecheck"
+		],
+		"description": "scalecheck (Matlab DSP method)"
+	},
+	"scaleopts": {
+		"prefix": "scaleopts",
+		"body": [
+			"scaleopts"
+		],
+		"description": "scaleopts (Matlab DSP method)"
+	},
+	"set2int": {
+		"prefix": "set2int",
+		"body": [
+			"set2int"
+		],
+		"description": "set2int (Matlab DSP method)"
+	},
+	"setspecs": {
+		"prefix": "setspecs",
+		"body": [
+			"setspecs"
+		],
+		"description": "setspecs (Matlab DSP method)"
+	},
+	"sos": {
+		"prefix": "sos",
+		"body": [
+			"sos"
+		],
+		"description": "sos (Matlab DSP method)"
+	},
+	"spbscopes.SpectrumAnalyzerConfiguration": {
+		"prefix": "spbscopes.SpectrumAnalyzerConfiguration",
+		"body": [
+			"spbscopes.SpectrumAnalyzerConfiguration"
+		],
+		"description": "spbscopes.SpectrumAnalyzerConfiguration (Matlab DSP method)"
+	},
+	"specifyall": {
+		"prefix": "specifyall",
+		"body": [
+			"specifyall"
+		],
+		"description": "specifyall (Matlab DSP method)"
+	},
+	"stepz": {
+		"prefix": "stepz",
+		"body": [
+			"stepz"
+		],
+		"description": "stepz (Matlab DSP method)"
+	},
+	"sysobj": {
+		"prefix": "sysobj",
+		"body": [
+			"sysobj"
+		],
+		"description": "sysobj (Matlab DSP method)"
+	},
+	"tf2ca": {
+		"prefix": "tf2ca",
+		"body": [
+			"tf2ca"
+		],
+		"description": "tf2ca (Matlab DSP method)"
+	},
+	"tf2cl": {
+		"prefix": "tf2cl",
+		"body": [
+			"tf2cl"
+		],
+		"description": "tf2cl (Matlab DSP method)"
+	},
+	"validstructures": {
+		"prefix": "validstructures",
+		"body": [
+			"validstructures"
+		],
+		"description": "validstructures (Matlab DSP method)"
+	},
+	"wdf2allpass": {
+		"prefix": "wdf2allpass",
+		"body": [
+			"wdf2allpass"
+		],
+		"description": "wdf2allpass (Matlab DSP method)"
+	},
+	"window": {
+		"prefix": "window",
+		"body": [
+			"window"
+		],
+		"description": "window (Matlab DSP method)"
+	},
+	"zerophase": {
+		"prefix": "zerophase",
+		"body": [
+			"zerophase"
+		],
+		"description": "zerophase (Matlab DSP method)"
+	},
+	"zpkbpc2bpc": {
+		"prefix": "zpkbpc2bpc",
+		"body": [
+			"zpkbpc2bpc"
+		],
+		"description": "zpkbpc2bpc (Matlab DSP method)"
+	},
+	"zpkftransf": {
+		"prefix": "zpkftransf",
+		"body": [
+			"zpkftransf"
+		],
+		"description": "zpkftransf (Matlab DSP method)"
+	},
+	"zpklp2bp": {
+		"prefix": "zpklp2bp",
+		"body": [
+			"zpklp2bp"
+		],
+		"description": "zpklp2bp (Matlab DSP method)"
+	},
+	"zpklp2bpc": {
+		"prefix": "zpklp2bpc",
+		"body": [
+			"zpklp2bpc"
+		],
+		"description": "zpklp2bpc (Matlab DSP method)"
+	},
+	"zpklp2bs": {
+		"prefix": "zpklp2bs",
+		"body": [
+			"zpklp2bs"
+		],
+		"description": "zpklp2bs (Matlab DSP method)"
+	},
+	"zpklp2bsc": {
+		"prefix": "zpklp2bsc",
+		"body": [
+			"zpklp2bsc"
+		],
+		"description": "zpklp2bsc (Matlab DSP method)"
+	},
+	"zpklp2hp": {
+		"prefix": "zpklp2hp",
+		"body": [
+			"zpklp2hp"
+		],
+		"description": "zpklp2hp (Matlab DSP method)"
+	},
+	"zpklp2lp": {
+		"prefix": "zpklp2lp",
+		"body": [
+			"zpklp2lp"
+		],
+		"description": "zpklp2lp (Matlab DSP method)"
+	},
+	"zpklp2mb": {
+		"prefix": "zpklp2mb",
+		"body": [
+			"zpklp2mb"
+		],
+		"description": "zpklp2mb (Matlab DSP method)"
+	},
+	"zpklp2mbc": {
+		"prefix": "zpklp2mbc",
+		"body": [
+			"zpklp2mbc"
+		],
+		"description": "zpklp2mbc (Matlab DSP method)"
+	},
+	"zpklp2xc": {
+		"prefix": "zpklp2xc",
+		"body": [
+			"zpklp2xc"
+		],
+		"description": "zpklp2xc (Matlab DSP method)"
+	},
+	"zpklp2xn": {
+		"prefix": "zpklp2xn",
+		"body": [
+			"zpklp2xn"
+		],
+		"description": "zpklp2xn (Matlab DSP method)"
+	},
+	"zpkrateup": {
+		"prefix": "zpkrateup",
+		"body": [
+			"zpkrateup"
+		],
+		"description": "zpkrateup (Matlab DSP method)"
+	},
+	"zpkshift": {
+		"prefix": "zpkshift",
+		"body": [
+			"zpkshift"
+		],
+		"description": "zpkshift (Matlab DSP method)"
+	},
+	"zpkshiftc": {
+		"prefix": "zpkshiftc",
+		"body": [
+			"zpkshiftc"
+		],
+		"description": "zpkshiftc (Matlab DSP method)"
+	},
+	"zplane": {
+		"prefix": "zplane",
+		"body": [
+			"zplane"
+		],
+		"description": "zplane (Matlab DSP method)"
+	}
+}

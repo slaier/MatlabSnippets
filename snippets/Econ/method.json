@@ -1,0 +1,527 @@
+{
+	"LagOp": {
+		"prefix": "LagOp",
+		"body": [
+			"LagOp"
+		],
+		"description": "LagOp (Matlab Econ method)"
+	},
+	"LagOp.isEqLagOp": {
+		"prefix": "LagOp.isEqLagOp",
+		"body": [
+			"LagOp.isEqLagOp"
+		],
+		"description": "LagOp.isEqLagOp (Matlab Econ method)"
+	},
+	"LagOp.isNonZero": {
+		"prefix": "LagOp.isNonZero",
+		"body": [
+			"LagOp.isNonZero"
+		],
+		"description": "LagOp.isNonZero (Matlab Econ method)"
+	},
+	"LagOp.minus": {
+		"prefix": "LagOp.minus",
+		"body": [
+			"LagOp.minus"
+		],
+		"description": "LagOp.minus (Matlab Econ method)"
+	},
+	"LagOp.mldivide": {
+		"prefix": "LagOp.mldivide",
+		"body": [
+			"LagOp.mldivide"
+		],
+		"description": "LagOp.mldivide (Matlab Econ method)"
+	},
+	"LagOp.mrdivide": {
+		"prefix": "LagOp.mrdivide",
+		"body": [
+			"LagOp.mrdivide"
+		],
+		"description": "LagOp.mrdivide (Matlab Econ method)"
+	},
+	"LagOp.mtimes": {
+		"prefix": "LagOp.mtimes",
+		"body": [
+			"LagOp.mtimes"
+		],
+		"description": "LagOp.mtimes (Matlab Econ method)"
+	},
+	"LagOp.plus": {
+		"prefix": "LagOp.plus",
+		"body": [
+			"LagOp.plus"
+		],
+		"description": "LagOp.plus (Matlab Econ method)"
+	},
+	"LagOp.toCellArray": {
+		"prefix": "LagOp.toCellArray",
+		"body": [
+			"LagOp.toCellArray"
+		],
+		"description": "LagOp.toCellArray (Matlab Econ method)"
+	},
+	"adftest": {
+		"prefix": "adftest",
+		"body": [
+			"adftest"
+		],
+		"description": "adftest (Matlab Econ method)"
+	},
+	"aicbic": {
+		"prefix": "aicbic",
+		"body": [
+			"aicbic"
+		],
+		"description": "aicbic (Matlab Econ method)"
+	},
+	"archtest": {
+		"prefix": "archtest",
+		"body": [
+			"archtest"
+		],
+		"description": "archtest (Matlab Econ method)"
+	},
+	"arima": {
+		"prefix": "arima",
+		"body": [
+			"arima"
+		],
+		"description": "arima (Matlab Econ method)"
+	},
+	"arma2ar": {
+		"prefix": "arma2ar",
+		"body": [
+			"arma2ar"
+		],
+		"description": "arma2ar (Matlab Econ method)"
+	},
+	"arma2ma": {
+		"prefix": "arma2ma",
+		"body": [
+			"arma2ma"
+		],
+		"description": "arma2ma (Matlab Econ method)"
+	},
+	"armairf": {
+		"prefix": "armairf",
+		"body": [
+			"armairf"
+		],
+		"description": "armairf (Matlab Econ method)"
+	},
+	"autocorr": {
+		"prefix": "autocorr",
+		"body": [
+			"autocorr"
+		],
+		"description": "autocorr (Matlab Econ method)"
+	},
+	"chowtest": {
+		"prefix": "chowtest",
+		"body": [
+			"chowtest"
+		],
+		"description": "chowtest (Matlab Econ method)"
+	},
+	"collintest": {
+		"prefix": "collintest",
+		"body": [
+			"collintest"
+		],
+		"description": "collintest (Matlab Econ method)"
+	},
+	"corrplot": {
+		"prefix": "corrplot",
+		"body": [
+			"corrplot"
+		],
+		"description": "corrplot (Matlab Econ method)"
+	},
+	"crosscorr": {
+		"prefix": "crosscorr",
+		"body": [
+			"crosscorr"
+		],
+		"description": "crosscorr (Matlab Econ method)"
+	},
+	"dssm": {
+		"prefix": "dssm",
+		"body": [
+			"dssm"
+		],
+		"description": "dssm (Matlab Econ method)"
+	},
+	"egarch": {
+		"prefix": "egarch",
+		"body": [
+			"egarch"
+		],
+		"description": "egarch (Matlab Econ method)"
+	},
+	"egcitest": {
+		"prefix": "egcitest",
+		"body": [
+			"egcitest"
+		],
+		"description": "egcitest (Matlab Econ method)"
+	},
+	"estimate": {
+		"prefix": "estimate",
+		"body": [
+			"estimate"
+		],
+		"description": "estimate (Matlab Econ method)"
+	},
+	"fgls": {
+		"prefix": "fgls",
+		"body": [
+			"fgls"
+		],
+		"description": "fgls (Matlab Econ method)"
+	},
+	"forecast": {
+		"prefix": "forecast",
+		"body": [
+			"forecast"
+		],
+		"description": "forecast (Matlab Econ method)"
+	},
+	"garch": {
+		"prefix": "garch",
+		"body": [
+			"garch"
+		],
+		"description": "garch (Matlab Econ method)"
+	},
+	"garchar": {
+		"prefix": "garchar",
+		"body": [
+			"garchar"
+		],
+		"description": "garchar (Matlab Econ method)"
+	},
+	"garchma": {
+		"prefix": "garchma",
+		"body": [
+			"garchma"
+		],
+		"description": "garchma (Matlab Econ method)"
+	},
+	"gjr": {
+		"prefix": "gjr",
+		"body": [
+			"gjr"
+		],
+		"description": "gjr (Matlab Econ method)"
+	},
+	"hac": {
+		"prefix": "hac",
+		"body": [
+			"hac"
+		],
+		"description": "hac (Matlab Econ method)"
+	},
+	"hpfilter": {
+		"prefix": "hpfilter",
+		"body": [
+			"hpfilter"
+		],
+		"description": "hpfilter (Matlab Econ method)"
+	},
+	"i10test": {
+		"prefix": "i10test",
+		"body": [
+			"i10test"
+		],
+		"description": "i10test (Matlab Econ method)"
+	},
+	"infer": {
+		"prefix": "infer",
+		"body": [
+			"infer"
+		],
+		"description": "infer (Matlab Econ method)"
+	},
+	"isStable": {
+		"prefix": "isStable",
+		"body": [
+			"isStable"
+		],
+		"description": "isStable (Matlab Econ method)"
+	},
+	"jcitest": {
+		"prefix": "jcitest",
+		"body": [
+			"jcitest"
+		],
+		"description": "jcitest (Matlab Econ method)"
+	},
+	"jcontest": {
+		"prefix": "jcontest",
+		"body": [
+			"jcontest"
+		],
+		"description": "jcontest (Matlab Econ method)"
+	},
+	"kpsstest": {
+		"prefix": "kpsstest",
+		"body": [
+			"kpsstest"
+		],
+		"description": "kpsstest (Matlab Econ method)"
+	},
+	"lagmatrix": {
+		"prefix": "lagmatrix",
+		"body": [
+			"lagmatrix"
+		],
+		"description": "lagmatrix (Matlab Econ method)"
+	},
+	"lbqtest": {
+		"prefix": "lbqtest",
+		"body": [
+			"lbqtest"
+		],
+		"description": "lbqtest (Matlab Econ method)"
+	},
+	"lmctest": {
+		"prefix": "lmctest",
+		"body": [
+			"lmctest"
+		],
+		"description": "lmctest (Matlab Econ method)"
+	},
+	"lmtest": {
+		"prefix": "lmtest",
+		"body": [
+			"lmtest"
+		],
+		"description": "lmtest (Matlab Econ method)"
+	},
+	"lratiotest": {
+		"prefix": "lratiotest",
+		"body": [
+			"lratiotest"
+		],
+		"description": "lratiotest (Matlab Econ method)"
+	},
+	"parcorr": {
+		"prefix": "parcorr",
+		"body": [
+			"parcorr"
+		],
+		"description": "parcorr (Matlab Econ method)"
+	},
+	"pptest": {
+		"prefix": "pptest",
+		"body": [
+			"pptest"
+		],
+		"description": "pptest (Matlab Econ method)"
+	},
+	"price2ret": {
+		"prefix": "price2ret",
+		"body": [
+			"price2ret"
+		],
+		"description": "price2ret (Matlab Econ method)"
+	},
+	"recessionplot": {
+		"prefix": "recessionplot",
+		"body": [
+			"recessionplot"
+		],
+		"description": "recessionplot (Matlab Econ method)"
+	},
+	"refine": {
+		"prefix": "refine",
+		"body": [
+			"refine"
+		],
+		"description": "refine (Matlab Econ method)"
+	},
+	"reflect": {
+		"prefix": "reflect",
+		"body": [
+			"reflect"
+		],
+		"description": "reflect (Matlab Econ method)"
+	},
+	"regARIMA": {
+		"prefix": "regARIMA",
+		"body": [
+			"regARIMA"
+		],
+		"description": "regARIMA (Matlab Econ method)"
+	},
+	"ret2price": {
+		"prefix": "ret2price",
+		"body": [
+			"ret2price"
+		],
+		"description": "ret2price (Matlab Econ method)"
+	},
+	"simsmooth": {
+		"prefix": "simsmooth",
+		"body": [
+			"simsmooth"
+		],
+		"description": "simsmooth (Matlab Econ method)"
+	},
+	"simulate": {
+		"prefix": "simulate",
+		"body": [
+			"simulate"
+		],
+		"description": "simulate (Matlab Econ method)"
+	},
+	"ssm": {
+		"prefix": "ssm",
+		"body": [
+			"ssm"
+		],
+		"description": "ssm (Matlab Econ method)"
+	},
+	"var2vec": {
+		"prefix": "var2vec",
+		"body": [
+			"var2vec"
+		],
+		"description": "var2vec (Matlab Econ method)"
+	},
+	"vartovec": {
+		"prefix": "vartovec",
+		"body": [
+			"vartovec"
+		],
+		"description": "vartovec (Matlab Econ method)"
+	},
+	"vec2var": {
+		"prefix": "vec2var",
+		"body": [
+			"vec2var"
+		],
+		"description": "vec2var (Matlab Econ method)"
+	},
+	"vectovar": {
+		"prefix": "vectovar",
+		"body": [
+			"vectovar"
+		],
+		"description": "vectovar (Matlab Econ method)"
+	},
+	"vgxar": {
+		"prefix": "vgxar",
+		"body": [
+			"vgxar"
+		],
+		"description": "vgxar (Matlab Econ method)"
+	},
+	"vgxcount": {
+		"prefix": "vgxcount",
+		"body": [
+			"vgxcount"
+		],
+		"description": "vgxcount (Matlab Econ method)"
+	},
+	"vgxdisp": {
+		"prefix": "vgxdisp",
+		"body": [
+			"vgxdisp"
+		],
+		"description": "vgxdisp (Matlab Econ method)"
+	},
+	"vgxget": {
+		"prefix": "vgxget",
+		"body": [
+			"vgxget"
+		],
+		"description": "vgxget (Matlab Econ method)"
+	},
+	"vgxinfer": {
+		"prefix": "vgxinfer",
+		"body": [
+			"vgxinfer"
+		],
+		"description": "vgxinfer (Matlab Econ method)"
+	},
+	"vgxloglik": {
+		"prefix": "vgxloglik",
+		"body": [
+			"vgxloglik"
+		],
+		"description": "vgxloglik (Matlab Econ method)"
+	},
+	"vgxma": {
+		"prefix": "vgxma",
+		"body": [
+			"vgxma"
+		],
+		"description": "vgxma (Matlab Econ method)"
+	},
+	"vgxplot": {
+		"prefix": "vgxplot",
+		"body": [
+			"vgxplot"
+		],
+		"description": "vgxplot (Matlab Econ method)"
+	},
+	"vgxpred": {
+		"prefix": "vgxpred",
+		"body": [
+			"vgxpred"
+		],
+		"description": "vgxpred (Matlab Econ method)"
+	},
+	"vgxproc": {
+		"prefix": "vgxproc",
+		"body": [
+			"vgxproc"
+		],
+		"description": "vgxproc (Matlab Econ method)"
+	},
+	"vgxqual": {
+		"prefix": "vgxqual",
+		"body": [
+			"vgxqual"
+		],
+		"description": "vgxqual (Matlab Econ method)"
+	},
+	"vgxset": {
+		"prefix": "vgxset",
+		"body": [
+			"vgxset"
+		],
+		"description": "vgxset (Matlab Econ method)"
+	},
+	"vgxsim": {
+		"prefix": "vgxsim",
+		"body": [
+			"vgxsim"
+		],
+		"description": "vgxsim (Matlab Econ method)"
+	},
+	"vgxvarx": {
+		"prefix": "vgxvarx",
+		"body": [
+			"vgxvarx"
+		],
+		"description": "vgxvarx (Matlab Econ method)"
+	},
+	"vratiotest": {
+		"prefix": "vratiotest",
+		"body": [
+			"vratiotest"
+		],
+		"description": "vratiotest (Matlab Econ method)"
+	},
+	"waldtest": {
+		"prefix": "waldtest",
+		"body": [
+			"waldtest"
+		],
+		"description": "waldtest (Matlab Econ method)"
+	}
+}

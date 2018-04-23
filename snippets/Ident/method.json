@@ -1,0 +1,1024 @@
+{
+	"TrendInfo": {
+		"prefix": "TrendInfo",
+		"body": [
+			"TrendInfo"
+		],
+		"description": "TrendInfo (Matlab Ident method)"
+	},
+	"addreg": {
+		"prefix": "addreg",
+		"body": [
+			"addreg"
+		],
+		"description": "addreg (Matlab Ident method)"
+	},
+	"advice": {
+		"prefix": "advice",
+		"body": [
+			"advice"
+		],
+		"description": "advice (Matlab Ident method)"
+	},
+	"aic": {
+		"prefix": "aic",
+		"body": [
+			"aic"
+		],
+		"description": "aic (Matlab Ident method)"
+	},
+	"ar": {
+		"prefix": "ar",
+		"body": [
+			"ar"
+		],
+		"description": "ar (Matlab Ident method)"
+	},
+	"arOptions": {
+		"prefix": "arOptions",
+		"body": [
+			"arOptions"
+		],
+		"description": "arOptions (Matlab Ident method)"
+	},
+	"armax": {
+		"prefix": "armax",
+		"body": [
+			"armax"
+		],
+		"description": "armax (Matlab Ident method)"
+	},
+	"armaxOptions": {
+		"prefix": "armaxOptions",
+		"body": [
+			"armaxOptions"
+		],
+		"description": "armaxOptions (Matlab Ident method)"
+	},
+	"arx": {
+		"prefix": "arx",
+		"body": [
+			"arx"
+		],
+		"description": "arx (Matlab Ident method)"
+	},
+	"arxOptions": {
+		"prefix": "arxOptions",
+		"body": [
+			"arxOptions"
+		],
+		"description": "arxOptions (Matlab Ident method)"
+	},
+	"arxRegul": {
+		"prefix": "arxRegul",
+		"body": [
+			"arxRegul"
+		],
+		"description": "arxRegul (Matlab Ident method)"
+	},
+	"arxRegulOptions": {
+		"prefix": "arxRegulOptions",
+		"body": [
+			"arxRegulOptions"
+		],
+		"description": "arxRegulOptions (Matlab Ident method)"
+	},
+	"arxstruc": {
+		"prefix": "arxstruc",
+		"body": [
+			"arxstruc"
+		],
+		"description": "arxstruc (Matlab Ident method)"
+	},
+	"bj": {
+		"prefix": "bj",
+		"body": [
+			"bj"
+		],
+		"description": "bj (Matlab Ident method)"
+	},
+	"bjOptions": {
+		"prefix": "bjOptions",
+		"body": [
+			"bjOptions"
+		],
+		"description": "bjOptions (Matlab Ident method)"
+	},
+	"compareOptions": {
+		"prefix": "compareOptions",
+		"body": [
+			"compareOptions"
+		],
+		"description": "compareOptions (Matlab Ident method)"
+	},
+	"cra": {
+		"prefix": "cra",
+		"body": [
+			"cra"
+		],
+		"description": "cra (Matlab Ident method)"
+	},
+	"customnet": {
+		"prefix": "customnet",
+		"body": [
+			"customnet"
+		],
+		"description": "customnet (Matlab Ident method)"
+	},
+	"customreg": {
+		"prefix": "customreg",
+		"body": [
+			"customreg"
+		],
+		"description": "customreg (Matlab Ident method)"
+	},
+	"data2state": {
+		"prefix": "data2state",
+		"body": [
+			"data2state"
+		],
+		"description": "data2state (Matlab Ident method)"
+	},
+	"deadzone": {
+		"prefix": "deadzone",
+		"body": [
+			"deadzone"
+		],
+		"description": "deadzone (Matlab Ident method)"
+	},
+	"delayest": {
+		"prefix": "delayest",
+		"body": [
+			"delayest"
+		],
+		"description": "delayest (Matlab Ident method)"
+	},
+	"etfe": {
+		"prefix": "etfe",
+		"body": [
+			"etfe"
+		],
+		"description": "etfe (Matlab Ident method)"
+	},
+	"findstates": {
+		"prefix": "findstates",
+		"body": [
+			"findstates"
+		],
+		"description": "findstates (Matlab Ident method)"
+	},
+	"findstatesOptions": {
+		"prefix": "findstatesOptions",
+		"body": [
+			"findstatesOptions"
+		],
+		"description": "findstatesOptions (Matlab Ident method)"
+	},
+	"forecastOptions": {
+		"prefix": "forecastOptions",
+		"body": [
+			"forecastOptions"
+		],
+		"description": "forecastOptions (Matlab Ident method)"
+	},
+	"fpe": {
+		"prefix": "fpe",
+		"body": [
+			"fpe"
+		],
+		"description": "fpe (Matlab Ident method)"
+	},
+	"getDelayInfo": {
+		"prefix": "getDelayInfo",
+		"body": [
+			"getDelayInfo"
+		],
+		"description": "getDelayInfo (Matlab Ident method)"
+	},
+	"getTrend": {
+		"prefix": "getTrend",
+		"body": [
+			"getTrend"
+		],
+		"description": "getTrend (Matlab Ident method)"
+	},
+	"getcov": {
+		"prefix": "getcov",
+		"body": [
+			"getcov"
+		],
+		"description": "getcov (Matlab Ident method)"
+	},
+	"getexp": {
+		"prefix": "getexp",
+		"body": [
+			"getexp"
+		],
+		"description": "getexp (Matlab Ident method)"
+	},
+	"getinit": {
+		"prefix": "getinit",
+		"body": [
+			"getinit"
+		],
+		"description": "getinit (Matlab Ident method)"
+	},
+	"getpar": {
+		"prefix": "getpar",
+		"body": [
+			"getpar"
+		],
+		"description": "getpar (Matlab Ident method)"
+	},
+	"getpvec": {
+		"prefix": "getpvec",
+		"body": [
+			"getpvec"
+		],
+		"description": "getpvec (Matlab Ident method)"
+	},
+	"getreg": {
+		"prefix": "getreg",
+		"body": [
+			"getreg"
+		],
+		"description": "getreg (Matlab Ident method)"
+	},
+	"goodnessOfFit": {
+		"prefix": "goodnessOfFit",
+		"body": [
+			"goodnessOfFit"
+		],
+		"description": "goodnessOfFit (Matlab Ident method)"
+	},
+	"greyest": {
+		"prefix": "greyest",
+		"body": [
+			"greyest"
+		],
+		"description": "greyest (Matlab Ident method)"
+	},
+	"greyestOptions": {
+		"prefix": "greyestOptions",
+		"body": [
+			"greyestOptions"
+		],
+		"description": "greyestOptions (Matlab Ident method)"
+	},
+	"iddata": {
+		"prefix": "iddata",
+		"body": [
+			"iddata"
+		],
+		"description": "iddata (Matlab Ident method)"
+	},
+	"iddataPlotOptions": {
+		"prefix": "iddataPlotOptions",
+		"body": [
+			"iddataPlotOptions"
+		],
+		"description": "iddataPlotOptions (Matlab Ident method)"
+	},
+	"identpref": {
+		"prefix": "identpref",
+		"body": [
+			"identpref"
+		],
+		"description": "identpref (Matlab Ident method)"
+	},
+	"idfilt": {
+		"prefix": "idfilt",
+		"body": [
+			"idfilt"
+		],
+		"description": "idfilt (Matlab Ident method)"
+	},
+	"idfrd": {
+		"prefix": "idfrd",
+		"body": [
+			"idfrd"
+		],
+		"description": "idfrd (Matlab Ident method)"
+	},
+	"idgrey": {
+		"prefix": "idgrey",
+		"body": [
+			"idgrey"
+		],
+		"description": "idgrey (Matlab Ident method)"
+	},
+	"idinput": {
+		"prefix": "idinput",
+		"body": [
+			"idinput"
+		],
+		"description": "idinput (Matlab Ident method)"
+	},
+	"idnlarx": {
+		"prefix": "idnlarx",
+		"body": [
+			"idnlarx"
+		],
+		"description": "idnlarx (Matlab Ident method)"
+	},
+	"idnlgrey": {
+		"prefix": "idnlgrey",
+		"body": [
+			"idnlgrey"
+		],
+		"description": "idnlgrey (Matlab Ident method)"
+	},
+	"idnlhw": {
+		"prefix": "idnlhw",
+		"body": [
+			"idnlhw"
+		],
+		"description": "idnlhw (Matlab Ident method)"
+	},
+	"idpar": {
+		"prefix": "idpar",
+		"body": [
+			"idpar"
+		],
+		"description": "idpar (Matlab Ident method)"
+	},
+	"idpoly": {
+		"prefix": "idpoly",
+		"body": [
+			"idpoly"
+		],
+		"description": "idpoly (Matlab Ident method)"
+	},
+	"idproc": {
+		"prefix": "idproc",
+		"body": [
+			"idproc"
+		],
+		"description": "idproc (Matlab Ident method)"
+	},
+	"idresamp": {
+		"prefix": "idresamp",
+		"body": [
+			"idresamp"
+		],
+		"description": "idresamp (Matlab Ident method)"
+	},
+	"idss": {
+		"prefix": "idss",
+		"body": [
+			"idss"
+		],
+		"description": "idss (Matlab Ident method)"
+	},
+	"idssdata": {
+		"prefix": "idssdata",
+		"body": [
+			"idssdata"
+		],
+		"description": "idssdata (Matlab Ident method)"
+	},
+	"idtf": {
+		"prefix": "idtf",
+		"body": [
+			"idtf"
+		],
+		"description": "idtf (Matlab Ident method)"
+	},
+	"impulseest": {
+		"prefix": "impulseest",
+		"body": [
+			"impulseest"
+		],
+		"description": "impulseest (Matlab Ident method)"
+	},
+	"impulseestOptions": {
+		"prefix": "impulseestOptions",
+		"body": [
+			"impulseestOptions"
+		],
+		"description": "impulseestOptions (Matlab Ident method)"
+	},
+	"isLocked": {
+		"prefix": "isLocked",
+		"body": [
+			"isLocked"
+		],
+		"description": "isLocked (Matlab Ident method)"
+	},
+	"isnlarx": {
+		"prefix": "isnlarx",
+		"body": [
+			"isnlarx"
+		],
+		"description": "isnlarx (Matlab Ident method)"
+	},
+	"iv4": {
+		"prefix": "iv4",
+		"body": [
+			"iv4"
+		],
+		"description": "iv4 (Matlab Ident method)"
+	},
+	"iv4Options": {
+		"prefix": "iv4Options",
+		"body": [
+			"iv4Options"
+		],
+		"description": "iv4Options (Matlab Ident method)"
+	},
+	"ivar": {
+		"prefix": "ivar",
+		"body": [
+			"ivar"
+		],
+		"description": "ivar (Matlab Ident method)"
+	},
+	"ivstruc": {
+		"prefix": "ivstruc",
+		"body": [
+			"ivstruc"
+		],
+		"description": "ivstruc (Matlab Ident method)"
+	},
+	"ivx": {
+		"prefix": "ivx",
+		"body": [
+			"ivx"
+		],
+		"description": "ivx (Matlab Ident method)"
+	},
+	"linapp": {
+		"prefix": "linapp",
+		"body": [
+			"linapp"
+		],
+		"description": "linapp (Matlab Ident method)"
+	},
+	"linear": {
+		"prefix": "linear",
+		"body": [
+			"linear"
+		],
+		"description": "linear (Matlab Ident method)"
+	},
+	"merge": {
+		"prefix": "merge",
+		"body": [
+			"merge"
+		],
+		"description": "merge (Matlab Ident method)"
+	},
+	"midprefs": {
+		"prefix": "midprefs",
+		"body": [
+			"midprefs"
+		],
+		"description": "midprefs (Matlab Ident method)"
+	},
+	"misdata": {
+		"prefix": "misdata",
+		"body": [
+			"misdata"
+		],
+		"description": "misdata (Matlab Ident method)"
+	},
+	"n4sid": {
+		"prefix": "n4sid",
+		"body": [
+			"n4sid"
+		],
+		"description": "n4sid (Matlab Ident method)"
+	},
+	"n4sidOptions": {
+		"prefix": "n4sidOptions",
+		"body": [
+			"n4sidOptions"
+		],
+		"description": "n4sidOptions (Matlab Ident method)"
+	},
+	"neuralnet": {
+		"prefix": "neuralnet",
+		"body": [
+			"neuralnet"
+		],
+		"description": "neuralnet (Matlab Ident method)"
+	},
+	"nkshift": {
+		"prefix": "nkshift",
+		"body": [
+			"nkshift"
+		],
+		"description": "nkshift (Matlab Ident method)"
+	},
+	"nlarx": {
+		"prefix": "nlarx",
+		"body": [
+			"nlarx"
+		],
+		"description": "nlarx (Matlab Ident method)"
+	},
+	"nlarxOptions": {
+		"prefix": "nlarxOptions",
+		"body": [
+			"nlarxOptions"
+		],
+		"description": "nlarxOptions (Matlab Ident method)"
+	},
+	"nlgreyest": {
+		"prefix": "nlgreyest",
+		"body": [
+			"nlgreyest"
+		],
+		"description": "nlgreyest (Matlab Ident method)"
+	},
+	"nlgreyestOptions": {
+		"prefix": "nlgreyestOptions",
+		"body": [
+			"nlgreyestOptions"
+		],
+		"description": "nlgreyestOptions (Matlab Ident method)"
+	},
+	"nlhw": {
+		"prefix": "nlhw",
+		"body": [
+			"nlhw"
+		],
+		"description": "nlhw (Matlab Ident method)"
+	},
+	"nlhwOptions": {
+		"prefix": "nlhwOptions",
+		"body": [
+			"nlhwOptions"
+		],
+		"description": "nlhwOptions (Matlab Ident method)"
+	},
+	"noise2meas": {
+		"prefix": "noise2meas",
+		"body": [
+			"noise2meas"
+		],
+		"description": "noise2meas (Matlab Ident method)"
+	},
+	"noisecnv": {
+		"prefix": "noisecnv",
+		"body": [
+			"noisecnv"
+		],
+		"description": "noisecnv (Matlab Ident method)"
+	},
+	"nparams": {
+		"prefix": "nparams",
+		"body": [
+			"nparams"
+		],
+		"description": "nparams (Matlab Ident method)"
+	},
+	"oe": {
+		"prefix": "oe",
+		"body": [
+			"oe"
+		],
+		"description": "oe (Matlab Ident method)"
+	},
+	"oeOptions": {
+		"prefix": "oeOptions",
+		"body": [
+			"oeOptions"
+		],
+		"description": "oeOptions (Matlab Ident method)"
+	},
+	"pe": {
+		"prefix": "pe",
+		"body": [
+			"pe"
+		],
+		"description": "pe (Matlab Ident method)"
+	},
+	"peOptions": {
+		"prefix": "peOptions",
+		"body": [
+			"peOptions"
+		],
+		"description": "peOptions (Matlab Ident method)"
+	},
+	"pem": {
+		"prefix": "pem",
+		"body": [
+			"pem"
+		],
+		"description": "pem (Matlab Ident method)"
+	},
+	"pexcit": {
+		"prefix": "pexcit",
+		"body": [
+			"pexcit"
+		],
+		"description": "pexcit (Matlab Ident method)"
+	},
+	"poly1d": {
+		"prefix": "poly1d",
+		"body": [
+			"poly1d"
+		],
+		"description": "poly1d (Matlab Ident method)"
+	},
+	"polydata": {
+		"prefix": "polydata",
+		"body": [
+			"polydata"
+		],
+		"description": "polydata (Matlab Ident method)"
+	},
+	"polyest": {
+		"prefix": "polyest",
+		"body": [
+			"polyest"
+		],
+		"description": "polyest (Matlab Ident method)"
+	},
+	"polyestOptions": {
+		"prefix": "polyestOptions",
+		"body": [
+			"polyestOptions"
+		],
+		"description": "polyestOptions (Matlab Ident method)"
+	},
+	"polyreg": {
+		"prefix": "polyreg",
+		"body": [
+			"polyreg"
+		],
+		"description": "polyreg (Matlab Ident method)"
+	},
+	"predictOptions": {
+		"prefix": "predictOptions",
+		"body": [
+			"predictOptions"
+		],
+		"description": "predictOptions (Matlab Ident method)"
+	},
+	"present": {
+		"prefix": "present",
+		"body": [
+			"present"
+		],
+		"description": "present (Matlab Ident method)"
+	},
+	"procest": {
+		"prefix": "procest",
+		"body": [
+			"procest"
+		],
+		"description": "procest (Matlab Ident method)"
+	},
+	"procestOptions": {
+		"prefix": "procestOptions",
+		"body": [
+			"procestOptions"
+		],
+		"description": "procestOptions (Matlab Ident method)"
+	},
+	"pwlinear": {
+		"prefix": "pwlinear",
+		"body": [
+			"pwlinear"
+		],
+		"description": "pwlinear (Matlab Ident method)"
+	},
+	"rarmax": {
+		"prefix": "rarmax",
+		"body": [
+			"rarmax"
+		],
+		"description": "rarmax (Matlab Ident method)"
+	},
+	"rarx": {
+		"prefix": "rarx",
+		"body": [
+			"rarx"
+		],
+		"description": "rarx (Matlab Ident method)"
+	},
+	"rbj": {
+		"prefix": "rbj",
+		"body": [
+			"rbj"
+		],
+		"description": "rbj (Matlab Ident method)"
+	},
+	"realdata": {
+		"prefix": "realdata",
+		"body": [
+			"realdata"
+		],
+		"description": "realdata (Matlab Ident method)"
+	},
+	"recursiveAR": {
+		"prefix": "recursiveAR",
+		"body": [
+			"recursiveAR"
+		],
+		"description": "recursiveAR (Matlab Ident method)"
+	},
+	"recursiveARMA": {
+		"prefix": "recursiveARMA",
+		"body": [
+			"recursiveARMA"
+		],
+		"description": "recursiveARMA (Matlab Ident method)"
+	},
+	"recursiveARMAX": {
+		"prefix": "recursiveARMAX",
+		"body": [
+			"recursiveARMAX"
+		],
+		"description": "recursiveARMAX (Matlab Ident method)"
+	},
+	"recursiveARX": {
+		"prefix": "recursiveARX",
+		"body": [
+			"recursiveARX"
+		],
+		"description": "recursiveARX (Matlab Ident method)"
+	},
+	"recursiveBJ": {
+		"prefix": "recursiveBJ",
+		"body": [
+			"recursiveBJ"
+		],
+		"description": "recursiveBJ (Matlab Ident method)"
+	},
+	"recursiveLS": {
+		"prefix": "recursiveLS",
+		"body": [
+			"recursiveLS"
+		],
+		"description": "recursiveLS (Matlab Ident method)"
+	},
+	"recursiveOE": {
+		"prefix": "recursiveOE",
+		"body": [
+			"recursiveOE"
+		],
+		"description": "recursiveOE (Matlab Ident method)"
+	},
+	"resid": {
+		"prefix": "resid",
+		"body": [
+			"resid"
+		],
+		"description": "resid (Matlab Ident method)"
+	},
+	"retrend": {
+		"prefix": "retrend",
+		"body": [
+			"retrend"
+		],
+		"description": "retrend (Matlab Ident method)"
+	},
+	"roe": {
+		"prefix": "roe",
+		"body": [
+			"roe"
+		],
+		"description": "roe (Matlab Ident method)"
+	},
+	"rpem": {
+		"prefix": "rpem",
+		"body": [
+			"rpem"
+		],
+		"description": "rpem (Matlab Ident method)"
+	},
+	"rplr": {
+		"prefix": "rplr",
+		"body": [
+			"rplr"
+		],
+		"description": "rplr (Matlab Ident method)"
+	},
+	"rsample": {
+		"prefix": "rsample",
+		"body": [
+			"rsample"
+		],
+		"description": "rsample (Matlab Ident method)"
+	},
+	"saturation": {
+		"prefix": "saturation",
+		"body": [
+			"saturation"
+		],
+		"description": "saturation (Matlab Ident method)"
+	},
+	"segment": {
+		"prefix": "segment",
+		"body": [
+			"segment"
+		],
+		"description": "segment (Matlab Ident method)"
+	},
+	"selstruc": {
+		"prefix": "selstruc",
+		"body": [
+			"selstruc"
+		],
+		"description": "selstruc (Matlab Ident method)"
+	},
+	"setPolyFormat": {
+		"prefix": "setPolyFormat",
+		"body": [
+			"setPolyFormat"
+		],
+		"description": "setPolyFormat (Matlab Ident method)"
+	},
+	"setcov": {
+		"prefix": "setcov",
+		"body": [
+			"setcov"
+		],
+		"description": "setcov (Matlab Ident method)"
+	},
+	"setinit": {
+		"prefix": "setinit",
+		"body": [
+			"setinit"
+		],
+		"description": "setinit (Matlab Ident method)"
+	},
+	"setpar": {
+		"prefix": "setpar",
+		"body": [
+			"setpar"
+		],
+		"description": "setpar (Matlab Ident method)"
+	},
+	"setpvec": {
+		"prefix": "setpvec",
+		"body": [
+			"setpvec"
+		],
+		"description": "setpvec (Matlab Ident method)"
+	},
+	"showConfidence": {
+		"prefix": "showConfidence",
+		"body": [
+			"showConfidence"
+		],
+		"description": "showConfidence (Matlab Ident method)"
+	},
+	"sigmoidnet": {
+		"prefix": "sigmoidnet",
+		"body": [
+			"sigmoidnet"
+		],
+		"description": "sigmoidnet (Matlab Ident method)"
+	},
+	"simOptions": {
+		"prefix": "simOptions",
+		"body": [
+			"simOptions"
+		],
+		"description": "simOptions (Matlab Ident method)"
+	},
+	"simsd": {
+		"prefix": "simsd",
+		"body": [
+			"simsd"
+		],
+		"description": "simsd (Matlab Ident method)"
+	},
+	"simsdOptions": {
+		"prefix": "simsdOptions",
+		"body": [
+			"simsdOptions"
+		],
+		"description": "simsdOptions (Matlab Ident method)"
+	},
+	"spa": {
+		"prefix": "spa",
+		"body": [
+			"spa"
+		],
+		"description": "spa (Matlab Ident method)"
+	},
+	"spafdr": {
+		"prefix": "spafdr",
+		"body": [
+			"spafdr"
+		],
+		"description": "spafdr (Matlab Ident method)"
+	},
+	"spectrum": {
+		"prefix": "spectrum",
+		"body": [
+			"spectrum"
+		],
+		"description": "spectrum (Matlab Ident method)"
+	},
+	"spectrumoptions": {
+		"prefix": "spectrumoptions",
+		"body": [
+			"spectrumoptions"
+		],
+		"description": "spectrumoptions (Matlab Ident method)"
+	},
+	"spectrumplot": {
+		"prefix": "spectrumplot",
+		"body": [
+			"spectrumplot"
+		],
+		"description": "spectrumplot (Matlab Ident method)"
+	},
+	"ssest": {
+		"prefix": "ssest",
+		"body": [
+			"ssest"
+		],
+		"description": "ssest (Matlab Ident method)"
+	},
+	"ssestOptions": {
+		"prefix": "ssestOptions",
+		"body": [
+			"ssestOptions"
+		],
+		"description": "ssestOptions (Matlab Ident method)"
+	},
+	"ssform": {
+		"prefix": "ssform",
+		"body": [
+			"ssform"
+		],
+		"description": "ssform (Matlab Ident method)"
+	},
+	"ssregest": {
+		"prefix": "ssregest",
+		"body": [
+			"ssregest"
+		],
+		"description": "ssregest (Matlab Ident method)"
+	},
+	"ssregestOptions": {
+		"prefix": "ssregestOptions",
+		"body": [
+			"ssregestOptions"
+		],
+		"description": "ssregestOptions (Matlab Ident method)"
+	},
+	"struc": {
+		"prefix": "struc",
+		"body": [
+			"struc"
+		],
+		"description": "struc (Matlab Ident method)"
+	},
+	"systemIdentification": {
+		"prefix": "systemIdentification",
+		"body": [
+			"systemIdentification"
+		],
+		"description": "systemIdentification (Matlab Ident method)"
+	},
+	"tfest": {
+		"prefix": "tfest",
+		"body": [
+			"tfest"
+		],
+		"description": "tfest (Matlab Ident method)"
+	},
+	"tfestOptions": {
+		"prefix": "tfestOptions",
+		"body": [
+			"tfestOptions"
+		],
+		"description": "tfestOptions (Matlab Ident method)"
+	},
+	"translatecov": {
+		"prefix": "translatecov",
+		"body": [
+			"translatecov"
+		],
+		"description": "translatecov (Matlab Ident method)"
+	},
+	"treepartition": {
+		"prefix": "treepartition",
+		"body": [
+			"treepartition"
+		],
+		"description": "treepartition (Matlab Ident method)"
+	},
+	"unitgain": {
+		"prefix": "unitgain",
+		"body": [
+			"unitgain"
+		],
+		"description": "unitgain (Matlab Ident method)"
+	},
+	"wavenet": {
+		"prefix": "wavenet",
+		"body": [
+			"wavenet"
+		],
+		"description": "wavenet (Matlab Ident method)"
+	}
+}

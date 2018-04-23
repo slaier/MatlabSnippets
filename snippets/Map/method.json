@@ -1,0 +1,2235 @@
+{
+	"WMSCapabilities": {
+		"prefix": "WMSCapabilities",
+		"body": [
+			"WMSCapabilities"
+		],
+		"description": "WMSCapabilities (Matlab Map method)"
+	},
+	"WMSLayer": {
+		"prefix": "WMSLayer",
+		"body": [
+			"WMSLayer"
+		],
+		"description": "WMSLayer (Matlab Map method)"
+	},
+	"WMSMapRequest": {
+		"prefix": "WMSMapRequest",
+		"body": [
+			"WMSMapRequest"
+		],
+		"description": "WMSMapRequest (Matlab Map method)"
+	},
+	"WebMapServer": {
+		"prefix": "WebMapServer",
+		"body": [
+			"WebMapServer"
+		],
+		"description": "WebMapServer (Matlab Map method)"
+	},
+	"aer2ecef": {
+		"prefix": "aer2ecef",
+		"body": [
+			"aer2ecef"
+		],
+		"description": "aer2ecef (Matlab Map method)"
+	},
+	"aer2enu": {
+		"prefix": "aer2enu",
+		"body": [
+			"aer2enu"
+		],
+		"description": "aer2enu (Matlab Map method)"
+	},
+	"aer2geodetic": {
+		"prefix": "aer2geodetic",
+		"body": [
+			"aer2geodetic"
+		],
+		"description": "aer2geodetic (Matlab Map method)"
+	},
+	"aer2ned": {
+		"prefix": "aer2ned",
+		"body": [
+			"aer2ned"
+		],
+		"description": "aer2ned (Matlab Map method)"
+	},
+	"angl2str": {
+		"prefix": "angl2str",
+		"body": [
+			"angl2str"
+		],
+		"description": "angl2str (Matlab Map method)"
+	},
+	"antipode": {
+		"prefix": "antipode",
+		"body": [
+			"antipode"
+		],
+		"description": "antipode (Matlab Map method)"
+	},
+	"arcgridread": {
+		"prefix": "arcgridread",
+		"body": [
+			"arcgridread"
+		],
+		"description": "arcgridread (Matlab Map method)"
+	},
+	"areaint": {
+		"prefix": "areaint",
+		"body": [
+			"areaint"
+		],
+		"description": "areaint (Matlab Map method)"
+	},
+	"areamat": {
+		"prefix": "areamat",
+		"body": [
+			"areamat"
+		],
+		"description": "areamat (Matlab Map method)"
+	},
+	"areaquad": {
+		"prefix": "areaquad",
+		"body": [
+			"areaquad"
+		],
+		"description": "areaquad (Matlab Map method)"
+	},
+	"avhrrgoode": {
+		"prefix": "avhrrgoode",
+		"body": [
+			"avhrrgoode"
+		],
+		"description": "avhrrgoode (Matlab Map method)"
+	},
+	"avhrrlambert": {
+		"prefix": "avhrrlambert",
+		"body": [
+			"avhrrlambert"
+		],
+		"description": "avhrrlambert (Matlab Map method)"
+	},
+	"axes2ecc": {
+		"prefix": "axes2ecc",
+		"body": [
+			"axes2ecc"
+		],
+		"description": "axes2ecc (Matlab Map method)"
+	},
+	"axesm": {
+		"prefix": "axesm",
+		"body": [
+			"axesm"
+		],
+		"description": "axesm (Matlab Map method)"
+	},
+	"axesmui": {
+		"prefix": "axesmui",
+		"body": [
+			"axesmui"
+		],
+		"description": "axesmui (Matlab Map method)"
+	},
+	"azimuth": {
+		"prefix": "azimuth",
+		"body": [
+			"azimuth"
+		],
+		"description": "azimuth (Matlab Map method)"
+	},
+	"bufferm": {
+		"prefix": "bufferm",
+		"body": [
+			"bufferm"
+		],
+		"description": "bufferm (Matlab Map method)"
+	},
+	"bufgeoquad": {
+		"prefix": "bufgeoquad",
+		"body": [
+			"bufgeoquad"
+		],
+		"description": "bufgeoquad (Matlab Map method)"
+	},
+	"camposm": {
+		"prefix": "camposm",
+		"body": [
+			"camposm"
+		],
+		"description": "camposm (Matlab Map method)"
+	},
+	"camtargm": {
+		"prefix": "camtargm",
+		"body": [
+			"camtargm"
+		],
+		"description": "camtargm (Matlab Map method)"
+	},
+	"camupm": {
+		"prefix": "camupm",
+		"body": [
+			"camupm"
+		],
+		"description": "camupm (Matlab Map method)"
+	},
+	"clabelm": {
+		"prefix": "clabelm",
+		"body": [
+			"clabelm"
+		],
+		"description": "clabelm (Matlab Map method)"
+	},
+	"clegendm": {
+		"prefix": "clegendm",
+		"body": [
+			"clegendm"
+		],
+		"description": "clegendm (Matlab Map method)"
+	},
+	"clipdata": {
+		"prefix": "clipdata",
+		"body": [
+			"clipdata"
+		],
+		"description": "clipdata (Matlab Map method)"
+	},
+	"clma": {
+		"prefix": "clma",
+		"body": [
+			"clma"
+		],
+		"description": "clma (Matlab Map method)"
+	},
+	"closePolygonParts": {
+		"prefix": "closePolygonParts",
+		"body": [
+			"closePolygonParts"
+		],
+		"description": "closePolygonParts (Matlab Map method)"
+	},
+	"clrmenu": {
+		"prefix": "clrmenu",
+		"body": [
+			"clrmenu"
+		],
+		"description": "clrmenu (Matlab Map method)"
+	},
+	"contour3m": {
+		"prefix": "contour3m",
+		"body": [
+			"contour3m"
+		],
+		"description": "contour3m (Matlab Map method)"
+	},
+	"contourcbar": {
+		"prefix": "contourcbar",
+		"body": [
+			"contourcbar"
+		],
+		"description": "contourcbar (Matlab Map method)"
+	},
+	"contourcmap": {
+		"prefix": "contourcmap",
+		"body": [
+			"contourcmap"
+		],
+		"description": "contourcmap (Matlab Map method)"
+	},
+	"contourfm": {
+		"prefix": "contourfm",
+		"body": [
+			"contourfm"
+		],
+		"description": "contourfm (Matlab Map method)"
+	},
+	"contourm": {
+		"prefix": "contourm",
+		"body": [
+			"contourm"
+		],
+		"description": "contourm (Matlab Map method)"
+	},
+	"daspectm": {
+		"prefix": "daspectm",
+		"body": [
+			"daspectm"
+		],
+		"description": "daspectm (Matlab Map method)"
+	},
+	"defaultm": {
+		"prefix": "defaultm",
+		"body": [
+			"defaultm"
+		],
+		"description": "defaultm (Matlab Map method)"
+	},
+	"deg2km": {
+		"prefix": "deg2km",
+		"body": [
+			"deg2km"
+		],
+		"description": "deg2km (Matlab Map method)"
+	},
+	"deg2nm": {
+		"prefix": "deg2nm",
+		"body": [
+			"deg2nm"
+		],
+		"description": "deg2nm (Matlab Map method)"
+	},
+	"deg2sm": {
+		"prefix": "deg2sm",
+		"body": [
+			"deg2sm"
+		],
+		"description": "deg2sm (Matlab Map method)"
+	},
+	"degrees2dm": {
+		"prefix": "degrees2dm",
+		"body": [
+			"degrees2dm"
+		],
+		"description": "degrees2dm (Matlab Map method)"
+	},
+	"degrees2dms": {
+		"prefix": "degrees2dms",
+		"body": [
+			"degrees2dms"
+		],
+		"description": "degrees2dms (Matlab Map method)"
+	},
+	"demcmap": {
+		"prefix": "demcmap",
+		"body": [
+			"demcmap"
+		],
+		"description": "demcmap (Matlab Map method)"
+	},
+	"demdataui": {
+		"prefix": "demdataui",
+		"body": [
+			"demdataui"
+		],
+		"description": "demdataui (Matlab Map method)"
+	},
+	"departure": {
+		"prefix": "departure",
+		"body": [
+			"departure"
+		],
+		"description": "departure (Matlab Map method)"
+	},
+	"distance": {
+		"prefix": "distance",
+		"body": [
+			"distance"
+		],
+		"description": "distance (Matlab Map method)"
+	},
+	"distortcalc": {
+		"prefix": "distortcalc",
+		"body": [
+			"distortcalc"
+		],
+		"description": "distortcalc (Matlab Map method)"
+	},
+	"dm2degrees": {
+		"prefix": "dm2degrees",
+		"body": [
+			"dm2degrees"
+		],
+		"description": "dm2degrees (Matlab Map method)"
+	},
+	"dms2degrees": {
+		"prefix": "dms2degrees",
+		"body": [
+			"dms2degrees"
+		],
+		"description": "dms2degrees (Matlab Map method)"
+	},
+	"dted": {
+		"prefix": "dted",
+		"body": [
+			"dted"
+		],
+		"description": "dted (Matlab Map method)"
+	},
+	"dteds": {
+		"prefix": "dteds",
+		"body": [
+			"dteds"
+		],
+		"description": "dteds (Matlab Map method)"
+	},
+	"earthRadius": {
+		"prefix": "earthRadius",
+		"body": [
+			"earthRadius"
+		],
+		"description": "earthRadius (Matlab Map method)"
+	},
+	"ecc2flat": {
+		"prefix": "ecc2flat",
+		"body": [
+			"ecc2flat"
+		],
+		"description": "ecc2flat (Matlab Map method)"
+	},
+	"ecc2n": {
+		"prefix": "ecc2n",
+		"body": [
+			"ecc2n"
+		],
+		"description": "ecc2n (Matlab Map method)"
+	},
+	"ecef2aer": {
+		"prefix": "ecef2aer",
+		"body": [
+			"ecef2aer"
+		],
+		"description": "ecef2aer (Matlab Map method)"
+	},
+	"ecef2enu": {
+		"prefix": "ecef2enu",
+		"body": [
+			"ecef2enu"
+		],
+		"description": "ecef2enu (Matlab Map method)"
+	},
+	"ecef2enuv": {
+		"prefix": "ecef2enuv",
+		"body": [
+			"ecef2enuv"
+		],
+		"description": "ecef2enuv (Matlab Map method)"
+	},
+	"ecef2geodetic": {
+		"prefix": "ecef2geodetic",
+		"body": [
+			"ecef2geodetic"
+		],
+		"description": "ecef2geodetic (Matlab Map method)"
+	},
+	"ecef2lv": {
+		"prefix": "ecef2lv",
+		"body": [
+			"ecef2lv"
+		],
+		"description": "ecef2lv (Matlab Map method)"
+	},
+	"ecef2ned": {
+		"prefix": "ecef2ned",
+		"body": [
+			"ecef2ned"
+		],
+		"description": "ecef2ned (Matlab Map method)"
+	},
+	"ecef2nedv": {
+		"prefix": "ecef2nedv",
+		"body": [
+			"ecef2nedv"
+		],
+		"description": "ecef2nedv (Matlab Map method)"
+	},
+	"ecefOffset": {
+		"prefix": "ecefOffset",
+		"body": [
+			"ecefOffset"
+		],
+		"description": "ecefOffset (Matlab Map method)"
+	},
+	"egm96geoid": {
+		"prefix": "egm96geoid",
+		"body": [
+			"egm96geoid"
+		],
+		"description": "egm96geoid (Matlab Map method)"
+	},
+	"ellipse1": {
+		"prefix": "ellipse1",
+		"body": [
+			"ellipse1"
+		],
+		"description": "ellipse1 (Matlab Map method)"
+	},
+	"enu2aer": {
+		"prefix": "enu2aer",
+		"body": [
+			"enu2aer"
+		],
+		"description": "enu2aer (Matlab Map method)"
+	},
+	"enu2ecef": {
+		"prefix": "enu2ecef",
+		"body": [
+			"enu2ecef"
+		],
+		"description": "enu2ecef (Matlab Map method)"
+	},
+	"enu2ecefv": {
+		"prefix": "enu2ecefv",
+		"body": [
+			"enu2ecefv"
+		],
+		"description": "enu2ecefv (Matlab Map method)"
+	},
+	"enu2geodetic": {
+		"prefix": "enu2geodetic",
+		"body": [
+			"enu2geodetic"
+		],
+		"description": "enu2geodetic (Matlab Map method)"
+	},
+	"etopo": {
+		"prefix": "etopo",
+		"body": [
+			"etopo"
+		],
+		"description": "etopo (Matlab Map method)"
+	},
+	"etopo5": {
+		"prefix": "etopo5",
+		"body": [
+			"etopo5"
+		],
+		"description": "etopo5 (Matlab Map method)"
+	},
+	"extractfield": {
+		"prefix": "extractfield",
+		"body": [
+			"extractfield"
+		],
+		"description": "extractfield (Matlab Map method)"
+	},
+	"flat2ecc": {
+		"prefix": "flat2ecc",
+		"body": [
+			"flat2ecc"
+		],
+		"description": "flat2ecc (Matlab Map method)"
+	},
+	"flatearthpoly": {
+		"prefix": "flatearthpoly",
+		"body": [
+			"flatearthpoly"
+		],
+		"description": "flatearthpoly (Matlab Map method)"
+	},
+	"framem": {
+		"prefix": "framem",
+		"body": [
+			"framem"
+		],
+		"description": "framem (Matlab Map method)"
+	},
+	"fromDegrees": {
+		"prefix": "fromDegrees",
+		"body": [
+			"fromDegrees"
+		],
+		"description": "fromDegrees (Matlab Map method)"
+	},
+	"fromRadians": {
+		"prefix": "fromRadians",
+		"body": [
+			"fromRadians"
+		],
+		"description": "fromRadians (Matlab Map method)"
+	},
+	"gc2sc": {
+		"prefix": "gc2sc",
+		"body": [
+			"gc2sc"
+		],
+		"description": "gc2sc (Matlab Map method)"
+	},
+	"gcm": {
+		"prefix": "gcm",
+		"body": [
+			"gcm"
+		],
+		"description": "gcm (Matlab Map method)"
+	},
+	"gcpmap": {
+		"prefix": "gcpmap",
+		"body": [
+			"gcpmap"
+		],
+		"description": "gcpmap (Matlab Map method)"
+	},
+	"gcxgc": {
+		"prefix": "gcxgc",
+		"body": [
+			"gcxgc"
+		],
+		"description": "gcxgc (Matlab Map method)"
+	},
+	"gcxsc": {
+		"prefix": "gcxsc",
+		"body": [
+			"gcxsc"
+		],
+		"description": "gcxsc (Matlab Map method)"
+	},
+	"geocentricLatitude": {
+		"prefix": "geocentricLatitude",
+		"body": [
+			"geocentricLatitude"
+		],
+		"description": "geocentricLatitude (Matlab Map method)"
+	},
+	"geodetic2aer": {
+		"prefix": "geodetic2aer",
+		"body": [
+			"geodetic2aer"
+		],
+		"description": "geodetic2aer (Matlab Map method)"
+	},
+	"geodetic2ecef": {
+		"prefix": "geodetic2ecef",
+		"body": [
+			"geodetic2ecef"
+		],
+		"description": "geodetic2ecef (Matlab Map method)"
+	},
+	"geodetic2enu": {
+		"prefix": "geodetic2enu",
+		"body": [
+			"geodetic2enu"
+		],
+		"description": "geodetic2enu (Matlab Map method)"
+	},
+	"geodetic2ned": {
+		"prefix": "geodetic2ned",
+		"body": [
+			"geodetic2ned"
+		],
+		"description": "geodetic2ned (Matlab Map method)"
+	},
+	"geodeticLatitudeFromGeocentric": {
+		"prefix": "geodeticLatitudeFromGeocentric",
+		"body": [
+			"geodeticLatitudeFromGeocentric"
+		],
+		"description": "geodeticLatitudeFromGeocentric (Matlab Map method)"
+	},
+	"geodeticLatitudeFromParametric": {
+		"prefix": "geodeticLatitudeFromParametric",
+		"body": [
+			"geodeticLatitudeFromParametric"
+		],
+		"description": "geodeticLatitudeFromParametric (Matlab Map method)"
+	},
+	"geoloc2grid": {
+		"prefix": "geoloc2grid",
+		"body": [
+			"geoloc2grid"
+		],
+		"description": "geoloc2grid (Matlab Map method)"
+	},
+	"geopeaks": {
+		"prefix": "geopeaks",
+		"body": [
+			"geopeaks"
+		],
+		"description": "geopeaks (Matlab Map method)"
+	},
+	"geopoint": {
+		"prefix": "geopoint",
+		"body": [
+			"geopoint"
+		],
+		"description": "geopoint (Matlab Map method)"
+	},
+	"geoquadline": {
+		"prefix": "geoquadline",
+		"body": [
+			"geoquadline"
+		],
+		"description": "geoquadline (Matlab Map method)"
+	},
+	"geoquadpt": {
+		"prefix": "geoquadpt",
+		"body": [
+			"geoquadpt"
+		],
+		"description": "geoquadpt (Matlab Map method)"
+	},
+	"georasterref": {
+		"prefix": "georasterref",
+		"body": [
+			"georasterref"
+		],
+		"description": "georasterref (Matlab Map method)"
+	},
+	"georefcells": {
+		"prefix": "georefcells",
+		"body": [
+			"georefcells"
+		],
+		"description": "georefcells (Matlab Map method)"
+	},
+	"georefpostings": {
+		"prefix": "georefpostings",
+		"body": [
+			"georefpostings"
+		],
+		"description": "georefpostings (Matlab Map method)"
+	},
+	"geoshape": {
+		"prefix": "geoshape",
+		"body": [
+			"geoshape"
+		],
+		"description": "geoshape (Matlab Map method)"
+	},
+	"geoshow": {
+		"prefix": "geoshow",
+		"body": [
+			"geoshow"
+		],
+		"description": "geoshow (Matlab Map method)"
+	},
+	"geotiff2mstruct": {
+		"prefix": "geotiff2mstruct",
+		"body": [
+			"geotiff2mstruct"
+		],
+		"description": "geotiff2mstruct (Matlab Map method)"
+	},
+	"geotiffinfo": {
+		"prefix": "geotiffinfo",
+		"body": [
+			"geotiffinfo"
+		],
+		"description": "geotiffinfo (Matlab Map method)"
+	},
+	"geotiffread": {
+		"prefix": "geotiffread",
+		"body": [
+			"geotiffread"
+		],
+		"description": "geotiffread (Matlab Map method)"
+	},
+	"geotiffwrite": {
+		"prefix": "geotiffwrite",
+		"body": [
+			"geotiffwrite"
+		],
+		"description": "geotiffwrite (Matlab Map method)"
+	},
+	"getm": {
+		"prefix": "getm",
+		"body": [
+			"getm"
+		],
+		"description": "getm (Matlab Map method)"
+	},
+	"getworldfilename": {
+		"prefix": "getworldfilename",
+		"body": [
+			"getworldfilename"
+		],
+		"description": "getworldfilename (Matlab Map method)"
+	},
+	"globedem": {
+		"prefix": "globedem",
+		"body": [
+			"globedem"
+		],
+		"description": "globedem (Matlab Map method)"
+	},
+	"globedems": {
+		"prefix": "globedems",
+		"body": [
+			"globedems"
+		],
+		"description": "globedems (Matlab Map method)"
+	},
+	"gpxread": {
+		"prefix": "gpxread",
+		"body": [
+			"gpxread"
+		],
+		"description": "gpxread (Matlab Map method)"
+	},
+	"gradientm": {
+		"prefix": "gradientm",
+		"body": [
+			"gradientm"
+		],
+		"description": "gradientm (Matlab Map method)"
+	},
+	"grid2image": {
+		"prefix": "grid2image",
+		"body": [
+			"grid2image"
+		],
+		"description": "grid2image (Matlab Map method)"
+	},
+	"gridm": {
+		"prefix": "gridm",
+		"body": [
+			"gridm"
+		],
+		"description": "gridm (Matlab Map method)"
+	},
+	"gshhs": {
+		"prefix": "gshhs",
+		"body": [
+			"gshhs"
+		],
+		"description": "gshhs (Matlab Map method)"
+	},
+	"gtextm": {
+		"prefix": "gtextm",
+		"body": [
+			"gtextm"
+		],
+		"description": "gtextm (Matlab Map method)"
+	},
+	"gtopo30": {
+		"prefix": "gtopo30",
+		"body": [
+			"gtopo30"
+		],
+		"description": "gtopo30 (Matlab Map method)"
+	},
+	"gtopo30s": {
+		"prefix": "gtopo30s",
+		"body": [
+			"gtopo30s"
+		],
+		"description": "gtopo30s (Matlab Map method)"
+	},
+	"handlem": {
+		"prefix": "handlem",
+		"body": [
+			"handlem"
+		],
+		"description": "handlem (Matlab Map method)"
+	},
+	"hista": {
+		"prefix": "hista",
+		"body": [
+			"hista"
+		],
+		"description": "hista (Matlab Map method)"
+	},
+	"histr": {
+		"prefix": "histr",
+		"body": [
+			"histr"
+		],
+		"description": "histr (Matlab Map method)"
+	},
+	"imbedm": {
+		"prefix": "imbedm",
+		"body": [
+			"imbedm"
+		],
+		"description": "imbedm (Matlab Map method)"
+	},
+	"ingeoquad": {
+		"prefix": "ingeoquad",
+		"body": [
+			"ingeoquad"
+		],
+		"description": "ingeoquad (Matlab Map method)"
+	},
+	"inputm": {
+		"prefix": "inputm",
+		"body": [
+			"inputm"
+		],
+		"description": "inputm (Matlab Map method)"
+	},
+	"interpm": {
+		"prefix": "interpm",
+		"body": [
+			"interpm"
+		],
+		"description": "interpm (Matlab Map method)"
+	},
+	"intersectgeoquad": {
+		"prefix": "intersectgeoquad",
+		"body": [
+			"intersectgeoquad"
+		],
+		"description": "intersectgeoquad (Matlab Map method)"
+	},
+	"intrplat": {
+		"prefix": "intrplat",
+		"body": [
+			"intrplat"
+		],
+		"description": "intrplat (Matlab Map method)"
+	},
+	"intrplon": {
+		"prefix": "intrplon",
+		"body": [
+			"intrplon"
+		],
+		"description": "intrplon (Matlab Map method)"
+	},
+	"isShapeMultipart": {
+		"prefix": "isShapeMultipart",
+		"body": [
+			"isShapeMultipart"
+		],
+		"description": "isShapeMultipart (Matlab Map method)"
+	},
+	"ismap": {
+		"prefix": "ismap",
+		"body": [
+			"ismap"
+		],
+		"description": "ismap (Matlab Map method)"
+	},
+	"ispolycw": {
+		"prefix": "ispolycw",
+		"body": [
+			"ispolycw"
+		],
+		"description": "ispolycw (Matlab Map method)"
+	},
+	"km2deg": {
+		"prefix": "km2deg",
+		"body": [
+			"km2deg"
+		],
+		"description": "km2deg (Matlab Map method)"
+	},
+	"km2nm": {
+		"prefix": "km2nm",
+		"body": [
+			"km2nm"
+		],
+		"description": "km2nm (Matlab Map method)"
+	},
+	"km2rad": {
+		"prefix": "km2rad",
+		"body": [
+			"km2rad"
+		],
+		"description": "km2rad (Matlab Map method)"
+	},
+	"km2sm": {
+		"prefix": "km2sm",
+		"body": [
+			"km2sm"
+		],
+		"description": "km2sm (Matlab Map method)"
+	},
+	"kmlwrite": {
+		"prefix": "kmlwrite",
+		"body": [
+			"kmlwrite"
+		],
+		"description": "kmlwrite (Matlab Map method)"
+	},
+	"kmlwriteline": {
+		"prefix": "kmlwriteline",
+		"body": [
+			"kmlwriteline"
+		],
+		"description": "kmlwriteline (Matlab Map method)"
+	},
+	"kmlwritepoint": {
+		"prefix": "kmlwritepoint",
+		"body": [
+			"kmlwritepoint"
+		],
+		"description": "kmlwritepoint (Matlab Map method)"
+	},
+	"lightm": {
+		"prefix": "lightm",
+		"body": [
+			"lightm"
+		],
+		"description": "lightm (Matlab Map method)"
+	},
+	"limitm": {
+		"prefix": "limitm",
+		"body": [
+			"limitm"
+		],
+		"description": "limitm (Matlab Map method)"
+	},
+	"linecirc": {
+		"prefix": "linecirc",
+		"body": [
+			"linecirc"
+		],
+		"description": "linecirc (Matlab Map method)"
+	},
+	"linem": {
+		"prefix": "linem",
+		"body": [
+			"linem"
+		],
+		"description": "linem (Matlab Map method)"
+	},
+	"los2": {
+		"prefix": "los2",
+		"body": [
+			"los2"
+		],
+		"description": "los2 (Matlab Map method)"
+	},
+	"ltln2val": {
+		"prefix": "ltln2val",
+		"body": [
+			"ltln2val"
+		],
+		"description": "ltln2val (Matlab Map method)"
+	},
+	"lv2ecef": {
+		"prefix": "lv2ecef",
+		"body": [
+			"lv2ecef"
+		],
+		"description": "lv2ecef (Matlab Map method)"
+	},
+	"majaxis": {
+		"prefix": "majaxis",
+		"body": [
+			"majaxis"
+		],
+		"description": "majaxis (Matlab Map method)"
+	},
+	"makeattribspec": {
+		"prefix": "makeattribspec",
+		"body": [
+			"makeattribspec"
+		],
+		"description": "makeattribspec (Matlab Map method)"
+	},
+	"makedbfspec": {
+		"prefix": "makedbfspec",
+		"body": [
+			"makedbfspec"
+		],
+		"description": "makedbfspec (Matlab Map method)"
+	},
+	"makerefmat": {
+		"prefix": "makerefmat",
+		"body": [
+			"makerefmat"
+		],
+		"description": "makerefmat (Matlab Map method)"
+	},
+	"makesymbolspec": {
+		"prefix": "makesymbolspec",
+		"body": [
+			"makesymbolspec"
+		],
+		"description": "makesymbolspec (Matlab Map method)"
+	},
+	"map.geodesy.AuthalicLatitudeConverter": {
+		"prefix": "map.geodesy.AuthalicLatitudeConverter",
+		"body": [
+			"map.geodesy.AuthalicLatitudeConverter"
+		],
+		"description": "map.geodesy.AuthalicLatitudeConverter (Matlab Map method)"
+	},
+	"map.geodesy.ConformalLatitudeConverter": {
+		"prefix": "map.geodesy.ConformalLatitudeConverter",
+		"body": [
+			"map.geodesy.ConformalLatitudeConverter"
+		],
+		"description": "map.geodesy.ConformalLatitudeConverter (Matlab Map method)"
+	},
+	"map.geodesy.IsometricLatitudeConverter": {
+		"prefix": "map.geodesy.IsometricLatitudeConverter",
+		"body": [
+			"map.geodesy.IsometricLatitudeConverter"
+		],
+		"description": "map.geodesy.IsometricLatitudeConverter (Matlab Map method)"
+	},
+	"map.geodesy.RectifyingLatitudeConverter": {
+		"prefix": "map.geodesy.RectifyingLatitudeConverter",
+		"body": [
+			"map.geodesy.RectifyingLatitudeConverter"
+		],
+		"description": "map.geodesy.RectifyingLatitudeConverter (Matlab Map method)"
+	},
+	"map.geodesy.isdegree": {
+		"prefix": "map.geodesy.isdegree",
+		"body": [
+			"map.geodesy.isdegree"
+		],
+		"description": "map.geodesy.isdegree (Matlab Map method)"
+	},
+	"map.geotiff.RPCCoefficientTag": {
+		"prefix": "map.geotiff.RPCCoefficientTag",
+		"body": [
+			"map.geotiff.RPCCoefficientTag"
+		],
+		"description": "map.geotiff.RPCCoefficientTag (Matlab Map method)"
+	},
+	"map.rasterref.GeographicCellsReference": {
+		"prefix": "map.rasterref.GeographicCellsReference",
+		"body": [
+			"map.rasterref.GeographicCellsReference"
+		],
+		"description": "map.rasterref.GeographicCellsReference (Matlab Map method)"
+	},
+	"map.rasterref.GeographicPostingsReference": {
+		"prefix": "map.rasterref.GeographicPostingsReference",
+		"body": [
+			"map.rasterref.GeographicPostingsReference"
+		],
+		"description": "map.rasterref.GeographicPostingsReference (Matlab Map method)"
+	},
+	"map.rasterref.MapCellsReference": {
+		"prefix": "map.rasterref.MapCellsReference",
+		"body": [
+			"map.rasterref.MapCellsReference"
+		],
+		"description": "map.rasterref.MapCellsReference (Matlab Map method)"
+	},
+	"map.rasterref.MapPostingsReference": {
+		"prefix": "map.rasterref.MapPostingsReference",
+		"body": [
+			"map.rasterref.MapPostingsReference"
+		],
+		"description": "map.rasterref.MapPostingsReference (Matlab Map method)"
+	},
+	"maplist": {
+		"prefix": "maplist",
+		"body": [
+			"maplist"
+		],
+		"description": "maplist (Matlab Map method)"
+	},
+	"mapoutline": {
+		"prefix": "mapoutline",
+		"body": [
+			"mapoutline"
+		],
+		"description": "mapoutline (Matlab Map method)"
+	},
+	"mappoint": {
+		"prefix": "mappoint",
+		"body": [
+			"mappoint"
+		],
+		"description": "mappoint (Matlab Map method)"
+	},
+	"mapprofile": {
+		"prefix": "mapprofile",
+		"body": [
+			"mapprofile"
+		],
+		"description": "mapprofile (Matlab Map method)"
+	},
+	"maprasterref": {
+		"prefix": "maprasterref",
+		"body": [
+			"maprasterref"
+		],
+		"description": "maprasterref (Matlab Map method)"
+	},
+	"maprefcells": {
+		"prefix": "maprefcells",
+		"body": [
+			"maprefcells"
+		],
+		"description": "maprefcells (Matlab Map method)"
+	},
+	"maprefpostings": {
+		"prefix": "maprefpostings",
+		"body": [
+			"maprefpostings"
+		],
+		"description": "maprefpostings (Matlab Map method)"
+	},
+	"maps": {
+		"prefix": "maps",
+		"body": [
+			"maps"
+		],
+		"description": "maps (Matlab Map method)"
+	},
+	"mapshape": {
+		"prefix": "mapshape",
+		"body": [
+			"mapshape"
+		],
+		"description": "mapshape (Matlab Map method)"
+	},
+	"mapshow": {
+		"prefix": "mapshow",
+		"body": [
+			"mapshow"
+		],
+		"description": "mapshow (Matlab Map method)"
+	},
+	"maptool": {
+		"prefix": "maptool",
+		"body": [
+			"maptool"
+		],
+		"description": "maptool (Matlab Map method)"
+	},
+	"maptrim": {
+		"prefix": "maptrim",
+		"body": [
+			"maptrim"
+		],
+		"description": "maptrim (Matlab Map method)"
+	},
+	"maptriml": {
+		"prefix": "maptriml",
+		"body": [
+			"maptriml"
+		],
+		"description": "maptriml (Matlab Map method)"
+	},
+	"maptrimp": {
+		"prefix": "maptrimp",
+		"body": [
+			"maptrimp"
+		],
+		"description": "maptrimp (Matlab Map method)"
+	},
+	"maptrims": {
+		"prefix": "maptrims",
+		"body": [
+			"maptrims"
+		],
+		"description": "maptrims (Matlab Map method)"
+	},
+	"mapview": {
+		"prefix": "mapview",
+		"body": [
+			"mapview"
+		],
+		"description": "mapview (Matlab Map method)"
+	},
+	"mdistort": {
+		"prefix": "mdistort",
+		"body": [
+			"mdistort"
+		],
+		"description": "mdistort (Matlab Map method)"
+	},
+	"meridianarc": {
+		"prefix": "meridianarc",
+		"body": [
+			"meridianarc"
+		],
+		"description": "meridianarc (Matlab Map method)"
+	},
+	"meridianfwd": {
+		"prefix": "meridianfwd",
+		"body": [
+			"meridianfwd"
+		],
+		"description": "meridianfwd (Matlab Map method)"
+	},
+	"meshlsrm": {
+		"prefix": "meshlsrm",
+		"body": [
+			"meshlsrm"
+		],
+		"description": "meshlsrm (Matlab Map method)"
+	},
+	"meshm": {
+		"prefix": "meshm",
+		"body": [
+			"meshm"
+		],
+		"description": "meshm (Matlab Map method)"
+	},
+	"mfwdtran": {
+		"prefix": "mfwdtran",
+		"body": [
+			"mfwdtran"
+		],
+		"description": "mfwdtran (Matlab Map method)"
+	},
+	"minaxis": {
+		"prefix": "minaxis",
+		"body": [
+			"minaxis"
+		],
+		"description": "minaxis (Matlab Map method)"
+	},
+	"minvtran": {
+		"prefix": "minvtran",
+		"body": [
+			"minvtran"
+		],
+		"description": "minvtran (Matlab Map method)"
+	},
+	"mlabel": {
+		"prefix": "mlabel",
+		"body": [
+			"mlabel"
+		],
+		"description": "mlabel (Matlab Map method)"
+	},
+	"mlabelzero22pi": {
+		"prefix": "mlabelzero22pi",
+		"body": [
+			"mlabelzero22pi"
+		],
+		"description": "mlabelzero22pi (Matlab Map method)"
+	},
+	"n2ecc": {
+		"prefix": "n2ecc",
+		"body": [
+			"n2ecc"
+		],
+		"description": "n2ecc (Matlab Map method)"
+	},
+	"namem": {
+		"prefix": "namem",
+		"body": [
+			"namem"
+		],
+		"description": "namem (Matlab Map method)"
+	},
+	"ned2aer": {
+		"prefix": "ned2aer",
+		"body": [
+			"ned2aer"
+		],
+		"description": "ned2aer (Matlab Map method)"
+	},
+	"ned2ecef": {
+		"prefix": "ned2ecef",
+		"body": [
+			"ned2ecef"
+		],
+		"description": "ned2ecef (Matlab Map method)"
+	},
+	"ned2ecefv": {
+		"prefix": "ned2ecefv",
+		"body": [
+			"ned2ecefv"
+		],
+		"description": "ned2ecefv (Matlab Map method)"
+	},
+	"ned2geodetic": {
+		"prefix": "ned2geodetic",
+		"body": [
+			"ned2geodetic"
+		],
+		"description": "ned2geodetic (Matlab Map method)"
+	},
+	"newpole": {
+		"prefix": "newpole",
+		"body": [
+			"newpole"
+		],
+		"description": "newpole (Matlab Map method)"
+	},
+	"nm2deg": {
+		"prefix": "nm2deg",
+		"body": [
+			"nm2deg"
+		],
+		"description": "nm2deg (Matlab Map method)"
+	},
+	"nm2km": {
+		"prefix": "nm2km",
+		"body": [
+			"nm2km"
+		],
+		"description": "nm2km (Matlab Map method)"
+	},
+	"nm2rad": {
+		"prefix": "nm2rad",
+		"body": [
+			"nm2rad"
+		],
+		"description": "nm2rad (Matlab Map method)"
+	},
+	"nm2sm": {
+		"prefix": "nm2sm",
+		"body": [
+			"nm2sm"
+		],
+		"description": "nm2sm (Matlab Map method)"
+	},
+	"northarrow": {
+		"prefix": "northarrow",
+		"body": [
+			"northarrow"
+		],
+		"description": "northarrow (Matlab Map method)"
+	},
+	"oblateSpheroid": {
+		"prefix": "oblateSpheroid",
+		"body": [
+			"oblateSpheroid"
+		],
+		"description": "oblateSpheroid (Matlab Map method)"
+	},
+	"org2pol": {
+		"prefix": "org2pol",
+		"body": [
+			"org2pol"
+		],
+		"description": "org2pol (Matlab Map method)"
+	},
+	"originui": {
+		"prefix": "originui",
+		"body": [
+			"originui"
+		],
+		"description": "originui (Matlab Map method)"
+	},
+	"outlinegeoquad": {
+		"prefix": "outlinegeoquad",
+		"body": [
+			"outlinegeoquad"
+		],
+		"description": "outlinegeoquad (Matlab Map method)"
+	},
+	"parallelui": {
+		"prefix": "parallelui",
+		"body": [
+			"parallelui"
+		],
+		"description": "parallelui (Matlab Map method)"
+	},
+	"parametricLatitude": {
+		"prefix": "parametricLatitude",
+		"body": [
+			"parametricLatitude"
+		],
+		"description": "parametricLatitude (Matlab Map method)"
+	},
+	"pcolorm": {
+		"prefix": "pcolorm",
+		"body": [
+			"pcolorm"
+		],
+		"description": "pcolorm (Matlab Map method)"
+	},
+	"plabel": {
+		"prefix": "plabel",
+		"body": [
+			"plabel"
+		],
+		"description": "plabel (Matlab Map method)"
+	},
+	"plot3m": {
+		"prefix": "plot3m",
+		"body": [
+			"plot3m"
+		],
+		"description": "plot3m (Matlab Map method)"
+	},
+	"plotm": {
+		"prefix": "plotm",
+		"body": [
+			"plotm"
+		],
+		"description": "plotm (Matlab Map method)"
+	},
+	"polcmap": {
+		"prefix": "polcmap",
+		"body": [
+			"polcmap"
+		],
+		"description": "polcmap (Matlab Map method)"
+	},
+	"poly2ccw": {
+		"prefix": "poly2ccw",
+		"body": [
+			"poly2ccw"
+		],
+		"description": "poly2ccw (Matlab Map method)"
+	},
+	"poly2cw": {
+		"prefix": "poly2cw",
+		"body": [
+			"poly2cw"
+		],
+		"description": "poly2cw (Matlab Map method)"
+	},
+	"poly2fv": {
+		"prefix": "poly2fv",
+		"body": [
+			"poly2fv"
+		],
+		"description": "poly2fv (Matlab Map method)"
+	},
+	"polybool": {
+		"prefix": "polybool",
+		"body": [
+			"polybool"
+		],
+		"description": "polybool (Matlab Map method)"
+	},
+	"polyjoin": {
+		"prefix": "polyjoin",
+		"body": [
+			"polyjoin"
+		],
+		"description": "polyjoin (Matlab Map method)"
+	},
+	"polymerge": {
+		"prefix": "polymerge",
+		"body": [
+			"polymerge"
+		],
+		"description": "polymerge (Matlab Map method)"
+	},
+	"polysplit": {
+		"prefix": "polysplit",
+		"body": [
+			"polysplit"
+		],
+		"description": "polysplit (Matlab Map method)"
+	},
+	"polyxpoly": {
+		"prefix": "polyxpoly",
+		"body": [
+			"polyxpoly"
+		],
+		"description": "polyxpoly (Matlab Map method)"
+	},
+	"projfwd": {
+		"prefix": "projfwd",
+		"body": [
+			"projfwd"
+		],
+		"description": "projfwd (Matlab Map method)"
+	},
+	"projinv": {
+		"prefix": "projinv",
+		"body": [
+			"projinv"
+		],
+		"description": "projinv (Matlab Map method)"
+	},
+	"projlist": {
+		"prefix": "projlist",
+		"body": [
+			"projlist"
+		],
+		"description": "projlist (Matlab Map method)"
+	},
+	"putpole": {
+		"prefix": "putpole",
+		"body": [
+			"putpole"
+		],
+		"description": "putpole (Matlab Map method)"
+	},
+	"quiver3m": {
+		"prefix": "quiver3m",
+		"body": [
+			"quiver3m"
+		],
+		"description": "quiver3m (Matlab Map method)"
+	},
+	"quiverm": {
+		"prefix": "quiverm",
+		"body": [
+			"quiverm"
+		],
+		"description": "quiverm (Matlab Map method)"
+	},
+	"rad2km": {
+		"prefix": "rad2km",
+		"body": [
+			"rad2km"
+		],
+		"description": "rad2km (Matlab Map method)"
+	},
+	"rad2nm": {
+		"prefix": "rad2nm",
+		"body": [
+			"rad2nm"
+		],
+		"description": "rad2nm (Matlab Map method)"
+	},
+	"rad2sm": {
+		"prefix": "rad2sm",
+		"body": [
+			"rad2sm"
+		],
+		"description": "rad2sm (Matlab Map method)"
+	},
+	"rcurve": {
+		"prefix": "rcurve",
+		"body": [
+			"rcurve"
+		],
+		"description": "rcurve (Matlab Map method)"
+	},
+	"reckon": {
+		"prefix": "reckon",
+		"body": [
+			"reckon"
+		],
+		"description": "reckon (Matlab Map method)"
+	},
+	"reducem": {
+		"prefix": "reducem",
+		"body": [
+			"reducem"
+		],
+		"description": "reducem (Matlab Map method)"
+	},
+	"referenceEllipsoid": {
+		"prefix": "referenceEllipsoid",
+		"body": [
+			"referenceEllipsoid"
+		],
+		"description": "referenceEllipsoid (Matlab Map method)"
+	},
+	"referenceSphere": {
+		"prefix": "referenceSphere",
+		"body": [
+			"referenceSphere"
+		],
+		"description": "referenceSphere (Matlab Map method)"
+	},
+	"refmatToGeoRasterReference": {
+		"prefix": "refmatToGeoRasterReference",
+		"body": [
+			"refmatToGeoRasterReference"
+		],
+		"description": "refmatToGeoRasterReference (Matlab Map method)"
+	},
+	"refmatToMapRasterReference": {
+		"prefix": "refmatToMapRasterReference",
+		"body": [
+			"refmatToMapRasterReference"
+		],
+		"description": "refmatToMapRasterReference (Matlab Map method)"
+	},
+	"refmatToWorldFileMatrix": {
+		"prefix": "refmatToWorldFileMatrix",
+		"body": [
+			"refmatToWorldFileMatrix"
+		],
+		"description": "refmatToWorldFileMatrix (Matlab Map method)"
+	},
+	"refvecToGeoRasterReference": {
+		"prefix": "refvecToGeoRasterReference",
+		"body": [
+			"refvecToGeoRasterReference"
+		],
+		"description": "refvecToGeoRasterReference (Matlab Map method)"
+	},
+	"removeExtraNanSeparators": {
+		"prefix": "removeExtraNanSeparators",
+		"body": [
+			"removeExtraNanSeparators"
+		],
+		"description": "removeExtraNanSeparators (Matlab Map method)"
+	},
+	"resizem": {
+		"prefix": "resizem",
+		"body": [
+			"resizem"
+		],
+		"description": "resizem (Matlab Map method)"
+	},
+	"restack": {
+		"prefix": "restack",
+		"body": [
+			"restack"
+		],
+		"description": "restack (Matlab Map method)"
+	},
+	"rhxrh": {
+		"prefix": "rhxrh",
+		"body": [
+			"rhxrh"
+		],
+		"description": "rhxrh (Matlab Map method)"
+	},
+	"rotatem": {
+		"prefix": "rotatem",
+		"body": [
+			"rotatem"
+		],
+		"description": "rotatem (Matlab Map method)"
+	},
+	"rotatetext": {
+		"prefix": "rotatetext",
+		"body": [
+			"rotatetext"
+		],
+		"description": "rotatetext (Matlab Map method)"
+	},
+	"roundn": {
+		"prefix": "roundn",
+		"body": [
+			"roundn"
+		],
+		"description": "roundn (Matlab Map method)"
+	},
+	"rsphere": {
+		"prefix": "rsphere",
+		"body": [
+			"rsphere"
+		],
+		"description": "rsphere (Matlab Map method)"
+	},
+	"satbath": {
+		"prefix": "satbath",
+		"body": [
+			"satbath"
+		],
+		"description": "satbath (Matlab Map method)"
+	},
+	"scaleruler": {
+		"prefix": "scaleruler",
+		"body": [
+			"scaleruler"
+		],
+		"description": "scaleruler (Matlab Map method)"
+	},
+	"scatterm": {
+		"prefix": "scatterm",
+		"body": [
+			"scatterm"
+		],
+		"description": "scatterm (Matlab Map method)"
+	},
+	"scircle1": {
+		"prefix": "scircle1",
+		"body": [
+			"scircle1"
+		],
+		"description": "scircle1 (Matlab Map method)"
+	},
+	"scircle2": {
+		"prefix": "scircle2",
+		"body": [
+			"scircle2"
+		],
+		"description": "scircle2 (Matlab Map method)"
+	},
+	"scircleg": {
+		"prefix": "scircleg",
+		"body": [
+			"scircleg"
+		],
+		"description": "scircleg (Matlab Map method)"
+	},
+	"scirclui": {
+		"prefix": "scirclui",
+		"body": [
+			"scirclui"
+		],
+		"description": "scirclui (Matlab Map method)"
+	},
+	"scxsc": {
+		"prefix": "scxsc",
+		"body": [
+			"scxsc"
+		],
+		"description": "scxsc (Matlab Map method)"
+	},
+	"sdtsdemread": {
+		"prefix": "sdtsdemread",
+		"body": [
+			"sdtsdemread"
+		],
+		"description": "sdtsdemread (Matlab Map method)"
+	},
+	"sdtsinfo": {
+		"prefix": "sdtsinfo",
+		"body": [
+			"sdtsinfo"
+		],
+		"description": "sdtsinfo (Matlab Map method)"
+	},
+	"sectorg": {
+		"prefix": "sectorg",
+		"body": [
+			"sectorg"
+		],
+		"description": "sectorg (Matlab Map method)"
+	},
+	"setm": {
+		"prefix": "setm",
+		"body": [
+			"setm"
+		],
+		"description": "setm (Matlab Map method)"
+	},
+	"shaderel": {
+		"prefix": "shaderel",
+		"body": [
+			"shaderel"
+		],
+		"description": "shaderel (Matlab Map method)"
+	},
+	"shapeinfo": {
+		"prefix": "shapeinfo",
+		"body": [
+			"shapeinfo"
+		],
+		"description": "shapeinfo (Matlab Map method)"
+	},
+	"shaperead": {
+		"prefix": "shaperead",
+		"body": [
+			"shaperead"
+		],
+		"description": "shaperead (Matlab Map method)"
+	},
+	"shapewrite": {
+		"prefix": "shapewrite",
+		"body": [
+			"shapewrite"
+		],
+		"description": "shapewrite (Matlab Map method)"
+	},
+	"showaxes": {
+		"prefix": "showaxes",
+		"body": [
+			"showaxes"
+		],
+		"description": "showaxes (Matlab Map method)"
+	},
+	"sm2deg": {
+		"prefix": "sm2deg",
+		"body": [
+			"sm2deg"
+		],
+		"description": "sm2deg (Matlab Map method)"
+	},
+	"sm2km": {
+		"prefix": "sm2km",
+		"body": [
+			"sm2km"
+		],
+		"description": "sm2km (Matlab Map method)"
+	},
+	"sm2nm": {
+		"prefix": "sm2nm",
+		"body": [
+			"sm2nm"
+		],
+		"description": "sm2nm (Matlab Map method)"
+	},
+	"sm2rad": {
+		"prefix": "sm2rad",
+		"body": [
+			"sm2rad"
+		],
+		"description": "sm2rad (Matlab Map method)"
+	},
+	"stem3m": {
+		"prefix": "stem3m",
+		"body": [
+			"stem3m"
+		],
+		"description": "stem3m (Matlab Map method)"
+	},
+	"str2angle": {
+		"prefix": "str2angle",
+		"body": [
+			"str2angle"
+		],
+		"description": "str2angle (Matlab Map method)"
+	},
+	"surfacem": {
+		"prefix": "surfacem",
+		"body": [
+			"surfacem"
+		],
+		"description": "surfacem (Matlab Map method)"
+	},
+	"surflm": {
+		"prefix": "surflm",
+		"body": [
+			"surflm"
+		],
+		"description": "surflm (Matlab Map method)"
+	},
+	"surflsrm": {
+		"prefix": "surflsrm",
+		"body": [
+			"surflsrm"
+		],
+		"description": "surflsrm (Matlab Map method)"
+	},
+	"surfm": {
+		"prefix": "surfm",
+		"body": [
+			"surfm"
+		],
+		"description": "surfm (Matlab Map method)"
+	},
+	"symbolm": {
+		"prefix": "symbolm",
+		"body": [
+			"symbolm"
+		],
+		"description": "symbolm (Matlab Map method)"
+	},
+	"tagm": {
+		"prefix": "tagm",
+		"body": [
+			"tagm"
+		],
+		"description": "tagm (Matlab Map method)"
+	},
+	"tbase": {
+		"prefix": "tbase",
+		"body": [
+			"tbase"
+		],
+		"description": "tbase (Matlab Map method)"
+	},
+	"tightmap": {
+		"prefix": "tightmap",
+		"body": [
+			"tightmap"
+		],
+		"description": "tightmap (Matlab Map method)"
+	},
+	"tissot": {
+		"prefix": "tissot",
+		"body": [
+			"tissot"
+		],
+		"description": "tissot (Matlab Map method)"
+	},
+	"toDegrees": {
+		"prefix": "toDegrees",
+		"body": [
+			"toDegrees"
+		],
+		"description": "toDegrees (Matlab Map method)"
+	},
+	"toRadians": {
+		"prefix": "toRadians",
+		"body": [
+			"toRadians"
+		],
+		"description": "toRadians (Matlab Map method)"
+	},
+	"track1": {
+		"prefix": "track1",
+		"body": [
+			"track1"
+		],
+		"description": "track1 (Matlab Map method)"
+	},
+	"track2": {
+		"prefix": "track2",
+		"body": [
+			"track2"
+		],
+		"description": "track2 (Matlab Map method)"
+	},
+	"trackg": {
+		"prefix": "trackg",
+		"body": [
+			"trackg"
+		],
+		"description": "trackg (Matlab Map method)"
+	},
+	"trackui": {
+		"prefix": "trackui",
+		"body": [
+			"trackui"
+		],
+		"description": "trackui (Matlab Map method)"
+	},
+	"unitsratio": {
+		"prefix": "unitsratio",
+		"body": [
+			"unitsratio"
+		],
+		"description": "unitsratio (Matlab Map method)"
+	},
+	"unwrapMultipart": {
+		"prefix": "unwrapMultipart",
+		"body": [
+			"unwrapMultipart"
+		],
+		"description": "unwrapMultipart (Matlab Map method)"
+	},
+	"usamap": {
+		"prefix": "usamap",
+		"body": [
+			"usamap"
+		],
+		"description": "usamap (Matlab Map method)"
+	},
+	"usgs24kdem": {
+		"prefix": "usgs24kdem",
+		"body": [
+			"usgs24kdem"
+		],
+		"description": "usgs24kdem (Matlab Map method)"
+	},
+	"usgsdem": {
+		"prefix": "usgsdem",
+		"body": [
+			"usgsdem"
+		],
+		"description": "usgsdem (Matlab Map method)"
+	},
+	"usgsdems": {
+		"prefix": "usgsdems",
+		"body": [
+			"usgsdems"
+		],
+		"description": "usgsdems (Matlab Map method)"
+	},
+	"utmgeoid": {
+		"prefix": "utmgeoid",
+		"body": [
+			"utmgeoid"
+		],
+		"description": "utmgeoid (Matlab Map method)"
+	},
+	"utmzone": {
+		"prefix": "utmzone",
+		"body": [
+			"utmzone"
+		],
+		"description": "utmzone (Matlab Map method)"
+	},
+	"utmzoneui": {
+		"prefix": "utmzoneui",
+		"body": [
+			"utmzoneui"
+		],
+		"description": "utmzoneui (Matlab Map method)"
+	},
+	"validateLengthUnit": {
+		"prefix": "validateLengthUnit",
+		"body": [
+			"validateLengthUnit"
+		],
+		"description": "validateLengthUnit (Matlab Map method)"
+	},
+	"vec2mtx": {
+		"prefix": "vec2mtx",
+		"body": [
+			"vec2mtx"
+		],
+		"description": "vec2mtx (Matlab Map method)"
+	},
+	"vfwdtran": {
+		"prefix": "vfwdtran",
+		"body": [
+			"vfwdtran"
+		],
+		"description": "vfwdtran (Matlab Map method)"
+	},
+	"viewshed": {
+		"prefix": "viewshed",
+		"body": [
+			"viewshed"
+		],
+		"description": "viewshed (Matlab Map method)"
+	},
+	"vinvtran": {
+		"prefix": "vinvtran",
+		"body": [
+			"vinvtran"
+		],
+		"description": "vinvtran (Matlab Map method)"
+	},
+	"vmap0data": {
+		"prefix": "vmap0data",
+		"body": [
+			"vmap0data"
+		],
+		"description": "vmap0data (Matlab Map method)"
+	},
+	"vmap0read": {
+		"prefix": "vmap0read",
+		"body": [
+			"vmap0read"
+		],
+		"description": "vmap0read (Matlab Map method)"
+	},
+	"vmap0rhead": {
+		"prefix": "vmap0rhead",
+		"body": [
+			"vmap0rhead"
+		],
+		"description": "vmap0rhead (Matlab Map method)"
+	},
+	"vmap0ui": {
+		"prefix": "vmap0ui",
+		"body": [
+			"vmap0ui"
+		],
+		"description": "vmap0ui (Matlab Map method)"
+	},
+	"webmap": {
+		"prefix": "webmap",
+		"body": [
+			"webmap"
+		],
+		"description": "webmap (Matlab Map method)"
+	},
+	"wgs84Ellipsoid": {
+		"prefix": "wgs84Ellipsoid",
+		"body": [
+			"wgs84Ellipsoid"
+		],
+		"description": "wgs84Ellipsoid (Matlab Map method)"
+	},
+	"wmcenter": {
+		"prefix": "wmcenter",
+		"body": [
+			"wmcenter"
+		],
+		"description": "wmcenter (Matlab Map method)"
+	},
+	"wmclose": {
+		"prefix": "wmclose",
+		"body": [
+			"wmclose"
+		],
+		"description": "wmclose (Matlab Map method)"
+	},
+	"wmlimits": {
+		"prefix": "wmlimits",
+		"body": [
+			"wmlimits"
+		],
+		"description": "wmlimits (Matlab Map method)"
+	},
+	"wmline": {
+		"prefix": "wmline",
+		"body": [
+			"wmline"
+		],
+		"description": "wmline (Matlab Map method)"
+	},
+	"wmmarker": {
+		"prefix": "wmmarker",
+		"body": [
+			"wmmarker"
+		],
+		"description": "wmmarker (Matlab Map method)"
+	},
+	"wmprint": {
+		"prefix": "wmprint",
+		"body": [
+			"wmprint"
+		],
+		"description": "wmprint (Matlab Map method)"
+	},
+	"wmremove": {
+		"prefix": "wmremove",
+		"body": [
+			"wmremove"
+		],
+		"description": "wmremove (Matlab Map method)"
+	},
+	"wmsfind": {
+		"prefix": "wmsfind",
+		"body": [
+			"wmsfind"
+		],
+		"description": "wmsfind (Matlab Map method)"
+	},
+	"wmsinfo": {
+		"prefix": "wmsinfo",
+		"body": [
+			"wmsinfo"
+		],
+		"description": "wmsinfo (Matlab Map method)"
+	},
+	"wmsread": {
+		"prefix": "wmsread",
+		"body": [
+			"wmsread"
+		],
+		"description": "wmsread (Matlab Map method)"
+	},
+	"wmsupdate": {
+		"prefix": "wmsupdate",
+		"body": [
+			"wmsupdate"
+		],
+		"description": "wmsupdate (Matlab Map method)"
+	},
+	"wmzoom": {
+		"prefix": "wmzoom",
+		"body": [
+			"wmzoom"
+		],
+		"description": "wmzoom (Matlab Map method)"
+	},
+	"worldFileMatrixToRefmat": {
+		"prefix": "worldFileMatrixToRefmat",
+		"body": [
+			"worldFileMatrixToRefmat"
+		],
+		"description": "worldFileMatrixToRefmat (Matlab Map method)"
+	},
+	"worldfileread": {
+		"prefix": "worldfileread",
+		"body": [
+			"worldfileread"
+		],
+		"description": "worldfileread (Matlab Map method)"
+	},
+	"worldfilewrite": {
+		"prefix": "worldfilewrite",
+		"body": [
+			"worldfilewrite"
+		],
+		"description": "worldfilewrite (Matlab Map method)"
+	},
+	"worldmap": {
+		"prefix": "worldmap",
+		"body": [
+			"worldmap"
+		],
+		"description": "worldmap (Matlab Map method)"
+	},
+	"wrapTo180": {
+		"prefix": "wrapTo180",
+		"body": [
+			"wrapTo180"
+		],
+		"description": "wrapTo180 (Matlab Map method)"
+	},
+	"wrapTo2Pi": {
+		"prefix": "wrapTo2Pi",
+		"body": [
+			"wrapTo2Pi"
+		],
+		"description": "wrapTo2Pi (Matlab Map method)"
+	},
+	"wrapTo360": {
+		"prefix": "wrapTo360",
+		"body": [
+			"wrapTo360"
+		],
+		"description": "wrapTo360 (Matlab Map method)"
+	},
+	"wrapToPi": {
+		"prefix": "wrapToPi",
+		"body": [
+			"wrapToPi"
+		],
+		"description": "wrapToPi (Matlab Map method)"
+	},
+	"zdatam": {
+		"prefix": "zdatam",
+		"body": [
+			"zdatam"
+		],
+		"description": "zdatam (Matlab Map method)"
+	}
+}

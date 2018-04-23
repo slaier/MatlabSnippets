@@ -1,0 +1,282 @@
+{
+    "CAN.ChannelInfo": {
+        "prefix": "CAN.ChannelInfo",
+        "body": [
+            "CAN.ChannelInfo"
+        ],
+        "description": "CAN.ChannelInfo (Matlab VNT method)"
+    },
+    "CAN.VendorInfo": {
+        "prefix": "CAN.VendorInfo",
+        "body": [
+            "CAN.VendorInfo"
+        ],
+        "description": "CAN.VendorInfo (Matlab VNT method)"
+    },
+    "attachDatabase": {
+        "prefix": "attachDatabase",
+        "body": [
+            "attachDatabase"
+        ],
+        "description": "attachDatabase (Matlab VNT method)"
+    },
+    "canChannel": {
+        "prefix": "canChannel",
+        "body": [
+            "canChannel"
+        ],
+        "description": "canChannel (Matlab VNT method)"
+    },
+    "canDatabase": {
+        "prefix": "canDatabase",
+        "body": [
+            "canDatabase"
+        ],
+        "description": "canDatabase (Matlab VNT method)"
+    },
+    "canHWInfo": {
+        "prefix": "canHWInfo",
+        "body": [
+            "canHWInfo"
+        ],
+        "description": "canHWInfo (Matlab VNT method)"
+    },
+    "canMessage": {
+        "prefix": "canMessage",
+        "body": [
+            "canMessage"
+        ],
+        "description": "canMessage (Matlab VNT method)"
+    },
+    "canMessageImport": {
+        "prefix": "canMessageImport",
+        "body": [
+            "canMessageImport"
+        ],
+        "description": "canMessageImport (Matlab VNT method)"
+    },
+    "canTool": {
+        "prefix": "canTool",
+        "body": [
+            "canTool"
+        ],
+        "description": "canTool (Matlab VNT method)"
+    },
+    "configBusSpeed": {
+        "prefix": "configBusSpeed",
+        "body": [
+            "configBusSpeed"
+        ],
+        "description": "configBusSpeed (Matlab VNT method)"
+    },
+    "createMeasurementList": {
+        "prefix": "createMeasurementList",
+        "body": [
+            "createMeasurementList"
+        ],
+        "description": "createMeasurementList (Matlab VNT method)"
+    },
+    "discard": {
+        "prefix": "discard",
+        "body": [
+            "discard"
+        ],
+        "description": "discard (Matlab VNT method)"
+    },
+    "extractAll": {
+        "prefix": "extractAll",
+        "body": [
+            "extractAll"
+        ],
+        "description": "extractAll (Matlab VNT method)"
+    },
+    "extractRecent": {
+        "prefix": "extractRecent",
+        "body": [
+            "extractRecent"
+        ],
+        "description": "extractRecent (Matlab VNT method)"
+    },
+    "extractTime": {
+        "prefix": "extractTime",
+        "body": [
+            "extractTime"
+        ],
+        "description": "extractTime (Matlab VNT method)"
+    },
+    "filterAllowAll": {
+        "prefix": "filterAllowAll",
+        "body": [
+            "filterAllowAll"
+        ],
+        "description": "filterAllowAll (Matlab VNT method)"
+    },
+    "filterAllowOnly": {
+        "prefix": "filterAllowOnly",
+        "body": [
+            "filterAllowOnly"
+        ],
+        "description": "filterAllowOnly (Matlab VNT method)"
+    },
+    "filterBlockAll": {
+        "prefix": "filterBlockAll",
+        "body": [
+            "filterBlockAll"
+        ],
+        "description": "filterBlockAll (Matlab VNT method)"
+    },
+    "freeMeasurementLists": {
+        "prefix": "freeMeasurementLists",
+        "body": [
+            "freeMeasurementLists"
+        ],
+        "description": "freeMeasurementLists (Matlab VNT method)"
+    },
+    "getEventInfo": {
+        "prefix": "getEventInfo",
+        "body": [
+            "getEventInfo"
+        ],
+        "description": "getEventInfo (Matlab VNT method)"
+    },
+    "getMeasurementInfo": {
+        "prefix": "getMeasurementInfo",
+        "body": [
+            "getMeasurementInfo"
+        ],
+        "description": "getMeasurementInfo (Matlab VNT method)"
+    },
+    "isMeasurementRunning": {
+        "prefix": "isMeasurementRunning",
+        "body": [
+            "isMeasurementRunning"
+        ],
+        "description": "isMeasurementRunning (Matlab VNT method)"
+    },
+    "j1939Channel": {
+        "prefix": "j1939Channel",
+        "body": [
+            "j1939Channel"
+        ],
+        "description": "j1939Channel (Matlab VNT method)"
+    },
+    "j1939ParameterGroup": {
+        "prefix": "j1939ParameterGroup",
+        "body": [
+            "j1939ParameterGroup"
+        ],
+        "description": "j1939ParameterGroup (Matlab VNT method)"
+    },
+    "messageInfo": {
+        "prefix": "messageInfo",
+        "body": [
+            "messageInfo"
+        ],
+        "description": "messageInfo (Matlab VNT method)"
+    },
+    "readDAQListData": {
+        "prefix": "readDAQListData",
+        "body": [
+            "readDAQListData"
+        ],
+        "description": "readDAQListData (Matlab VNT method)"
+    },
+    "readSingleValue": {
+        "prefix": "readSingleValue",
+        "body": [
+            "readSingleValue"
+        ],
+        "description": "readSingleValue (Matlab VNT method)"
+    },
+    "replay": {
+        "prefix": "replay",
+        "body": [
+            "replay"
+        ],
+        "description": "replay (Matlab VNT method)"
+    },
+    "signalInfo": {
+        "prefix": "signalInfo",
+        "body": [
+            "signalInfo"
+        ],
+        "description": "signalInfo (Matlab VNT method)"
+    },
+    "startMeasurement": {
+        "prefix": "startMeasurement",
+        "body": [
+            "startMeasurement"
+        ],
+        "description": "startMeasurement (Matlab VNT method)"
+    },
+    "stopMeasurement": {
+        "prefix": "stopMeasurement",
+        "body": [
+            "stopMeasurement"
+        ],
+        "description": "stopMeasurement (Matlab VNT method)"
+    },
+    "transmit": {
+        "prefix": "transmit",
+        "body": [
+            "transmit"
+        ],
+        "description": "transmit (Matlab VNT method)"
+    },
+    "transmitConfiguration": {
+        "prefix": "transmitConfiguration",
+        "body": [
+            "transmitConfiguration"
+        ],
+        "description": "transmitConfiguration (Matlab VNT method)"
+    },
+    "transmitEvent": {
+        "prefix": "transmitEvent",
+        "body": [
+            "transmitEvent"
+        ],
+        "description": "transmitEvent (Matlab VNT method)"
+    },
+    "transmitPeriodic": {
+        "prefix": "transmitPeriodic",
+        "body": [
+            "transmitPeriodic"
+        ],
+        "description": "transmitPeriodic (Matlab VNT method)"
+    },
+    "viewMeasurementLists": {
+        "prefix": "viewMeasurementLists",
+        "body": [
+            "viewMeasurementLists"
+        ],
+        "description": "viewMeasurementLists (Matlab VNT method)"
+    },
+    "writeSTIMListData": {
+        "prefix": "writeSTIMListData",
+        "body": [
+            "writeSTIMListData"
+        ],
+        "description": "writeSTIMListData (Matlab VNT method)"
+    },
+    "writeSingleValue": {
+        "prefix": "writeSingleValue",
+        "body": [
+            "writeSingleValue"
+        ],
+        "description": "writeSingleValue (Matlab VNT method)"
+    },
+    "xcpA2L": {
+        "prefix": "xcpA2L",
+        "body": [
+            "xcpA2L"
+        ],
+        "description": "xcpA2L (Matlab VNT method)"
+    },
+    "xcpChannel": {
+        "prefix": "xcpChannel",
+        "body": [
+            "xcpChannel"
+        ],
+        "description": "xcpChannel (Matlab VNT method)"
+    }
+}

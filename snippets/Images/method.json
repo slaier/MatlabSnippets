@@ -1,0 +1,2088 @@
+{
+	"ImageAdapter": {
+		"prefix": "ImageAdapter",
+		"body": [
+			"ImageAdapter"
+		],
+		"description": "ImageAdapter (Matlab Images method)"
+	},
+	"activecontour": {
+		"prefix": "activecontour",
+		"body": [
+			"activecontour"
+		],
+		"description": "activecontour (Matlab Images method)"
+	},
+	"adapthisteq": {
+		"prefix": "adapthisteq",
+		"body": [
+			"adapthisteq"
+		],
+		"description": "adapthisteq (Matlab Images method)"
+	},
+	"analyze75info": {
+		"prefix": "analyze75info",
+		"body": [
+			"analyze75info"
+		],
+		"description": "analyze75info (Matlab Images method)"
+	},
+	"analyze75read": {
+		"prefix": "analyze75read",
+		"body": [
+			"analyze75read"
+		],
+		"description": "analyze75read (Matlab Images method)"
+	},
+	"applycform": {
+		"prefix": "applycform",
+		"body": [
+			"applycform"
+		],
+		"description": "applycform (Matlab Images method)"
+	},
+	"applylut": {
+		"prefix": "applylut",
+		"body": [
+			"applylut"
+		],
+		"description": "applylut (Matlab Images method)"
+	},
+	"axes2pix": {
+		"prefix": "axes2pix",
+		"body": [
+			"axes2pix"
+		],
+		"description": "axes2pix (Matlab Images method)"
+	},
+	"bestblk": {
+		"prefix": "bestblk",
+		"body": [
+			"bestblk"
+		],
+		"description": "bestblk (Matlab Images method)"
+	},
+	"blockproc": {
+		"prefix": "blockproc",
+		"body": [
+			"blockproc"
+		],
+		"description": "blockproc (Matlab Images method)"
+	},
+	"bwarea": {
+		"prefix": "bwarea",
+		"body": [
+			"bwarea"
+		],
+		"description": "bwarea (Matlab Images method)"
+	},
+	"bwareafilt": {
+		"prefix": "bwareafilt",
+		"body": [
+			"bwareafilt"
+		],
+		"description": "bwareafilt (Matlab Images method)"
+	},
+	"bwareaopen": {
+		"prefix": "bwareaopen",
+		"body": [
+			"bwareaopen"
+		],
+		"description": "bwareaopen (Matlab Images method)"
+	},
+	"bwboundaries": {
+		"prefix": "bwboundaries",
+		"body": [
+			"bwboundaries"
+		],
+		"description": "bwboundaries (Matlab Images method)"
+	},
+	"bwconvhull": {
+		"prefix": "bwconvhull",
+		"body": [
+			"bwconvhull"
+		],
+		"description": "bwconvhull (Matlab Images method)"
+	},
+	"bwdist": {
+		"prefix": "bwdist",
+		"body": [
+			"bwdist"
+		],
+		"description": "bwdist (Matlab Images method)"
+	},
+	"bwdistgeodesic": {
+		"prefix": "bwdistgeodesic",
+		"body": [
+			"bwdistgeodesic"
+		],
+		"description": "bwdistgeodesic (Matlab Images method)"
+	},
+	"bweuler": {
+		"prefix": "bweuler",
+		"body": [
+			"bweuler"
+		],
+		"description": "bweuler (Matlab Images method)"
+	},
+	"bwhitmiss": {
+		"prefix": "bwhitmiss",
+		"body": [
+			"bwhitmiss"
+		],
+		"description": "bwhitmiss (Matlab Images method)"
+	},
+	"bwlookup": {
+		"prefix": "bwlookup",
+		"body": [
+			"bwlookup"
+		],
+		"description": "bwlookup (Matlab Images method)"
+	},
+	"bwpack": {
+		"prefix": "bwpack",
+		"body": [
+			"bwpack"
+		],
+		"description": "bwpack (Matlab Images method)"
+	},
+	"bwperim": {
+		"prefix": "bwperim",
+		"body": [
+			"bwperim"
+		],
+		"description": "bwperim (Matlab Images method)"
+	},
+	"bwpropfilt": {
+		"prefix": "bwpropfilt",
+		"body": [
+			"bwpropfilt"
+		],
+		"description": "bwpropfilt (Matlab Images method)"
+	},
+	"bwselect": {
+		"prefix": "bwselect",
+		"body": [
+			"bwselect"
+		],
+		"description": "bwselect (Matlab Images method)"
+	},
+	"bwtraceboundary": {
+		"prefix": "bwtraceboundary",
+		"body": [
+			"bwtraceboundary"
+		],
+		"description": "bwtraceboundary (Matlab Images method)"
+	},
+	"bwulterode": {
+		"prefix": "bwulterode",
+		"body": [
+			"bwulterode"
+		],
+		"description": "bwulterode (Matlab Images method)"
+	},
+	"bwunpack": {
+		"prefix": "bwunpack",
+		"body": [
+			"bwunpack"
+		],
+		"description": "bwunpack (Matlab Images method)"
+	},
+	"checkerboard": {
+		"prefix": "checkerboard",
+		"body": [
+			"checkerboard"
+		],
+		"description": "checkerboard (Matlab Images method)"
+	},
+	"col2im": {
+		"prefix": "col2im",
+		"body": [
+			"col2im"
+		],
+		"description": "col2im (Matlab Images method)"
+	},
+	"colfilt": {
+		"prefix": "colfilt",
+		"body": [
+			"colfilt"
+		],
+		"description": "colfilt (Matlab Images method)"
+	},
+	"conndef": {
+		"prefix": "conndef",
+		"body": [
+			"conndef"
+		],
+		"description": "conndef (Matlab Images method)"
+	},
+	"convmtx2": {
+		"prefix": "convmtx2",
+		"body": [
+			"convmtx2"
+		],
+		"description": "convmtx2 (Matlab Images method)"
+	},
+	"corner": {
+		"prefix": "corner",
+		"body": [
+			"corner"
+		],
+		"description": "corner (Matlab Images method)"
+	},
+	"cornermetric": {
+		"prefix": "cornermetric",
+		"body": [
+			"cornermetric"
+		],
+		"description": "cornermetric (Matlab Images method)"
+	},
+	"corr2": {
+		"prefix": "corr2",
+		"body": [
+			"corr2"
+		],
+		"description": "corr2 (Matlab Images method)"
+	},
+	"cp2tform": {
+		"prefix": "cp2tform",
+		"body": [
+			"cp2tform"
+		],
+		"description": "cp2tform (Matlab Images method)"
+	},
+	"cpcorr": {
+		"prefix": "cpcorr",
+		"body": [
+			"cpcorr"
+		],
+		"description": "cpcorr (Matlab Images method)"
+	},
+	"cpselect": {
+		"prefix": "cpselect",
+		"body": [
+			"cpselect"
+		],
+		"description": "cpselect (Matlab Images method)"
+	},
+	"cpstruct2pairs": {
+		"prefix": "cpstruct2pairs",
+		"body": [
+			"cpstruct2pairs"
+		],
+		"description": "cpstruct2pairs (Matlab Images method)"
+	},
+	"dct2": {
+		"prefix": "dct2",
+		"body": [
+			"dct2"
+		],
+		"description": "dct2 (Matlab Images method)"
+	},
+	"dctmtx": {
+		"prefix": "dctmtx",
+		"body": [
+			"dctmtx"
+		],
+		"description": "dctmtx (Matlab Images method)"
+	},
+	"deconvblind": {
+		"prefix": "deconvblind",
+		"body": [
+			"deconvblind"
+		],
+		"description": "deconvblind (Matlab Images method)"
+	},
+	"deconvlucy": {
+		"prefix": "deconvlucy",
+		"body": [
+			"deconvlucy"
+		],
+		"description": "deconvlucy (Matlab Images method)"
+	},
+	"deconvreg": {
+		"prefix": "deconvreg",
+		"body": [
+			"deconvreg"
+		],
+		"description": "deconvreg (Matlab Images method)"
+	},
+	"deconvwnr": {
+		"prefix": "deconvwnr",
+		"body": [
+			"deconvwnr"
+		],
+		"description": "deconvwnr (Matlab Images method)"
+	},
+	"decorrstretch": {
+		"prefix": "decorrstretch",
+		"body": [
+			"decorrstretch"
+		],
+		"description": "decorrstretch (Matlab Images method)"
+	},
+	"demosaic": {
+		"prefix": "demosaic",
+		"body": [
+			"demosaic"
+		],
+		"description": "demosaic (Matlab Images method)"
+	},
+	"dicomanon": {
+		"prefix": "dicomanon",
+		"body": [
+			"dicomanon"
+		],
+		"description": "dicomanon (Matlab Images method)"
+	},
+	"dicomdict": {
+		"prefix": "dicomdict",
+		"body": [
+			"dicomdict"
+		],
+		"description": "dicomdict (Matlab Images method)"
+	},
+	"dicomdisp": {
+		"prefix": "dicomdisp",
+		"body": [
+			"dicomdisp"
+		],
+		"description": "dicomdisp (Matlab Images method)"
+	},
+	"dicominfo": {
+		"prefix": "dicominfo",
+		"body": [
+			"dicominfo"
+		],
+		"description": "dicominfo (Matlab Images method)"
+	},
+	"dicomlookup": {
+		"prefix": "dicomlookup",
+		"body": [
+			"dicomlookup"
+		],
+		"description": "dicomlookup (Matlab Images method)"
+	},
+	"dicomread": {
+		"prefix": "dicomread",
+		"body": [
+			"dicomread"
+		],
+		"description": "dicomread (Matlab Images method)"
+	},
+	"dicomuid": {
+		"prefix": "dicomuid",
+		"body": [
+			"dicomuid"
+		],
+		"description": "dicomuid (Matlab Images method)"
+	},
+	"dicomwrite": {
+		"prefix": "dicomwrite",
+		"body": [
+			"dicomwrite"
+		],
+		"description": "dicomwrite (Matlab Images method)"
+	},
+	"dpxinfo": {
+		"prefix": "dpxinfo",
+		"body": [
+			"dpxinfo"
+		],
+		"description": "dpxinfo (Matlab Images method)"
+	},
+	"dpxread": {
+		"prefix": "dpxread",
+		"body": [
+			"dpxread"
+		],
+		"description": "dpxread (Matlab Images method)"
+	},
+	"edge": {
+		"prefix": "edge",
+		"body": [
+			"edge"
+		],
+		"description": "edge (Matlab Images method)"
+	},
+	"edgetaper": {
+		"prefix": "edgetaper",
+		"body": [
+			"edgetaper"
+		],
+		"description": "edgetaper (Matlab Images method)"
+	},
+	"entropy": {
+		"prefix": "entropy",
+		"body": [
+			"entropy"
+		],
+		"description": "entropy (Matlab Images method)"
+	},
+	"entropyfilt": {
+		"prefix": "entropyfilt",
+		"body": [
+			"entropyfilt"
+		],
+		"description": "entropyfilt (Matlab Images method)"
+	},
+	"fan2para": {
+		"prefix": "fan2para",
+		"body": [
+			"fan2para"
+		],
+		"description": "fan2para (Matlab Images method)"
+	},
+	"fanbeam": {
+		"prefix": "fanbeam",
+		"body": [
+			"fanbeam"
+		],
+		"description": "fanbeam (Matlab Images method)"
+	},
+	"findbounds": {
+		"prefix": "findbounds",
+		"body": [
+			"findbounds"
+		],
+		"description": "findbounds (Matlab Images method)"
+	},
+	"fitgeotrans": {
+		"prefix": "fitgeotrans",
+		"body": [
+			"fitgeotrans"
+		],
+		"description": "fitgeotrans (Matlab Images method)"
+	},
+	"fliptform": {
+		"prefix": "fliptform",
+		"body": [
+			"fliptform"
+		],
+		"description": "fliptform (Matlab Images method)"
+	},
+	"freqz2": {
+		"prefix": "freqz2",
+		"body": [
+			"freqz2"
+		],
+		"description": "freqz2 (Matlab Images method)"
+	},
+	"fsamp2": {
+		"prefix": "fsamp2",
+		"body": [
+			"fsamp2"
+		],
+		"description": "fsamp2 (Matlab Images method)"
+	},
+	"fspecial": {
+		"prefix": "fspecial",
+		"body": [
+			"fspecial"
+		],
+		"description": "fspecial (Matlab Images method)"
+	},
+	"ftrans2": {
+		"prefix": "ftrans2",
+		"body": [
+			"ftrans2"
+		],
+		"description": "ftrans2 (Matlab Images method)"
+	},
+	"fwind1": {
+		"prefix": "fwind1",
+		"body": [
+			"fwind1"
+		],
+		"description": "fwind1 (Matlab Images method)"
+	},
+	"fwind2": {
+		"prefix": "fwind2",
+		"body": [
+			"fwind2"
+		],
+		"description": "fwind2 (Matlab Images method)"
+	},
+	"gabor": {
+		"prefix": "gabor",
+		"body": [
+			"gabor"
+		],
+		"description": "gabor (Matlab Images method)"
+	},
+	"getheight": {
+		"prefix": "getheight",
+		"body": [
+			"getheight"
+		],
+		"description": "getheight (Matlab Images method)"
+	},
+	"getimage": {
+		"prefix": "getimage",
+		"body": [
+			"getimage"
+		],
+		"description": "getimage (Matlab Images method)"
+	},
+	"getimagemodel": {
+		"prefix": "getimagemodel",
+		"body": [
+			"getimagemodel"
+		],
+		"description": "getimagemodel (Matlab Images method)"
+	},
+	"getline": {
+		"prefix": "getline",
+		"body": [
+			"getline"
+		],
+		"description": "getline (Matlab Images method)"
+	},
+	"getneighbors": {
+		"prefix": "getneighbors",
+		"body": [
+			"getneighbors"
+		],
+		"description": "getneighbors (Matlab Images method)"
+	},
+	"getnhood": {
+		"prefix": "getnhood",
+		"body": [
+			"getnhood"
+		],
+		"description": "getnhood (Matlab Images method)"
+	},
+	"getpts": {
+		"prefix": "getpts",
+		"body": [
+			"getpts"
+		],
+		"description": "getpts (Matlab Images method)"
+	},
+	"getrangefromclass": {
+		"prefix": "getrangefromclass",
+		"body": [
+			"getrangefromclass"
+		],
+		"description": "getrangefromclass (Matlab Images method)"
+	},
+	"getrect": {
+		"prefix": "getrect",
+		"body": [
+			"getrect"
+		],
+		"description": "getrect (Matlab Images method)"
+	},
+	"getsequence": {
+		"prefix": "getsequence",
+		"body": [
+			"getsequence"
+		],
+		"description": "getsequence (Matlab Images method)"
+	},
+	"gradientweight": {
+		"prefix": "gradientweight",
+		"body": [
+			"gradientweight"
+		],
+		"description": "gradientweight (Matlab Images method)"
+	},
+	"gray2ind": {
+		"prefix": "gray2ind",
+		"body": [
+			"gray2ind"
+		],
+		"description": "gray2ind (Matlab Images method)"
+	},
+	"graycomatrix": {
+		"prefix": "graycomatrix",
+		"body": [
+			"graycomatrix"
+		],
+		"description": "graycomatrix (Matlab Images method)"
+	},
+	"grayconnected": {
+		"prefix": "grayconnected",
+		"body": [
+			"grayconnected"
+		],
+		"description": "grayconnected (Matlab Images method)"
+	},
+	"graycoprops": {
+		"prefix": "graycoprops",
+		"body": [
+			"graycoprops"
+		],
+		"description": "graycoprops (Matlab Images method)"
+	},
+	"graydiffweight": {
+		"prefix": "graydiffweight",
+		"body": [
+			"graydiffweight"
+		],
+		"description": "graydiffweight (Matlab Images method)"
+	},
+	"graydist": {
+		"prefix": "graydist",
+		"body": [
+			"graydist"
+		],
+		"description": "graydist (Matlab Images method)"
+	},
+	"grayslice": {
+		"prefix": "grayslice",
+		"body": [
+			"grayslice"
+		],
+		"description": "grayslice (Matlab Images method)"
+	},
+	"graythresh": {
+		"prefix": "graythresh",
+		"body": [
+			"graythresh"
+		],
+		"description": "graythresh (Matlab Images method)"
+	},
+	"hdrread": {
+		"prefix": "hdrread",
+		"body": [
+			"hdrread"
+		],
+		"description": "hdrread (Matlab Images method)"
+	},
+	"hdrwrite": {
+		"prefix": "hdrwrite",
+		"body": [
+			"hdrwrite"
+		],
+		"description": "hdrwrite (Matlab Images method)"
+	},
+	"histeq": {
+		"prefix": "histeq",
+		"body": [
+			"histeq"
+		],
+		"description": "histeq (Matlab Images method)"
+	},
+	"hough": {
+		"prefix": "hough",
+		"body": [
+			"hough"
+		],
+		"description": "hough (Matlab Images method)"
+	},
+	"houghlines": {
+		"prefix": "houghlines",
+		"body": [
+			"houghlines"
+		],
+		"description": "houghlines (Matlab Images method)"
+	},
+	"houghpeaks": {
+		"prefix": "houghpeaks",
+		"body": [
+			"houghpeaks"
+		],
+		"description": "houghpeaks (Matlab Images method)"
+	},
+	"iccfind": {
+		"prefix": "iccfind",
+		"body": [
+			"iccfind"
+		],
+		"description": "iccfind (Matlab Images method)"
+	},
+	"iccread": {
+		"prefix": "iccread",
+		"body": [
+			"iccread"
+		],
+		"description": "iccread (Matlab Images method)"
+	},
+	"iccroot": {
+		"prefix": "iccroot",
+		"body": [
+			"iccroot"
+		],
+		"description": "iccroot (Matlab Images method)"
+	},
+	"iccwrite": {
+		"prefix": "iccwrite",
+		"body": [
+			"iccwrite"
+		],
+		"description": "iccwrite (Matlab Images method)"
+	},
+	"idct2": {
+		"prefix": "idct2",
+		"body": [
+			"idct2"
+		],
+		"description": "idct2 (Matlab Images method)"
+	},
+	"ifanbeam": {
+		"prefix": "ifanbeam",
+		"body": [
+			"ifanbeam"
+		],
+		"description": "ifanbeam (Matlab Images method)"
+	},
+	"im2bw": {
+		"prefix": "im2bw",
+		"body": [
+			"im2bw"
+		],
+		"description": "im2bw (Matlab Images method)"
+	},
+	"im2col": {
+		"prefix": "im2col",
+		"body": [
+			"im2col"
+		],
+		"description": "im2col (Matlab Images method)"
+	},
+	"im2int16": {
+		"prefix": "im2int16",
+		"body": [
+			"im2int16"
+		],
+		"description": "im2int16 (Matlab Images method)"
+	},
+	"im2java2d": {
+		"prefix": "im2java2d",
+		"body": [
+			"im2java2d"
+		],
+		"description": "im2java2d (Matlab Images method)"
+	},
+	"im2single": {
+		"prefix": "im2single",
+		"body": [
+			"im2single"
+		],
+		"description": "im2single (Matlab Images method)"
+	},
+	"im2uint16": {
+		"prefix": "im2uint16",
+		"body": [
+			"im2uint16"
+		],
+		"description": "im2uint16 (Matlab Images method)"
+	},
+	"im2uint8": {
+		"prefix": "im2uint8",
+		"body": [
+			"im2uint8"
+		],
+		"description": "im2uint8 (Matlab Images method)"
+	},
+	"imabsdiff": {
+		"prefix": "imabsdiff",
+		"body": [
+			"imabsdiff"
+		],
+		"description": "imabsdiff (Matlab Images method)"
+	},
+	"imadd": {
+		"prefix": "imadd",
+		"body": [
+			"imadd"
+		],
+		"description": "imadd (Matlab Images method)"
+	},
+	"imadjust": {
+		"prefix": "imadjust",
+		"body": [
+			"imadjust"
+		],
+		"description": "imadjust (Matlab Images method)"
+	},
+	"imageinfo": {
+		"prefix": "imageinfo",
+		"body": [
+			"imageinfo"
+		],
+		"description": "imageinfo (Matlab Images method)"
+	},
+	"imagemodel": {
+		"prefix": "imagemodel",
+		"body": [
+			"imagemodel"
+		],
+		"description": "imagemodel (Matlab Images method)"
+	},
+	"images.geotrans.LocalWeightedMeanTransformation2D": {
+		"prefix": "images.geotrans.LocalWeightedMeanTransformation2D",
+		"body": [
+			"images.geotrans.LocalWeightedMeanTransformation2D"
+		],
+		"description": "images.geotrans.LocalWeightedMeanTransformation2D (Matlab Images method)"
+	},
+	"images.geotrans.PiecewiseLinearTransformation2D": {
+		"prefix": "images.geotrans.PiecewiseLinearTransformation2D",
+		"body": [
+			"images.geotrans.PiecewiseLinearTransformation2D"
+		],
+		"description": "images.geotrans.PiecewiseLinearTransformation2D (Matlab Images method)"
+	},
+	"images.geotrans.PolynomialTransformation2D": {
+		"prefix": "images.geotrans.PolynomialTransformation2D",
+		"body": [
+			"images.geotrans.PolynomialTransformation2D"
+		],
+		"description": "images.geotrans.PolynomialTransformation2D (Matlab Images method)"
+	},
+	"imapplymatrix": {
+		"prefix": "imapplymatrix",
+		"body": [
+			"imapplymatrix"
+		],
+		"description": "imapplymatrix (Matlab Images method)"
+	},
+	"imattributes": {
+		"prefix": "imattributes",
+		"body": [
+			"imattributes"
+		],
+		"description": "imattributes (Matlab Images method)"
+	},
+	"imboxfilt": {
+		"prefix": "imboxfilt",
+		"body": [
+			"imboxfilt"
+		],
+		"description": "imboxfilt (Matlab Images method)"
+	},
+	"imboxfilt3": {
+		"prefix": "imboxfilt3",
+		"body": [
+			"imboxfilt3"
+		],
+		"description": "imboxfilt3 (Matlab Images method)"
+	},
+	"imclearborder": {
+		"prefix": "imclearborder",
+		"body": [
+			"imclearborder"
+		],
+		"description": "imclearborder (Matlab Images method)"
+	},
+	"imcolormaptool": {
+		"prefix": "imcolormaptool",
+		"body": [
+			"imcolormaptool"
+		],
+		"description": "imcolormaptool (Matlab Images method)"
+	},
+	"imcomplement": {
+		"prefix": "imcomplement",
+		"body": [
+			"imcomplement"
+		],
+		"description": "imcomplement (Matlab Images method)"
+	},
+	"imcontour": {
+		"prefix": "imcontour",
+		"body": [
+			"imcontour"
+		],
+		"description": "imcontour (Matlab Images method)"
+	},
+	"imcontrast": {
+		"prefix": "imcontrast",
+		"body": [
+			"imcontrast"
+		],
+		"description": "imcontrast (Matlab Images method)"
+	},
+	"imcrop": {
+		"prefix": "imcrop",
+		"body": [
+			"imcrop"
+		],
+		"description": "imcrop (Matlab Images method)"
+	},
+	"imdisplayrange": {
+		"prefix": "imdisplayrange",
+		"body": [
+			"imdisplayrange"
+		],
+		"description": "imdisplayrange (Matlab Images method)"
+	},
+	"imdistline": {
+		"prefix": "imdistline",
+		"body": [
+			"imdistline"
+		],
+		"description": "imdistline (Matlab Images method)"
+	},
+	"imdivide": {
+		"prefix": "imdivide",
+		"body": [
+			"imdivide"
+		],
+		"description": "imdivide (Matlab Images method)"
+	},
+	"imellipse": {
+		"prefix": "imellipse",
+		"body": [
+			"imellipse"
+		],
+		"description": "imellipse (Matlab Images method)"
+	},
+	"imextendedmax": {
+		"prefix": "imextendedmax",
+		"body": [
+			"imextendedmax"
+		],
+		"description": "imextendedmax (Matlab Images method)"
+	},
+	"imextendedmin": {
+		"prefix": "imextendedmin",
+		"body": [
+			"imextendedmin"
+		],
+		"description": "imextendedmin (Matlab Images method)"
+	},
+	"imfill": {
+		"prefix": "imfill",
+		"body": [
+			"imfill"
+		],
+		"description": "imfill (Matlab Images method)"
+	},
+	"imfilter": {
+		"prefix": "imfilter",
+		"body": [
+			"imfilter"
+		],
+		"description": "imfilter (Matlab Images method)"
+	},
+	"imfindcircles": {
+		"prefix": "imfindcircles",
+		"body": [
+			"imfindcircles"
+		],
+		"description": "imfindcircles (Matlab Images method)"
+	},
+	"imfreehand": {
+		"prefix": "imfreehand",
+		"body": [
+			"imfreehand"
+		],
+		"description": "imfreehand (Matlab Images method)"
+	},
+	"imfuse": {
+		"prefix": "imfuse",
+		"body": [
+			"imfuse"
+		],
+		"description": "imfuse (Matlab Images method)"
+	},
+	"imgaborfilt": {
+		"prefix": "imgaborfilt",
+		"body": [
+			"imgaborfilt"
+		],
+		"description": "imgaborfilt (Matlab Images method)"
+	},
+	"imgaussfilt": {
+		"prefix": "imgaussfilt",
+		"body": [
+			"imgaussfilt"
+		],
+		"description": "imgaussfilt (Matlab Images method)"
+	},
+	"imgaussfilt3": {
+		"prefix": "imgaussfilt3",
+		"body": [
+			"imgaussfilt3"
+		],
+		"description": "imgaussfilt3 (Matlab Images method)"
+	},
+	"imgca": {
+		"prefix": "imgca",
+		"body": [
+			"imgca"
+		],
+		"description": "imgca (Matlab Images method)"
+	},
+	"imgcf": {
+		"prefix": "imgcf",
+		"body": [
+			"imgcf"
+		],
+		"description": "imgcf (Matlab Images method)"
+	},
+	"imgetfile": {
+		"prefix": "imgetfile",
+		"body": [
+			"imgetfile"
+		],
+		"description": "imgetfile (Matlab Images method)"
+	},
+	"imgradient": {
+		"prefix": "imgradient",
+		"body": [
+			"imgradient"
+		],
+		"description": "imgradient (Matlab Images method)"
+	},
+	"imgradientxy": {
+		"prefix": "imgradientxy",
+		"body": [
+			"imgradientxy"
+		],
+		"description": "imgradientxy (Matlab Images method)"
+	},
+	"imguidedfilter": {
+		"prefix": "imguidedfilter",
+		"body": [
+			"imguidedfilter"
+		],
+		"description": "imguidedfilter (Matlab Images method)"
+	},
+	"imhandles": {
+		"prefix": "imhandles",
+		"body": [
+			"imhandles"
+		],
+		"description": "imhandles (Matlab Images method)"
+	},
+	"imhist": {
+		"prefix": "imhist",
+		"body": [
+			"imhist"
+		],
+		"description": "imhist (Matlab Images method)"
+	},
+	"imhistmatch": {
+		"prefix": "imhistmatch",
+		"body": [
+			"imhistmatch"
+		],
+		"description": "imhistmatch (Matlab Images method)"
+	},
+	"imhmax": {
+		"prefix": "imhmax",
+		"body": [
+			"imhmax"
+		],
+		"description": "imhmax (Matlab Images method)"
+	},
+	"imhmin": {
+		"prefix": "imhmin",
+		"body": [
+			"imhmin"
+		],
+		"description": "imhmin (Matlab Images method)"
+	},
+	"imimposemin": {
+		"prefix": "imimposemin",
+		"body": [
+			"imimposemin"
+		],
+		"description": "imimposemin (Matlab Images method)"
+	},
+	"imlincomb": {
+		"prefix": "imlincomb",
+		"body": [
+			"imlincomb"
+		],
+		"description": "imlincomb (Matlab Images method)"
+	},
+	"imline": {
+		"prefix": "imline",
+		"body": [
+			"imline"
+		],
+		"description": "imline (Matlab Images method)"
+	},
+	"immagbox": {
+		"prefix": "immagbox",
+		"body": [
+			"immagbox"
+		],
+		"description": "immagbox (Matlab Images method)"
+	},
+	"immovie": {
+		"prefix": "immovie",
+		"body": [
+			"immovie"
+		],
+		"description": "immovie (Matlab Images method)"
+	},
+	"immse": {
+		"prefix": "immse",
+		"body": [
+			"immse"
+		],
+		"description": "immse (Matlab Images method)"
+	},
+	"immultiply": {
+		"prefix": "immultiply",
+		"body": [
+			"immultiply"
+		],
+		"description": "immultiply (Matlab Images method)"
+	},
+	"imnoise": {
+		"prefix": "imnoise",
+		"body": [
+			"imnoise"
+		],
+		"description": "imnoise (Matlab Images method)"
+	},
+	"imoverview": {
+		"prefix": "imoverview",
+		"body": [
+			"imoverview"
+		],
+		"description": "imoverview (Matlab Images method)"
+	},
+	"imoverviewpanel": {
+		"prefix": "imoverviewpanel",
+		"body": [
+			"imoverviewpanel"
+		],
+		"description": "imoverviewpanel (Matlab Images method)"
+	},
+	"impixel": {
+		"prefix": "impixel",
+		"body": [
+			"impixel"
+		],
+		"description": "impixel (Matlab Images method)"
+	},
+	"impixelinfo": {
+		"prefix": "impixelinfo",
+		"body": [
+			"impixelinfo"
+		],
+		"description": "impixelinfo (Matlab Images method)"
+	},
+	"impixelinfoval": {
+		"prefix": "impixelinfoval",
+		"body": [
+			"impixelinfoval"
+		],
+		"description": "impixelinfoval (Matlab Images method)"
+	},
+	"impixelregion": {
+		"prefix": "impixelregion",
+		"body": [
+			"impixelregion"
+		],
+		"description": "impixelregion (Matlab Images method)"
+	},
+	"impixelregionpanel": {
+		"prefix": "impixelregionpanel",
+		"body": [
+			"impixelregionpanel"
+		],
+		"description": "impixelregionpanel (Matlab Images method)"
+	},
+	"implay": {
+		"prefix": "implay",
+		"body": [
+			"implay"
+		],
+		"description": "implay (Matlab Images method)"
+	},
+	"impoint": {
+		"prefix": "impoint",
+		"body": [
+			"impoint"
+		],
+		"description": "impoint (Matlab Images method)"
+	},
+	"impoly": {
+		"prefix": "impoly",
+		"body": [
+			"impoly"
+		],
+		"description": "impoly (Matlab Images method)"
+	},
+	"improfile": {
+		"prefix": "improfile",
+		"body": [
+			"improfile"
+		],
+		"description": "improfile (Matlab Images method)"
+	},
+	"impyramid": {
+		"prefix": "impyramid",
+		"body": [
+			"impyramid"
+		],
+		"description": "impyramid (Matlab Images method)"
+	},
+	"imquantize": {
+		"prefix": "imquantize",
+		"body": [
+			"imquantize"
+		],
+		"description": "imquantize (Matlab Images method)"
+	},
+	"imrect": {
+		"prefix": "imrect",
+		"body": [
+			"imrect"
+		],
+		"description": "imrect (Matlab Images method)"
+	},
+	"imref2d": {
+		"prefix": "imref2d",
+		"body": [
+			"imref2d"
+		],
+		"description": "imref2d (Matlab Images method)"
+	},
+	"imref3d": {
+		"prefix": "imref3d",
+		"body": [
+			"imref3d"
+		],
+		"description": "imref3d (Matlab Images method)"
+	},
+	"imregconfig": {
+		"prefix": "imregconfig",
+		"body": [
+			"imregconfig"
+		],
+		"description": "imregconfig (Matlab Images method)"
+	},
+	"imregcorr": {
+		"prefix": "imregcorr",
+		"body": [
+			"imregcorr"
+		],
+		"description": "imregcorr (Matlab Images method)"
+	},
+	"imregdemons": {
+		"prefix": "imregdemons",
+		"body": [
+			"imregdemons"
+		],
+		"description": "imregdemons (Matlab Images method)"
+	},
+	"imregionalmax": {
+		"prefix": "imregionalmax",
+		"body": [
+			"imregionalmax"
+		],
+		"description": "imregionalmax (Matlab Images method)"
+	},
+	"imregionalmin": {
+		"prefix": "imregionalmin",
+		"body": [
+			"imregionalmin"
+		],
+		"description": "imregionalmin (Matlab Images method)"
+	},
+	"imregister": {
+		"prefix": "imregister",
+		"body": [
+			"imregister"
+		],
+		"description": "imregister (Matlab Images method)"
+	},
+	"imregtform": {
+		"prefix": "imregtform",
+		"body": [
+			"imregtform"
+		],
+		"description": "imregtform (Matlab Images method)"
+	},
+	"imresize": {
+		"prefix": "imresize",
+		"body": [
+			"imresize"
+		],
+		"description": "imresize (Matlab Images method)"
+	},
+	"imroi": {
+		"prefix": "imroi",
+		"body": [
+			"imroi"
+		],
+		"description": "imroi (Matlab Images method)"
+	},
+	"imrotate": {
+		"prefix": "imrotate",
+		"body": [
+			"imrotate"
+		],
+		"description": "imrotate (Matlab Images method)"
+	},
+	"imsave": {
+		"prefix": "imsave",
+		"body": [
+			"imsave"
+		],
+		"description": "imsave (Matlab Images method)"
+	},
+	"imscrollpanel": {
+		"prefix": "imscrollpanel",
+		"body": [
+			"imscrollpanel"
+		],
+		"description": "imscrollpanel (Matlab Images method)"
+	},
+	"imsegfmm": {
+		"prefix": "imsegfmm",
+		"body": [
+			"imsegfmm"
+		],
+		"description": "imsegfmm (Matlab Images method)"
+	},
+	"imseggeodesic": {
+		"prefix": "imseggeodesic",
+		"body": [
+			"imseggeodesic"
+		],
+		"description": "imseggeodesic (Matlab Images method)"
+	},
+	"imsharpen": {
+		"prefix": "imsharpen",
+		"body": [
+			"imsharpen"
+		],
+		"description": "imsharpen (Matlab Images method)"
+	},
+	"imshowpair": {
+		"prefix": "imshowpair",
+		"body": [
+			"imshowpair"
+		],
+		"description": "imshowpair (Matlab Images method)"
+	},
+	"imsubtract": {
+		"prefix": "imsubtract",
+		"body": [
+			"imsubtract"
+		],
+		"description": "imsubtract (Matlab Images method)"
+	},
+	"imtool": {
+		"prefix": "imtool",
+		"body": [
+			"imtool"
+		],
+		"description": "imtool (Matlab Images method)"
+	},
+	"imtransform": {
+		"prefix": "imtransform",
+		"body": [
+			"imtransform"
+		],
+		"description": "imtransform (Matlab Images method)"
+	},
+	"imtranslate": {
+		"prefix": "imtranslate",
+		"body": [
+			"imtranslate"
+		],
+		"description": "imtranslate (Matlab Images method)"
+	},
+	"ind2gray": {
+		"prefix": "ind2gray",
+		"body": [
+			"ind2gray"
+		],
+		"description": "ind2gray (Matlab Images method)"
+	},
+	"integralBoxFilter": {
+		"prefix": "integralBoxFilter",
+		"body": [
+			"integralBoxFilter"
+		],
+		"description": "integralBoxFilter (Matlab Images method)"
+	},
+	"integralBoxFilter3": {
+		"prefix": "integralBoxFilter3",
+		"body": [
+			"integralBoxFilter3"
+		],
+		"description": "integralBoxFilter3 (Matlab Images method)"
+	},
+	"integralImage3": {
+		"prefix": "integralImage3",
+		"body": [
+			"integralImage3"
+		],
+		"description": "integralImage3 (Matlab Images method)"
+	},
+	"interfileinfo": {
+		"prefix": "interfileinfo",
+		"body": [
+			"interfileinfo"
+		],
+		"description": "interfileinfo (Matlab Images method)"
+	},
+	"interfileread": {
+		"prefix": "interfileread",
+		"body": [
+			"interfileread"
+		],
+		"description": "interfileread (Matlab Images method)"
+	},
+	"intlut": {
+		"prefix": "intlut",
+		"body": [
+			"intlut"
+		],
+		"description": "intlut (Matlab Images method)"
+	},
+	"iptGetPointerBehavior": {
+		"prefix": "iptGetPointerBehavior",
+		"body": [
+			"iptGetPointerBehavior"
+		],
+		"description": "iptGetPointerBehavior (Matlab Images method)"
+	},
+	"iptPointerManager": {
+		"prefix": "iptPointerManager",
+		"body": [
+			"iptPointerManager"
+		],
+		"description": "iptPointerManager (Matlab Images method)"
+	},
+	"iptSetPointerBehavior": {
+		"prefix": "iptSetPointerBehavior",
+		"body": [
+			"iptSetPointerBehavior"
+		],
+		"description": "iptSetPointerBehavior (Matlab Images method)"
+	},
+	"iptaddcallback": {
+		"prefix": "iptaddcallback",
+		"body": [
+			"iptaddcallback"
+		],
+		"description": "iptaddcallback (Matlab Images method)"
+	},
+	"iptcheckconn": {
+		"prefix": "iptcheckconn",
+		"body": [
+			"iptcheckconn"
+		],
+		"description": "iptcheckconn (Matlab Images method)"
+	},
+	"iptcheckhandle": {
+		"prefix": "iptcheckhandle",
+		"body": [
+			"iptcheckhandle"
+		],
+		"description": "iptcheckhandle (Matlab Images method)"
+	},
+	"iptcheckmap": {
+		"prefix": "iptcheckmap",
+		"body": [
+			"iptcheckmap"
+		],
+		"description": "iptcheckmap (Matlab Images method)"
+	},
+	"iptgetapi": {
+		"prefix": "iptgetapi",
+		"body": [
+			"iptgetapi"
+		],
+		"description": "iptgetapi (Matlab Images method)"
+	},
+	"iptgetpref": {
+		"prefix": "iptgetpref",
+		"body": [
+			"iptgetpref"
+		],
+		"description": "iptgetpref (Matlab Images method)"
+	},
+	"ipticondir": {
+		"prefix": "ipticondir",
+		"body": [
+			"ipticondir"
+		],
+		"description": "ipticondir (Matlab Images method)"
+	},
+	"iptprefs": {
+		"prefix": "iptprefs",
+		"body": [
+			"iptprefs"
+		],
+		"description": "iptprefs (Matlab Images method)"
+	},
+	"iptremovecallback": {
+		"prefix": "iptremovecallback",
+		"body": [
+			"iptremovecallback"
+		],
+		"description": "iptremovecallback (Matlab Images method)"
+	},
+	"iptsetpref": {
+		"prefix": "iptsetpref",
+		"body": [
+			"iptsetpref"
+		],
+		"description": "iptsetpref (Matlab Images method)"
+	},
+	"iptwindowalign": {
+		"prefix": "iptwindowalign",
+		"body": [
+			"iptwindowalign"
+		],
+		"description": "iptwindowalign (Matlab Images method)"
+	},
+	"iradon": {
+		"prefix": "iradon",
+		"body": [
+			"iradon"
+		],
+		"description": "iradon (Matlab Images method)"
+	},
+	"isflat": {
+		"prefix": "isflat",
+		"body": [
+			"isflat"
+		],
+		"description": "isflat (Matlab Images method)"
+	},
+	"isicc": {
+		"prefix": "isicc",
+		"body": [
+			"isicc"
+		],
+		"description": "isicc (Matlab Images method)"
+	},
+	"isrset": {
+		"prefix": "isrset",
+		"body": [
+			"isrset"
+		],
+		"description": "isrset (Matlab Images method)"
+	},
+	"lab2double": {
+		"prefix": "lab2double",
+		"body": [
+			"lab2double"
+		],
+		"description": "lab2double (Matlab Images method)"
+	},
+	"lab2rgb": {
+		"prefix": "lab2rgb",
+		"body": [
+			"lab2rgb"
+		],
+		"description": "lab2rgb (Matlab Images method)"
+	},
+	"lab2uint16": {
+		"prefix": "lab2uint16",
+		"body": [
+			"lab2uint16"
+		],
+		"description": "lab2uint16 (Matlab Images method)"
+	},
+	"lab2uint8": {
+		"prefix": "lab2uint8",
+		"body": [
+			"lab2uint8"
+		],
+		"description": "lab2uint8 (Matlab Images method)"
+	},
+	"lab2xyz": {
+		"prefix": "lab2xyz",
+		"body": [
+			"lab2xyz"
+		],
+		"description": "lab2xyz (Matlab Images method)"
+	},
+	"label2rgb": {
+		"prefix": "label2rgb",
+		"body": [
+			"label2rgb"
+		],
+		"description": "label2rgb (Matlab Images method)"
+	},
+	"labelmatrix": {
+		"prefix": "labelmatrix",
+		"body": [
+			"labelmatrix"
+		],
+		"description": "labelmatrix (Matlab Images method)"
+	},
+	"makeConstrainToRectFcn": {
+		"prefix": "makeConstrainToRectFcn",
+		"body": [
+			"makeConstrainToRectFcn"
+		],
+		"description": "makeConstrainToRectFcn (Matlab Images method)"
+	},
+	"makecform": {
+		"prefix": "makecform",
+		"body": [
+			"makecform"
+		],
+		"description": "makecform (Matlab Images method)"
+	},
+	"makehdr": {
+		"prefix": "makehdr",
+		"body": [
+			"makehdr"
+		],
+		"description": "makehdr (Matlab Images method)"
+	},
+	"makelut": {
+		"prefix": "makelut",
+		"body": [
+			"makelut"
+		],
+		"description": "makelut (Matlab Images method)"
+	},
+	"makeresampler": {
+		"prefix": "makeresampler",
+		"body": [
+			"makeresampler"
+		],
+		"description": "makeresampler (Matlab Images method)"
+	},
+	"maketform": {
+		"prefix": "maketform",
+		"body": [
+			"maketform"
+		],
+		"description": "maketform (Matlab Images method)"
+	},
+	"mat2gray": {
+		"prefix": "mat2gray",
+		"body": [
+			"mat2gray"
+		],
+		"description": "mat2gray (Matlab Images method)"
+	},
+	"mean2": {
+		"prefix": "mean2",
+		"body": [
+			"mean2"
+		],
+		"description": "mean2 (Matlab Images method)"
+	},
+	"medfilt2": {
+		"prefix": "medfilt2",
+		"body": [
+			"medfilt2"
+		],
+		"description": "medfilt2 (Matlab Images method)"
+	},
+	"montage": {
+		"prefix": "montage",
+		"body": [
+			"montage"
+		],
+		"description": "montage (Matlab Images method)"
+	},
+	"multithresh": {
+		"prefix": "multithresh",
+		"body": [
+			"multithresh"
+		],
+		"description": "multithresh (Matlab Images method)"
+	},
+	"nitfinfo": {
+		"prefix": "nitfinfo",
+		"body": [
+			"nitfinfo"
+		],
+		"description": "nitfinfo (Matlab Images method)"
+	},
+	"nitfread": {
+		"prefix": "nitfread",
+		"body": [
+			"nitfread"
+		],
+		"description": "nitfread (Matlab Images method)"
+	},
+	"nlfilter": {
+		"prefix": "nlfilter",
+		"body": [
+			"nlfilter"
+		],
+		"description": "nlfilter (Matlab Images method)"
+	},
+	"normxcorr2": {
+		"prefix": "normxcorr2",
+		"body": [
+			"normxcorr2"
+		],
+		"description": "normxcorr2 (Matlab Images method)"
+	},
+	"ntsc2rgb": {
+		"prefix": "ntsc2rgb",
+		"body": [
+			"ntsc2rgb"
+		],
+		"description": "ntsc2rgb (Matlab Images method)"
+	},
+	"openrset": {
+		"prefix": "openrset",
+		"body": [
+			"openrset"
+		],
+		"description": "openrset (Matlab Images method)"
+	},
+	"ordfilt2": {
+		"prefix": "ordfilt2",
+		"body": [
+			"ordfilt2"
+		],
+		"description": "ordfilt2 (Matlab Images method)"
+	},
+	"otf2psf": {
+		"prefix": "otf2psf",
+		"body": [
+			"otf2psf"
+		],
+		"description": "otf2psf (Matlab Images method)"
+	},
+	"padarray": {
+		"prefix": "padarray",
+		"body": [
+			"padarray"
+		],
+		"description": "padarray (Matlab Images method)"
+	},
+	"para2fan": {
+		"prefix": "para2fan",
+		"body": [
+			"para2fan"
+		],
+		"description": "para2fan (Matlab Images method)"
+	},
+	"phantom": {
+		"prefix": "phantom",
+		"body": [
+			"phantom"
+		],
+		"description": "phantom (Matlab Images method)"
+	},
+	"poly2mask": {
+		"prefix": "poly2mask",
+		"body": [
+			"poly2mask"
+		],
+		"description": "poly2mask (Matlab Images method)"
+	},
+	"psf2otf": {
+		"prefix": "psf2otf",
+		"body": [
+			"psf2otf"
+		],
+		"description": "psf2otf (Matlab Images method)"
+	},
+	"psnr": {
+		"prefix": "psnr",
+		"body": [
+			"psnr"
+		],
+		"description": "psnr (Matlab Images method)"
+	},
+	"qtdecomp": {
+		"prefix": "qtdecomp",
+		"body": [
+			"qtdecomp"
+		],
+		"description": "qtdecomp (Matlab Images method)"
+	},
+	"qtgetblk": {
+		"prefix": "qtgetblk",
+		"body": [
+			"qtgetblk"
+		],
+		"description": "qtgetblk (Matlab Images method)"
+	},
+	"qtsetblk": {
+		"prefix": "qtsetblk",
+		"body": [
+			"qtsetblk"
+		],
+		"description": "qtsetblk (Matlab Images method)"
+	},
+	"radon": {
+		"prefix": "radon",
+		"body": [
+			"radon"
+		],
+		"description": "radon (Matlab Images method)"
+	},
+	"rangefilt": {
+		"prefix": "rangefilt",
+		"body": [
+			"rangefilt"
+		],
+		"description": "rangefilt (Matlab Images method)"
+	},
+	"regionfill": {
+		"prefix": "regionfill",
+		"body": [
+			"regionfill"
+		],
+		"description": "regionfill (Matlab Images method)"
+	},
+	"regionprops": {
+		"prefix": "regionprops",
+		"body": [
+			"regionprops"
+		],
+		"description": "regionprops (Matlab Images method)"
+	},
+	"registration.metric.MattesMutualInformation": {
+		"prefix": "registration.metric.MattesMutualInformation",
+		"body": [
+			"registration.metric.MattesMutualInformation"
+		],
+		"description": "registration.metric.MattesMutualInformation (Matlab Images method)"
+	},
+	"registration.metric.MeanSquares": {
+		"prefix": "registration.metric.MeanSquares",
+		"body": [
+			"registration.metric.MeanSquares"
+		],
+		"description": "registration.metric.MeanSquares (Matlab Images method)"
+	},
+	"registration.optimizer.OnePlusOneEvolutionary": {
+		"prefix": "registration.optimizer.OnePlusOneEvolutionary",
+		"body": [
+			"registration.optimizer.OnePlusOneEvolutionary"
+		],
+		"description": "registration.optimizer.OnePlusOneEvolutionary (Matlab Images method)"
+	},
+	"registration.optimizer.RegularStepGradientDescent": {
+		"prefix": "registration.optimizer.RegularStepGradientDescent",
+		"body": [
+			"registration.optimizer.RegularStepGradientDescent"
+		],
+		"description": "registration.optimizer.RegularStepGradientDescent (Matlab Images method)"
+	},
+	"rgb2lab": {
+		"prefix": "rgb2lab",
+		"body": [
+			"rgb2lab"
+		],
+		"description": "rgb2lab (Matlab Images method)"
+	},
+	"rgb2ntsc": {
+		"prefix": "rgb2ntsc",
+		"body": [
+			"rgb2ntsc"
+		],
+		"description": "rgb2ntsc (Matlab Images method)"
+	},
+	"rgb2xyz": {
+		"prefix": "rgb2xyz",
+		"body": [
+			"rgb2xyz"
+		],
+		"description": "rgb2xyz (Matlab Images method)"
+	},
+	"rgb2ycbcr": {
+		"prefix": "rgb2ycbcr",
+		"body": [
+			"rgb2ycbcr"
+		],
+		"description": "rgb2ycbcr (Matlab Images method)"
+	},
+	"roicolor": {
+		"prefix": "roicolor",
+		"body": [
+			"roicolor"
+		],
+		"description": "roicolor (Matlab Images method)"
+	},
+	"roifill": {
+		"prefix": "roifill",
+		"body": [
+			"roifill"
+		],
+		"description": "roifill (Matlab Images method)"
+	},
+	"roifilt2": {
+		"prefix": "roifilt2",
+		"body": [
+			"roifilt2"
+		],
+		"description": "roifilt2 (Matlab Images method)"
+	},
+	"roipoly": {
+		"prefix": "roipoly",
+		"body": [
+			"roipoly"
+		],
+		"description": "roipoly (Matlab Images method)"
+	},
+	"rsetwrite": {
+		"prefix": "rsetwrite",
+		"body": [
+			"rsetwrite"
+		],
+		"description": "rsetwrite (Matlab Images method)"
+	},
+	"ssim": {
+		"prefix": "ssim",
+		"body": [
+			"ssim"
+		],
+		"description": "ssim (Matlab Images method)"
+	},
+	"std2": {
+		"prefix": "std2",
+		"body": [
+			"std2"
+		],
+		"description": "std2 (Matlab Images method)"
+	},
+	"stdfilt": {
+		"prefix": "stdfilt",
+		"body": [
+			"stdfilt"
+		],
+		"description": "stdfilt (Matlab Images method)"
+	},
+	"strel": {
+		"prefix": "strel",
+		"body": [
+			"strel"
+		],
+		"description": "strel (Matlab Images method)"
+	},
+	"stretchlim": {
+		"prefix": "stretchlim",
+		"body": [
+			"stretchlim"
+		],
+		"description": "stretchlim (Matlab Images method)"
+	},
+	"subimage": {
+		"prefix": "subimage",
+		"body": [
+			"subimage"
+		],
+		"description": "subimage (Matlab Images method)"
+	},
+	"tformarray": {
+		"prefix": "tformarray",
+		"body": [
+			"tformarray"
+		],
+		"description": "tformarray (Matlab Images method)"
+	},
+	"tformfwd": {
+		"prefix": "tformfwd",
+		"body": [
+			"tformfwd"
+		],
+		"description": "tformfwd (Matlab Images method)"
+	},
+	"tforminv": {
+		"prefix": "tforminv",
+		"body": [
+			"tforminv"
+		],
+		"description": "tforminv (Matlab Images method)"
+	},
+	"tonemap": {
+		"prefix": "tonemap",
+		"body": [
+			"tonemap"
+		],
+		"description": "tonemap (Matlab Images method)"
+	},
+	"translate": {
+		"prefix": "translate",
+		"body": [
+			"translate"
+		],
+		"description": "translate (Matlab Images method)"
+	},
+	"truesize": {
+		"prefix": "truesize",
+		"body": [
+			"truesize"
+		],
+		"description": "truesize (Matlab Images method)"
+	},
+	"visboundaries": {
+		"prefix": "visboundaries",
+		"body": [
+			"visboundaries"
+		],
+		"description": "visboundaries (Matlab Images method)"
+	},
+	"viscircles": {
+		"prefix": "viscircles",
+		"body": [
+			"viscircles"
+		],
+		"description": "viscircles (Matlab Images method)"
+	},
+	"warp": {
+		"prefix": "warp",
+		"body": [
+			"warp"
+		],
+		"description": "warp (Matlab Images method)"
+	},
+	"watershed": {
+		"prefix": "watershed",
+		"body": [
+			"watershed"
+		],
+		"description": "watershed (Matlab Images method)"
+	},
+	"whitepoint": {
+		"prefix": "whitepoint",
+		"body": [
+			"whitepoint"
+		],
+		"description": "whitepoint (Matlab Images method)"
+	},
+	"wiener2": {
+		"prefix": "wiener2",
+		"body": [
+			"wiener2"
+		],
+		"description": "wiener2 (Matlab Images method)"
+	},
+	"xyz2double": {
+		"prefix": "xyz2double",
+		"body": [
+			"xyz2double"
+		],
+		"description": "xyz2double (Matlab Images method)"
+	},
+	"xyz2lab": {
+		"prefix": "xyz2lab",
+		"body": [
+			"xyz2lab"
+		],
+		"description": "xyz2lab (Matlab Images method)"
+	},
+	"xyz2rgb": {
+		"prefix": "xyz2rgb",
+		"body": [
+			"xyz2rgb"
+		],
+		"description": "xyz2rgb (Matlab Images method)"
+	},
+	"xyz2uint16": {
+		"prefix": "xyz2uint16",
+		"body": [
+			"xyz2uint16"
+		],
+		"description": "xyz2uint16 (Matlab Images method)"
+	},
+	"ycbcr2rgb": {
+		"prefix": "ycbcr2rgb",
+		"body": [
+			"ycbcr2rgb"
+		],
+		"description": "ycbcr2rgb (Matlab Images method)"
+	}
+}

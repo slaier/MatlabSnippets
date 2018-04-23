@@ -1,0 +1,93 @@
+{
+	"createOptimProblem": {
+		"prefix": "createOptimProblem",
+		"body": [
+			"createOptimProblem"
+		],
+		"description": "createOptimProblem (Matlab GADS method)"
+	},
+	"ga": {
+		"prefix": "ga",
+		"body": [
+			"ga"
+		],
+		"description": "ga (Matlab GADS method)"
+	},
+	"gamultiobj": {
+		"prefix": "gamultiobj",
+		"body": [
+			"gamultiobj"
+		],
+		"description": "gamultiobj (Matlab GADS method)"
+	},
+	"gaoptimget": {
+		"prefix": "gaoptimget",
+		"body": [
+			"gaoptimget"
+		],
+		"description": "gaoptimget (Matlab GADS method)"
+	},
+	"gaoptimset": {
+		"prefix": "gaoptimset",
+		"body": [
+			"gaoptimset"
+		],
+		"description": "gaoptimset (Matlab GADS method)"
+	},
+	"optimoptions": {
+		"prefix": "optimoptions",
+		"body": [
+			"optimoptions"
+		],
+		"description": "optimoptions (Matlab GADS method)"
+	},
+	"particleswarm": {
+		"prefix": "particleswarm",
+		"body": [
+			"particleswarm"
+		],
+		"description": "particleswarm (Matlab GADS method)"
+	},
+	"patternsearch": {
+		"prefix": "patternsearch",
+		"body": [
+			"patternsearch"
+		],
+		"description": "patternsearch (Matlab GADS method)"
+	},
+	"psoptimget": {
+		"prefix": "psoptimget",
+		"body": [
+			"psoptimget"
+		],
+		"description": "psoptimget (Matlab GADS method)"
+	},
+	"psoptimset": {
+		"prefix": "psoptimset",
+		"body": [
+			"psoptimset"
+		],
+		"description": "psoptimset (Matlab GADS method)"
+	},
+	"saoptimget": {
+		"prefix": "saoptimget",
+		"body": [
+			"saoptimget"
+		],
+		"description": "saoptimget (Matlab GADS method)"
+	},
+	"saoptimset": {
+		"prefix": "saoptimset",
+		"body": [
+			"saoptimset"
+		],
+		"description": "saoptimset (Matlab GADS method)"
+	},
+	"simulannealbnd": {
+		"prefix": "simulannealbnd",
+		"body": [
+			"simulannealbnd"
+		],
+		"description": "simulannealbnd (Matlab GADS method)"
+	}
+}

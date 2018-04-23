@@ -1,0 +1,310 @@
+{
+	"binblockread": {
+		"prefix": "binblockread",
+		"body": [
+			"binblockread"
+		],
+		"description": "binblockread (Matlab Instrument method)"
+	},
+	"binblockwrite": {
+		"prefix": "binblockwrite",
+		"body": [
+			"binblockwrite"
+		],
+		"description": "binblockwrite (Matlab Instrument method)"
+	},
+	"bluetooth": {
+		"prefix": "bluetooth",
+		"body": [
+			"bluetooth"
+		],
+		"description": "bluetooth (Matlab Instrument method)"
+	},
+	"clrdevice": {
+		"prefix": "clrdevice",
+		"body": [
+			"clrdevice"
+		],
+		"description": "clrdevice (Matlab Instrument method)"
+	},
+	"devicereset": {
+		"prefix": "devicereset",
+		"body": [
+			"devicereset"
+		],
+		"description": "devicereset (Matlab Instrument method)"
+	},
+	"disconnect": {
+		"prefix": "disconnect",
+		"body": [
+			"disconnect"
+		],
+		"description": "disconnect (Matlab Instrument method)"
+	},
+	"echotcpip": {
+		"prefix": "echotcpip",
+		"body": [
+			"echotcpip"
+		],
+		"description": "echotcpip (Matlab Instrument method)"
+	},
+	"echoudp": {
+		"prefix": "echoudp",
+		"body": [
+			"echoudp"
+		],
+		"description": "echoudp (Matlab Instrument method)"
+	},
+	"fgen": {
+		"prefix": "fgen",
+		"body": [
+			"fgen"
+		],
+		"description": "fgen (Matlab Instrument method)"
+	},
+	"flushinput": {
+		"prefix": "flushinput",
+		"body": [
+			"flushinput"
+		],
+		"description": "flushinput (Matlab Instrument method)"
+	},
+	"flushoutput": {
+		"prefix": "flushoutput",
+		"body": [
+			"flushoutput"
+		],
+		"description": "flushoutput (Matlab Instrument method)"
+	},
+	"getWaveform": {
+		"prefix": "getWaveform",
+		"body": [
+			"getWaveform"
+		],
+		"description": "getWaveform (Matlab Instrument method)"
+	},
+	"geterror": {
+		"prefix": "geterror",
+		"body": [
+			"geterror"
+		],
+		"description": "geterror (Matlab Instrument method)"
+	},
+	"gpib": {
+		"prefix": "gpib",
+		"body": [
+			"gpib"
+		],
+		"description": "gpib (Matlab Instrument method)"
+	},
+	"i2c": {
+		"prefix": "i2c",
+		"body": [
+			"i2c"
+		],
+		"description": "i2c (Matlab Instrument method)"
+	},
+	"icdevice": {
+		"prefix": "icdevice",
+		"body": [
+			"icdevice"
+		],
+		"description": "icdevice (Matlab Instrument method)"
+	},
+	"instrhelp": {
+		"prefix": "instrhelp",
+		"body": [
+			"instrhelp"
+		],
+		"description": "instrhelp (Matlab Instrument method)"
+	},
+	"instrhwinfo": {
+		"prefix": "instrhwinfo",
+		"body": [
+			"instrhwinfo"
+		],
+		"description": "instrhwinfo (Matlab Instrument method)"
+	},
+	"instrid": {
+		"prefix": "instrid",
+		"body": [
+			"instrid"
+		],
+		"description": "instrid (Matlab Instrument method)"
+	},
+	"instrnotify": {
+		"prefix": "instrnotify",
+		"body": [
+			"instrnotify"
+		],
+		"description": "instrnotify (Matlab Instrument method)"
+	},
+	"instrreset": {
+		"prefix": "instrreset",
+		"body": [
+			"instrreset"
+		],
+		"description": "instrreset (Matlab Instrument method)"
+	},
+	"iviconfigurationstore": {
+		"prefix": "iviconfigurationstore",
+		"body": [
+			"iviconfigurationstore"
+		],
+		"description": "iviconfigurationstore (Matlab Instrument method)"
+	},
+	"makemid": {
+		"prefix": "makemid",
+		"body": [
+			"makemid"
+		],
+		"description": "makemid (Matlab Instrument method)"
+	},
+	"memmap": {
+		"prefix": "memmap",
+		"body": [
+			"memmap"
+		],
+		"description": "memmap (Matlab Instrument method)"
+	},
+	"mempeek": {
+		"prefix": "mempeek",
+		"body": [
+			"mempeek"
+		],
+		"description": "mempeek (Matlab Instrument method)"
+	},
+	"mempoke": {
+		"prefix": "mempoke",
+		"body": [
+			"mempoke"
+		],
+		"description": "mempoke (Matlab Instrument method)"
+	},
+	"memread": {
+		"prefix": "memread",
+		"body": [
+			"memread"
+		],
+		"description": "memread (Matlab Instrument method)"
+	},
+	"memunmap": {
+		"prefix": "memunmap",
+		"body": [
+			"memunmap"
+		],
+		"description": "memunmap (Matlab Instrument method)"
+	},
+	"memwrite": {
+		"prefix": "memwrite",
+		"body": [
+			"memwrite"
+		],
+		"description": "memwrite (Matlab Instrument method)"
+	},
+	"midedit": {
+		"prefix": "midedit",
+		"body": [
+			"midedit"
+		],
+		"description": "midedit (Matlab Instrument method)"
+	},
+	"midtest": {
+		"prefix": "midtest",
+		"body": [
+			"midtest"
+		],
+		"description": "midtest (Matlab Instrument method)"
+	},
+	"oscilloscope": {
+		"prefix": "oscilloscope",
+		"body": [
+			"oscilloscope"
+		],
+		"description": "oscilloscope (Matlab Instrument method)"
+	},
+	"query": {
+		"prefix": "query",
+		"body": [
+			"query"
+		],
+		"description": "query (Matlab Instrument method)"
+	},
+	"resolvehost": {
+		"prefix": "resolvehost",
+		"body": [
+			"resolvehost"
+		],
+		"description": "resolvehost (Matlab Instrument method)"
+	},
+	"scanstr": {
+		"prefix": "scanstr",
+		"body": [
+			"scanstr"
+		],
+		"description": "scanstr (Matlab Instrument method)"
+	},
+	"selftest": {
+		"prefix": "selftest",
+		"body": [
+			"selftest"
+		],
+		"description": "selftest (Matlab Instrument method)"
+	},
+	"spi": {
+		"prefix": "spi",
+		"body": [
+			"spi"
+		],
+		"description": "spi (Matlab Instrument method)"
+	},
+	"spoll": {
+		"prefix": "spoll",
+		"body": [
+			"spoll"
+		],
+		"description": "spoll (Matlab Instrument method)"
+	},
+	"tcpip": {
+		"prefix": "tcpip",
+		"body": [
+			"tcpip"
+		],
+		"description": "tcpip (Matlab Instrument method)"
+	},
+	"tmtool": {
+		"prefix": "tmtool",
+		"body": [
+			"tmtool"
+		],
+		"description": "tmtool (Matlab Instrument method)"
+	},
+	"udp": {
+		"prefix": "udp",
+		"body": [
+			"udp"
+		],
+		"description": "udp (Matlab Instrument method)"
+	},
+	"visa": {
+		"prefix": "visa",
+		"body": [
+			"visa"
+		],
+		"description": "visa (Matlab Instrument method)"
+	},
+	"visa.spoll": {
+		"prefix": "visa.spoll",
+		"body": [
+			"visa.spoll"
+		],
+		"description": "visa.spoll (Matlab Instrument method)"
+	},
+	"writeAndRead": {
+		"prefix": "writeAndRead",
+		"body": [
+			"writeAndRead"
+		],
+		"description": "writeAndRead (Matlab Instrument method)"
+	}
+}

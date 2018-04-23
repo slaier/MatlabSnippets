@@ -1,0 +1,30 @@
+{
+    "opc.ua.AggregateFnId": {
+        "prefix": "opc.ua.AggregateFnId",
+        "body": [
+            "opc.ua.AggregateFnId"
+        ],
+        "description": "opc.ua.AggregateFnId (Matlab OPC class)"
+    },
+    "opc.ua.Client": {
+        "prefix": "opc.ua.Client",
+        "body": [
+            "opc.ua.Client"
+        ],
+        "description": "opc.ua.Client (Matlab OPC class)"
+    },
+    "opc.ua.Node": {
+        "prefix": "opc.ua.Node",
+        "body": [
+            "opc.ua.Node"
+        ],
+        "description": "opc.ua.Node (Matlab OPC class)"
+    },
+    "opc.ua.ServerInfo": {
+        "prefix": "opc.ua.ServerInfo",
+        "body": [
+            "opc.ua.ServerInfo"
+        ],
+        "description": "opc.ua.ServerInfo (Matlab OPC class)"
+    }
+}

@@ -1,0 +1,254 @@
+{
+    "addoutputspec": {
+        "prefix": "addoutputspec",
+        "body": [
+            "addoutputspec"
+        ],
+        "description": "addoutputspec (Matlab SLControl method)"
+    },
+    "findop": {
+        "prefix": "findop",
+        "body": [
+            "findop"
+        ],
+        "description": "findop (Matlab SLControl method)"
+    },
+    "findopOptions": {
+        "prefix": "findopOptions",
+        "body": [
+            "findopOptions"
+        ],
+        "description": "findopOptions (Matlab SLControl method)"
+    },
+    "frest.Chirp": {
+        "prefix": "frest.Chirp",
+        "body": [
+            "frest.Chirp"
+        ],
+        "description": "frest.Chirp (Matlab SLControl method)"
+    },
+    "frest.Random": {
+        "prefix": "frest.Random",
+        "body": [
+            "frest.Random"
+        ],
+        "description": "frest.Random (Matlab SLControl method)"
+    },
+    "frest.Sinestream": {
+        "prefix": "frest.Sinestream",
+        "body": [
+            "frest.Sinestream"
+        ],
+        "description": "frest.Sinestream (Matlab SLControl method)"
+    },
+    "frest.createFixedTsSinestream": {
+        "prefix": "frest.createFixedTsSinestream",
+        "body": [
+            "frest.createFixedTsSinestream"
+        ],
+        "description": "frest.createFixedTsSinestream (Matlab SLControl method)"
+    },
+    "frest.createStep": {
+        "prefix": "frest.createStep",
+        "body": [
+            "frest.createStep"
+        ],
+        "description": "frest.createStep (Matlab SLControl method)"
+    },
+    "frest.findDepend": {
+        "prefix": "frest.findDepend",
+        "body": [
+            "frest.findDepend"
+        ],
+        "description": "frest.findDepend (Matlab SLControl method)"
+    },
+    "frest.findSources": {
+        "prefix": "frest.findSources",
+        "body": [
+            "frest.findSources"
+        ],
+        "description": "frest.findSources (Matlab SLControl method)"
+    },
+    "frest.simCompare": {
+        "prefix": "frest.simCompare",
+        "body": [
+            "frest.simCompare"
+        ],
+        "description": "frest.simCompare (Matlab SLControl method)"
+    },
+    "frest.simView": {
+        "prefix": "frest.simView",
+        "body": [
+            "frest.simView"
+        ],
+        "description": "frest.simView (Matlab SLControl method)"
+    },
+    "frestimate": {
+        "prefix": "frestimate",
+        "body": [
+            "frestimate"
+        ],
+        "description": "frestimate (Matlab SLControl method)"
+    },
+    "frestimateOptions": {
+        "prefix": "frestimateOptions",
+        "body": [
+            "frestimateOptions"
+        ],
+        "description": "frestimateOptions (Matlab SLControl method)"
+    },
+    "generateTimeseries": {
+        "prefix": "generateTimeseries",
+        "body": [
+            "generateTimeseries"
+        ],
+        "description": "generateTimeseries (Matlab SLControl method)"
+    },
+    "getSimulationTime": {
+        "prefix": "getSimulationTime",
+        "body": [
+            "getSimulationTime"
+        ],
+        "description": "getSimulationTime (Matlab SLControl method)"
+    },
+    "getTunedValue": {
+        "prefix": "getTunedValue",
+        "body": [
+            "getTunedValue"
+        ],
+        "description": "getTunedValue (Matlab SLControl method)"
+    },
+    "getinputstruct": {
+        "prefix": "getinputstruct",
+        "body": [
+            "getinputstruct"
+        ],
+        "description": "getinputstruct (Matlab SLControl method)"
+    },
+    "getlinio": {
+        "prefix": "getlinio",
+        "body": [
+            "getlinio"
+        ],
+        "description": "getlinio (Matlab SLControl method)"
+    },
+    "getlinplant": {
+        "prefix": "getlinplant",
+        "body": [
+            "getlinplant"
+        ],
+        "description": "getlinplant (Matlab SLControl method)"
+    },
+    "getstatestruct": {
+        "prefix": "getstatestruct",
+        "body": [
+            "getstatestruct"
+        ],
+        "description": "getstatestruct (Matlab SLControl method)"
+    },
+    "getxu": {
+        "prefix": "getxu",
+        "body": [
+            "getxu"
+        ],
+        "description": "getxu (Matlab SLControl method)"
+    },
+    "initopspec": {
+        "prefix": "initopspec",
+        "body": [
+            "initopspec"
+        ],
+        "description": "initopspec (Matlab SLControl method)"
+    },
+    "linearize": {
+        "prefix": "linearize",
+        "body": [
+            "linearize"
+        ],
+        "description": "linearize (Matlab SLControl method)"
+    },
+    "linearizeOptions": {
+        "prefix": "linearizeOptions",
+        "body": [
+            "linearizeOptions"
+        ],
+        "description": "linearizeOptions (Matlab SLControl method)"
+    },
+    "linio": {
+        "prefix": "linio",
+        "body": [
+            "linio"
+        ],
+        "description": "linio (Matlab SLControl method)"
+    },
+    "linlft": {
+        "prefix": "linlft",
+        "body": [
+            "linlft"
+        ],
+        "description": "linlft (Matlab SLControl method)"
+    },
+    "linlftfold": {
+        "prefix": "linlftfold",
+        "body": [
+            "linlftfold"
+        ],
+        "description": "linlftfold (Matlab SLControl method)"
+    },
+    "linoptions": {
+        "prefix": "linoptions",
+        "body": [
+            "linoptions"
+        ],
+        "description": "linoptions (Matlab SLControl method)"
+    },
+    "operpoint": {
+        "prefix": "operpoint",
+        "body": [
+            "operpoint"
+        ],
+        "description": "operpoint (Matlab SLControl method)"
+    },
+    "operspec": {
+        "prefix": "operspec",
+        "body": [
+            "operspec"
+        ],
+        "description": "operspec (Matlab SLControl method)"
+    },
+    "setTunedValue": {
+        "prefix": "setTunedValue",
+        "body": [
+            "setTunedValue"
+        ],
+        "description": "setTunedValue (Matlab SLControl method)"
+    },
+    "setlinio": {
+        "prefix": "setlinio",
+        "body": [
+            "setlinio"
+        ],
+        "description": "setlinio (Matlab SLControl method)"
+    },
+    "setxu": {
+        "prefix": "setxu",
+        "body": [
+            "setxu"
+        ],
+        "description": "setxu (Matlab SLControl method)"
+    },
+    "slLinearizer": {
+        "prefix": "slLinearizer",
+        "body": [
+            "slLinearizer"
+        ],
+        "description": "slLinearizer (Matlab SLControl method)"
+    },
+    "slTunable": {
+        "prefix": "slTunable",
+        "body": [
+            "slTunable"
+        ],
+        "description": "slTunable (Matlab SLControl method)"
+    }
+}

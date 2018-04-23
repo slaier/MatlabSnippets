@@ -1,0 +1,1381 @@
+{
+    "ac2poly": {
+        "prefix": "ac2poly",
+        "body": [
+            "ac2poly"
+        ],
+        "description": "ac2poly (Matlab Signal method)"
+    },
+    "ac2rc": {
+        "prefix": "ac2rc",
+        "body": [
+            "ac2rc"
+        ],
+        "description": "ac2rc (Matlab Signal method)"
+    },
+    "arburg": {
+        "prefix": "arburg",
+        "body": [
+            "arburg"
+        ],
+        "description": "arburg (Matlab Signal method)"
+    },
+    "arcov": {
+        "prefix": "arcov",
+        "body": [
+            "arcov"
+        ],
+        "description": "arcov (Matlab Signal method)"
+    },
+    "armcov": {
+        "prefix": "armcov",
+        "body": [
+            "armcov"
+        ],
+        "description": "armcov (Matlab Signal method)"
+    },
+    "aryule": {
+        "prefix": "aryule",
+        "body": [
+            "aryule"
+        ],
+        "description": "aryule (Matlab Signal method)"
+    },
+    "bandpower": {
+        "prefix": "bandpower",
+        "body": [
+            "bandpower"
+        ],
+        "description": "bandpower (Matlab Signal method)"
+    },
+    "barthannwin": {
+        "prefix": "barthannwin",
+        "body": [
+            "barthannwin"
+        ],
+        "description": "barthannwin (Matlab Signal method)"
+    },
+    "bartlett": {
+        "prefix": "bartlett",
+        "body": [
+            "bartlett"
+        ],
+        "description": "bartlett (Matlab Signal method)"
+    },
+    "besselap": {
+        "prefix": "besselap",
+        "body": [
+            "besselap"
+        ],
+        "description": "besselap (Matlab Signal method)"
+    },
+    "besself": {
+        "prefix": "besself",
+        "body": [
+            "besself"
+        ],
+        "description": "besself (Matlab Signal method)"
+    },
+    "bilinear": {
+        "prefix": "bilinear",
+        "body": [
+            "bilinear"
+        ],
+        "description": "bilinear (Matlab Signal method)"
+    },
+    "bitrevorder": {
+        "prefix": "bitrevorder",
+        "body": [
+            "bitrevorder"
+        ],
+        "description": "bitrevorder (Matlab Signal method)"
+    },
+    "blackman": {
+        "prefix": "blackman",
+        "body": [
+            "blackman"
+        ],
+        "description": "blackman (Matlab Signal method)"
+    },
+    "blackmanharris": {
+        "prefix": "blackmanharris",
+        "body": [
+            "blackmanharris"
+        ],
+        "description": "blackmanharris (Matlab Signal method)"
+    },
+    "bohmanwin": {
+        "prefix": "bohmanwin",
+        "body": [
+            "bohmanwin"
+        ],
+        "description": "bohmanwin (Matlab Signal method)"
+    },
+    "buttap": {
+        "prefix": "buttap",
+        "body": [
+            "buttap"
+        ],
+        "description": "buttap (Matlab Signal method)"
+    },
+    "buttord": {
+        "prefix": "buttord",
+        "body": [
+            "buttord"
+        ],
+        "description": "buttord (Matlab Signal method)"
+    },
+    "cceps": {
+        "prefix": "cceps",
+        "body": [
+            "cceps"
+        ],
+        "description": "cceps (Matlab Signal method)"
+    },
+    "cconv": {
+        "prefix": "cconv",
+        "body": [
+            "cconv"
+        ],
+        "description": "cconv (Matlab Signal method)"
+    },
+    "cell2sos": {
+        "prefix": "cell2sos",
+        "body": [
+            "cell2sos"
+        ],
+        "description": "cell2sos (Matlab Signal method)"
+    },
+    "cfirpm": {
+        "prefix": "cfirpm",
+        "body": [
+            "cfirpm"
+        ],
+        "description": "cfirpm (Matlab Signal method)"
+    },
+    "cheb1ap": {
+        "prefix": "cheb1ap",
+        "body": [
+            "cheb1ap"
+        ],
+        "description": "cheb1ap (Matlab Signal method)"
+    },
+    "cheb1ord": {
+        "prefix": "cheb1ord",
+        "body": [
+            "cheb1ord"
+        ],
+        "description": "cheb1ord (Matlab Signal method)"
+    },
+    "cheb2ap": {
+        "prefix": "cheb2ap",
+        "body": [
+            "cheb2ap"
+        ],
+        "description": "cheb2ap (Matlab Signal method)"
+    },
+    "cheb2ord": {
+        "prefix": "cheb2ord",
+        "body": [
+            "cheb2ord"
+        ],
+        "description": "cheb2ord (Matlab Signal method)"
+    },
+    "chebwin": {
+        "prefix": "chebwin",
+        "body": [
+            "chebwin"
+        ],
+        "description": "chebwin (Matlab Signal method)"
+    },
+    "chirp": {
+        "prefix": "chirp",
+        "body": [
+            "chirp"
+        ],
+        "description": "chirp (Matlab Signal method)"
+    },
+    "corrmtx": {
+        "prefix": "corrmtx",
+        "body": [
+            "corrmtx"
+        ],
+        "description": "corrmtx (Matlab Signal method)"
+    },
+    "cpsd": {
+        "prefix": "cpsd",
+        "body": [
+            "cpsd"
+        ],
+        "description": "cpsd (Matlab Signal method)"
+    },
+    "czt": {
+        "prefix": "czt",
+        "body": [
+            "czt"
+        ],
+        "description": "czt (Matlab Signal method)"
+    },
+    "db": {
+        "prefix": "db",
+        "body": [
+            "db"
+        ],
+        "description": "db (Matlab Signal method)"
+    },
+    "db2pow": {
+        "prefix": "db2pow",
+        "body": [
+            "db2pow"
+        ],
+        "description": "db2pow (Matlab Signal method)"
+    },
+    "dct": {
+        "prefix": "dct",
+        "body": [
+            "dct"
+        ],
+        "description": "dct (Matlab Signal method)"
+    },
+    "decimate": {
+        "prefix": "decimate",
+        "body": [
+            "decimate"
+        ],
+        "description": "decimate (Matlab Signal method)"
+    },
+    "demod": {
+        "prefix": "demod",
+        "body": [
+            "demod"
+        ],
+        "description": "demod (Matlab Signal method)"
+    },
+    "designfilt": {
+        "prefix": "designfilt",
+        "body": [
+            "designfilt"
+        ],
+        "description": "designfilt (Matlab Signal method)"
+    },
+    "digitalFilter": {
+        "prefix": "digitalFilter",
+        "body": [
+            "digitalFilter"
+        ],
+        "description": "digitalFilter (Matlab Signal method)"
+    },
+    "digitrevorder": {
+        "prefix": "digitrevorder",
+        "body": [
+            "digitrevorder"
+        ],
+        "description": "digitrevorder (Matlab Signal method)"
+    },
+    "diric": {
+        "prefix": "diric",
+        "body": [
+            "diric"
+        ],
+        "description": "diric (Matlab Signal method)"
+    },
+    "downsample": {
+        "prefix": "downsample",
+        "body": [
+            "downsample"
+        ],
+        "description": "downsample (Matlab Signal method)"
+    },
+    "dpss": {
+        "prefix": "dpss",
+        "body": [
+            "dpss"
+        ],
+        "description": "dpss (Matlab Signal method)"
+    },
+    "dpssclear": {
+        "prefix": "dpssclear",
+        "body": [
+            "dpssclear"
+        ],
+        "description": "dpssclear (Matlab Signal method)"
+    },
+    "dpssdir": {
+        "prefix": "dpssdir",
+        "body": [
+            "dpssdir"
+        ],
+        "description": "dpssdir (Matlab Signal method)"
+    },
+    "dpssload": {
+        "prefix": "dpssload",
+        "body": [
+            "dpssload"
+        ],
+        "description": "dpssload (Matlab Signal method)"
+    },
+    "dpsssave": {
+        "prefix": "dpsssave",
+        "body": [
+            "dpsssave"
+        ],
+        "description": "dpsssave (Matlab Signal method)"
+    },
+    "dspfwiz": {
+        "prefix": "dspfwiz",
+        "body": [
+            "dspfwiz"
+        ],
+        "description": "dspfwiz (Matlab Signal method)"
+    },
+    "dutycycle": {
+        "prefix": "dutycycle",
+        "body": [
+            "dutycycle"
+        ],
+        "description": "dutycycle (Matlab Signal method)"
+    },
+    "ellipap": {
+        "prefix": "ellipap",
+        "body": [
+            "ellipap"
+        ],
+        "description": "ellipap (Matlab Signal method)"
+    },
+    "ellipord": {
+        "prefix": "ellipord",
+        "body": [
+            "ellipord"
+        ],
+        "description": "ellipord (Matlab Signal method)"
+    },
+    "enbw": {
+        "prefix": "enbw",
+        "body": [
+            "enbw"
+        ],
+        "description": "enbw (Matlab Signal method)"
+    },
+    "envelope": {
+        "prefix": "envelope",
+        "body": [
+            "envelope"
+        ],
+        "description": "envelope (Matlab Signal method)"
+    },
+    "eqtflength": {
+        "prefix": "eqtflength",
+        "body": [
+            "eqtflength"
+        ],
+        "description": "eqtflength (Matlab Signal method)"
+    },
+    "falltime": {
+        "prefix": "falltime",
+        "body": [
+            "falltime"
+        ],
+        "description": "falltime (Matlab Signal method)"
+    },
+    "fftfilt": {
+        "prefix": "fftfilt",
+        "body": [
+            "fftfilt"
+        ],
+        "description": "fftfilt (Matlab Signal method)"
+    },
+    "filt2block": {
+        "prefix": "filt2block",
+        "body": [
+            "filt2block"
+        ],
+        "description": "filt2block (Matlab Signal method)"
+    },
+    "filternorm": {
+        "prefix": "filternorm",
+        "body": [
+            "filternorm"
+        ],
+        "description": "filternorm (Matlab Signal method)"
+    },
+    "filtfilt": {
+        "prefix": "filtfilt",
+        "body": [
+            "filtfilt"
+        ],
+        "description": "filtfilt (Matlab Signal method)"
+    },
+    "filtic": {
+        "prefix": "filtic",
+        "body": [
+            "filtic"
+        ],
+        "description": "filtic (Matlab Signal method)"
+    },
+    "filtord": {
+        "prefix": "filtord",
+        "body": [
+            "filtord"
+        ],
+        "description": "filtord (Matlab Signal method)"
+    },
+    "findpeaks": {
+        "prefix": "findpeaks",
+        "body": [
+            "findpeaks"
+        ],
+        "description": "findpeaks (Matlab Signal method)"
+    },
+    "fir1": {
+        "prefix": "fir1",
+        "body": [
+            "fir1"
+        ],
+        "description": "fir1 (Matlab Signal method)"
+    },
+    "fir2": {
+        "prefix": "fir2",
+        "body": [
+            "fir2"
+        ],
+        "description": "fir2 (Matlab Signal method)"
+    },
+    "fircls1": {
+        "prefix": "fircls1",
+        "body": [
+            "fircls1"
+        ],
+        "description": "fircls1 (Matlab Signal method)"
+    },
+    "firpm": {
+        "prefix": "firpm",
+        "body": [
+            "firpm"
+        ],
+        "description": "firpm (Matlab Signal method)"
+    },
+    "firpmord": {
+        "prefix": "firpmord",
+        "body": [
+            "firpmord"
+        ],
+        "description": "firpmord (Matlab Signal method)"
+    },
+    "flattopwin": {
+        "prefix": "flattopwin",
+        "body": [
+            "flattopwin"
+        ],
+        "description": "flattopwin (Matlab Signal method)"
+    },
+    "freqs": {
+        "prefix": "freqs",
+        "body": [
+            "freqs"
+        ],
+        "description": "freqs (Matlab Signal method)"
+    },
+    "fwht": {
+        "prefix": "fwht",
+        "body": [
+            "fwht"
+        ],
+        "description": "fwht (Matlab Signal method)"
+    },
+    "gauspuls": {
+        "prefix": "gauspuls",
+        "body": [
+            "gauspuls"
+        ],
+        "description": "gauspuls (Matlab Signal method)"
+    },
+    "gausswin": {
+        "prefix": "gausswin",
+        "body": [
+            "gausswin"
+        ],
+        "description": "gausswin (Matlab Signal method)"
+    },
+    "gmonopuls": {
+        "prefix": "gmonopuls",
+        "body": [
+            "gmonopuls"
+        ],
+        "description": "gmonopuls (Matlab Signal method)"
+    },
+    "goertzel": {
+        "prefix": "goertzel",
+        "body": [
+            "goertzel"
+        ],
+        "description": "goertzel (Matlab Signal method)"
+    },
+    "hamming": {
+        "prefix": "hamming",
+        "body": [
+            "hamming"
+        ],
+        "description": "hamming (Matlab Signal method)"
+    },
+    "hampel": {
+        "prefix": "hampel",
+        "body": [
+            "hampel"
+        ],
+        "description": "hampel (Matlab Signal method)"
+    },
+    "hann": {
+        "prefix": "hann",
+        "body": [
+            "hann"
+        ],
+        "description": "hann (Matlab Signal method)"
+    },
+    "hilbert": {
+        "prefix": "hilbert",
+        "body": [
+            "hilbert"
+        ],
+        "description": "hilbert (Matlab Signal method)"
+    },
+    "icceps": {
+        "prefix": "icceps",
+        "body": [
+            "icceps"
+        ],
+        "description": "icceps (Matlab Signal method)"
+    },
+    "idct": {
+        "prefix": "idct",
+        "body": [
+            "idct"
+        ],
+        "description": "idct (Matlab Signal method)"
+    },
+    "ifwht": {
+        "prefix": "ifwht",
+        "body": [
+            "ifwht"
+        ],
+        "description": "ifwht (Matlab Signal method)"
+    },
+    "impinvar": {
+        "prefix": "impinvar",
+        "body": [
+            "impinvar"
+        ],
+        "description": "impinvar (Matlab Signal method)"
+    },
+    "impzlength": {
+        "prefix": "impzlength",
+        "body": [
+            "impzlength"
+        ],
+        "description": "impzlength (Matlab Signal method)"
+    },
+    "intfilt": {
+        "prefix": "intfilt",
+        "body": [
+            "intfilt"
+        ],
+        "description": "intfilt (Matlab Signal method)"
+    },
+    "invfreqs": {
+        "prefix": "invfreqs",
+        "body": [
+            "invfreqs"
+        ],
+        "description": "invfreqs (Matlab Signal method)"
+    },
+    "invfreqz": {
+        "prefix": "invfreqz",
+        "body": [
+            "invfreqz"
+        ],
+        "description": "invfreqz (Matlab Signal method)"
+    },
+    "is2rc": {
+        "prefix": "is2rc",
+        "body": [
+            "is2rc"
+        ],
+        "description": "is2rc (Matlab Signal method)"
+    },
+    "kaiser": {
+        "prefix": "kaiser",
+        "body": [
+            "kaiser"
+        ],
+        "description": "kaiser (Matlab Signal method)"
+    },
+    "kaiserord": {
+        "prefix": "kaiserord",
+        "body": [
+            "kaiserord"
+        ],
+        "description": "kaiserord (Matlab Signal method)"
+    },
+    "lar2rc": {
+        "prefix": "lar2rc",
+        "body": [
+            "lar2rc"
+        ],
+        "description": "lar2rc (Matlab Signal method)"
+    },
+    "latc2tf": {
+        "prefix": "latc2tf",
+        "body": [
+            "latc2tf"
+        ],
+        "description": "latc2tf (Matlab Signal method)"
+    },
+    "latcfilt": {
+        "prefix": "latcfilt",
+        "body": [
+            "latcfilt"
+        ],
+        "description": "latcfilt (Matlab Signal method)"
+    },
+    "levinson": {
+        "prefix": "levinson",
+        "body": [
+            "levinson"
+        ],
+        "description": "levinson (Matlab Signal method)"
+    },
+    "lp2bp": {
+        "prefix": "lp2bp",
+        "body": [
+            "lp2bp"
+        ],
+        "description": "lp2bp (Matlab Signal method)"
+    },
+    "lp2bs": {
+        "prefix": "lp2bs",
+        "body": [
+            "lp2bs"
+        ],
+        "description": "lp2bs (Matlab Signal method)"
+    },
+    "lp2hp": {
+        "prefix": "lp2hp",
+        "body": [
+            "lp2hp"
+        ],
+        "description": "lp2hp (Matlab Signal method)"
+    },
+    "lp2lp": {
+        "prefix": "lp2lp",
+        "body": [
+            "lp2lp"
+        ],
+        "description": "lp2lp (Matlab Signal method)"
+    },
+    "lpc": {
+        "prefix": "lpc",
+        "body": [
+            "lpc"
+        ],
+        "description": "lpc (Matlab Signal method)"
+    },
+    "lsf2poly": {
+        "prefix": "lsf2poly",
+        "body": [
+            "lsf2poly"
+        ],
+        "description": "lsf2poly (Matlab Signal method)"
+    },
+    "meanfreq": {
+        "prefix": "meanfreq",
+        "body": [
+            "meanfreq"
+        ],
+        "description": "meanfreq (Matlab Signal method)"
+    },
+    "medfilt1": {
+        "prefix": "medfilt1",
+        "body": [
+            "medfilt1"
+        ],
+        "description": "medfilt1 (Matlab Signal method)"
+    },
+    "medfreq": {
+        "prefix": "medfreq",
+        "body": [
+            "medfreq"
+        ],
+        "description": "medfreq (Matlab Signal method)"
+    },
+    "midcross": {
+        "prefix": "midcross",
+        "body": [
+            "midcross"
+        ],
+        "description": "midcross (Matlab Signal method)"
+    },
+    "modulate": {
+        "prefix": "modulate",
+        "body": [
+            "modulate"
+        ],
+        "description": "modulate (Matlab Signal method)"
+    },
+    "mscohere": {
+        "prefix": "mscohere",
+        "body": [
+            "mscohere"
+        ],
+        "description": "mscohere (Matlab Signal method)"
+    },
+    "nuttallwin": {
+        "prefix": "nuttallwin",
+        "body": [
+            "nuttallwin"
+        ],
+        "description": "nuttallwin (Matlab Signal method)"
+    },
+    "obw": {
+        "prefix": "obw",
+        "body": [
+            "obw"
+        ],
+        "description": "obw (Matlab Signal method)"
+    },
+    "overshoot": {
+        "prefix": "overshoot",
+        "body": [
+            "overshoot"
+        ],
+        "description": "overshoot (Matlab Signal method)"
+    },
+    "parzenwin": {
+        "prefix": "parzenwin",
+        "body": [
+            "parzenwin"
+        ],
+        "description": "parzenwin (Matlab Signal method)"
+    },
+    "pburg": {
+        "prefix": "pburg",
+        "body": [
+            "pburg"
+        ],
+        "description": "pburg (Matlab Signal method)"
+    },
+    "pcov": {
+        "prefix": "pcov",
+        "body": [
+            "pcov"
+        ],
+        "description": "pcov (Matlab Signal method)"
+    },
+    "peak2peak": {
+        "prefix": "peak2peak",
+        "body": [
+            "peak2peak"
+        ],
+        "description": "peak2peak (Matlab Signal method)"
+    },
+    "peak2rms": {
+        "prefix": "peak2rms",
+        "body": [
+            "peak2rms"
+        ],
+        "description": "peak2rms (Matlab Signal method)"
+    },
+    "peig": {
+        "prefix": "peig",
+        "body": [
+            "peig"
+        ],
+        "description": "peig (Matlab Signal method)"
+    },
+    "periodogram": {
+        "prefix": "periodogram",
+        "body": [
+            "periodogram"
+        ],
+        "description": "periodogram (Matlab Signal method)"
+    },
+    "plomb": {
+        "prefix": "plomb",
+        "body": [
+            "plomb"
+        ],
+        "description": "plomb (Matlab Signal method)"
+    },
+    "pmcov": {
+        "prefix": "pmcov",
+        "body": [
+            "pmcov"
+        ],
+        "description": "pmcov (Matlab Signal method)"
+    },
+    "pmtm": {
+        "prefix": "pmtm",
+        "body": [
+            "pmtm"
+        ],
+        "description": "pmtm (Matlab Signal method)"
+    },
+    "pmusic": {
+        "prefix": "pmusic",
+        "body": [
+            "pmusic"
+        ],
+        "description": "pmusic (Matlab Signal method)"
+    },
+    "poly2ac": {
+        "prefix": "poly2ac",
+        "body": [
+            "poly2ac"
+        ],
+        "description": "poly2ac (Matlab Signal method)"
+    },
+    "poly2lsf": {
+        "prefix": "poly2lsf",
+        "body": [
+            "poly2lsf"
+        ],
+        "description": "poly2lsf (Matlab Signal method)"
+    },
+    "poly2rc": {
+        "prefix": "poly2rc",
+        "body": [
+            "poly2rc"
+        ],
+        "description": "poly2rc (Matlab Signal method)"
+    },
+    "polyscale": {
+        "prefix": "polyscale",
+        "body": [
+            "polyscale"
+        ],
+        "description": "polyscale (Matlab Signal method)"
+    },
+    "polystab": {
+        "prefix": "polystab",
+        "body": [
+            "polystab"
+        ],
+        "description": "polystab (Matlab Signal method)"
+    },
+    "pow2db": {
+        "prefix": "pow2db",
+        "body": [
+            "pow2db"
+        ],
+        "description": "pow2db (Matlab Signal method)"
+    },
+    "powerbw": {
+        "prefix": "powerbw",
+        "body": [
+            "powerbw"
+        ],
+        "description": "powerbw (Matlab Signal method)"
+    },
+    "prony": {
+        "prefix": "prony",
+        "body": [
+            "prony"
+        ],
+        "description": "prony (Matlab Signal method)"
+    },
+    "pulseperiod": {
+        "prefix": "pulseperiod",
+        "body": [
+            "pulseperiod"
+        ],
+        "description": "pulseperiod (Matlab Signal method)"
+    },
+    "pulsesep": {
+        "prefix": "pulsesep",
+        "body": [
+            "pulsesep"
+        ],
+        "description": "pulsesep (Matlab Signal method)"
+    },
+    "pulsewidth": {
+        "prefix": "pulsewidth",
+        "body": [
+            "pulsewidth"
+        ],
+        "description": "pulsewidth (Matlab Signal method)"
+    },
+    "pulstran": {
+        "prefix": "pulstran",
+        "body": [
+            "pulstran"
+        ],
+        "description": "pulstran (Matlab Signal method)"
+    },
+    "pwelch": {
+        "prefix": "pwelch",
+        "body": [
+            "pwelch"
+        ],
+        "description": "pwelch (Matlab Signal method)"
+    },
+    "pyulear": {
+        "prefix": "pyulear",
+        "body": [
+            "pyulear"
+        ],
+        "description": "pyulear (Matlab Signal method)"
+    },
+    "rc2ac": {
+        "prefix": "rc2ac",
+        "body": [
+            "rc2ac"
+        ],
+        "description": "rc2ac (Matlab Signal method)"
+    },
+    "rc2is": {
+        "prefix": "rc2is",
+        "body": [
+            "rc2is"
+        ],
+        "description": "rc2is (Matlab Signal method)"
+    },
+    "rc2lar": {
+        "prefix": "rc2lar",
+        "body": [
+            "rc2lar"
+        ],
+        "description": "rc2lar (Matlab Signal method)"
+    },
+    "rc2poly": {
+        "prefix": "rc2poly",
+        "body": [
+            "rc2poly"
+        ],
+        "description": "rc2poly (Matlab Signal method)"
+    },
+    "rceps": {
+        "prefix": "rceps",
+        "body": [
+            "rceps"
+        ],
+        "description": "rceps (Matlab Signal method)"
+    },
+    "rectpuls": {
+        "prefix": "rectpuls",
+        "body": [
+            "rectpuls"
+        ],
+        "description": "rectpuls (Matlab Signal method)"
+    },
+    "rectwin": {
+        "prefix": "rectwin",
+        "body": [
+            "rectwin"
+        ],
+        "description": "rectwin (Matlab Signal method)"
+    },
+    "residuez": {
+        "prefix": "residuez",
+        "body": [
+            "residuez"
+        ],
+        "description": "residuez (Matlab Signal method)"
+    },
+    "risetime": {
+        "prefix": "risetime",
+        "body": [
+            "risetime"
+        ],
+        "description": "risetime (Matlab Signal method)"
+    },
+    "rlevinson": {
+        "prefix": "rlevinson",
+        "body": [
+            "rlevinson"
+        ],
+        "description": "rlevinson (Matlab Signal method)"
+    },
+    "rms": {
+        "prefix": "rms",
+        "body": [
+            "rms"
+        ],
+        "description": "rms (Matlab Signal method)"
+    },
+    "rooteig": {
+        "prefix": "rooteig",
+        "body": [
+            "rooteig"
+        ],
+        "description": "rooteig (Matlab Signal method)"
+    },
+    "rootmusic": {
+        "prefix": "rootmusic",
+        "body": [
+            "rootmusic"
+        ],
+        "description": "rootmusic (Matlab Signal method)"
+    },
+    "rpmfreqmap": {
+        "prefix": "rpmfreqmap",
+        "body": [
+            "rpmfreqmap"
+        ],
+        "description": "rpmfreqmap (Matlab Signal method)"
+    },
+    "rpmordermap": {
+        "prefix": "rpmordermap",
+        "body": [
+            "rpmordermap"
+        ],
+        "description": "rpmordermap (Matlab Signal method)"
+    },
+    "rssq": {
+        "prefix": "rssq",
+        "body": [
+            "rssq"
+        ],
+        "description": "rssq (Matlab Signal method)"
+    },
+    "sawtooth": {
+        "prefix": "sawtooth",
+        "body": [
+            "sawtooth"
+        ],
+        "description": "sawtooth (Matlab Signal method)"
+    },
+    "schurrc": {
+        "prefix": "schurrc",
+        "body": [
+            "schurrc"
+        ],
+        "description": "schurrc (Matlab Signal method)"
+    },
+    "seqperiod": {
+        "prefix": "seqperiod",
+        "body": [
+            "seqperiod"
+        ],
+        "description": "seqperiod (Matlab Signal method)"
+    },
+    "settlingtime": {
+        "prefix": "settlingtime",
+        "body": [
+            "settlingtime"
+        ],
+        "description": "settlingtime (Matlab Signal method)"
+    },
+    "sfdr": {
+        "prefix": "sfdr",
+        "body": [
+            "sfdr"
+        ],
+        "description": "sfdr (Matlab Signal method)"
+    },
+    "sgolay": {
+        "prefix": "sgolay",
+        "body": [
+            "sgolay"
+        ],
+        "description": "sgolay (Matlab Signal method)"
+    },
+    "sgolayfilt": {
+        "prefix": "sgolayfilt",
+        "body": [
+            "sgolayfilt"
+        ],
+        "description": "sgolayfilt (Matlab Signal method)"
+    },
+    "sinad": {
+        "prefix": "sinad",
+        "body": [
+            "sinad"
+        ],
+        "description": "sinad (Matlab Signal method)"
+    },
+    "sinc": {
+        "prefix": "sinc",
+        "body": [
+            "sinc"
+        ],
+        "description": "sinc (Matlab Signal method)"
+    },
+    "slewrate": {
+        "prefix": "slewrate",
+        "body": [
+            "slewrate"
+        ],
+        "description": "slewrate (Matlab Signal method)"
+    },
+    "snr": {
+        "prefix": "snr",
+        "body": [
+            "snr"
+        ],
+        "description": "snr (Matlab Signal method)"
+    },
+    "sos2cell": {
+        "prefix": "sos2cell",
+        "body": [
+            "sos2cell"
+        ],
+        "description": "sos2cell (Matlab Signal method)"
+    },
+    "sos2ss": {
+        "prefix": "sos2ss",
+        "body": [
+            "sos2ss"
+        ],
+        "description": "sos2ss (Matlab Signal method)"
+    },
+    "sos2tf": {
+        "prefix": "sos2tf",
+        "body": [
+            "sos2tf"
+        ],
+        "description": "sos2tf (Matlab Signal method)"
+    },
+    "sos2zp": {
+        "prefix": "sos2zp",
+        "body": [
+            "sos2zp"
+        ],
+        "description": "sos2zp (Matlab Signal method)"
+    },
+    "sosfilt": {
+        "prefix": "sosfilt",
+        "body": [
+            "sosfilt"
+        ],
+        "description": "sosfilt (Matlab Signal method)"
+    },
+    "sptool": {
+        "prefix": "sptool",
+        "body": [
+            "sptool"
+        ],
+        "description": "sptool (Matlab Signal method)"
+    },
+    "square": {
+        "prefix": "square",
+        "body": [
+            "square"
+        ],
+        "description": "square (Matlab Signal method)"
+    },
+    "ss2sos": {
+        "prefix": "ss2sos",
+        "body": [
+            "ss2sos"
+        ],
+        "description": "ss2sos (Matlab Signal method)"
+    },
+    "ss2zp": {
+        "prefix": "ss2zp",
+        "body": [
+            "ss2zp"
+        ],
+        "description": "ss2zp (Matlab Signal method)"
+    },
+    "statelevels": {
+        "prefix": "statelevels",
+        "body": [
+            "statelevels"
+        ],
+        "description": "statelevels (Matlab Signal method)"
+    },
+    "stmcb": {
+        "prefix": "stmcb",
+        "body": [
+            "stmcb"
+        ],
+        "description": "stmcb (Matlab Signal method)"
+    },
+    "strips": {
+        "prefix": "strips",
+        "body": [
+            "strips"
+        ],
+        "description": "strips (Matlab Signal method)"
+    },
+    "taylorwin": {
+        "prefix": "taylorwin",
+        "body": [
+            "taylorwin"
+        ],
+        "description": "taylorwin (Matlab Signal method)"
+    },
+    "tf2latc": {
+        "prefix": "tf2latc",
+        "body": [
+            "tf2latc"
+        ],
+        "description": "tf2latc (Matlab Signal method)"
+    },
+    "tf2sos": {
+        "prefix": "tf2sos",
+        "body": [
+            "tf2sos"
+        ],
+        "description": "tf2sos (Matlab Signal method)"
+    },
+    "tf2ss": {
+        "prefix": "tf2ss",
+        "body": [
+            "tf2ss"
+        ],
+        "description": "tf2ss (Matlab Signal method)"
+    },
+    "tf2zp": {
+        "prefix": "tf2zp",
+        "body": [
+            "tf2zp"
+        ],
+        "description": "tf2zp (Matlab Signal method)"
+    },
+    "tf2zpk": {
+        "prefix": "tf2zpk",
+        "body": [
+            "tf2zpk"
+        ],
+        "description": "tf2zpk (Matlab Signal method)"
+    },
+    "tfestimate": {
+        "prefix": "tfestimate",
+        "body": [
+            "tfestimate"
+        ],
+        "description": "tfestimate (Matlab Signal method)"
+    },
+    "thd": {
+        "prefix": "thd",
+        "body": [
+            "thd"
+        ],
+        "description": "thd (Matlab Signal method)"
+    },
+    "toi": {
+        "prefix": "toi",
+        "body": [
+            "toi"
+        ],
+        "description": "toi (Matlab Signal method)"
+    },
+    "triang": {
+        "prefix": "triang",
+        "body": [
+            "triang"
+        ],
+        "description": "triang (Matlab Signal method)"
+    },
+    "tripuls": {
+        "prefix": "tripuls",
+        "body": [
+            "tripuls"
+        ],
+        "description": "tripuls (Matlab Signal method)"
+    },
+    "tukeywin": {
+        "prefix": "tukeywin",
+        "body": [
+            "tukeywin"
+        ],
+        "description": "tukeywin (Matlab Signal method)"
+    },
+    "udecode": {
+        "prefix": "udecode",
+        "body": [
+            "udecode"
+        ],
+        "description": "udecode (Matlab Signal method)"
+    },
+    "uencode": {
+        "prefix": "uencode",
+        "body": [
+            "uencode"
+        ],
+        "description": "uencode (Matlab Signal method)"
+    },
+    "undershoot": {
+        "prefix": "undershoot",
+        "body": [
+            "undershoot"
+        ],
+        "description": "undershoot (Matlab Signal method)"
+    },
+    "upfirdn": {
+        "prefix": "upfirdn",
+        "body": [
+            "upfirdn"
+        ],
+        "description": "upfirdn (Matlab Signal method)"
+    },
+    "vco": {
+        "prefix": "vco",
+        "body": [
+            "vco"
+        ],
+        "description": "vco (Matlab Signal method)"
+    },
+    "wintool": {
+        "prefix": "wintool",
+        "body": [
+            "wintool"
+        ],
+        "description": "wintool (Matlab Signal method)"
+    },
+    "wvtool": {
+        "prefix": "wvtool",
+        "body": [
+            "wvtool"
+        ],
+        "description": "wvtool (Matlab Signal method)"
+    },
+    "xcorr": {
+        "prefix": "xcorr",
+        "body": [
+            "xcorr"
+        ],
+        "description": "xcorr (Matlab Signal method)"
+    },
+    "xcorr2": {
+        "prefix": "xcorr2",
+        "body": [
+            "xcorr2"
+        ],
+        "description": "xcorr2 (Matlab Signal method)"
+    },
+    "xcov": {
+        "prefix": "xcov",
+        "body": [
+            "xcov"
+        ],
+        "description": "xcov (Matlab Signal method)"
+    },
+    "yulewalk": {
+        "prefix": "yulewalk",
+        "body": [
+            "yulewalk"
+        ],
+        "description": "yulewalk (Matlab Signal method)"
+    },
+    "zp2sos": {
+        "prefix": "zp2sos",
+        "body": [
+            "zp2sos"
+        ],
+        "description": "zp2sos (Matlab Signal method)"
+    },
+    "zp2ss": {
+        "prefix": "zp2ss",
+        "body": [
+            "zp2ss"
+        ],
+        "description": "zp2ss (Matlab Signal method)"
+    },
+    "zp2tf": {
+        "prefix": "zp2tf",
+        "body": [
+            "zp2tf"
+        ],
+        "description": "zp2tf (Matlab Signal method)"
+    }
+}

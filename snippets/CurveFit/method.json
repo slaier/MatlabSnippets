@@ -1,0 +1,485 @@
+{
+	"aptknt": {
+		"prefix": "aptknt",
+		"body": [
+			"aptknt"
+		],
+		"description": "aptknt (Matlab CurveFit method)"
+	},
+	"argnames": {
+		"prefix": "argnames",
+		"body": [
+			"argnames"
+		],
+		"description": "argnames (Matlab CurveFit method)"
+	},
+	"augknt": {
+		"prefix": "augknt",
+		"body": [
+			"augknt"
+		],
+		"description": "augknt (Matlab CurveFit method)"
+	},
+	"aveknt": {
+		"prefix": "aveknt",
+		"body": [
+			"aveknt"
+		],
+		"description": "aveknt (Matlab CurveFit method)"
+	},
+	"brk2knt": {
+		"prefix": "brk2knt",
+		"body": [
+			"brk2knt"
+		],
+		"description": "brk2knt (Matlab CurveFit method)"
+	},
+	"bspline": {
+		"prefix": "bspline",
+		"body": [
+			"bspline"
+		],
+		"description": "bspline (Matlab CurveFit method)"
+	},
+	"category": {
+		"prefix": "category",
+		"body": [
+			"category"
+		],
+		"description": "category (Matlab CurveFit method)"
+	},
+	"cfit": {
+		"prefix": "cfit",
+		"body": [
+			"cfit"
+		],
+		"description": "cfit (Matlab CurveFit method)"
+	},
+	"chbpnt": {
+		"prefix": "chbpnt",
+		"body": [
+			"chbpnt"
+		],
+		"description": "chbpnt (Matlab CurveFit method)"
+	},
+	"coeffnames": {
+		"prefix": "coeffnames",
+		"body": [
+			"coeffnames"
+		],
+		"description": "coeffnames (Matlab CurveFit method)"
+	},
+	"coeffvalues": {
+		"prefix": "coeffvalues",
+		"body": [
+			"coeffvalues"
+		],
+		"description": "coeffvalues (Matlab CurveFit method)"
+	},
+	"confint": {
+		"prefix": "confint",
+		"body": [
+			"confint"
+		],
+		"description": "confint (Matlab CurveFit method)"
+	},
+	"csape": {
+		"prefix": "csape",
+		"body": [
+			"csape"
+		],
+		"description": "csape (Matlab CurveFit method)"
+	},
+	"csapi": {
+		"prefix": "csapi",
+		"body": [
+			"csapi"
+		],
+		"description": "csapi (Matlab CurveFit method)"
+	},
+	"csaps": {
+		"prefix": "csaps",
+		"body": [
+			"csaps"
+		],
+		"description": "csaps (Matlab CurveFit method)"
+	},
+	"cscvn": {
+		"prefix": "cscvn",
+		"body": [
+			"cscvn"
+		],
+		"description": "cscvn (Matlab CurveFit method)"
+	},
+	"dependnames": {
+		"prefix": "dependnames",
+		"body": [
+			"dependnames"
+		],
+		"description": "dependnames (Matlab CurveFit method)"
+	},
+	"differentiate": {
+		"prefix": "differentiate",
+		"body": [
+			"differentiate"
+		],
+		"description": "differentiate (Matlab CurveFit method)"
+	},
+	"excludedata": {
+		"prefix": "excludedata",
+		"body": [
+			"excludedata"
+		],
+		"description": "excludedata (Matlab CurveFit method)"
+	},
+	"fit": {
+		"prefix": "fit",
+		"body": [
+			"fit"
+		],
+		"description": "fit (Matlab CurveFit method)"
+	},
+	"fitoptions": {
+		"prefix": "fitoptions",
+		"body": [
+			"fitoptions"
+		],
+		"description": "fitoptions (Matlab CurveFit method)"
+	},
+	"fittype": {
+		"prefix": "fittype",
+		"body": [
+			"fittype"
+		],
+		"description": "fittype (Matlab CurveFit method)"
+	},
+	"fn2fm": {
+		"prefix": "fn2fm",
+		"body": [
+			"fn2fm"
+		],
+		"description": "fn2fm (Matlab CurveFit method)"
+	},
+	"fnbrk": {
+		"prefix": "fnbrk",
+		"body": [
+			"fnbrk"
+		],
+		"description": "fnbrk (Matlab CurveFit method)"
+	},
+	"fnchg": {
+		"prefix": "fnchg",
+		"body": [
+			"fnchg"
+		],
+		"description": "fnchg (Matlab CurveFit method)"
+	},
+	"fncmb": {
+		"prefix": "fncmb",
+		"body": [
+			"fncmb"
+		],
+		"description": "fncmb (Matlab CurveFit method)"
+	},
+	"fnder": {
+		"prefix": "fnder",
+		"body": [
+			"fnder"
+		],
+		"description": "fnder (Matlab CurveFit method)"
+	},
+	"fndir": {
+		"prefix": "fndir",
+		"body": [
+			"fndir"
+		],
+		"description": "fndir (Matlab CurveFit method)"
+	},
+	"fnint": {
+		"prefix": "fnint",
+		"body": [
+			"fnint"
+		],
+		"description": "fnint (Matlab CurveFit method)"
+	},
+	"fnjmp": {
+		"prefix": "fnjmp",
+		"body": [
+			"fnjmp"
+		],
+		"description": "fnjmp (Matlab CurveFit method)"
+	},
+	"fnmin": {
+		"prefix": "fnmin",
+		"body": [
+			"fnmin"
+		],
+		"description": "fnmin (Matlab CurveFit method)"
+	},
+	"fnplt": {
+		"prefix": "fnplt",
+		"body": [
+			"fnplt"
+		],
+		"description": "fnplt (Matlab CurveFit method)"
+	},
+	"fnrfn": {
+		"prefix": "fnrfn",
+		"body": [
+			"fnrfn"
+		],
+		"description": "fnrfn (Matlab CurveFit method)"
+	},
+	"fntlr": {
+		"prefix": "fntlr",
+		"body": [
+			"fntlr"
+		],
+		"description": "fntlr (Matlab CurveFit method)"
+	},
+	"fnval": {
+		"prefix": "fnval",
+		"body": [
+			"fnval"
+		],
+		"description": "fnval (Matlab CurveFit method)"
+	},
+	"fnxtr": {
+		"prefix": "fnxtr",
+		"body": [
+			"fnxtr"
+		],
+		"description": "fnxtr (Matlab CurveFit method)"
+	},
+	"fnzeros": {
+		"prefix": "fnzeros",
+		"body": [
+			"fnzeros"
+		],
+		"description": "fnzeros (Matlab CurveFit method)"
+	},
+	"formula": {
+		"prefix": "formula",
+		"body": [
+			"formula"
+		],
+		"description": "formula (Matlab CurveFit method)"
+	},
+	"franke": {
+		"prefix": "franke",
+		"body": [
+			"franke"
+		],
+		"description": "franke (Matlab CurveFit method)"
+	},
+	"getcurve": {
+		"prefix": "getcurve",
+		"body": [
+			"getcurve"
+		],
+		"description": "getcurve (Matlab CurveFit method)"
+	},
+	"indepnames": {
+		"prefix": "indepnames",
+		"body": [
+			"indepnames"
+		],
+		"description": "indepnames (Matlab CurveFit method)"
+	},
+	"integrate": {
+		"prefix": "integrate",
+		"body": [
+			"integrate"
+		],
+		"description": "integrate (Matlab CurveFit method)"
+	},
+	"islinear": {
+		"prefix": "islinear",
+		"body": [
+			"islinear"
+		],
+		"description": "islinear (Matlab CurveFit method)"
+	},
+	"newknt": {
+		"prefix": "newknt",
+		"body": [
+			"newknt"
+		],
+		"description": "newknt (Matlab CurveFit method)"
+	},
+	"numargs": {
+		"prefix": "numargs",
+		"body": [
+			"numargs"
+		],
+		"description": "numargs (Matlab CurveFit method)"
+	},
+	"numcoeffs": {
+		"prefix": "numcoeffs",
+		"body": [
+			"numcoeffs"
+		],
+		"description": "numcoeffs (Matlab CurveFit method)"
+	},
+	"optknt": {
+		"prefix": "optknt",
+		"body": [
+			"optknt"
+		],
+		"description": "optknt (Matlab CurveFit method)"
+	},
+	"ppmak": {
+		"prefix": "ppmak",
+		"body": [
+			"ppmak"
+		],
+		"description": "ppmak (Matlab CurveFit method)"
+	},
+	"predint": {
+		"prefix": "predint",
+		"body": [
+			"predint"
+		],
+		"description": "predint (Matlab CurveFit method)"
+	},
+	"prepareCurveData": {
+		"prefix": "prepareCurveData",
+		"body": [
+			"prepareCurveData"
+		],
+		"description": "prepareCurveData (Matlab CurveFit method)"
+	},
+	"prepareSurfaceData": {
+		"prefix": "prepareSurfaceData",
+		"body": [
+			"prepareSurfaceData"
+		],
+		"description": "prepareSurfaceData (Matlab CurveFit method)"
+	},
+	"probnames": {
+		"prefix": "probnames",
+		"body": [
+			"probnames"
+		],
+		"description": "probnames (Matlab CurveFit method)"
+	},
+	"probvalues": {
+		"prefix": "probvalues",
+		"body": [
+			"probvalues"
+		],
+		"description": "probvalues (Matlab CurveFit method)"
+	},
+	"rpmak": {
+		"prefix": "rpmak",
+		"body": [
+			"rpmak"
+		],
+		"description": "rpmak (Matlab CurveFit method)"
+	},
+	"rscvn": {
+		"prefix": "rscvn",
+		"body": [
+			"rscvn"
+		],
+		"description": "rscvn (Matlab CurveFit method)"
+	},
+	"rsmak": {
+		"prefix": "rsmak",
+		"body": [
+			"rsmak"
+		],
+		"description": "rsmak (Matlab CurveFit method)"
+	},
+	"sfit": {
+		"prefix": "sfit",
+		"body": [
+			"sfit"
+		],
+		"description": "sfit (Matlab CurveFit method)"
+	},
+	"smooth": {
+		"prefix": "smooth",
+		"body": [
+			"smooth"
+		],
+		"description": "smooth (Matlab CurveFit method)"
+	},
+	"sorted": {
+		"prefix": "sorted",
+		"body": [
+			"sorted"
+		],
+		"description": "sorted (Matlab CurveFit method)"
+	},
+	"spap2": {
+		"prefix": "spap2",
+		"body": [
+			"spap2"
+		],
+		"description": "spap2 (Matlab CurveFit method)"
+	},
+	"spapi": {
+		"prefix": "spapi",
+		"body": [
+			"spapi"
+		],
+		"description": "spapi (Matlab CurveFit method)"
+	},
+	"spaps": {
+		"prefix": "spaps",
+		"body": [
+			"spaps"
+		],
+		"description": "spaps (Matlab CurveFit method)"
+	},
+	"spcrv": {
+		"prefix": "spcrv",
+		"body": [
+			"spcrv"
+		],
+		"description": "spcrv (Matlab CurveFit method)"
+	},
+	"splinetool": {
+		"prefix": "splinetool",
+		"body": [
+			"splinetool"
+		],
+		"description": "splinetool (Matlab CurveFit method)"
+	},
+	"spmak": {
+		"prefix": "spmak",
+		"body": [
+			"spmak"
+		],
+		"description": "spmak (Matlab CurveFit method)"
+	},
+	"spterms": {
+		"prefix": "spterms",
+		"body": [
+			"spterms"
+		],
+		"description": "spterms (Matlab CurveFit method)"
+	},
+	"stmak": {
+		"prefix": "stmak",
+		"body": [
+			"stmak"
+		],
+		"description": "stmak (Matlab CurveFit method)"
+	},
+	"titanium": {
+		"prefix": "titanium",
+		"body": [
+			"titanium"
+		],
+		"description": "titanium (Matlab CurveFit method)"
+	},
+	"tpaps": {
+		"prefix": "tpaps",
+		"body": [
+			"tpaps"
+		],
+		"description": "tpaps (Matlab CurveFit method)"
+	}
+}

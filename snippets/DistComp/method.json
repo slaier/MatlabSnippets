@@ -1,0 +1,828 @@
+{
+	"CUDAKernel": {
+		"prefix": "CUDAKernel",
+		"body": [
+			"CUDAKernel"
+		],
+		"description": "CUDAKernel (Matlab DistComp method)"
+	},
+	"Composite": {
+		"prefix": "Composite",
+		"body": [
+			"Composite"
+		],
+		"description": "Composite (Matlab DistComp method)"
+	},
+	"GPUDevice": {
+		"prefix": "GPUDevice",
+		"body": [
+			"GPUDevice"
+		],
+		"description": "GPUDevice (Matlab DistComp method)"
+	},
+	"addAttachedFiles": {
+		"prefix": "addAttachedFiles",
+		"body": [
+			"addAttachedFiles"
+		],
+		"description": "addAttachedFiles (Matlab DistComp method)"
+	},
+	"batch": {
+		"prefix": "batch",
+		"body": [
+			"batch"
+		],
+		"description": "batch (Matlab DistComp method)"
+	},
+	"cancel": {
+		"prefix": "cancel",
+		"body": [
+			"cancel"
+		],
+		"description": "cancel (Matlab DistComp method)"
+	},
+	"changePassword": {
+		"prefix": "changePassword",
+		"body": [
+			"changePassword"
+		],
+		"description": "changePassword (Matlab DistComp method)"
+	},
+	"classUnderlying": {
+		"prefix": "classUnderlying",
+		"body": [
+			"classUnderlying"
+		],
+		"description": "classUnderlying (Matlab DistComp method)"
+	},
+	"codistributed": {
+		"prefix": "codistributed",
+		"body": [
+			"codistributed"
+		],
+		"description": "codistributed (Matlab DistComp method)"
+	},
+	"codistributed.build": {
+		"prefix": "codistributed.build",
+		"body": [
+			"codistributed.build"
+		],
+		"description": "codistributed.build (Matlab DistComp method)"
+	},
+	"codistributed.cell": {
+		"prefix": "codistributed.cell",
+		"body": [
+			"codistributed.cell"
+		],
+		"description": "codistributed.cell (Matlab DistComp method)"
+	},
+	"codistributed.colon": {
+		"prefix": "codistributed.colon",
+		"body": [
+			"codistributed.colon"
+		],
+		"description": "codistributed.colon (Matlab DistComp method)"
+	},
+	"codistributed.spalloc": {
+		"prefix": "codistributed.spalloc",
+		"body": [
+			"codistributed.spalloc"
+		],
+		"description": "codistributed.spalloc (Matlab DistComp method)"
+	},
+	"codistributed.speye": {
+		"prefix": "codistributed.speye",
+		"body": [
+			"codistributed.speye"
+		],
+		"description": "codistributed.speye (Matlab DistComp method)"
+	},
+	"codistributed.sprand": {
+		"prefix": "codistributed.sprand",
+		"body": [
+			"codistributed.sprand"
+		],
+		"description": "codistributed.sprand (Matlab DistComp method)"
+	},
+	"codistributed.sprandn": {
+		"prefix": "codistributed.sprandn",
+		"body": [
+			"codistributed.sprandn"
+		],
+		"description": "codistributed.sprandn (Matlab DistComp method)"
+	},
+	"codistributor": {
+		"prefix": "codistributor",
+		"body": [
+			"codistributor"
+		],
+		"description": "codistributor (Matlab DistComp method)"
+	},
+	"codistributor1d": {
+		"prefix": "codistributor1d",
+		"body": [
+			"codistributor1d"
+		],
+		"description": "codistributor1d (Matlab DistComp method)"
+	},
+	"codistributor2dbc": {
+		"prefix": "codistributor2dbc",
+		"body": [
+			"codistributor2dbc"
+		],
+		"description": "codistributor2dbc (Matlab DistComp method)"
+	},
+	"codistributor2dbc.defaultLabGrid": {
+		"prefix": "codistributor2dbc.defaultLabGrid",
+		"body": [
+			"codistributor2dbc.defaultLabGrid"
+		],
+		"description": "codistributor2dbc.defaultLabGrid (Matlab DistComp method)"
+	},
+	"createCommunicatingJob": {
+		"prefix": "createCommunicatingJob",
+		"body": [
+			"createCommunicatingJob"
+		],
+		"description": "createCommunicatingJob (Matlab DistComp method)"
+	},
+	"createJob": {
+		"prefix": "createJob",
+		"body": [
+			"createJob"
+		],
+		"description": "createJob (Matlab DistComp method)"
+	},
+	"createTask": {
+		"prefix": "createTask",
+		"body": [
+			"createTask"
+		],
+		"description": "createTask (Matlab DistComp method)"
+	},
+	"delete": {
+		"prefix": "delete",
+		"body": [
+			"delete"
+		],
+		"description": "delete (Matlab DistComp method)"
+	},
+	"demote": {
+		"prefix": "demote",
+		"body": [
+			"demote"
+		],
+		"description": "demote (Matlab DistComp method)"
+	},
+	"distributed": {
+		"prefix": "distributed",
+		"body": [
+			"distributed"
+		],
+		"description": "distributed (Matlab DistComp method)"
+	},
+	"distributed.cell": {
+		"prefix": "distributed.cell",
+		"body": [
+			"distributed.cell"
+		],
+		"description": "distributed.cell (Matlab DistComp method)"
+	},
+	"distributed.spalloc": {
+		"prefix": "distributed.spalloc",
+		"body": [
+			"distributed.spalloc"
+		],
+		"description": "distributed.spalloc (Matlab DistComp method)"
+	},
+	"distributed.speye": {
+		"prefix": "distributed.speye",
+		"body": [
+			"distributed.speye"
+		],
+		"description": "distributed.speye (Matlab DistComp method)"
+	},
+	"distributed.sprand": {
+		"prefix": "distributed.sprand",
+		"body": [
+			"distributed.sprand"
+		],
+		"description": "distributed.sprand (Matlab DistComp method)"
+	},
+	"distributed.sprandn": {
+		"prefix": "distributed.sprandn",
+		"body": [
+			"distributed.sprandn"
+		],
+		"description": "distributed.sprandn (Matlab DistComp method)"
+	},
+	"dload": {
+		"prefix": "dload",
+		"body": [
+			"dload"
+		],
+		"description": "dload (Matlab DistComp method)"
+	},
+	"dsave": {
+		"prefix": "dsave",
+		"body": [
+			"dsave"
+		],
+		"description": "dsave (Matlab DistComp method)"
+	},
+	"existsOnGPU": {
+		"prefix": "existsOnGPU",
+		"body": [
+			"existsOnGPU"
+		],
+		"description": "existsOnGPU (Matlab DistComp method)"
+	},
+	"fetchNext": {
+		"prefix": "fetchNext",
+		"body": [
+			"fetchNext"
+		],
+		"description": "fetchNext (Matlab DistComp method)"
+	},
+	"fetchOutputs": {
+		"prefix": "fetchOutputs",
+		"body": [
+			"fetchOutputs"
+		],
+		"description": "fetchOutputs (Matlab DistComp method)"
+	},
+	"findJob": {
+		"prefix": "findJob",
+		"body": [
+			"findJob"
+		],
+		"description": "findJob (Matlab DistComp method)"
+	},
+	"findTask": {
+		"prefix": "findTask",
+		"body": [
+			"findTask"
+		],
+		"description": "findTask (Matlab DistComp method)"
+	},
+	"gather": {
+		"prefix": "gather",
+		"body": [
+			"gather"
+		],
+		"description": "gather (Matlab DistComp method)"
+	},
+	"gcat": {
+		"prefix": "gcat",
+		"body": [
+			"gcat"
+		],
+		"description": "gcat (Matlab DistComp method)"
+	},
+	"gcp": {
+		"prefix": "gcp",
+		"body": [
+			"gcp"
+		],
+		"description": "gcp (Matlab DistComp method)"
+	},
+	"getAttachedFilesFolder": {
+		"prefix": "getAttachedFilesFolder",
+		"body": [
+			"getAttachedFilesFolder"
+		],
+		"description": "getAttachedFilesFolder (Matlab DistComp method)"
+	},
+	"getCodistributor": {
+		"prefix": "getCodistributor",
+		"body": [
+			"getCodistributor"
+		],
+		"description": "getCodistributor (Matlab DistComp method)"
+	},
+	"getCurrentCluster": {
+		"prefix": "getCurrentCluster",
+		"body": [
+			"getCurrentCluster"
+		],
+		"description": "getCurrentCluster (Matlab DistComp method)"
+	},
+	"getCurrentJob": {
+		"prefix": "getCurrentJob",
+		"body": [
+			"getCurrentJob"
+		],
+		"description": "getCurrentJob (Matlab DistComp method)"
+	},
+	"getCurrentTask": {
+		"prefix": "getCurrentTask",
+		"body": [
+			"getCurrentTask"
+		],
+		"description": "getCurrentTask (Matlab DistComp method)"
+	},
+	"getCurrentWorker": {
+		"prefix": "getCurrentWorker",
+		"body": [
+			"getCurrentWorker"
+		],
+		"description": "getCurrentWorker (Matlab DistComp method)"
+	},
+	"getDebugLog": {
+		"prefix": "getDebugLog",
+		"body": [
+			"getDebugLog"
+		],
+		"description": "getDebugLog (Matlab DistComp method)"
+	},
+	"getJobClusterData": {
+		"prefix": "getJobClusterData",
+		"body": [
+			"getJobClusterData"
+		],
+		"description": "getJobClusterData (Matlab DistComp method)"
+	},
+	"getJobFolder": {
+		"prefix": "getJobFolder",
+		"body": [
+			"getJobFolder"
+		],
+		"description": "getJobFolder (Matlab DistComp method)"
+	},
+	"getJobFolderOnCluster": {
+		"prefix": "getJobFolderOnCluster",
+		"body": [
+			"getJobFolderOnCluster"
+		],
+		"description": "getJobFolderOnCluster (Matlab DistComp method)"
+	},
+	"getLocalPart": {
+		"prefix": "getLocalPart",
+		"body": [
+			"getLocalPart"
+		],
+		"description": "getLocalPart (Matlab DistComp method)"
+	},
+	"getLogLocation": {
+		"prefix": "getLogLocation",
+		"body": [
+			"getLogLocation"
+		],
+		"description": "getLogLocation (Matlab DistComp method)"
+	},
+	"globalIndices": {
+		"prefix": "globalIndices",
+		"body": [
+			"globalIndices"
+		],
+		"description": "globalIndices (Matlab DistComp method)"
+	},
+	"gop": {
+		"prefix": "gop",
+		"body": [
+			"gop"
+		],
+		"description": "gop (Matlab DistComp method)"
+	},
+	"gplus": {
+		"prefix": "gplus",
+		"body": [
+			"gplus"
+		],
+		"description": "gplus (Matlab DistComp method)"
+	},
+	"gpuArray": {
+		"prefix": "gpuArray",
+		"body": [
+			"gpuArray"
+		],
+		"description": "gpuArray (Matlab DistComp method)"
+	},
+	"gpuDevice": {
+		"prefix": "gpuDevice",
+		"body": [
+			"gpuDevice"
+		],
+		"description": "gpuDevice (Matlab DistComp method)"
+	},
+	"gpuDeviceCount": {
+		"prefix": "gpuDeviceCount",
+		"body": [
+			"gpuDeviceCount"
+		],
+		"description": "gpuDeviceCount (Matlab DistComp method)"
+	},
+	"gputimeit": {
+		"prefix": "gputimeit",
+		"body": [
+			"gputimeit"
+		],
+		"description": "gputimeit (Matlab DistComp method)"
+	},
+	"isComplete": {
+		"prefix": "isComplete",
+		"body": [
+			"isComplete"
+		],
+		"description": "isComplete (Matlab DistComp method)"
+	},
+	"isaUnderlying": {
+		"prefix": "isaUnderlying",
+		"body": [
+			"isaUnderlying"
+		],
+		"description": "isaUnderlying (Matlab DistComp method)"
+	},
+	"iscodistributed": {
+		"prefix": "iscodistributed",
+		"body": [
+			"iscodistributed"
+		],
+		"description": "iscodistributed (Matlab DistComp method)"
+	},
+	"isdistributed": {
+		"prefix": "isdistributed",
+		"body": [
+			"isdistributed"
+		],
+		"description": "isdistributed (Matlab DistComp method)"
+	},
+	"isequal": {
+		"prefix": "isequal",
+		"body": [
+			"isequal"
+		],
+		"description": "isequal (Matlab DistComp method)"
+	},
+	"isreplicated": {
+		"prefix": "isreplicated",
+		"body": [
+			"isreplicated"
+		],
+		"description": "isreplicated (Matlab DistComp method)"
+	},
+	"jobStartup": {
+		"prefix": "jobStartup",
+		"body": [
+			"jobStartup"
+		],
+		"description": "jobStartup (Matlab DistComp method)"
+	},
+	"labBarrier": {
+		"prefix": "labBarrier",
+		"body": [
+			"labBarrier"
+		],
+		"description": "labBarrier (Matlab DistComp method)"
+	},
+	"labBroadcast": {
+		"prefix": "labBroadcast",
+		"body": [
+			"labBroadcast"
+		],
+		"description": "labBroadcast (Matlab DistComp method)"
+	},
+	"labProbe": {
+		"prefix": "labProbe",
+		"body": [
+			"labProbe"
+		],
+		"description": "labProbe (Matlab DistComp method)"
+	},
+	"labReceive": {
+		"prefix": "labReceive",
+		"body": [
+			"labReceive"
+		],
+		"description": "labReceive (Matlab DistComp method)"
+	},
+	"labSend": {
+		"prefix": "labSend",
+		"body": [
+			"labSend"
+		],
+		"description": "labSend (Matlab DistComp method)"
+	},
+	"labSendReceive": {
+		"prefix": "labSendReceive",
+		"body": [
+			"labSendReceive"
+		],
+		"description": "labSendReceive (Matlab DistComp method)"
+	},
+	"labindex": {
+		"prefix": "labindex",
+		"body": [
+			"labindex"
+		],
+		"description": "labindex (Matlab DistComp method)"
+	},
+	"listAutoAttachedFiles": {
+		"prefix": "listAutoAttachedFiles",
+		"body": [
+			"listAutoAttachedFiles"
+		],
+		"description": "listAutoAttachedFiles (Matlab DistComp method)"
+	},
+	"logOut": {
+		"prefix": "logOut",
+		"body": [
+			"logOut"
+		],
+		"description": "logOut (Matlab DistComp method)"
+	},
+	"mexcuda": {
+		"prefix": "mexcuda",
+		"body": [
+			"mexcuda"
+		],
+		"description": "mexcuda (Matlab DistComp method)"
+	},
+	"mpiLibConf": {
+		"prefix": "mpiLibConf",
+		"body": [
+			"mpiLibConf"
+		],
+		"description": "mpiLibConf (Matlab DistComp method)"
+	},
+	"mpiSettings": {
+		"prefix": "mpiSettings",
+		"body": [
+			"mpiSettings"
+		],
+		"description": "mpiSettings (Matlab DistComp method)"
+	},
+	"mpiprofile": {
+		"prefix": "mpiprofile",
+		"body": [
+			"mpiprofile"
+		],
+		"description": "mpiprofile (Matlab DistComp method)"
+	},
+	"numlabs": {
+		"prefix": "numlabs",
+		"body": [
+			"numlabs"
+		],
+		"description": "numlabs (Matlab DistComp method)"
+	},
+	"pagefun": {
+		"prefix": "pagefun",
+		"body": [
+			"pagefun"
+		],
+		"description": "pagefun (Matlab DistComp method)"
+	},
+	"parallel.Cluster": {
+		"prefix": "parallel.Cluster",
+		"body": [
+			"parallel.Cluster"
+		],
+		"description": "parallel.Cluster (Matlab DistComp method)"
+	},
+	"parallel.Job": {
+		"prefix": "parallel.Job",
+		"body": [
+			"parallel.Job"
+		],
+		"description": "parallel.Job (Matlab DistComp method)"
+	},
+	"parallel.Pool": {
+		"prefix": "parallel.Pool",
+		"body": [
+			"parallel.Pool"
+		],
+		"description": "parallel.Pool (Matlab DistComp method)"
+	},
+	"parallel.Task": {
+		"prefix": "parallel.Task",
+		"body": [
+			"parallel.Task"
+		],
+		"description": "parallel.Task (Matlab DistComp method)"
+	},
+	"parallel.Worker": {
+		"prefix": "parallel.Worker",
+		"body": [
+			"parallel.Worker"
+		],
+		"description": "parallel.Worker (Matlab DistComp method)"
+	},
+	"parallel.cluster.Hadoop": {
+		"prefix": "parallel.cluster.Hadoop",
+		"body": [
+			"parallel.cluster.Hadoop"
+		],
+		"description": "parallel.cluster.Hadoop (Matlab DistComp method)"
+	},
+	"parallel.defaultClusterProfile": {
+		"prefix": "parallel.defaultClusterProfile",
+		"body": [
+			"parallel.defaultClusterProfile"
+		],
+		"description": "parallel.defaultClusterProfile (Matlab DistComp method)"
+	},
+	"parallel.exportProfile": {
+		"prefix": "parallel.exportProfile",
+		"body": [
+			"parallel.exportProfile"
+		],
+		"description": "parallel.exportProfile (Matlab DistComp method)"
+	},
+	"parallel.gpu.CUDAKernel": {
+		"prefix": "parallel.gpu.CUDAKernel",
+		"body": [
+			"parallel.gpu.CUDAKernel"
+		],
+		"description": "parallel.gpu.CUDAKernel (Matlab DistComp method)"
+	},
+	"parallel.importProfile": {
+		"prefix": "parallel.importProfile",
+		"body": [
+			"parallel.importProfile"
+		],
+		"description": "parallel.importProfile (Matlab DistComp method)"
+	},
+	"parallel.pool.Constant": {
+		"prefix": "parallel.pool.Constant",
+		"body": [
+			"parallel.pool.Constant"
+		],
+		"description": "parallel.pool.Constant (Matlab DistComp method)"
+	},
+	"parcluster": {
+		"prefix": "parcluster",
+		"body": [
+			"parcluster"
+		],
+		"description": "parcluster (Matlab DistComp method)"
+	},
+	"parfeval": {
+		"prefix": "parfeval",
+		"body": [
+			"parfeval"
+		],
+		"description": "parfeval (Matlab DistComp method)"
+	},
+	"parfevalOnAll": {
+		"prefix": "parfevalOnAll",
+		"body": [
+			"parfevalOnAll"
+		],
+		"description": "parfevalOnAll (Matlab DistComp method)"
+	},
+	"parpool": {
+		"prefix": "parpool",
+		"body": [
+			"parpool"
+		],
+		"description": "parpool (Matlab DistComp method)"
+	},
+	"pctRunDeployedCleanup": {
+		"prefix": "pctRunDeployedCleanup",
+		"body": [
+			"pctRunDeployedCleanup"
+		],
+		"description": "pctRunDeployedCleanup (Matlab DistComp method)"
+	},
+	"pctRunOnAll": {
+		"prefix": "pctRunOnAll",
+		"body": [
+			"pctRunOnAll"
+		],
+		"description": "pctRunOnAll (Matlab DistComp method)"
+	},
+	"pctconfig": {
+		"prefix": "pctconfig",
+		"body": [
+			"pctconfig"
+		],
+		"description": "pctconfig (Matlab DistComp method)"
+	},
+	"pload": {
+		"prefix": "pload",
+		"body": [
+			"pload"
+		],
+		"description": "pload (Matlab DistComp method)"
+	},
+	"pmode": {
+		"prefix": "pmode",
+		"body": [
+			"pmode"
+		],
+		"description": "pmode (Matlab DistComp method)"
+	},
+	"poolStartup": {
+		"prefix": "poolStartup",
+		"body": [
+			"poolStartup"
+		],
+		"description": "poolStartup (Matlab DistComp method)"
+	},
+	"promote": {
+		"prefix": "promote",
+		"body": [
+			"promote"
+		],
+		"description": "promote (Matlab DistComp method)"
+	},
+	"psave": {
+		"prefix": "psave",
+		"body": [
+			"psave"
+		],
+		"description": "psave (Matlab DistComp method)"
+	},
+	"recreate": {
+		"prefix": "recreate",
+		"body": [
+			"recreate"
+		],
+		"description": "recreate (Matlab DistComp method)"
+	},
+	"redistribute": {
+		"prefix": "redistribute",
+		"body": [
+			"redistribute"
+		],
+		"description": "redistribute (Matlab DistComp method)"
+	},
+	"resume": {
+		"prefix": "resume",
+		"body": [
+			"resume"
+		],
+		"description": "resume (Matlab DistComp method)"
+	},
+	"saveAsProfile": {
+		"prefix": "saveAsProfile",
+		"body": [
+			"saveAsProfile"
+		],
+		"description": "saveAsProfile (Matlab DistComp method)"
+	},
+	"saveProfile": {
+		"prefix": "saveProfile",
+		"body": [
+			"saveProfile"
+		],
+		"description": "saveProfile (Matlab DistComp method)"
+	},
+	"setConstantMemory": {
+		"prefix": "setConstantMemory",
+		"body": [
+			"setConstantMemory"
+		],
+		"description": "setConstantMemory (Matlab DistComp method)"
+	},
+	"setJobClusterData": {
+		"prefix": "setJobClusterData",
+		"body": [
+			"setJobClusterData"
+		],
+		"description": "setJobClusterData (Matlab DistComp method)"
+	},
+	"spmd": {
+		"prefix": "spmd",
+		"body": [
+			"spmd"
+		],
+		"description": "spmd (Matlab DistComp method)"
+	},
+	"submit": {
+		"prefix": "submit",
+		"body": [
+			"submit"
+		],
+		"description": "submit (Matlab DistComp method)"
+	},
+	"taskFinish": {
+		"prefix": "taskFinish",
+		"body": [
+			"taskFinish"
+		],
+		"description": "taskFinish (Matlab DistComp method)"
+	},
+	"taskStartup": {
+		"prefix": "taskStartup",
+		"body": [
+			"taskStartup"
+		],
+		"description": "taskStartup (Matlab DistComp method)"
+	},
+	"updateAttachedFiles": {
+		"prefix": "updateAttachedFiles",
+		"body": [
+			"updateAttachedFiles"
+		],
+		"description": "updateAttachedFiles (Matlab DistComp method)"
+	},
+	"wait": {
+		"prefix": "wait",
+		"body": [
+			"wait"
+		],
+		"description": "wait (Matlab DistComp method)"
+	}
+}

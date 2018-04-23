@@ -1,0 +1,170 @@
+{
+    "pm_adddimension": {
+        "prefix": "pm_adddimension",
+        "body": [
+            "pm_adddimension"
+        ],
+        "description": "pm_adddimension (Matlab Simscape method)"
+    },
+    "pm_addunit": {
+        "prefix": "pm_addunit",
+        "body": [
+            "pm_addunit"
+        ],
+        "description": "pm_addunit (Matlab Simscape method)"
+    },
+    "pm_getdimensions": {
+        "prefix": "pm_getdimensions",
+        "body": [
+            "pm_getdimensions"
+        ],
+        "description": "pm_getdimensions (Matlab Simscape method)"
+    },
+    "pm_getunits": {
+        "prefix": "pm_getunits",
+        "body": [
+            "pm_getunits"
+        ],
+        "description": "pm_getunits (Matlab Simscape method)"
+    },
+    "simscape.dependency.file": {
+        "prefix": "simscape.dependency.file",
+        "body": [
+            "simscape.dependency.file"
+        ],
+        "description": "simscape.dependency.file (Matlab Simscape method)"
+    },
+    "simscape.dependency.lib": {
+        "prefix": "simscape.dependency.lib",
+        "body": [
+            "simscape.dependency.lib"
+        ],
+        "description": "simscape.dependency.lib (Matlab Simscape method)"
+    },
+    "simscape.dependency.model": {
+        "prefix": "simscape.dependency.model",
+        "body": [
+            "simscape.dependency.model"
+        ],
+        "description": "simscape.dependency.model (Matlab Simscape method)"
+    },
+    "simscape.logging.Node": {
+        "prefix": "simscape.logging.Node",
+        "body": [
+            "simscape.logging.Node"
+        ],
+        "description": "simscape.logging.Node (Matlab Simscape method)"
+    },
+    "simscape.logging.Series": {
+        "prefix": "simscape.logging.Series",
+        "body": [
+            "simscape.logging.Series"
+        ],
+        "description": "simscape.logging.Series (Matlab Simscape method)"
+    },
+    "simscape.logging.plot": {
+        "prefix": "simscape.logging.plot",
+        "body": [
+            "simscape.logging.plot"
+        ],
+        "description": "simscape.logging.plot (Matlab Simscape method)"
+    },
+    "simscape.logging.plotxy": {
+        "prefix": "simscape.logging.plotxy",
+        "body": [
+            "simscape.logging.plotxy"
+        ],
+        "description": "simscape.logging.plotxy (Matlab Simscape method)"
+    },
+    "simscape.logging.sli.findNode": {
+        "prefix": "simscape.logging.sli.findNode",
+        "body": [
+            "simscape.logging.sli.findNode"
+        ],
+        "description": "simscape.logging.sli.findNode (Matlab Simscape method)"
+    },
+    "simscape.logging.sli.findPath": {
+        "prefix": "simscape.logging.sli.findPath",
+        "body": [
+            "simscape.logging.sli.findPath"
+        ],
+        "description": "simscape.logging.sli.findPath (Matlab Simscape method)"
+    },
+    "sl_postprocess": {
+        "prefix": "sl_postprocess",
+        "body": [
+            "sl_postprocess"
+        ],
+        "description": "sl_postprocess (Matlab Simscape method)"
+    },
+    "ssc_build": {
+        "prefix": "ssc_build",
+        "body": [
+            "ssc_build"
+        ],
+        "description": "ssc_build (Matlab Simscape method)"
+    },
+    "ssc_clean": {
+        "prefix": "ssc_clean",
+        "body": [
+            "ssc_clean"
+        ],
+        "description": "ssc_clean (Matlab Simscape method)"
+    },
+    "ssc_mirror": {
+        "prefix": "ssc_mirror",
+        "body": [
+            "ssc_mirror"
+        ],
+        "description": "ssc_mirror (Matlab Simscape method)"
+    },
+    "ssc_new": {
+        "prefix": "ssc_new",
+        "body": [
+            "ssc_new"
+        ],
+        "description": "ssc_new (Matlab Simscape method)"
+    },
+    "ssc_protect": {
+        "prefix": "ssc_protect",
+        "body": [
+            "ssc_protect"
+        ],
+        "description": "ssc_protect (Matlab Simscape method)"
+    },
+    "ssc_reserved": {
+        "prefix": "ssc_reserved",
+        "body": [
+            "ssc_reserved"
+        ],
+        "description": "ssc_reserved (Matlab Simscape method)"
+    },
+    "ssc_update": {
+        "prefix": "ssc_update",
+        "body": [
+            "ssc_update"
+        ],
+        "description": "ssc_update (Matlab Simscape method)"
+    },
+    "sscexplore": {
+        "prefix": "sscexplore",
+        "body": [
+            "sscexplore"
+        ],
+        "description": "sscexplore (Matlab Simscape method)"
+    },
+    "sscprintzcs": {
+        "prefix": "sscprintzcs",
+        "body": [
+            "sscprintzcs"
+        ],
+        "description": "sscprintzcs (Matlab Simscape method)"
+    },
+    "twoPhaseFluidTable": {
+        "prefix": "twoPhaseFluidTable",
+        "body": [
+            "twoPhaseFluidTable"
+        ],
+        "description": "twoPhaseFluidTable (Matlab Simscape method)"
+    }
+}

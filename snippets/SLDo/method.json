@@ -1,0 +1,408 @@
+{
+    "getbounds": {
+        "prefix": "getbounds",
+        "body": [
+            "getbounds"
+        ],
+        "description": "getbounds (Matlab SLDo method)"
+    },
+    "makedist": {
+        "prefix": "makedist",
+        "body": [
+            "makedist"
+        ],
+        "description": "makedist (Matlab SLDo method)"
+    },
+    "param.Continuous": {
+        "prefix": "param.Continuous",
+        "body": [
+            "param.Continuous"
+        ],
+        "description": "param.Continuous (Matlab SLDo method)"
+    },
+    "param.Continuous.isreal": {
+        "prefix": "param.Continuous.isreal",
+        "body": [
+            "param.Continuous.isreal"
+        ],
+        "description": "param.Continuous.isreal (Matlab SLDo method)"
+    },
+    "param.State": {
+        "prefix": "param.State",
+        "body": [
+            "param.State"
+        ],
+        "description": "param.State (Matlab SLDo method)"
+    },
+    "sdo.AnalyzeOptions": {
+        "prefix": "sdo.AnalyzeOptions",
+        "body": [
+            "sdo.AnalyzeOptions"
+        ],
+        "description": "sdo.AnalyzeOptions (Matlab SLDo method)"
+    },
+    "sdo.EvaluateOptions": {
+        "prefix": "sdo.EvaluateOptions",
+        "body": [
+            "sdo.EvaluateOptions"
+        ],
+        "description": "sdo.EvaluateOptions (Matlab SLDo method)"
+    },
+    "sdo.Experiment.createSimulator": {
+        "prefix": "sdo.Experiment.createSimulator",
+        "body": [
+            "sdo.Experiment.createSimulator"
+        ],
+        "description": "sdo.Experiment.createSimulator (Matlab SLDo method)"
+    },
+    "sdo.Experiment.getValuesToEstimate": {
+        "prefix": "sdo.Experiment.getValuesToEstimate",
+        "body": [
+            "sdo.Experiment.getValuesToEstimate"
+        ],
+        "description": "sdo.Experiment.getValuesToEstimate (Matlab SLDo method)"
+    },
+    "sdo.Experiment.setEstimatedValues": {
+        "prefix": "sdo.Experiment.setEstimatedValues",
+        "body": [
+            "sdo.Experiment.setEstimatedValues"
+        ],
+        "description": "sdo.Experiment.setEstimatedValues (Matlab SLDo method)"
+    },
+    "sdo.OptimizeOptions": {
+        "prefix": "sdo.OptimizeOptions",
+        "body": [
+            "sdo.OptimizeOptions"
+        ],
+        "description": "sdo.OptimizeOptions (Matlab SLDo method)"
+    },
+    "sdo.ParameterSpace": {
+        "prefix": "sdo.ParameterSpace",
+        "body": [
+            "sdo.ParameterSpace"
+        ],
+        "description": "sdo.ParameterSpace (Matlab SLDo method)"
+    },
+    "sdo.SampleOptions": {
+        "prefix": "sdo.SampleOptions",
+        "body": [
+            "sdo.SampleOptions"
+        ],
+        "description": "sdo.SampleOptions (Matlab SLDo method)"
+    },
+    "sdo.SimulationTest": {
+        "prefix": "sdo.SimulationTest",
+        "body": [
+            "sdo.SimulationTest"
+        ],
+        "description": "sdo.SimulationTest (Matlab SLDo method)"
+    },
+    "sdo.SimulationTest.FastRestart": {
+        "prefix": "sdo.SimulationTest.FastRestart",
+        "body": [
+            "sdo.SimulationTest.FastRestart"
+        ],
+        "description": "sdo.SimulationTest.FastRestart (Matlab SLDo method)"
+    },
+    "sdo.SimulationTest.fastRestart": {
+        "prefix": "sdo.SimulationTest.fastRestart",
+        "body": [
+            "sdo.SimulationTest.fastRestart"
+        ],
+        "description": "sdo.SimulationTest.fastRestart (Matlab SLDo method)"
+    },
+    "sdo.SimulationTest.find": {
+        "prefix": "sdo.SimulationTest.find",
+        "body": [
+            "sdo.SimulationTest.find"
+        ],
+        "description": "sdo.SimulationTest.find (Matlab SLDo method)"
+    },
+    "sdo.SimulationTest.sim": {
+        "prefix": "sdo.SimulationTest.sim",
+        "body": [
+            "sdo.SimulationTest.sim"
+        ],
+        "description": "sdo.SimulationTest.sim (Matlab SLDo method)"
+    },
+    "sdo.SimulationTest.who": {
+        "prefix": "sdo.SimulationTest.who",
+        "body": [
+            "sdo.SimulationTest.who"
+        ],
+        "description": "sdo.SimulationTest.who (Matlab SLDo method)"
+    },
+    "sdo.SystemLoggingInfo": {
+        "prefix": "sdo.SystemLoggingInfo",
+        "body": [
+            "sdo.SystemLoggingInfo"
+        ],
+        "description": "sdo.SystemLoggingInfo (Matlab SLDo method)"
+    },
+    "sdo.analyze": {
+        "prefix": "sdo.analyze",
+        "body": [
+            "sdo.analyze"
+        ],
+        "description": "sdo.analyze (Matlab SLDo method)"
+    },
+    "sdo.evaluate": {
+        "prefix": "sdo.evaluate",
+        "body": [
+            "sdo.evaluate"
+        ],
+        "description": "sdo.evaluate (Matlab SLDo method)"
+    },
+    "sdo.getModelDependencies": {
+        "prefix": "sdo.getModelDependencies",
+        "body": [
+            "sdo.getModelDependencies"
+        ],
+        "description": "sdo.getModelDependencies (Matlab SLDo method)"
+    },
+    "sdo.getParameterFromModel": {
+        "prefix": "sdo.getParameterFromModel",
+        "body": [
+            "sdo.getParameterFromModel"
+        ],
+        "description": "sdo.getParameterFromModel (Matlab SLDo method)"
+    },
+    "sdo.getStateFromModel": {
+        "prefix": "sdo.getStateFromModel",
+        "body": [
+            "sdo.getStateFromModel"
+        ],
+        "description": "sdo.getStateFromModel (Matlab SLDo method)"
+    },
+    "sdo.getValueFromModel": {
+        "prefix": "sdo.getValueFromModel",
+        "body": [
+            "sdo.getValueFromModel"
+        ],
+        "description": "sdo.getValueFromModel (Matlab SLDo method)"
+    },
+    "sdo.optimize": {
+        "prefix": "sdo.optimize",
+        "body": [
+            "sdo.optimize"
+        ],
+        "description": "sdo.optimize (Matlab SLDo method)"
+    },
+    "sdo.requirements.BodeMagnitude": {
+        "prefix": "sdo.requirements.BodeMagnitude",
+        "body": [
+            "sdo.requirements.BodeMagnitude"
+        ],
+        "description": "sdo.requirements.BodeMagnitude (Matlab SLDo method)"
+    },
+    "sdo.requirements.BodeMagnitude.evalRequirement": {
+        "prefix": "sdo.requirements.BodeMagnitude.evalRequirement",
+        "body": [
+            "sdo.requirements.BodeMagnitude.evalRequirement"
+        ],
+        "description": "sdo.requirements.BodeMagnitude.evalRequirement (Matlab SLDo method)"
+    },
+    "sdo.requirements.ClosedLoopPeakGain": {
+        "prefix": "sdo.requirements.ClosedLoopPeakGain",
+        "body": [
+            "sdo.requirements.ClosedLoopPeakGain"
+        ],
+        "description": "sdo.requirements.ClosedLoopPeakGain (Matlab SLDo method)"
+    },
+    "sdo.requirements.ClosedLoopPeakGain.evalRequirement": {
+        "prefix": "sdo.requirements.ClosedLoopPeakGain.evalRequirement",
+        "body": [
+            "sdo.requirements.ClosedLoopPeakGain.evalRequirement"
+        ],
+        "description": "sdo.requirements.ClosedLoopPeakGain.evalRequirement (Matlab SLDo method)"
+    },
+    "sdo.requirements.GainPhaseMargin": {
+        "prefix": "sdo.requirements.GainPhaseMargin",
+        "body": [
+            "sdo.requirements.GainPhaseMargin"
+        ],
+        "description": "sdo.requirements.GainPhaseMargin (Matlab SLDo method)"
+    },
+    "sdo.requirements.GainPhaseMargin.evalRequirement": {
+        "prefix": "sdo.requirements.GainPhaseMargin.evalRequirement",
+        "body": [
+            "sdo.requirements.GainPhaseMargin.evalRequirement"
+        ],
+        "description": "sdo.requirements.GainPhaseMargin.evalRequirement (Matlab SLDo method)"
+    },
+    "sdo.requirements.OpenLoopGainPhase": {
+        "prefix": "sdo.requirements.OpenLoopGainPhase",
+        "body": [
+            "sdo.requirements.OpenLoopGainPhase"
+        ],
+        "description": "sdo.requirements.OpenLoopGainPhase (Matlab SLDo method)"
+    },
+    "sdo.requirements.OpenLoopGainPhase.evalRequirement": {
+        "prefix": "sdo.requirements.OpenLoopGainPhase.evalRequirement",
+        "body": [
+            "sdo.requirements.OpenLoopGainPhase.evalRequirement"
+        ],
+        "description": "sdo.requirements.OpenLoopGainPhase.evalRequirement (Matlab SLDo method)"
+    },
+    "sdo.requirements.PZDampingRatio": {
+        "prefix": "sdo.requirements.PZDampingRatio",
+        "body": [
+            "sdo.requirements.PZDampingRatio"
+        ],
+        "description": "sdo.requirements.PZDampingRatio (Matlab SLDo method)"
+    },
+    "sdo.requirements.PZDampingRatio.evalRequirement": {
+        "prefix": "sdo.requirements.PZDampingRatio.evalRequirement",
+        "body": [
+            "sdo.requirements.PZDampingRatio.evalRequirement"
+        ],
+        "description": "sdo.requirements.PZDampingRatio.evalRequirement (Matlab SLDo method)"
+    },
+    "sdo.requirements.PZDampingRatio.getOvershoot": {
+        "prefix": "sdo.requirements.PZDampingRatio.getOvershoot",
+        "body": [
+            "sdo.requirements.PZDampingRatio.getOvershoot"
+        ],
+        "description": "sdo.requirements.PZDampingRatio.getOvershoot (Matlab SLDo method)"
+    },
+    "sdo.requirements.PZDampingRatio.setOvershoot": {
+        "prefix": "sdo.requirements.PZDampingRatio.setOvershoot",
+        "body": [
+            "sdo.requirements.PZDampingRatio.setOvershoot"
+        ],
+        "description": "sdo.requirements.PZDampingRatio.setOvershoot (Matlab SLDo method)"
+    },
+    "sdo.requirements.PZNaturalFrequency": {
+        "prefix": "sdo.requirements.PZNaturalFrequency",
+        "body": [
+            "sdo.requirements.PZNaturalFrequency"
+        ],
+        "description": "sdo.requirements.PZNaturalFrequency (Matlab SLDo method)"
+    },
+    "sdo.requirements.PZNaturalFrequency.evalRequirement": {
+        "prefix": "sdo.requirements.PZNaturalFrequency.evalRequirement",
+        "body": [
+            "sdo.requirements.PZNaturalFrequency.evalRequirement"
+        ],
+        "description": "sdo.requirements.PZNaturalFrequency.evalRequirement (Matlab SLDo method)"
+    },
+    "sdo.requirements.PZSettlingTime": {
+        "prefix": "sdo.requirements.PZSettlingTime",
+        "body": [
+            "sdo.requirements.PZSettlingTime"
+        ],
+        "description": "sdo.requirements.PZSettlingTime (Matlab SLDo method)"
+    },
+    "sdo.requirements.PZSettlingTime.evalRequirement": {
+        "prefix": "sdo.requirements.PZSettlingTime.evalRequirement",
+        "body": [
+            "sdo.requirements.PZSettlingTime.evalRequirement"
+        ],
+        "description": "sdo.requirements.PZSettlingTime.evalRequirement (Matlab SLDo method)"
+    },
+    "sdo.requirements.SignalBound": {
+        "prefix": "sdo.requirements.SignalBound",
+        "body": [
+            "sdo.requirements.SignalBound"
+        ],
+        "description": "sdo.requirements.SignalBound (Matlab SLDo method)"
+    },
+    "sdo.requirements.SignalBound.evalRequirement": {
+        "prefix": "sdo.requirements.SignalBound.evalRequirement",
+        "body": [
+            "sdo.requirements.SignalBound.evalRequirement"
+        ],
+        "description": "sdo.requirements.SignalBound.evalRequirement (Matlab SLDo method)"
+    },
+    "sdo.requirements.SignalTracking": {
+        "prefix": "sdo.requirements.SignalTracking",
+        "body": [
+            "sdo.requirements.SignalTracking"
+        ],
+        "description": "sdo.requirements.SignalTracking (Matlab SLDo method)"
+    },
+    "sdo.requirements.SignalTracking.evalRequirement": {
+        "prefix": "sdo.requirements.SignalTracking.evalRequirement",
+        "body": [
+            "sdo.requirements.SignalTracking.evalRequirement"
+        ],
+        "description": "sdo.requirements.SignalTracking.evalRequirement (Matlab SLDo method)"
+    },
+    "sdo.requirements.SingularValue": {
+        "prefix": "sdo.requirements.SingularValue",
+        "body": [
+            "sdo.requirements.SingularValue"
+        ],
+        "description": "sdo.requirements.SingularValue (Matlab SLDo method)"
+    },
+    "sdo.requirements.SingularValue.evalRequirement": {
+        "prefix": "sdo.requirements.SingularValue.evalRequirement",
+        "body": [
+            "sdo.requirements.SingularValue.evalRequirement"
+        ],
+        "description": "sdo.requirements.SingularValue.evalRequirement (Matlab SLDo method)"
+    },
+    "sdo.requirements.StepResponseEnvelope": {
+        "prefix": "sdo.requirements.StepResponseEnvelope",
+        "body": [
+            "sdo.requirements.StepResponseEnvelope"
+        ],
+        "description": "sdo.requirements.StepResponseEnvelope (Matlab SLDo method)"
+    },
+    "sdo.requirements.StepResponseEnvelope.evalRequirement": {
+        "prefix": "sdo.requirements.StepResponseEnvelope.evalRequirement",
+        "body": [
+            "sdo.requirements.StepResponseEnvelope.evalRequirement"
+        ],
+        "description": "sdo.requirements.StepResponseEnvelope.evalRequirement (Matlab SLDo method)"
+    },
+    "sdo.sample": {
+        "prefix": "sdo.sample",
+        "body": [
+            "sdo.sample"
+        ],
+        "description": "sdo.sample (Matlab SLDo method)"
+    },
+    "sdo.scatterPlot": {
+        "prefix": "sdo.scatterPlot",
+        "body": [
+            "sdo.scatterPlot"
+        ],
+        "description": "sdo.scatterPlot (Matlab SLDo method)"
+    },
+    "sdo.setCheckBlockEnabled": {
+        "prefix": "sdo.setCheckBlockEnabled",
+        "body": [
+            "sdo.setCheckBlockEnabled"
+        ],
+        "description": "sdo.setCheckBlockEnabled (Matlab SLDo method)"
+    },
+    "sdo.setValueInModel": {
+        "prefix": "sdo.setValueInModel",
+        "body": [
+            "sdo.setValueInModel"
+        ],
+        "description": "sdo.setValueInModel (Matlab SLDo method)"
+    },
+    "sdotool": {
+        "prefix": "sdotool",
+        "body": [
+            "sdotool"
+        ],
+        "description": "sdotool (Matlab SLDo method)"
+    },
+    "sdoupdate": {
+        "prefix": "sdoupdate",
+        "body": [
+            "sdoupdate"
+        ],
+        "description": "sdoupdate (Matlab SLDo method)"
+    },
+    "spetool": {
+        "prefix": "spetool",
+        "body": [
+            "spetool"
+        ],
+        "description": "spetool (Matlab SLDo method)"
+    }
+}

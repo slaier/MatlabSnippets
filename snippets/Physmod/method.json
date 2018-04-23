@@ -1,0 +1,72 @@
+{
+    "sdl_update": {
+        "prefix": "sdl_update",
+        "body": [
+            "sdl_update"
+        ],
+        "description": "sdl_update (Matlab Physmod method)"
+    },
+    "elec_getPowerLossSummary": {
+        "prefix": "elec_getPowerLossSummary",
+        "body": [
+            "elec_getPowerLossSummary"
+        ],
+        "description": "elec_getPowerLossSummary (Matlab Physmod method)"
+    },
+    "smimport": {
+        "prefix": "smimport",
+        "body": [
+            "smimport"
+        ],
+        "description": "smimport (Matlab Physmod method)"
+    },
+    "smnew": {
+        "prefix": "smnew",
+        "body": [
+            "smnew"
+        ],
+        "description": "smnew (Matlab Physmod method)"
+    },
+    "sm_lib": {
+        "prefix": "sm_lib",
+        "body": [
+            "sm_lib"
+        ],
+        "description": "sm_lib (Matlab Physmod method)"
+    },
+    "mech_import": {
+        "prefix": "mech_import",
+        "body": [
+            "mech_import"
+        ],
+        "description": "mech_import (Matlab Physmod method)"
+    },
+    "smlink_linkinv": {
+        "prefix": "smlink_linkinv",
+        "body": [
+            "smlink_linkinv"
+        ],
+        "description": "smlink_linkinv (Matlab Physmod method)"
+    },
+    "smlink_unlinkinv": {
+        "prefix": "smlink_unlinkinv",
+        "body": [
+            "smlink_unlinkinv"
+        ],
+        "description": "smlink_unlinkinv (Matlab Physmod method)"
+    },
+    "smlink_linksw": {
+        "prefix": "smlink_linksw",
+        "body": [
+            "smlink_linksw"
+        ],
+        "description": "smlink_linksw (Matlab Physmod method)"
+    },
+    "smlink_unlinksw": {
+        "prefix": "smlink_unlinksw",
+        "body": [
+            "smlink_unlinksw"
+        ],
+        "description": "smlink_unlinksw (Matlab Physmod method)"
+    }
+}

@@ -1,0 +1,44 @@
+{
+	"DataMatrix": {
+		"prefix": "DataMatrix",
+		"body": [
+			"DataMatrix"
+		],
+		"description": "DataMatrix (Matlab Bioinfo class)"
+	},
+	"HeatMap": {
+		"prefix": "HeatMap",
+		"body": [
+			"HeatMap"
+		],
+		"description": "HeatMap (Matlab Bioinfo class)"
+	},
+	"NegativeBinomialTest": {
+		"prefix": "NegativeBinomialTest",
+		"body": [
+			"NegativeBinomialTest"
+		],
+		"description": "NegativeBinomialTest (Matlab Bioinfo class)"
+	},
+	"biograph": {
+		"prefix": "biograph",
+		"body": [
+			"biograph"
+		],
+		"description": "biograph (Matlab Bioinfo class)"
+	},
+	"clustergram": {
+		"prefix": "clustergram",
+		"body": [
+			"clustergram"
+		],
+		"description": "clustergram (Matlab Bioinfo class)"
+	},
+	"phytree": {
+		"prefix": "phytree",
+		"body": [
+			"phytree"
+		],
+		"description": "phytree (Matlab Bioinfo class)"
+	}
+}

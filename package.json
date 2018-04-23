@@ -1,0 +1,264 @@
+{
+    "name": "matlab-complete",
+    "displayName": "matlab-complete",
+    "description": "Matlab AutoComplete",
+    "version": "1.0.0",
+    "publisher": "slaier",
+    "galleryBanner": {
+        "theme": "light"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/slaier/matlab-complete.git"
+    },
+    "engines": {
+        "vscode": "^1.21.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "matlab",
+                "path": "./snippets/Antenna/method.json"
+            },
+			{
+				"language": "matlab",
+				"path": "./snippets/Antenna/class.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/Bioinfo/class.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/Bioinfo/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/Comm/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/Control/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/CurveFit/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/Database/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/DataFeed/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/DistComp/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/DAQ/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/DAQ/prop.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/DSP/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/Econ/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/ExLink/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/Finance/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/FinInst/class.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/FinInst/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/FixedPoint/class.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/Fuzzy/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/GADS/class.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/Ident/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/Images/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/Imaq/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/Instrument/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/Map/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/NNET/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/Optim/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/OPC/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/OPC/class.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/OPC/prop.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/Phased/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/Physmod/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/PDE/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/PDE/class.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/Robotics/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/Robotics/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/Robust/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/RptGen/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/RptGen/class.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/RptGenext/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/RF/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/RTWin/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/Signal/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/Simevents/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/Simscape/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/Simulink/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/SimBio/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/SimBio/class.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/SimRF/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/Slvnv/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/Slvnv/class.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/StateFlow/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/Stats/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/Symbolic/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/Symbolic/mupadfunctionlist.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/SL3D/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/SLControl/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/SLDo/method.json"
+			},
+			{
+				"language": "matlab",
+				"path": "./snippets/SPS/method.json"
+			}	
+        ]
+    }
+}

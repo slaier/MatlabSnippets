@@ -1,0 +1,170 @@
+{
+	"closepreview": {
+		"prefix": "closepreview",
+		"body": [
+			"closepreview"
+		],
+		"description": "closepreview (Matlab Imaq method)"
+	},
+	"commands": {
+		"prefix": "commands",
+		"body": [
+			"commands"
+		],
+		"description": "commands (Matlab Imaq method)"
+	},
+	"executeCommand": {
+		"prefix": "executeCommand",
+		"body": [
+			"executeCommand"
+		],
+		"description": "executeCommand (Matlab Imaq method)"
+	},
+	"getselectedsource": {
+		"prefix": "getselectedsource",
+		"body": [
+			"getselectedsource"
+		],
+		"description": "getselectedsource (Matlab Imaq method)"
+	},
+	"getsnapshot": {
+		"prefix": "getsnapshot",
+		"body": [
+			"getsnapshot"
+		],
+		"description": "getsnapshot (Matlab Imaq method)"
+	},
+	"gigecam": {
+		"prefix": "gigecam",
+		"body": [
+			"gigecam"
+		],
+		"description": "gigecam (Matlab Imaq method)"
+	},
+	"gigecamlist": {
+		"prefix": "gigecamlist",
+		"body": [
+			"gigecamlist"
+		],
+		"description": "gigecamlist (Matlab Imaq method)"
+	},
+	"imaq.VideoDevice": {
+		"prefix": "imaq.VideoDevice",
+		"body": [
+			"imaq.VideoDevice"
+		],
+		"description": "imaq.VideoDevice (Matlab Imaq method)"
+	},
+	"imaqfind": {
+		"prefix": "imaqfind",
+		"body": [
+			"imaqfind"
+		],
+		"description": "imaqfind (Matlab Imaq method)"
+	},
+	"imaqhelp": {
+		"prefix": "imaqhelp",
+		"body": [
+			"imaqhelp"
+		],
+		"description": "imaqhelp (Matlab Imaq method)"
+	},
+	"imaqhwinfo": {
+		"prefix": "imaqhwinfo",
+		"body": [
+			"imaqhwinfo"
+		],
+		"description": "imaqhwinfo (Matlab Imaq method)"
+	},
+	"imaqmontage": {
+		"prefix": "imaqmontage",
+		"body": [
+			"imaqmontage"
+		],
+		"description": "imaqmontage (Matlab Imaq method)"
+	},
+	"imaqreset": {
+		"prefix": "imaqreset",
+		"body": [
+			"imaqreset"
+		],
+		"description": "imaqreset (Matlab Imaq method)"
+	},
+	"imaqtool": {
+		"prefix": "imaqtool",
+		"body": [
+			"imaqtool"
+		],
+		"description": "imaqtool (Matlab Imaq method)"
+	},
+	"isrunning": {
+		"prefix": "isrunning",
+		"body": [
+			"isrunning"
+		],
+		"description": "isrunning (Matlab Imaq method)"
+	},
+	"matroxcam": {
+		"prefix": "matroxcam",
+		"body": [
+			"matroxcam"
+		],
+		"description": "matroxcam (Matlab Imaq method)"
+	},
+	"matroxlist": {
+		"prefix": "matroxlist",
+		"body": [
+			"matroxlist"
+		],
+		"description": "matroxlist (Matlab Imaq method)"
+	},
+	"obj2mfile": {
+		"prefix": "obj2mfile",
+		"body": [
+			"obj2mfile"
+		],
+		"description": "obj2mfile (Matlab Imaq method)"
+	},
+	"propinfo": {
+		"prefix": "propinfo",
+		"body": [
+			"propinfo"
+		],
+		"description": "propinfo (Matlab Imaq method)"
+	},
+	"snapshot": {
+		"prefix": "snapshot",
+		"body": [
+			"snapshot"
+		],
+		"description": "snapshot (Matlab Imaq method)"
+	},
+	"stoppreview": {
+		"prefix": "stoppreview",
+		"body": [
+			"stoppreview"
+		],
+		"description": "stoppreview (Matlab Imaq method)"
+	},
+	"triggerconfig": {
+		"prefix": "triggerconfig",
+		"body": [
+			"triggerconfig"
+		],
+		"description": "triggerconfig (Matlab Imaq method)"
+	},
+	"triggerinfo": {
+		"prefix": "triggerinfo",
+		"body": [
+			"triggerinfo"
+		],
+		"description": "triggerinfo (Matlab Imaq method)"
+	},
+	"videoinput": {
+		"prefix": "videoinput",
+		"body": [
+			"videoinput"
+		],
+		"description": "videoinput (Matlab Imaq method)"
+	}
+}

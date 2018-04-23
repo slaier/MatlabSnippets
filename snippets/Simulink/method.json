@@ -1,0 +1,2088 @@
+{
+    "ModelAdvisor.Preferences": {
+        "prefix": "ModelAdvisor.Preferences",
+        "body": [
+            "ModelAdvisor.Preferences"
+        ],
+        "description": "ModelAdvisor.Preferences (Matlab Simulink method)"
+    },
+    "Simulink.AliasType": {
+        "prefix": "Simulink.AliasType",
+        "body": [
+            "Simulink.AliasType"
+        ],
+        "description": "Simulink.AliasType (Matlab Simulink method)"
+    },
+    "Simulink.Annotation": {
+        "prefix": "Simulink.Annotation",
+        "body": [
+            "Simulink.Annotation"
+        ],
+        "description": "Simulink.Annotation (Matlab Simulink method)"
+    },
+    "Simulink.Block.getSampleTimes": {
+        "prefix": "Simulink.Block.getSampleTimes",
+        "body": [
+            "Simulink.Block.getSampleTimes"
+        ],
+        "description": "Simulink.Block.getSampleTimes (Matlab Simulink method)"
+    },
+    "Simulink.BlockCompDworkData": {
+        "prefix": "Simulink.BlockCompDworkData",
+        "body": [
+            "Simulink.BlockCompDworkData"
+        ],
+        "description": "Simulink.BlockCompDworkData (Matlab Simulink method)"
+    },
+    "Simulink.BlockCompInputPortData": {
+        "prefix": "Simulink.BlockCompInputPortData",
+        "body": [
+            "Simulink.BlockCompInputPortData"
+        ],
+        "description": "Simulink.BlockCompInputPortData (Matlab Simulink method)"
+    },
+    "Simulink.BlockCompOutputPortData": {
+        "prefix": "Simulink.BlockCompOutputPortData",
+        "body": [
+            "Simulink.BlockCompOutputPortData"
+        ],
+        "description": "Simulink.BlockCompOutputPortData (Matlab Simulink method)"
+    },
+    "Simulink.BlockData": {
+        "prefix": "Simulink.BlockData",
+        "body": [
+            "Simulink.BlockData"
+        ],
+        "description": "Simulink.BlockData (Matlab Simulink method)"
+    },
+    "Simulink.BlockDiagram.addBusToVector": {
+        "prefix": "Simulink.BlockDiagram.addBusToVector",
+        "body": [
+            "Simulink.BlockDiagram.addBusToVector"
+        ],
+        "description": "Simulink.BlockDiagram.addBusToVector (Matlab Simulink method)"
+    },
+    "Simulink.BlockDiagram.buildRapidAcceleratorTarget": {
+        "prefix": "Simulink.BlockDiagram.buildRapidAcceleratorTarget",
+        "body": [
+            "Simulink.BlockDiagram.buildRapidAcceleratorTarget"
+        ],
+        "description": "Simulink.BlockDiagram.buildRapidAcceleratorTarget (Matlab Simulink method)"
+    },
+    "Simulink.BlockDiagram.copyContentsToSubSystem": {
+        "prefix": "Simulink.BlockDiagram.copyContentsToSubSystem",
+        "body": [
+            "Simulink.BlockDiagram.copyContentsToSubSystem"
+        ],
+        "description": "Simulink.BlockDiagram.copyContentsToSubSystem (Matlab Simulink method)"
+    },
+    "Simulink.BlockDiagram.createSubSystem": {
+        "prefix": "Simulink.BlockDiagram.createSubSystem",
+        "body": [
+            "Simulink.BlockDiagram.createSubSystem"
+        ],
+        "description": "Simulink.BlockDiagram.createSubSystem (Matlab Simulink method)"
+    },
+    "Simulink.BlockDiagram.deleteContents": {
+        "prefix": "Simulink.BlockDiagram.deleteContents",
+        "body": [
+            "Simulink.BlockDiagram.deleteContents"
+        ],
+        "description": "Simulink.BlockDiagram.deleteContents (Matlab Simulink method)"
+    },
+    "Simulink.BlockDiagram.expandSubsystem": {
+        "prefix": "Simulink.BlockDiagram.expandSubsystem",
+        "body": [
+            "Simulink.BlockDiagram.expandSubsystem"
+        ],
+        "description": "Simulink.BlockDiagram.expandSubsystem (Matlab Simulink method)"
+    },
+    "Simulink.BlockDiagram.getChecksum": {
+        "prefix": "Simulink.BlockDiagram.getChecksum",
+        "body": [
+            "Simulink.BlockDiagram.getChecksum"
+        ],
+        "description": "Simulink.BlockDiagram.getChecksum (Matlab Simulink method)"
+    },
+    "Simulink.BlockDiagram.getInitialState": {
+        "prefix": "Simulink.BlockDiagram.getInitialState",
+        "body": [
+            "Simulink.BlockDiagram.getInitialState"
+        ],
+        "description": "Simulink.BlockDiagram.getInitialState (Matlab Simulink method)"
+    },
+    "Simulink.BlockDiagram.getSampleTimes": {
+        "prefix": "Simulink.BlockDiagram.getSampleTimes",
+        "body": [
+            "Simulink.BlockDiagram.getSampleTimes"
+        ],
+        "description": "Simulink.BlockDiagram.getSampleTimes (Matlab Simulink method)"
+    },
+    "Simulink.BlockDiagram.loadActiveConfigSet": {
+        "prefix": "Simulink.BlockDiagram.loadActiveConfigSet",
+        "body": [
+            "Simulink.BlockDiagram.loadActiveConfigSet"
+        ],
+        "description": "Simulink.BlockDiagram.loadActiveConfigSet (Matlab Simulink method)"
+    },
+    "Simulink.BlockDiagram.saveActiveConfigSet": {
+        "prefix": "Simulink.BlockDiagram.saveActiveConfigSet",
+        "body": [
+            "Simulink.BlockDiagram.saveActiveConfigSet"
+        ],
+        "description": "Simulink.BlockDiagram.saveActiveConfigSet (Matlab Simulink method)"
+    },
+    "Simulink.BlockPath": {
+        "prefix": "Simulink.BlockPath",
+        "body": [
+            "Simulink.BlockPath"
+        ],
+        "description": "Simulink.BlockPath (Matlab Simulink method)"
+    },
+    "Simulink.BlockPortData": {
+        "prefix": "Simulink.BlockPortData",
+        "body": [
+            "Simulink.BlockPortData"
+        ],
+        "description": "Simulink.BlockPortData (Matlab Simulink method)"
+    },
+    "Simulink.BlockPreCompInputPortData": {
+        "prefix": "Simulink.BlockPreCompInputPortData",
+        "body": [
+            "Simulink.BlockPreCompInputPortData"
+        ],
+        "description": "Simulink.BlockPreCompInputPortData (Matlab Simulink method)"
+    },
+    "Simulink.BlockPreCompOutputPortData": {
+        "prefix": "Simulink.BlockPreCompOutputPortData",
+        "body": [
+            "Simulink.BlockPreCompOutputPortData"
+        ],
+        "description": "Simulink.BlockPreCompOutputPortData (Matlab Simulink method)"
+    },
+    "Simulink.Bus": {
+        "prefix": "Simulink.Bus",
+        "body": [
+            "Simulink.Bus"
+        ],
+        "description": "Simulink.Bus (Matlab Simulink method)"
+    },
+    "Simulink.Bus.cellToObject": {
+        "prefix": "Simulink.Bus.cellToObject",
+        "body": [
+            "Simulink.Bus.cellToObject"
+        ],
+        "description": "Simulink.Bus.cellToObject (Matlab Simulink method)"
+    },
+    "Simulink.Bus.createMATLABStruct": {
+        "prefix": "Simulink.Bus.createMATLABStruct",
+        "body": [
+            "Simulink.Bus.createMATLABStruct"
+        ],
+        "description": "Simulink.Bus.createMATLABStruct (Matlab Simulink method)"
+    },
+    "Simulink.Bus.createObject": {
+        "prefix": "Simulink.Bus.createObject",
+        "body": [
+            "Simulink.Bus.createObject"
+        ],
+        "description": "Simulink.Bus.createObject (Matlab Simulink method)"
+    },
+    "Simulink.Bus.objectToCell": {
+        "prefix": "Simulink.Bus.objectToCell",
+        "body": [
+            "Simulink.Bus.objectToCell"
+        ],
+        "description": "Simulink.Bus.objectToCell (Matlab Simulink method)"
+    },
+    "Simulink.Bus.save": {
+        "prefix": "Simulink.Bus.save",
+        "body": [
+            "Simulink.Bus.save"
+        ],
+        "description": "Simulink.Bus.save (Matlab Simulink method)"
+    },
+    "Simulink.BusElement": {
+        "prefix": "Simulink.BusElement",
+        "body": [
+            "Simulink.BusElement"
+        ],
+        "description": "Simulink.BusElement (Matlab Simulink method)"
+    },
+    "Simulink.CoderInfo": {
+        "prefix": "Simulink.CoderInfo",
+        "body": [
+            "Simulink.CoderInfo"
+        ],
+        "description": "Simulink.CoderInfo (Matlab Simulink method)"
+    },
+    "Simulink.ConfigSet": {
+        "prefix": "Simulink.ConfigSet",
+        "body": [
+            "Simulink.ConfigSet"
+        ],
+        "description": "Simulink.ConfigSet (Matlab Simulink method)"
+    },
+    "Simulink.ConfigSetRef": {
+        "prefix": "Simulink.ConfigSetRef",
+        "body": [
+            "Simulink.ConfigSetRef"
+        ],
+        "description": "Simulink.ConfigSetRef (Matlab Simulink method)"
+    },
+    "Simulink.DualScaledParameter": {
+        "prefix": "Simulink.DualScaledParameter",
+        "body": [
+            "Simulink.DualScaledParameter"
+        ],
+        "description": "Simulink.DualScaledParameter (Matlab Simulink method)"
+    },
+    "Simulink.GlobalDataTransfer": {
+        "prefix": "Simulink.GlobalDataTransfer",
+        "body": [
+            "Simulink.GlobalDataTransfer"
+        ],
+        "description": "Simulink.GlobalDataTransfer (Matlab Simulink method)"
+    },
+    "Simulink.MDLInfo": {
+        "prefix": "Simulink.MDLInfo",
+        "body": [
+            "Simulink.MDLInfo"
+        ],
+        "description": "Simulink.MDLInfo (Matlab Simulink method)"
+    },
+    "Simulink.MDLInfo.getDescription": {
+        "prefix": "Simulink.MDLInfo.getDescription",
+        "body": [
+            "Simulink.MDLInfo.getDescription"
+        ],
+        "description": "Simulink.MDLInfo.getDescription (Matlab Simulink method)"
+    },
+    "Simulink.MDLInfo.getMetadata": {
+        "prefix": "Simulink.MDLInfo.getMetadata",
+        "body": [
+            "Simulink.MDLInfo.getMetadata"
+        ],
+        "description": "Simulink.MDLInfo.getMetadata (Matlab Simulink method)"
+    },
+    "Simulink.MSFcnRunTimeBlock": {
+        "prefix": "Simulink.MSFcnRunTimeBlock",
+        "body": [
+            "Simulink.MSFcnRunTimeBlock"
+        ],
+        "description": "Simulink.MSFcnRunTimeBlock (Matlab Simulink method)"
+    },
+    "Simulink.Mask": {
+        "prefix": "Simulink.Mask",
+        "body": [
+            "Simulink.Mask"
+        ],
+        "description": "Simulink.Mask (Matlab Simulink method)"
+    },
+    "Simulink.MaskParameter": {
+        "prefix": "Simulink.MaskParameter",
+        "body": [
+            "Simulink.MaskParameter"
+        ],
+        "description": "Simulink.MaskParameter (Matlab Simulink method)"
+    },
+    "Simulink.ModelAdvisor": {
+        "prefix": "Simulink.ModelAdvisor",
+        "body": [
+            "Simulink.ModelAdvisor"
+        ],
+        "description": "Simulink.ModelAdvisor (Matlab Simulink method)"
+    },
+    "Simulink.ModelDataLogs": {
+        "prefix": "Simulink.ModelDataLogs",
+        "body": [
+            "Simulink.ModelDataLogs"
+        ],
+        "description": "Simulink.ModelDataLogs (Matlab Simulink method)"
+    },
+    "Simulink.ModelDataLogs.convertToDataset": {
+        "prefix": "Simulink.ModelDataLogs.convertToDataset",
+        "body": [
+            "Simulink.ModelDataLogs.convertToDataset"
+        ],
+        "description": "Simulink.ModelDataLogs.convertToDataset (Matlab Simulink method)"
+    },
+    "Simulink.ModelWorkspace": {
+        "prefix": "Simulink.ModelWorkspace",
+        "body": [
+            "Simulink.ModelWorkspace"
+        ],
+        "description": "Simulink.ModelWorkspace (Matlab Simulink method)"
+    },
+    "Simulink.NumericType": {
+        "prefix": "Simulink.NumericType",
+        "body": [
+            "Simulink.NumericType"
+        ],
+        "description": "Simulink.NumericType (Matlab Simulink method)"
+    },
+    "Simulink.Parameter": {
+        "prefix": "Simulink.Parameter",
+        "body": [
+            "Simulink.Parameter"
+        ],
+        "description": "Simulink.Parameter (Matlab Simulink method)"
+    },
+    "Simulink.RunTimeBlock": {
+        "prefix": "Simulink.RunTimeBlock",
+        "body": [
+            "Simulink.RunTimeBlock"
+        ],
+        "description": "Simulink.RunTimeBlock (Matlab Simulink method)"
+    },
+    "Simulink.SampleTime": {
+        "prefix": "Simulink.SampleTime",
+        "body": [
+            "Simulink.SampleTime"
+        ],
+        "description": "Simulink.SampleTime (Matlab Simulink method)"
+    },
+    "Simulink.Signal": {
+        "prefix": "Simulink.Signal",
+        "body": [
+            "Simulink.Signal"
+        ],
+        "description": "Simulink.Signal (Matlab Simulink method)"
+    },
+    "Simulink.SimState.ModelSimState": {
+        "prefix": "Simulink.SimState.ModelSimState",
+        "body": [
+            "Simulink.SimState.ModelSimState"
+        ],
+        "description": "Simulink.SimState.ModelSimState (Matlab Simulink method)"
+    },
+    "Simulink.SimulationData.BlockPath": {
+        "prefix": "Simulink.SimulationData.BlockPath",
+        "body": [
+            "Simulink.SimulationData.BlockPath"
+        ],
+        "description": "Simulink.SimulationData.BlockPath (Matlab Simulink method)"
+    },
+    "Simulink.SimulationData.DataStoreMemory": {
+        "prefix": "Simulink.SimulationData.DataStoreMemory",
+        "body": [
+            "Simulink.SimulationData.DataStoreMemory"
+        ],
+        "description": "Simulink.SimulationData.DataStoreMemory (Matlab Simulink method)"
+    },
+    "Simulink.SimulationData.Dataset": {
+        "prefix": "Simulink.SimulationData.Dataset",
+        "body": [
+            "Simulink.SimulationData.Dataset"
+        ],
+        "description": "Simulink.SimulationData.Dataset (Matlab Simulink method)"
+    },
+    "Simulink.SimulationData.LoggingInfo": {
+        "prefix": "Simulink.SimulationData.LoggingInfo",
+        "body": [
+            "Simulink.SimulationData.LoggingInfo"
+        ],
+        "description": "Simulink.SimulationData.LoggingInfo (Matlab Simulink method)"
+    },
+    "Simulink.SimulationData.ModelLoggingInfo": {
+        "prefix": "Simulink.SimulationData.ModelLoggingInfo",
+        "body": [
+            "Simulink.SimulationData.ModelLoggingInfo"
+        ],
+        "description": "Simulink.SimulationData.ModelLoggingInfo (Matlab Simulink method)"
+    },
+    "Simulink.SimulationData.Signal": {
+        "prefix": "Simulink.SimulationData.Signal",
+        "body": [
+            "Simulink.SimulationData.Signal"
+        ],
+        "description": "Simulink.SimulationData.Signal (Matlab Simulink method)"
+    },
+    "Simulink.SimulationData.SignalLoggingInfo": {
+        "prefix": "Simulink.SimulationData.SignalLoggingInfo",
+        "body": [
+            "Simulink.SimulationData.SignalLoggingInfo"
+        ],
+        "description": "Simulink.SimulationData.SignalLoggingInfo (Matlab Simulink method)"
+    },
+    "Simulink.SimulationData.State": {
+        "prefix": "Simulink.SimulationData.State",
+        "body": [
+            "Simulink.SimulationData.State"
+        ],
+        "description": "Simulink.SimulationData.State (Matlab Simulink method)"
+    },
+    "Simulink.SimulationData.createStructOfTimeseries": {
+        "prefix": "Simulink.SimulationData.createStructOfTimeseries",
+        "body": [
+            "Simulink.SimulationData.createStructOfTimeseries"
+        ],
+        "description": "Simulink.SimulationData.createStructOfTimeseries (Matlab Simulink method)"
+    },
+    "Simulink.SimulationData.signalLoggingSelector": {
+        "prefix": "Simulink.SimulationData.signalLoggingSelector",
+        "body": [
+            "Simulink.SimulationData.signalLoggingSelector"
+        ],
+        "description": "Simulink.SimulationData.signalLoggingSelector (Matlab Simulink method)"
+    },
+    "Simulink.SimulationData.updateDatasetFormatLogging": {
+        "prefix": "Simulink.SimulationData.updateDatasetFormatLogging",
+        "body": [
+            "Simulink.SimulationData.updateDatasetFormatLogging"
+        ],
+        "description": "Simulink.SimulationData.updateDatasetFormatLogging (Matlab Simulink method)"
+    },
+    "Simulink.SimulationMetadata": {
+        "prefix": "Simulink.SimulationMetadata",
+        "body": [
+            "Simulink.SimulationMetadata"
+        ],
+        "description": "Simulink.SimulationMetadata (Matlab Simulink method)"
+    },
+    "Simulink.SimulationOutput": {
+        "prefix": "Simulink.SimulationOutput",
+        "body": [
+            "Simulink.SimulationOutput"
+        ],
+        "description": "Simulink.SimulationOutput (Matlab Simulink method)"
+    },
+    "Simulink.SubSystem.convertToModelReference": {
+        "prefix": "Simulink.SubSystem.convertToModelReference",
+        "body": [
+            "Simulink.SubSystem.convertToModelReference"
+        ],
+        "description": "Simulink.SubSystem.convertToModelReference (Matlab Simulink method)"
+    },
+    "Simulink.SubSystem.copyContentsToBlockDiagram": {
+        "prefix": "Simulink.SubSystem.copyContentsToBlockDiagram",
+        "body": [
+            "Simulink.SubSystem.copyContentsToBlockDiagram"
+        ],
+        "description": "Simulink.SubSystem.copyContentsToBlockDiagram (Matlab Simulink method)"
+    },
+    "Simulink.SubSystem.deleteContents": {
+        "prefix": "Simulink.SubSystem.deleteContents",
+        "body": [
+            "Simulink.SubSystem.deleteContents"
+        ],
+        "description": "Simulink.SubSystem.deleteContents (Matlab Simulink method)"
+    },
+    "Simulink.SubSystem.getChecksum": {
+        "prefix": "Simulink.SubSystem.getChecksum",
+        "body": [
+            "Simulink.SubSystem.getChecksum"
+        ],
+        "description": "Simulink.SubSystem.getChecksum (Matlab Simulink method)"
+    },
+    "Simulink.SubsysDataLogs": {
+        "prefix": "Simulink.SubsysDataLogs",
+        "body": [
+            "Simulink.SubsysDataLogs"
+        ],
+        "description": "Simulink.SubsysDataLogs (Matlab Simulink method)"
+    },
+    "Simulink.TimeInfo": {
+        "prefix": "Simulink.TimeInfo",
+        "body": [
+            "Simulink.TimeInfo"
+        ],
+        "description": "Simulink.TimeInfo (Matlab Simulink method)"
+    },
+    "Simulink.Timeseries": {
+        "prefix": "Simulink.Timeseries",
+        "body": [
+            "Simulink.Timeseries"
+        ],
+        "description": "Simulink.Timeseries (Matlab Simulink method)"
+    },
+    "Simulink.TsArray": {
+        "prefix": "Simulink.TsArray",
+        "body": [
+            "Simulink.TsArray"
+        ],
+        "description": "Simulink.TsArray (Matlab Simulink method)"
+    },
+    "Simulink.VariableUsage": {
+        "prefix": "Simulink.VariableUsage",
+        "body": [
+            "Simulink.VariableUsage"
+        ],
+        "description": "Simulink.VariableUsage (Matlab Simulink method)"
+    },
+    "Simulink.Variant": {
+        "prefix": "Simulink.Variant",
+        "body": [
+            "Simulink.Variant"
+        ],
+        "description": "Simulink.Variant (Matlab Simulink method)"
+    },
+    "Simulink.VariantConfigurationData": {
+        "prefix": "Simulink.VariantConfigurationData",
+        "body": [
+            "Simulink.VariantConfigurationData"
+        ],
+        "description": "Simulink.VariantConfigurationData (Matlab Simulink method)"
+    },
+    "Simulink.WorkspaceVar": {
+        "prefix": "Simulink.WorkspaceVar",
+        "body": [
+            "Simulink.WorkspaceVar"
+        ],
+        "description": "Simulink.WorkspaceVar (Matlab Simulink method)"
+    },
+    "Simulink.architecture.add": {
+        "prefix": "Simulink.architecture.add",
+        "body": [
+            "Simulink.architecture.add"
+        ],
+        "description": "Simulink.architecture.add (Matlab Simulink method)"
+    },
+    "Simulink.architecture.config": {
+        "prefix": "Simulink.architecture.config",
+        "body": [
+            "Simulink.architecture.config"
+        ],
+        "description": "Simulink.architecture.config (Matlab Simulink method)"
+    },
+    "Simulink.architecture.delete": {
+        "prefix": "Simulink.architecture.delete",
+        "body": [
+            "Simulink.architecture.delete"
+        ],
+        "description": "Simulink.architecture.delete (Matlab Simulink method)"
+    },
+    "Simulink.architecture.find_system": {
+        "prefix": "Simulink.architecture.find_system",
+        "body": [
+            "Simulink.architecture.find_system"
+        ],
+        "description": "Simulink.architecture.find_system (Matlab Simulink method)"
+    },
+    "Simulink.architecture.get_param": {
+        "prefix": "Simulink.architecture.get_param",
+        "body": [
+            "Simulink.architecture.get_param"
+        ],
+        "description": "Simulink.architecture.get_param (Matlab Simulink method)"
+    },
+    "Simulink.architecture.importAndSelect": {
+        "prefix": "Simulink.architecture.importAndSelect",
+        "body": [
+            "Simulink.architecture.importAndSelect"
+        ],
+        "description": "Simulink.architecture.importAndSelect (Matlab Simulink method)"
+    },
+    "Simulink.architecture.profile": {
+        "prefix": "Simulink.architecture.profile",
+        "body": [
+            "Simulink.architecture.profile"
+        ],
+        "description": "Simulink.architecture.profile (Matlab Simulink method)"
+    },
+    "Simulink.architecture.register": {
+        "prefix": "Simulink.architecture.register",
+        "body": [
+            "Simulink.architecture.register"
+        ],
+        "description": "Simulink.architecture.register (Matlab Simulink method)"
+    },
+    "Simulink.architecture.set_param": {
+        "prefix": "Simulink.architecture.set_param",
+        "body": [
+            "Simulink.architecture.set_param"
+        ],
+        "description": "Simulink.architecture.set_param (Matlab Simulink method)"
+    },
+    "Simulink.data.Dictionary": {
+        "prefix": "Simulink.data.Dictionary",
+        "body": [
+            "Simulink.data.Dictionary"
+        ],
+        "description": "Simulink.data.Dictionary (Matlab Simulink method)"
+    },
+    "Simulink.data.assigninGlobal": {
+        "prefix": "Simulink.data.assigninGlobal",
+        "body": [
+            "Simulink.data.assigninGlobal"
+        ],
+        "description": "Simulink.data.assigninGlobal (Matlab Simulink method)"
+    },
+    "Simulink.data.dictionary.Entry": {
+        "prefix": "Simulink.data.dictionary.Entry",
+        "body": [
+            "Simulink.data.dictionary.Entry"
+        ],
+        "description": "Simulink.data.dictionary.Entry (Matlab Simulink method)"
+    },
+    "Simulink.data.dictionary.EnumTypeDefinition": {
+        "prefix": "Simulink.data.dictionary.EnumTypeDefinition",
+        "body": [
+            "Simulink.data.dictionary.EnumTypeDefinition"
+        ],
+        "description": "Simulink.data.dictionary.EnumTypeDefinition (Matlab Simulink method)"
+    },
+    "Simulink.data.dictionary.Section": {
+        "prefix": "Simulink.data.dictionary.Section",
+        "body": [
+            "Simulink.data.dictionary.Section"
+        ],
+        "description": "Simulink.data.dictionary.Section (Matlab Simulink method)"
+    },
+    "Simulink.data.dictionary.cleanupWorkerCache": {
+        "prefix": "Simulink.data.dictionary.cleanupWorkerCache",
+        "body": [
+            "Simulink.data.dictionary.cleanupWorkerCache"
+        ],
+        "description": "Simulink.data.dictionary.cleanupWorkerCache (Matlab Simulink method)"
+    },
+    "Simulink.data.dictionary.create": {
+        "prefix": "Simulink.data.dictionary.create",
+        "body": [
+            "Simulink.data.dictionary.create"
+        ],
+        "description": "Simulink.data.dictionary.create (Matlab Simulink method)"
+    },
+    "Simulink.data.dictionary.open": {
+        "prefix": "Simulink.data.dictionary.open",
+        "body": [
+            "Simulink.data.dictionary.open"
+        ],
+        "description": "Simulink.data.dictionary.open (Matlab Simulink method)"
+    },
+    "Simulink.data.dictionary.setupWorkerCache": {
+        "prefix": "Simulink.data.dictionary.setupWorkerCache",
+        "body": [
+            "Simulink.data.dictionary.setupWorkerCache"
+        ],
+        "description": "Simulink.data.dictionary.setupWorkerCache (Matlab Simulink method)"
+    },
+    "Simulink.data.evalinGlobal": {
+        "prefix": "Simulink.data.evalinGlobal",
+        "body": [
+            "Simulink.data.evalinGlobal"
+        ],
+        "description": "Simulink.data.evalinGlobal (Matlab Simulink method)"
+    },
+    "Simulink.data.existsInGlobal": {
+        "prefix": "Simulink.data.existsInGlobal",
+        "body": [
+            "Simulink.data.existsInGlobal"
+        ],
+        "description": "Simulink.data.existsInGlobal (Matlab Simulink method)"
+    },
+    "Simulink.data.getEnumTypeInfo": {
+        "prefix": "Simulink.data.getEnumTypeInfo",
+        "body": [
+            "Simulink.data.getEnumTypeInfo"
+        ],
+        "description": "Simulink.data.getEnumTypeInfo (Matlab Simulink method)"
+    },
+    "Simulink.defineIntEnumType": {
+        "prefix": "Simulink.defineIntEnumType",
+        "body": [
+            "Simulink.defineIntEnumType"
+        ],
+        "description": "Simulink.defineIntEnumType (Matlab Simulink method)"
+    },
+    "Simulink.dialog.Control": {
+        "prefix": "Simulink.dialog.Control",
+        "body": [
+            "Simulink.dialog.Control"
+        ],
+        "description": "Simulink.dialog.Control (Matlab Simulink method)"
+    },
+    "Simulink.findVars": {
+        "prefix": "Simulink.findVars",
+        "body": [
+            "Simulink.findVars"
+        ],
+        "description": "Simulink.findVars (Matlab Simulink method)"
+    },
+    "Simulink.getFileChecksum": {
+        "prefix": "Simulink.getFileChecksum",
+        "body": [
+            "Simulink.getFileChecksum"
+        ],
+        "description": "Simulink.getFileChecksum (Matlab Simulink method)"
+    },
+    "Simulink.sdi.DiffRunResult": {
+        "prefix": "Simulink.sdi.DiffRunResult",
+        "body": [
+            "Simulink.sdi.DiffRunResult"
+        ],
+        "description": "Simulink.sdi.DiffRunResult (Matlab Simulink method)"
+    },
+    "Simulink.sdi.DiffSignalResult": {
+        "prefix": "Simulink.sdi.DiffSignalResult",
+        "body": [
+            "Simulink.sdi.DiffSignalResult"
+        ],
+        "description": "Simulink.sdi.DiffSignalResult (Matlab Simulink method)"
+    },
+    "Simulink.sdi.Run": {
+        "prefix": "Simulink.sdi.Run",
+        "body": [
+            "Simulink.sdi.Run"
+        ],
+        "description": "Simulink.sdi.Run (Matlab Simulink method)"
+    },
+    "Simulink.sdi.addToRun": {
+        "prefix": "Simulink.sdi.addToRun",
+        "body": [
+            "Simulink.sdi.addToRun"
+        ],
+        "description": "Simulink.sdi.addToRun (Matlab Simulink method)"
+    },
+    "Simulink.sdi.changeLoggedToStreamed": {
+        "prefix": "Simulink.sdi.changeLoggedToStreamed",
+        "body": [
+            "Simulink.sdi.changeLoggedToStreamed"
+        ],
+        "description": "Simulink.sdi.changeLoggedToStreamed (Matlab Simulink method)"
+    },
+    "Simulink.sdi.changeStreamedToLogged": {
+        "prefix": "Simulink.sdi.changeStreamedToLogged",
+        "body": [
+            "Simulink.sdi.changeStreamedToLogged"
+        ],
+        "description": "Simulink.sdi.changeStreamedToLogged (Matlab Simulink method)"
+    },
+    "Simulink.sdi.clear": {
+        "prefix": "Simulink.sdi.clear",
+        "body": [
+            "Simulink.sdi.clear"
+        ],
+        "description": "Simulink.sdi.clear (Matlab Simulink method)"
+    },
+    "Simulink.sdi.close": {
+        "prefix": "Simulink.sdi.close",
+        "body": [
+            "Simulink.sdi.close"
+        ],
+        "description": "Simulink.sdi.close (Matlab Simulink method)"
+    },
+    "Simulink.sdi.compareRuns": {
+        "prefix": "Simulink.sdi.compareRuns",
+        "body": [
+            "Simulink.sdi.compareRuns"
+        ],
+        "description": "Simulink.sdi.compareRuns (Matlab Simulink method)"
+    },
+    "Simulink.sdi.compareSignals": {
+        "prefix": "Simulink.sdi.compareSignals",
+        "body": [
+            "Simulink.sdi.compareSignals"
+        ],
+        "description": "Simulink.sdi.compareSignals (Matlab Simulink method)"
+    },
+    "Simulink.sdi.copyRun": {
+        "prefix": "Simulink.sdi.copyRun",
+        "body": [
+            "Simulink.sdi.copyRun"
+        ],
+        "description": "Simulink.sdi.copyRun (Matlab Simulink method)"
+    },
+    "Simulink.sdi.createRun": {
+        "prefix": "Simulink.sdi.createRun",
+        "body": [
+            "Simulink.sdi.createRun"
+        ],
+        "description": "Simulink.sdi.createRun (Matlab Simulink method)"
+    },
+    "Simulink.sdi.deleteRun": {
+        "prefix": "Simulink.sdi.deleteRun",
+        "body": [
+            "Simulink.sdi.deleteRun"
+        ],
+        "description": "Simulink.sdi.deleteRun (Matlab Simulink method)"
+    },
+    "Simulink.sdi.discardDataFromPriorSessions": {
+        "prefix": "Simulink.sdi.discardDataFromPriorSessions",
+        "body": [
+            "Simulink.sdi.discardDataFromPriorSessions"
+        ],
+        "description": "Simulink.sdi.discardDataFromPriorSessions (Matlab Simulink method)"
+    },
+    "Simulink.sdi.getRun": {
+        "prefix": "Simulink.sdi.getRun",
+        "body": [
+            "Simulink.sdi.getRun"
+        ],
+        "description": "Simulink.sdi.getRun (Matlab Simulink method)"
+    },
+    "Simulink.sdi.getRunCount": {
+        "prefix": "Simulink.sdi.getRunCount",
+        "body": [
+            "Simulink.sdi.getRunCount"
+        ],
+        "description": "Simulink.sdi.getRunCount (Matlab Simulink method)"
+    },
+    "Simulink.sdi.getRunIDByIndex": {
+        "prefix": "Simulink.sdi.getRunIDByIndex",
+        "body": [
+            "Simulink.sdi.getRunIDByIndex"
+        ],
+        "description": "Simulink.sdi.getRunIDByIndex (Matlab Simulink method)"
+    },
+    "Simulink.sdi.getRunNamingRule": {
+        "prefix": "Simulink.sdi.getRunNamingRule",
+        "body": [
+            "Simulink.sdi.getRunNamingRule"
+        ],
+        "description": "Simulink.sdi.getRunNamingRule (Matlab Simulink method)"
+    },
+    "Simulink.sdi.getSignal": {
+        "prefix": "Simulink.sdi.getSignal",
+        "body": [
+            "Simulink.sdi.getSignal"
+        ],
+        "description": "Simulink.sdi.getSignal (Matlab Simulink method)"
+    },
+    "Simulink.sdi.getSource": {
+        "prefix": "Simulink.sdi.getSource",
+        "body": [
+            "Simulink.sdi.getSource"
+        ],
+        "description": "Simulink.sdi.getSource (Matlab Simulink method)"
+    },
+    "Simulink.sdi.hasDataFromPriorSessions": {
+        "prefix": "Simulink.sdi.hasDataFromPriorSessions",
+        "body": [
+            "Simulink.sdi.hasDataFromPriorSessions"
+        ],
+        "description": "Simulink.sdi.hasDataFromPriorSessions (Matlab Simulink method)"
+    },
+    "Simulink.sdi.importDataFromPriorSessions": {
+        "prefix": "Simulink.sdi.importDataFromPriorSessions",
+        "body": [
+            "Simulink.sdi.importDataFromPriorSessions"
+        ],
+        "description": "Simulink.sdi.importDataFromPriorSessions (Matlab Simulink method)"
+    },
+    "Simulink.sdi.isValidRunID": {
+        "prefix": "Simulink.sdi.isValidRunID",
+        "body": [
+            "Simulink.sdi.isValidRunID"
+        ],
+        "description": "Simulink.sdi.isValidRunID (Matlab Simulink method)"
+    },
+    "Simulink.sdi.load": {
+        "prefix": "Simulink.sdi.load",
+        "body": [
+            "Simulink.sdi.load"
+        ],
+        "description": "Simulink.sdi.load (Matlab Simulink method)"
+    },
+    "Simulink.sdi.markSignalForStreaming": {
+        "prefix": "Simulink.sdi.markSignalForStreaming",
+        "body": [
+            "Simulink.sdi.markSignalForStreaming"
+        ],
+        "description": "Simulink.sdi.markSignalForStreaming (Matlab Simulink method)"
+    },
+    "Simulink.sdi.refresh": {
+        "prefix": "Simulink.sdi.refresh",
+        "body": [
+            "Simulink.sdi.refresh"
+        ],
+        "description": "Simulink.sdi.refresh (Matlab Simulink method)"
+    },
+    "Simulink.sdi.report": {
+        "prefix": "Simulink.sdi.report",
+        "body": [
+            "Simulink.sdi.report"
+        ],
+        "description": "Simulink.sdi.report (Matlab Simulink method)"
+    },
+    "Simulink.sdi.resetRunNamingRule": {
+        "prefix": "Simulink.sdi.resetRunNamingRule",
+        "body": [
+            "Simulink.sdi.resetRunNamingRule"
+        ],
+        "description": "Simulink.sdi.resetRunNamingRule (Matlab Simulink method)"
+    },
+    "Simulink.sdi.save": {
+        "prefix": "Simulink.sdi.save",
+        "body": [
+            "Simulink.sdi.save"
+        ],
+        "description": "Simulink.sdi.save (Matlab Simulink method)"
+    },
+    "Simulink.sdi.setRunNamingRule": {
+        "prefix": "Simulink.sdi.setRunNamingRule",
+        "body": [
+            "Simulink.sdi.setRunNamingRule"
+        ],
+        "description": "Simulink.sdi.setRunNamingRule (Matlab Simulink method)"
+    },
+    "Simulink.sdi.setRunOverwrite": {
+        "prefix": "Simulink.sdi.setRunOverwrite",
+        "body": [
+            "Simulink.sdi.setRunOverwrite"
+        ],
+        "description": "Simulink.sdi.setRunOverwrite (Matlab Simulink method)"
+    },
+    "Simulink.sdi.view": {
+        "prefix": "Simulink.sdi.view",
+        "body": [
+            "Simulink.sdi.view"
+        ],
+        "description": "Simulink.sdi.view (Matlab Simulink method)"
+    },
+    "addFile": {
+        "prefix": "addFile",
+        "body": [
+            "addFile"
+        ],
+        "description": "addFile (Matlab Simulink method)"
+    },
+    "addFolderIncludingChildFiles": {
+        "prefix": "addFolderIncludingChildFiles",
+        "body": [
+            "addFolderIncludingChildFiles"
+        ],
+        "description": "addFolderIncludingChildFiles (Matlab Simulink method)"
+    },
+    "addLabel": {
+        "prefix": "addLabel",
+        "body": [
+            "addLabel"
+        ],
+        "description": "addLabel (Matlab Simulink method)"
+    },
+    "add_block": {
+        "prefix": "add_block",
+        "body": [
+            "add_block"
+        ],
+        "description": "add_block (Matlab Simulink method)"
+    },
+    "add_exec_event_listener": {
+        "prefix": "add_exec_event_listener",
+        "body": [
+            "add_exec_event_listener"
+        ],
+        "description": "add_exec_event_listener (Matlab Simulink method)"
+    },
+    "add_line": {
+        "prefix": "add_line",
+        "body": [
+            "add_line"
+        ],
+        "description": "add_line (Matlab Simulink method)"
+    },
+    "add_param": {
+        "prefix": "add_param",
+        "body": [
+            "add_param"
+        ],
+        "description": "add_param (Matlab Simulink method)"
+    },
+    "addterms": {
+        "prefix": "addterms",
+        "body": [
+            "addterms"
+        ],
+        "description": "addterms (Matlab Simulink method)"
+    },
+    "attachConfigSet": {
+        "prefix": "attachConfigSet",
+        "body": [
+            "attachConfigSet"
+        ],
+        "description": "attachConfigSet (Matlab Simulink method)"
+    },
+    "attachConfigSetCopy": {
+        "prefix": "attachConfigSetCopy",
+        "body": [
+            "attachConfigSetCopy"
+        ],
+        "description": "attachConfigSetCopy (Matlab Simulink method)"
+    },
+    "bdIsLibrary": {
+        "prefix": "bdIsLibrary",
+        "body": [
+            "bdIsLibrary"
+        ],
+        "description": "bdIsLibrary (Matlab Simulink method)"
+    },
+    "bdIsLoaded": {
+        "prefix": "bdIsLoaded",
+        "body": [
+            "bdIsLoaded"
+        ],
+        "description": "bdIsLoaded (Matlab Simulink method)"
+    },
+    "bdclose": {
+        "prefix": "bdclose",
+        "body": [
+            "bdclose"
+        ],
+        "description": "bdclose (Matlab Simulink method)"
+    },
+    "bdroot": {
+        "prefix": "bdroot",
+        "body": [
+            "bdroot"
+        ],
+        "description": "bdroot (Matlab Simulink method)"
+    },
+    "close": {
+        "prefix": "close",
+        "body": [
+            "close"
+        ],
+        "description": "close (Matlab Simulink method)"
+    },
+    "closeDialog": {
+        "prefix": "closeDialog",
+        "body": [
+            "closeDialog"
+        ],
+        "description": "closeDialog (Matlab Simulink method)"
+    },
+    "close_system": {
+        "prefix": "close_system",
+        "body": [
+            "close_system"
+        ],
+        "description": "close_system (Matlab Simulink method)"
+    },
+    "coder.BuildConfig": {
+        "prefix": "coder.BuildConfig",
+        "body": [
+            "coder.BuildConfig"
+        ],
+        "description": "coder.BuildConfig (Matlab Simulink method)"
+    },
+    "coder.BuildConfig.getHardwareImplementation": {
+        "prefix": "coder.BuildConfig.getHardwareImplementation",
+        "body": [
+            "coder.BuildConfig.getHardwareImplementation"
+        ],
+        "description": "coder.BuildConfig.getHardwareImplementation (Matlab Simulink method)"
+    },
+    "coder.BuildConfig.getStdLibInfo": {
+        "prefix": "coder.BuildConfig.getStdLibInfo",
+        "body": [
+            "coder.BuildConfig.getStdLibInfo"
+        ],
+        "description": "coder.BuildConfig.getStdLibInfo (Matlab Simulink method)"
+    },
+    "coder.BuildConfig.getTargetLang": {
+        "prefix": "coder.BuildConfig.getTargetLang",
+        "body": [
+            "coder.BuildConfig.getTargetLang"
+        ],
+        "description": "coder.BuildConfig.getTargetLang (Matlab Simulink method)"
+    },
+    "coder.BuildConfig.getToolchainInfo": {
+        "prefix": "coder.BuildConfig.getToolchainInfo",
+        "body": [
+            "coder.BuildConfig.getToolchainInfo"
+        ],
+        "description": "coder.BuildConfig.getToolchainInfo (Matlab Simulink method)"
+    },
+    "coder.BuildConfig.isCodeGenTarget": {
+        "prefix": "coder.BuildConfig.isCodeGenTarget",
+        "body": [
+            "coder.BuildConfig.isCodeGenTarget"
+        ],
+        "description": "coder.BuildConfig.isCodeGenTarget (Matlab Simulink method)"
+    },
+    "coder.BuildConfig.isMatlabHostTarget": {
+        "prefix": "coder.BuildConfig.isMatlabHostTarget",
+        "body": [
+            "coder.BuildConfig.isMatlabHostTarget"
+        ],
+        "description": "coder.BuildConfig.isMatlabHostTarget (Matlab Simulink method)"
+    },
+    "coder.ExternalDependency": {
+        "prefix": "coder.ExternalDependency",
+        "body": [
+            "coder.ExternalDependency"
+        ],
+        "description": "coder.ExternalDependency (Matlab Simulink method)"
+    },
+    "coder.ExternalDependency.getDescriptiveName": {
+        "prefix": "coder.ExternalDependency.getDescriptiveName",
+        "body": [
+            "coder.ExternalDependency.getDescriptiveName"
+        ],
+        "description": "coder.ExternalDependency.getDescriptiveName (Matlab Simulink method)"
+    },
+    "coder.ExternalDependency.isSupportedContext": {
+        "prefix": "coder.ExternalDependency.isSupportedContext",
+        "body": [
+            "coder.ExternalDependency.isSupportedContext"
+        ],
+        "description": "coder.ExternalDependency.isSupportedContext (Matlab Simulink method)"
+    },
+    "coder.ExternalDependency.updateBuildInfo": {
+        "prefix": "coder.ExternalDependency.updateBuildInfo",
+        "body": [
+            "coder.ExternalDependency.updateBuildInfo"
+        ],
+        "description": "coder.ExternalDependency.updateBuildInfo (Matlab Simulink method)"
+    },
+    "coder.allowpcode": {
+        "prefix": "coder.allowpcode",
+        "body": [
+            "coder.allowpcode"
+        ],
+        "description": "coder.allowpcode (Matlab Simulink method)"
+    },
+    "coder.ceval": {
+        "prefix": "coder.ceval",
+        "body": [
+            "coder.ceval"
+        ],
+        "description": "coder.ceval (Matlab Simulink method)"
+    },
+    "coder.cinclude": {
+        "prefix": "coder.cinclude",
+        "body": [
+            "coder.cinclude"
+        ],
+        "description": "coder.cinclude (Matlab Simulink method)"
+    },
+    "coder.const": {
+        "prefix": "coder.const",
+        "body": [
+            "coder.const"
+        ],
+        "description": "coder.const (Matlab Simulink method)"
+    },
+    "coder.cstructname": {
+        "prefix": "coder.cstructname",
+        "body": [
+            "coder.cstructname"
+        ],
+        "description": "coder.cstructname (Matlab Simulink method)"
+    },
+    "coder.extrinsic": {
+        "prefix": "coder.extrinsic",
+        "body": [
+            "coder.extrinsic"
+        ],
+        "description": "coder.extrinsic (Matlab Simulink method)"
+    },
+    "coder.inline": {
+        "prefix": "coder.inline",
+        "body": [
+            "coder.inline"
+        ],
+        "description": "coder.inline (Matlab Simulink method)"
+    },
+    "coder.load": {
+        "prefix": "coder.load",
+        "body": [
+            "coder.load"
+        ],
+        "description": "coder.load (Matlab Simulink method)"
+    },
+    "coder.nullcopy": {
+        "prefix": "coder.nullcopy",
+        "body": [
+            "coder.nullcopy"
+        ],
+        "description": "coder.nullcopy (Matlab Simulink method)"
+    },
+    "coder.opaque": {
+        "prefix": "coder.opaque",
+        "body": [
+            "coder.opaque"
+        ],
+        "description": "coder.opaque (Matlab Simulink method)"
+    },
+    "coder.ref": {
+        "prefix": "coder.ref",
+        "body": [
+            "coder.ref"
+        ],
+        "description": "coder.ref (Matlab Simulink method)"
+    },
+    "coder.rref": {
+        "prefix": "coder.rref",
+        "body": [
+            "coder.rref"
+        ],
+        "description": "coder.rref (Matlab Simulink method)"
+    },
+    "coder.screener": {
+        "prefix": "coder.screener",
+        "body": [
+            "coder.screener"
+        ],
+        "description": "coder.screener (Matlab Simulink method)"
+    },
+    "coder.target": {
+        "prefix": "coder.target",
+        "body": [
+            "coder.target"
+        ],
+        "description": "coder.target (Matlab Simulink method)"
+    },
+    "coder.typeof": {
+        "prefix": "coder.typeof",
+        "body": [
+            "coder.typeof"
+        ],
+        "description": "coder.typeof (Matlab Simulink method)"
+    },
+    "coder.unroll": {
+        "prefix": "coder.unroll",
+        "body": [
+            "coder.unroll"
+        ],
+        "description": "coder.unroll (Matlab Simulink method)"
+    },
+    "coder.updateBuildInfo": {
+        "prefix": "coder.updateBuildInfo",
+        "body": [
+            "coder.updateBuildInfo"
+        ],
+        "description": "coder.updateBuildInfo (Matlab Simulink method)"
+    },
+    "coder.varsize": {
+        "prefix": "coder.varsize",
+        "body": [
+            "coder.varsize"
+        ],
+        "description": "coder.varsize (Matlab Simulink method)"
+    },
+    "coder.wref": {
+        "prefix": "coder.wref",
+        "body": [
+            "coder.wref"
+        ],
+        "description": "coder.wref (Matlab Simulink method)"
+    },
+    "createCategory": {
+        "prefix": "createCategory",
+        "body": [
+            "createCategory"
+        ],
+        "description": "createCategory (Matlab Simulink method)"
+    },
+    "createLabel": {
+        "prefix": "createLabel",
+        "body": [
+            "createLabel"
+        ],
+        "description": "createLabel (Matlab Simulink method)"
+    },
+    "delete_block": {
+        "prefix": "delete_block",
+        "body": [
+            "delete_block"
+        ],
+        "description": "delete_block (Matlab Simulink method)"
+    },
+    "delete_line": {
+        "prefix": "delete_line",
+        "body": [
+            "delete_line"
+        ],
+        "description": "delete_line (Matlab Simulink method)"
+    },
+    "delete_param": {
+        "prefix": "delete_param",
+        "body": [
+            "delete_param"
+        ],
+        "description": "delete_param (Matlab Simulink method)"
+    },
+    "dependencies.fileDependencyAnalysis": {
+        "prefix": "dependencies.fileDependencyAnalysis",
+        "body": [
+            "dependencies.fileDependencyAnalysis"
+        ],
+        "description": "dependencies.fileDependencyAnalysis (Matlab Simulink method)"
+    },
+    "dependencies.toolboxDependencyAnalysis": {
+        "prefix": "dependencies.toolboxDependencyAnalysis",
+        "body": [
+            "dependencies.toolboxDependencyAnalysis"
+        ],
+        "description": "dependencies.toolboxDependencyAnalysis (Matlab Simulink method)"
+    },
+    "detachConfigSet": {
+        "prefix": "detachConfigSet",
+        "body": [
+            "detachConfigSet"
+        ],
+        "description": "detachConfigSet (Matlab Simulink method)"
+    },
+    "disableimplicitsignalresolution": {
+        "prefix": "disableimplicitsignalresolution",
+        "body": [
+            "disableimplicitsignalresolution"
+        ],
+        "description": "disableimplicitsignalresolution (Matlab Simulink method)"
+    },
+    "dlinmod": {
+        "prefix": "dlinmod",
+        "body": [
+            "dlinmod"
+        ],
+        "description": "dlinmod (Matlab Simulink method)"
+    },
+    "docblock": {
+        "prefix": "docblock",
+        "body": [
+            "docblock"
+        ],
+        "description": "docblock (Matlab Simulink method)"
+    },
+    "enumeration": {
+        "prefix": "enumeration",
+        "body": [
+            "enumeration"
+        ],
+        "description": "enumeration (Matlab Simulink method)"
+    },
+    "eventData": {
+        "prefix": "eventData",
+        "body": [
+            "eventData"
+        ],
+        "description": "eventData (Matlab Simulink method)"
+    },
+    "export": {
+        "prefix": "export",
+        "body": [
+            "export"
+        ],
+        "description": "export (Matlab Simulink method)"
+    },
+    "find": {
+        "prefix": "find",
+        "body": [
+            "find"
+        ],
+        "description": "find (Matlab Simulink method)"
+    },
+    "findCategory": {
+        "prefix": "findCategory",
+        "body": [
+            "findCategory"
+        ],
+        "description": "findCategory (Matlab Simulink method)"
+    },
+    "findFile": {
+        "prefix": "findFile",
+        "body": [
+            "findFile"
+        ],
+        "description": "findFile (Matlab Simulink method)"
+    },
+    "findLabel": {
+        "prefix": "findLabel",
+        "body": [
+            "findLabel"
+        ],
+        "description": "findLabel (Matlab Simulink method)"
+    },
+    "find_mdlrefs": {
+        "prefix": "find_mdlrefs",
+        "body": [
+            "find_mdlrefs"
+        ],
+        "description": "find_mdlrefs (Matlab Simulink method)"
+    },
+    "find_system": {
+        "prefix": "find_system",
+        "body": [
+            "find_system"
+        ],
+        "description": "find_system (Matlab Simulink method)"
+    },
+    "fixdt": {
+        "prefix": "fixdt",
+        "body": [
+            "fixdt"
+        ],
+        "description": "fixdt (Matlab Simulink method)"
+    },
+    "fixpt_evenspace_cleanup": {
+        "prefix": "fixpt_evenspace_cleanup",
+        "body": [
+            "fixpt_evenspace_cleanup"
+        ],
+        "description": "fixpt_evenspace_cleanup (Matlab Simulink method)"
+    },
+    "fixpt_interp1": {
+        "prefix": "fixpt_interp1",
+        "body": [
+            "fixpt_interp1"
+        ],
+        "description": "fixpt_interp1 (Matlab Simulink method)"
+    },
+    "fixpt_look1_func_approx": {
+        "prefix": "fixpt_look1_func_approx",
+        "body": [
+            "fixpt_look1_func_approx"
+        ],
+        "description": "fixpt_look1_func_approx (Matlab Simulink method)"
+    },
+    "fixpt_look1_func_plot": {
+        "prefix": "fixpt_look1_func_plot",
+        "body": [
+            "fixpt_look1_func_plot"
+        ],
+        "description": "fixpt_look1_func_plot (Matlab Simulink method)"
+    },
+    "fixpt_set_all": {
+        "prefix": "fixpt_set_all",
+        "body": [
+            "fixpt_set_all"
+        ],
+        "description": "fixpt_set_all (Matlab Simulink method)"
+    },
+    "fixptbestexp": {
+        "prefix": "fixptbestexp",
+        "body": [
+            "fixptbestexp"
+        ],
+        "description": "fixptbestexp (Matlab Simulink method)"
+    },
+    "fixptbestprec": {
+        "prefix": "fixptbestprec",
+        "body": [
+            "fixptbestprec"
+        ],
+        "description": "fixptbestprec (Matlab Simulink method)"
+    },
+    "float": {
+        "prefix": "float",
+        "body": [
+            "float"
+        ],
+        "description": "float (Matlab Simulink method)"
+    },
+    "frameedit": {
+        "prefix": "frameedit",
+        "body": [
+            "frameedit"
+        ],
+        "description": "frameedit (Matlab Simulink method)"
+    },
+    "fxptdlg": {
+        "prefix": "fxptdlg",
+        "body": [
+            "fxptdlg"
+        ],
+        "description": "fxptdlg (Matlab Simulink method)"
+    },
+    "gcb": {
+        "prefix": "gcb",
+        "body": [
+            "gcb"
+        ],
+        "description": "gcb (Matlab Simulink method)"
+    },
+    "gcbh": {
+        "prefix": "gcbh",
+        "body": [
+            "gcbh"
+        ],
+        "description": "gcbh (Matlab Simulink method)"
+    },
+    "gcs": {
+        "prefix": "gcs",
+        "body": [
+            "gcs"
+        ],
+        "description": "gcs (Matlab Simulink method)"
+    },
+    "get": {
+        "prefix": "get",
+        "body": [
+            "get"
+        ],
+        "description": "get (Matlab Simulink method)"
+    },
+    "getActiveConfigSet": {
+        "prefix": "getActiveConfigSet",
+        "body": [
+            "getActiveConfigSet"
+        ],
+        "description": "getActiveConfigSet (Matlab Simulink method)"
+    },
+    "getBlockSimState": {
+        "prefix": "getBlockSimState",
+        "body": [
+            "getBlockSimState"
+        ],
+        "description": "getBlockSimState (Matlab Simulink method)"
+    },
+    "getCallbackAnnotation": {
+        "prefix": "getCallbackAnnotation",
+        "body": [
+            "getCallbackAnnotation"
+        ],
+        "description": "getCallbackAnnotation (Matlab Simulink method)"
+    },
+    "getConfigSet": {
+        "prefix": "getConfigSet",
+        "body": [
+            "getConfigSet"
+        ],
+        "description": "getConfigSet (Matlab Simulink method)"
+    },
+    "getConfigSets": {
+        "prefix": "getConfigSets",
+        "body": [
+            "getConfigSets"
+        ],
+        "description": "getConfigSets (Matlab Simulink method)"
+    },
+    "getInitialState": {
+        "prefix": "getInitialState",
+        "body": [
+            "getInitialState"
+        ],
+        "description": "getInitialState (Matlab Simulink method)"
+    },
+    "getInputString": {
+        "prefix": "getInputString",
+        "body": [
+            "getInputString"
+        ],
+        "description": "getInputString (Matlab Simulink method)"
+    },
+    "getRootInportMap": {
+        "prefix": "getRootInportMap",
+        "body": [
+            "getRootInportMap"
+        ],
+        "description": "getRootInportMap (Matlab Simulink method)"
+    },
+    "getSimulinkBlockHandle": {
+        "prefix": "getSimulinkBlockHandle",
+        "body": [
+            "getSimulinkBlockHandle"
+        ],
+        "description": "getSimulinkBlockHandle (Matlab Simulink method)"
+    },
+    "getSlRootInportMap": {
+        "prefix": "getSlRootInportMap",
+        "body": [
+            "getSlRootInportMap"
+        ],
+        "description": "getSlRootInportMap (Matlab Simulink method)"
+    },
+    "getVariable": {
+        "prefix": "getVariable",
+        "body": [
+            "getVariable"
+        ],
+        "description": "getVariable (Matlab Simulink method)"
+    },
+    "get_param": {
+        "prefix": "get_param",
+        "body": [
+            "get_param"
+        ],
+        "description": "get_param (Matlab Simulink method)"
+    },
+    "getfullname": {
+        "prefix": "getfullname",
+        "body": [
+            "getfullname"
+        ],
+        "description": "getfullname (Matlab Simulink method)"
+    },
+    "hasVariable": {
+        "prefix": "hasVariable",
+        "body": [
+            "hasVariable"
+        ],
+        "description": "hasVariable (Matlab Simulink method)"
+    },
+    "hdllib": {
+        "prefix": "hdllib",
+        "body": [
+            "hdllib"
+        ],
+        "description": "hdllib (Matlab Simulink method)"
+    },
+    "hilite_system": {
+        "prefix": "hilite_system",
+        "body": [
+            "hilite_system"
+        ],
+        "description": "hilite_system (Matlab Simulink method)"
+    },
+    "isLoaded": {
+        "prefix": "isLoaded",
+        "body": [
+            "isLoaded"
+        ],
+        "description": "isLoaded (Matlab Simulink method)"
+    },
+    "legacy_code": {
+        "prefix": "legacy_code",
+        "body": [
+            "legacy_code"
+        ],
+        "description": "legacy_code (Matlab Simulink method)"
+    },
+    "libinfo": {
+        "prefix": "libinfo",
+        "body": [
+            "libinfo"
+        ],
+        "description": "libinfo (Matlab Simulink method)"
+    },
+    "linmod": {
+        "prefix": "linmod",
+        "body": [
+            "linmod"
+        ],
+        "description": "linmod (Matlab Simulink method)"
+    },
+    "linmod2": {
+        "prefix": "linmod2",
+        "body": [
+            "linmod2"
+        ],
+        "description": "linmod2 (Matlab Simulink method)"
+    },
+    "linmodv5": {
+        "prefix": "linmodv5",
+        "body": [
+            "linmodv5"
+        ],
+        "description": "linmodv5 (Matlab Simulink method)"
+    },
+    "load_system": {
+        "prefix": "load_system",
+        "body": [
+            "load_system"
+        ],
+        "description": "load_system (Matlab Simulink method)"
+    },
+    "matlab.System": {
+        "prefix": "matlab.System",
+        "body": [
+            "matlab.System"
+        ],
+        "description": "matlab.System (Matlab Simulink method)"
+    },
+    "matlab.io.saveVariablesToScript": {
+        "prefix": "matlab.io.saveVariablesToScript",
+        "body": [
+            "matlab.io.saveVariablesToScript"
+        ],
+        "description": "matlab.io.saveVariablesToScript (Matlab Simulink method)"
+    },
+    "matlab.system.StringSet": {
+        "prefix": "matlab.system.StringSet",
+        "body": [
+            "matlab.system.StringSet"
+        ],
+        "description": "matlab.system.StringSet (Matlab Simulink method)"
+    },
+    "matlab.system.display.Action": {
+        "prefix": "matlab.system.display.Action",
+        "body": [
+            "matlab.system.display.Action"
+        ],
+        "description": "matlab.system.display.Action (Matlab Simulink method)"
+    },
+    "matlab.system.display.Header": {
+        "prefix": "matlab.system.display.Header",
+        "body": [
+            "matlab.system.display.Header"
+        ],
+        "description": "matlab.system.display.Header (Matlab Simulink method)"
+    },
+    "matlab.system.display.Section": {
+        "prefix": "matlab.system.display.Section",
+        "body": [
+            "matlab.system.display.Section"
+        ],
+        "description": "matlab.system.display.Section (Matlab Simulink method)"
+    },
+    "matlab.system.display.SectionGroup": {
+        "prefix": "matlab.system.display.SectionGroup",
+        "body": [
+            "matlab.system.display.SectionGroup"
+        ],
+        "description": "matlab.system.display.SectionGroup (Matlab Simulink method)"
+    },
+    "matlab.system.mixin.CustomIcon": {
+        "prefix": "matlab.system.mixin.CustomIcon",
+        "body": [
+            "matlab.system.mixin.CustomIcon"
+        ],
+        "description": "matlab.system.mixin.CustomIcon (Matlab Simulink method)"
+    },
+    "matlab.system.mixin.FiniteSource": {
+        "prefix": "matlab.system.mixin.FiniteSource",
+        "body": [
+            "matlab.system.mixin.FiniteSource"
+        ],
+        "description": "matlab.system.mixin.FiniteSource (Matlab Simulink method)"
+    },
+    "matlab.system.mixin.Nondirect": {
+        "prefix": "matlab.system.mixin.Nondirect",
+        "body": [
+            "matlab.system.mixin.Nondirect"
+        ],
+        "description": "matlab.system.mixin.Nondirect (Matlab Simulink method)"
+    },
+    "matlab.system.mixin.Propagates": {
+        "prefix": "matlab.system.mixin.Propagates",
+        "body": [
+            "matlab.system.mixin.Propagates"
+        ],
+        "description": "matlab.system.mixin.Propagates (Matlab Simulink method)"
+    },
+    "model": {
+        "prefix": "model",
+        "body": [
+            "model"
+        ],
+        "description": "model (Matlab Simulink method)"
+    },
+    "modeladvisor": {
+        "prefix": "modeladvisor",
+        "body": [
+            "modeladvisor"
+        ],
+        "description": "modeladvisor (Matlab Simulink method)"
+    },
+    "new_system": {
+        "prefix": "new_system",
+        "body": [
+            "new_system"
+        ],
+        "description": "new_system (Matlab Simulink method)"
+    },
+    "num2fixpt": {
+        "prefix": "num2fixpt",
+        "body": [
+            "num2fixpt"
+        ],
+        "description": "num2fixpt (Matlab Simulink method)"
+    },
+    "openDialog": {
+        "prefix": "openDialog",
+        "body": [
+            "openDialog"
+        ],
+        "description": "openDialog (Matlab Simulink method)"
+    },
+    "open_system": {
+        "prefix": "open_system",
+        "body": [
+            "open_system"
+        ],
+        "description": "open_system (Matlab Simulink method)"
+    },
+    "orient": {
+        "prefix": "orient",
+        "body": [
+            "orient"
+        ],
+        "description": "orient (Matlab Simulink method)"
+    },
+    "performanceadvisor": {
+        "prefix": "performanceadvisor",
+        "body": [
+            "performanceadvisor"
+        ],
+        "description": "performanceadvisor (Matlab Simulink method)"
+    },
+    "print": {
+        "prefix": "print",
+        "body": [
+            "print"
+        ],
+        "description": "print (Matlab Simulink method)"
+    },
+    "reload": {
+        "prefix": "reload",
+        "body": [
+            "reload"
+        ],
+        "description": "reload (Matlab Simulink method)"
+    },
+    "removeCategory": {
+        "prefix": "removeCategory",
+        "body": [
+            "removeCategory"
+        ],
+        "description": "removeCategory (Matlab Simulink method)"
+    },
+    "removeFile": {
+        "prefix": "removeFile",
+        "body": [
+            "removeFile"
+        ],
+        "description": "removeFile (Matlab Simulink method)"
+    },
+    "removeLabel": {
+        "prefix": "removeLabel",
+        "body": [
+            "removeLabel"
+        ],
+        "description": "removeLabel (Matlab Simulink method)"
+    },
+    "replace_block": {
+        "prefix": "replace_block",
+        "body": [
+            "replace_block"
+        ],
+        "description": "replace_block (Matlab Simulink method)"
+    },
+    "save_system": {
+        "prefix": "save_system",
+        "body": [
+            "save_system"
+        ],
+        "description": "save_system (Matlab Simulink method)"
+    },
+    "setActiveConfigSet": {
+        "prefix": "setActiveConfigSet",
+        "body": [
+            "setActiveConfigSet"
+        ],
+        "description": "setActiveConfigSet (Matlab Simulink method)"
+    },
+    "setBlockSimState": {
+        "prefix": "setBlockSimState",
+        "body": [
+            "setBlockSimState"
+        ],
+        "description": "setBlockSimState (Matlab Simulink method)"
+    },
+    "set_param": {
+        "prefix": "set_param",
+        "body": [
+            "set_param"
+        ],
+        "description": "set_param (Matlab Simulink method)"
+    },
+    "sfix": {
+        "prefix": "sfix",
+        "body": [
+            "sfix"
+        ],
+        "description": "sfix (Matlab Simulink method)"
+    },
+    "sfrac": {
+        "prefix": "sfrac",
+        "body": [
+            "sfrac"
+        ],
+        "description": "sfrac (Matlab Simulink method)"
+    },
+    "signalbuilder": {
+        "prefix": "signalbuilder",
+        "body": [
+            "signalbuilder"
+        ],
+        "description": "signalbuilder (Matlab Simulink method)"
+    },
+    "sim": {
+        "prefix": "sim",
+        "body": [
+            "sim"
+        ],
+        "description": "sim (Matlab Simulink method)"
+    },
+    "simplot": {
+        "prefix": "simplot",
+        "body": [
+            "simplot"
+        ],
+        "description": "simplot (Matlab Simulink method)"
+    },
+    "simulink": {
+        "prefix": "simulink",
+        "body": [
+            "simulink"
+        ],
+        "description": "simulink (Matlab Simulink method)"
+    },
+    "simulinkproject": {
+        "prefix": "simulinkproject",
+        "body": [
+            "simulinkproject"
+        ],
+        "description": "simulinkproject (Matlab Simulink method)"
+    },
+    "sint": {
+        "prefix": "sint",
+        "body": [
+            "sint"
+        ],
+        "description": "sint (Matlab Simulink method)"
+    },
+    "slCharacterEncoding": {
+        "prefix": "slCharacterEncoding",
+        "body": [
+            "slCharacterEncoding"
+        ],
+        "description": "slCharacterEncoding (Matlab Simulink method)"
+    },
+    "slIsFileChangedOnDisk": {
+        "prefix": "slIsFileChangedOnDisk",
+        "body": [
+            "slIsFileChangedOnDisk"
+        ],
+        "description": "slIsFileChangedOnDisk (Matlab Simulink method)"
+    },
+    "slbuild": {
+        "prefix": "slbuild",
+        "body": [
+            "slbuild"
+        ],
+        "description": "slbuild (Matlab Simulink method)"
+    },
+    "sldebug": {
+        "prefix": "sldebug",
+        "body": [
+            "sldebug"
+        ],
+        "description": "sldebug (Matlab Simulink method)"
+    },
+    "sldiagnostics": {
+        "prefix": "sldiagnostics",
+        "body": [
+            "sldiagnostics"
+        ],
+        "description": "sldiagnostics (Matlab Simulink method)"
+    },
+    "sldiscmdl": {
+        "prefix": "sldiscmdl",
+        "body": [
+            "sldiscmdl"
+        ],
+        "description": "sldiscmdl (Matlab Simulink method)"
+    },
+    "slmdldiscui": {
+        "prefix": "slmdldiscui",
+        "body": [
+            "slmdldiscui"
+        ],
+        "description": "slmdldiscui (Matlab Simulink method)"
+    },
+    "slprofreport": {
+        "prefix": "slprofreport",
+        "body": [
+            "slprofreport"
+        ],
+        "description": "slprofreport (Matlab Simulink method)"
+    },
+    "slproject.getCurrentProject": {
+        "prefix": "slproject.getCurrentProject",
+        "body": [
+            "slproject.getCurrentProject"
+        ],
+        "description": "slproject.getCurrentProject (Matlab Simulink method)"
+    },
+    "slproject.loadProject": {
+        "prefix": "slproject.loadProject",
+        "body": [
+            "slproject.loadProject"
+        ],
+        "description": "slproject.loadProject (Matlab Simulink method)"
+    },
+    "slreplace_mux": {
+        "prefix": "slreplace_mux",
+        "body": [
+            "slreplace_mux"
+        ],
+        "description": "slreplace_mux (Matlab Simulink method)"
+    },
+    "slupdate": {
+        "prefix": "slupdate",
+        "body": [
+            "slupdate"
+        ],
+        "description": "slupdate (Matlab Simulink method)"
+    },
+    "start_simulink": {
+        "prefix": "start_simulink",
+        "body": [
+            "start_simulink"
+        ],
+        "description": "start_simulink (Matlab Simulink method)"
+    },
+    "trim": {
+        "prefix": "trim",
+        "body": [
+            "trim"
+        ],
+        "description": "trim (Matlab Simulink method)"
+    },
+    "tunablevars2parameterobjects": {
+        "prefix": "tunablevars2parameterobjects",
+        "body": [
+            "tunablevars2parameterobjects"
+        ],
+        "description": "tunablevars2parameterobjects (Matlab Simulink method)"
+    },
+    "ufix": {
+        "prefix": "ufix",
+        "body": [
+            "ufix"
+        ],
+        "description": "ufix (Matlab Simulink method)"
+    },
+    "ufrac": {
+        "prefix": "ufrac",
+        "body": [
+            "ufrac"
+        ],
+        "description": "ufrac (Matlab Simulink method)"
+    },
+    "uint": {
+        "prefix": "uint",
+        "body": [
+            "uint"
+        ],
+        "description": "uint (Matlab Simulink method)"
+    },
+    "unpack": {
+        "prefix": "unpack",
+        "body": [
+            "unpack"
+        ],
+        "description": "unpack (Matlab Simulink method)"
+    },
+    "upgradeadvisor": {
+        "prefix": "upgradeadvisor",
+        "body": [
+            "upgradeadvisor"
+        ],
+        "description": "upgradeadvisor (Matlab Simulink method)"
+    },
+    "view_mdlrefs": {
+        "prefix": "view_mdlrefs",
+        "body": [
+            "view_mdlrefs"
+        ],
+        "description": "view_mdlrefs (Matlab Simulink method)"
+    },
+    "who": {
+        "prefix": "who",
+        "body": [
+            "who"
+        ],
+        "description": "who (Matlab Simulink method)"
+    },
+    "whos": {
+        "prefix": "whos",
+        "body": [
+            "whos"
+        ],
+        "description": "whos (Matlab Simulink method)"
+    }
+}

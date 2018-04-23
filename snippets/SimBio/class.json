@@ -1,0 +1,198 @@
+{
+    "AbstractKineticLaw": {
+        "prefix": "AbstractKineticLaw",
+        "body": [
+            "AbstractKineticLaw"
+        ],
+        "description": "AbstractKineticLaw (Matlab SimBio class)"
+    },
+    "Compartment": {
+        "prefix": "Compartment",
+        "body": [
+            "Compartment"
+        ],
+        "description": "Compartment (Matlab SimBio class)"
+    },
+    "Configset": {
+        "prefix": "Configset",
+        "body": [
+            "Configset"
+        ],
+        "description": "Configset (Matlab SimBio class)"
+    },
+    "CovariateModel": {
+        "prefix": "CovariateModel",
+        "body": [
+            "CovariateModel"
+        ],
+        "description": "CovariateModel (Matlab SimBio class)"
+    },
+    "EstimatedInfo": {
+        "prefix": "EstimatedInfo",
+        "body": [
+            "EstimatedInfo"
+        ],
+        "description": "EstimatedInfo (Matlab SimBio class)"
+    },
+    "Event": {
+        "prefix": "Event",
+        "body": [
+            "Event"
+        ],
+        "description": "Event (Matlab SimBio class)"
+    },
+    "GroupedData": {
+        "prefix": "GroupedData",
+        "body": [
+            "GroupedData"
+        ],
+        "description": "GroupedData (Matlab SimBio class)"
+    },
+    "KineticLaw": {
+        "prefix": "KineticLaw",
+        "body": [
+            "KineticLaw"
+        ],
+        "description": "KineticLaw (Matlab SimBio class)"
+    },
+    "LeastSquaresResults": {
+        "prefix": "LeastSquaresResults",
+        "body": [
+            "LeastSquaresResults"
+        ],
+        "description": "LeastSquaresResults (Matlab SimBio class)"
+    },
+    "Model": {
+        "prefix": "Model",
+        "body": [
+            "Model"
+        ],
+        "description": "Model (Matlab SimBio class)"
+    },
+    "NLINResults": {
+        "prefix": "NLINResults",
+        "body": [
+            "NLINResults"
+        ],
+        "description": "NLINResults (Matlab SimBio class)"
+    },
+    "NLMEResults": {
+        "prefix": "NLMEResults",
+        "body": [
+            "NLMEResults"
+        ],
+        "description": "NLMEResults (Matlab SimBio class)"
+    },
+    "OptimResults": {
+        "prefix": "OptimResults",
+        "body": [
+            "OptimResults"
+        ],
+        "description": "OptimResults (Matlab SimBio class)"
+    },
+    "PKCompartment": {
+        "prefix": "PKCompartment",
+        "body": [
+            "PKCompartment"
+        ],
+        "description": "PKCompartment (Matlab SimBio class)"
+    },
+    "PKModelDesign": {
+        "prefix": "PKModelDesign",
+        "body": [
+            "PKModelDesign"
+        ],
+        "description": "PKModelDesign (Matlab SimBio class)"
+    },
+    "PKModelMap": {
+        "prefix": "PKModelMap",
+        "body": [
+            "PKModelMap"
+        ],
+        "description": "PKModelMap (Matlab SimBio class)"
+    },
+    "Parameter": {
+        "prefix": "Parameter",
+        "body": [
+            "Parameter"
+        ],
+        "description": "Parameter (Matlab SimBio class)"
+    },
+    "Reaction": {
+        "prefix": "Reaction",
+        "body": [
+            "Reaction"
+        ],
+        "description": "Reaction (Matlab SimBio class)"
+    },
+    "RepeatDose": {
+        "prefix": "RepeatDose",
+        "body": [
+            "RepeatDose"
+        ],
+        "description": "RepeatDose (Matlab SimBio class)"
+    },
+    "Root": {
+        "prefix": "Root",
+        "body": [
+            "Root"
+        ],
+        "description": "Root (Matlab SimBio class)"
+    },
+    "Rule": {
+        "prefix": "Rule",
+        "body": [
+            "Rule"
+        ],
+        "description": "Rule (Matlab SimBio class)"
+    },
+    "ScheduleDose": {
+        "prefix": "ScheduleDose",
+        "body": [
+            "ScheduleDose"
+        ],
+        "description": "ScheduleDose (Matlab SimBio class)"
+    },
+    "SimData": {
+        "prefix": "SimData",
+        "body": [
+            "SimData"
+        ],
+        "description": "SimData (Matlab SimBio class)"
+    },
+    "SimFunction": {
+        "prefix": "SimFunction",
+        "body": [
+            "SimFunction"
+        ],
+        "description": "SimFunction (Matlab SimBio class)"
+    },
+    "SimFunctionSensitivity": {
+        "prefix": "SimFunctionSensitivity",
+        "body": [
+            "SimFunctionSensitivity"
+        ],
+        "description": "SimFunctionSensitivity (Matlab SimBio class)"
+    },
+    "Species": {
+        "prefix": "Species",
+        "body": [
+            "Species"
+        ],
+        "description": "Species (Matlab SimBio class)"
+    },
+    "Unit": {
+        "prefix": "Unit",
+        "body": [
+            "Unit"
+        ],
+        "description": "Unit (Matlab SimBio class)"
+    },
+    "UnitPrefix": {
+        "prefix": "UnitPrefix",
+        "body": [
+            "UnitPrefix"
+        ],
+        "description": "UnitPrefix (Matlab SimBio class)"
+    }
+}

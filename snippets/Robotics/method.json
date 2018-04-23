@@ -1,0 +1,471 @@
+{
+    "Using": {
+        "prefix": "Using",
+        "body": [
+            "Using"
+        ],
+        "description": "Using (Matlab Robotics method)"
+    },
+    "angdiff": {
+        "prefix": "angdiff",
+        "body": [
+            "angdiff"
+        ],
+        "description": "angdiff (Matlab Robotics method)"
+    },
+    "apply": {
+        "prefix": "apply",
+        "body": [
+            "apply"
+        ],
+        "description": "apply (Matlab Robotics method)"
+    },
+    "axang2quat": {
+        "prefix": "axang2quat",
+        "body": [
+            "axang2quat"
+        ],
+        "description": "axang2quat (Matlab Robotics method)"
+    },
+    "axang2rotm": {
+        "prefix": "axang2rotm",
+        "body": [
+            "axang2rotm"
+        ],
+        "description": "axang2rotm (Matlab Robotics method)"
+    },
+    "axang2tform": {
+        "prefix": "axang2tform",
+        "body": [
+            "axang2tform"
+        ],
+        "description": "axang2tform (Matlab Robotics method)"
+    },
+    "call": {
+        "prefix": "call",
+        "body": [
+            "call"
+        ],
+        "description": "call (Matlab Robotics method)"
+    },
+    "cart2hom": {
+        "prefix": "cart2hom",
+        "body": [
+            "cart2hom"
+        ],
+        "description": "cart2hom (Matlab Robotics method)"
+    },
+    "definition": {
+        "prefix": "definition",
+        "body": [
+            "definition"
+        ],
+        "description": "definition (Matlab Robotics method)"
+    },
+    "del": {
+        "prefix": "del",
+        "body": [
+            "del"
+        ],
+        "description": "del (Matlab Robotics method)"
+    },
+    "eul2quat": {
+        "prefix": "eul2quat",
+        "body": [
+            "eul2quat"
+        ],
+        "description": "eul2quat (Matlab Robotics method)"
+    },
+    "eul2rotm": {
+        "prefix": "eul2rotm",
+        "body": [
+            "eul2rotm"
+        ],
+        "description": "eul2rotm (Matlab Robotics method)"
+    },
+    "eul2tform": {
+        "prefix": "eul2tform",
+        "body": [
+            "eul2tform"
+        ],
+        "description": "eul2tform (Matlab Robotics method)"
+    },
+    "getTransform": {
+        "prefix": "getTransform",
+        "body": [
+            "getTransform"
+        ],
+        "description": "getTransform (Matlab Robotics method)"
+    },
+    "has": {
+        "prefix": "has",
+        "body": [
+            "has"
+        ],
+        "description": "has (Matlab Robotics method)"
+    },
+    "hom2cart": {
+        "prefix": "hom2cart",
+        "body": [
+            "hom2cart"
+        ],
+        "description": "hom2cart (Matlab Robotics method)"
+    },
+    "quat2axang": {
+        "prefix": "quat2axang",
+        "body": [
+            "quat2axang"
+        ],
+        "description": "quat2axang (Matlab Robotics method)"
+    },
+    "quat2eul": {
+        "prefix": "quat2eul",
+        "body": [
+            "quat2eul"
+        ],
+        "description": "quat2eul (Matlab Robotics method)"
+    },
+    "quat2rotm": {
+        "prefix": "quat2rotm",
+        "body": [
+            "quat2rotm"
+        ],
+        "description": "quat2rotm (Matlab Robotics method)"
+    },
+    "quat2tform": {
+        "prefix": "quat2tform",
+        "body": [
+            "quat2tform"
+        ],
+        "description": "quat2tform (Matlab Robotics method)"
+    },
+    "readAllFieldNames": {
+        "prefix": "readAllFieldNames",
+        "body": [
+            "readAllFieldNames"
+        ],
+        "description": "readAllFieldNames (Matlab Robotics method)"
+    },
+    "readBinaryOccupancyGrid": {
+        "prefix": "readBinaryOccupancyGrid",
+        "body": [
+            "readBinaryOccupancyGrid"
+        ],
+        "description": "readBinaryOccupancyGrid (Matlab Robotics method)"
+    },
+    "readCartesian": {
+        "prefix": "readCartesian",
+        "body": [
+            "readCartesian"
+        ],
+        "description": "readCartesian (Matlab Robotics method)"
+    },
+    "readField": {
+        "prefix": "readField",
+        "body": [
+            "readField"
+        ],
+        "description": "readField (Matlab Robotics method)"
+    },
+    "readImage": {
+        "prefix": "readImage",
+        "body": [
+            "readImage"
+        ],
+        "description": "readImage (Matlab Robotics method)"
+    },
+    "readMessages": {
+        "prefix": "readMessages",
+        "body": [
+            "readMessages"
+        ],
+        "description": "readMessages (Matlab Robotics method)"
+    },
+    "readRGB": {
+        "prefix": "readRGB",
+        "body": [
+            "readRGB"
+        ],
+        "description": "readRGB (Matlab Robotics method)"
+    },
+    "readScanAngles": {
+        "prefix": "readScanAngles",
+        "body": [
+            "readScanAngles"
+        ],
+        "description": "readScanAngles (Matlab Robotics method)"
+    },
+    "readXYZ": {
+        "prefix": "readXYZ",
+        "body": [
+            "readXYZ"
+        ],
+        "description": "readXYZ (Matlab Robotics method)"
+    },
+    "receive": {
+        "prefix": "receive",
+        "body": [
+            "receive"
+        ],
+        "description": "receive (Matlab Robotics method)"
+    },
+    "roboticsSupportPackages": {
+        "prefix": "roboticsSupportPackages",
+        "body": [
+            "roboticsSupportPackages"
+        ],
+        "description": "roboticsSupportPackages (Matlab Robotics method)"
+    },
+    "rosbag": {
+        "prefix": "rosbag",
+        "body": [
+            "rosbag"
+        ],
+        "description": "rosbag (Matlab Robotics method)"
+    },
+    "rosgenmsg": {
+        "prefix": "rosgenmsg",
+        "body": [
+            "rosgenmsg"
+        ],
+        "description": "rosgenmsg (Matlab Robotics method)"
+    },
+    "rosinit": {
+        "prefix": "rosinit",
+        "body": [
+            "rosinit"
+        ],
+        "description": "rosinit (Matlab Robotics method)"
+    },
+    "rosmessage": {
+        "prefix": "rosmessage",
+        "body": [
+            "rosmessage"
+        ],
+        "description": "rosmessage (Matlab Robotics method)"
+    },
+    "rosmsg": {
+        "prefix": "rosmsg",
+        "body": [
+            "rosmsg"
+        ],
+        "description": "rosmsg (Matlab Robotics method)"
+    },
+    "rosnode": {
+        "prefix": "rosnode",
+        "body": [
+            "rosnode"
+        ],
+        "description": "rosnode (Matlab Robotics method)"
+    },
+    "rosparam": {
+        "prefix": "rosparam",
+        "body": [
+            "rosparam"
+        ],
+        "description": "rosparam (Matlab Robotics method)"
+    },
+    "rospublisher": {
+        "prefix": "rospublisher",
+        "body": [
+            "rospublisher"
+        ],
+        "description": "rospublisher (Matlab Robotics method)"
+    },
+    "rosservice": {
+        "prefix": "rosservice",
+        "body": [
+            "rosservice"
+        ],
+        "description": "rosservice (Matlab Robotics method)"
+    },
+    "rosshutdown": {
+        "prefix": "rosshutdown",
+        "body": [
+            "rosshutdown"
+        ],
+        "description": "rosshutdown (Matlab Robotics method)"
+    },
+    "rossubscriber": {
+        "prefix": "rossubscriber",
+        "body": [
+            "rossubscriber"
+        ],
+        "description": "rossubscriber (Matlab Robotics method)"
+    },
+    "rossvcclient": {
+        "prefix": "rossvcclient",
+        "body": [
+            "rossvcclient"
+        ],
+        "description": "rossvcclient (Matlab Robotics method)"
+    },
+    "rossvcserver": {
+        "prefix": "rossvcserver",
+        "body": [
+            "rossvcserver"
+        ],
+        "description": "rossvcserver (Matlab Robotics method)"
+    },
+    "rostf": {
+        "prefix": "rostf",
+        "body": [
+            "rostf"
+        ],
+        "description": "rostf (Matlab Robotics method)"
+    },
+    "rostime": {
+        "prefix": "rostime",
+        "body": [
+            "rostime"
+        ],
+        "description": "rostime (Matlab Robotics method)"
+    },
+    "rostopic": {
+        "prefix": "rostopic",
+        "body": [
+            "rostopic"
+        ],
+        "description": "rostopic (Matlab Robotics method)"
+    },
+    "rostype": {
+        "prefix": "rostype",
+        "body": [
+            "rostype"
+        ],
+        "description": "rostype (Matlab Robotics method)"
+    },
+    "rotm2axang": {
+        "prefix": "rotm2axang",
+        "body": [
+            "rotm2axang"
+        ],
+        "description": "rotm2axang (Matlab Robotics method)"
+    },
+    "rotm2eul": {
+        "prefix": "rotm2eul",
+        "body": [
+            "rotm2eul"
+        ],
+        "description": "rotm2eul (Matlab Robotics method)"
+    },
+    "rotm2quat": {
+        "prefix": "rotm2quat",
+        "body": [
+            "rotm2quat"
+        ],
+        "description": "rotm2quat (Matlab Robotics method)"
+    },
+    "rotm2tform": {
+        "prefix": "rotm2tform",
+        "body": [
+            "rotm2tform"
+        ],
+        "description": "rotm2tform (Matlab Robotics method)"
+    },
+    "search": {
+        "prefix": "search",
+        "body": [
+            "search"
+        ],
+        "description": "search (Matlab Robotics method)"
+    },
+    "select": {
+        "prefix": "select",
+        "body": [
+            "select"
+        ],
+        "description": "select (Matlab Robotics method)"
+    },
+    "send": {
+        "prefix": "send",
+        "body": [
+            "send"
+        ],
+        "description": "send (Matlab Robotics method)"
+    },
+    "sendTransform": {
+        "prefix": "sendTransform",
+        "body": [
+            "sendTransform"
+        ],
+        "description": "sendTransform (Matlab Robotics method)"
+    },
+    "showdetails": {
+        "prefix": "showdetails",
+        "body": [
+            "showdetails"
+        ],
+        "description": "showdetails (Matlab Robotics method)"
+    },
+    "tform2axang": {
+        "prefix": "tform2axang",
+        "body": [
+            "tform2axang"
+        ],
+        "description": "tform2axang (Matlab Robotics method)"
+    },
+    "tform2eul": {
+        "prefix": "tform2eul",
+        "body": [
+            "tform2eul"
+        ],
+        "description": "tform2eul (Matlab Robotics method)"
+    },
+    "tform2quat": {
+        "prefix": "tform2quat",
+        "body": [
+            "tform2quat"
+        ],
+        "description": "tform2quat (Matlab Robotics method)"
+    },
+    "tform2rotm": {
+        "prefix": "tform2rotm",
+        "body": [
+            "tform2rotm"
+        ],
+        "description": "tform2rotm (Matlab Robotics method)"
+    },
+    "tform2trvec": {
+        "prefix": "tform2trvec",
+        "body": [
+            "tform2trvec"
+        ],
+        "description": "tform2trvec (Matlab Robotics method)"
+    },
+    "transform": {
+        "prefix": "transform",
+        "body": [
+            "transform"
+        ],
+        "description": "transform (Matlab Robotics method)"
+    },
+    "trvec2tform": {
+        "prefix": "trvec2tform",
+        "body": [
+            "trvec2tform"
+        ],
+        "description": "trvec2tform (Matlab Robotics method)"
+    },
+    "waitForTransform": {
+        "prefix": "waitForTransform",
+        "body": [
+            "waitForTransform"
+        ],
+        "description": "waitForTransform (Matlab Robotics method)"
+    },
+    "writeBinaryOccupancyGrid": {
+        "prefix": "writeBinaryOccupancyGrid",
+        "body": [
+            "writeBinaryOccupancyGrid"
+        ],
+        "description": "writeBinaryOccupancyGrid (Matlab Robotics method)"
+    },
+    "writeImage": {
+        "prefix": "writeImage",
+        "body": [
+            "writeImage"
+        ],
+        "description": "writeImage (Matlab Robotics method)"
+    }
+}

@@ -1,0 +1,1339 @@
+{
+    "BRISKPoints": {
+        "prefix": "BRISKPoints",
+        "body": [
+            "BRISKPoints"
+        ],
+        "description": "BRISKPoints (Matlab Vision method)"
+    },
+    "MSERRegions": {
+        "prefix": "MSERRegions",
+        "body": [
+            "MSERRegions"
+        ],
+        "description": "MSERRegions (Matlab Vision method)"
+    },
+    "SURFPoints": {
+        "prefix": "SURFPoints",
+        "body": [
+            "SURFPoints"
+        ],
+        "description": "SURFPoints (Matlab Vision method)"
+    },
+    "affine2d": {
+        "prefix": "affine2d",
+        "body": [
+            "affine2d"
+        ],
+        "description": "affine2d (Matlab Vision method)"
+    },
+    "affine3d": {
+        "prefix": "affine3d",
+        "body": [
+            "affine3d"
+        ],
+        "description": "affine3d (Matlab Vision method)"
+    },
+    "alignColorToDepth": {
+        "prefix": "alignColorToDepth",
+        "body": [
+            "alignColorToDepth"
+        ],
+        "description": "alignColorToDepth (Matlab Vision method)"
+    },
+    "assignDetectionsToTracks": {
+        "prefix": "assignDetectionsToTracks",
+        "body": [
+            "assignDetectionsToTracks"
+        ],
+        "description": "assignDetectionsToTracks (Matlab Vision method)"
+    },
+    "bagOfFeatures": {
+        "prefix": "bagOfFeatures",
+        "body": [
+            "bagOfFeatures"
+        ],
+        "description": "bagOfFeatures (Matlab Vision method)"
+    },
+    "bbox2points": {
+        "prefix": "bbox2points",
+        "body": [
+            "bbox2points"
+        ],
+        "description": "bbox2points (Matlab Vision method)"
+    },
+    "bboxOverlapRatio": {
+        "prefix": "bboxOverlapRatio",
+        "body": [
+            "bboxOverlapRatio"
+        ],
+        "description": "bboxOverlapRatio (Matlab Vision method)"
+    },
+    "binaryFeatures": {
+        "prefix": "binaryFeatures",
+        "body": [
+            "binaryFeatures"
+        ],
+        "description": "binaryFeatures (Matlab Vision method)"
+    },
+    "bwconncomp": {
+        "prefix": "bwconncomp",
+        "body": [
+            "bwconncomp"
+        ],
+        "description": "bwconncomp (Matlab Vision method)"
+    },
+    "bwlabel": {
+        "prefix": "bwlabel",
+        "body": [
+            "bwlabel"
+        ],
+        "description": "bwlabel (Matlab Vision method)"
+    },
+    "bwlabeln": {
+        "prefix": "bwlabeln",
+        "body": [
+            "bwlabeln"
+        ],
+        "description": "bwlabeln (Matlab Vision method)"
+    },
+    "bwmorph": {
+        "prefix": "bwmorph",
+        "body": [
+            "bwmorph"
+        ],
+        "description": "bwmorph (Matlab Vision method)"
+    },
+    "cameraCalibrationErrors": {
+        "prefix": "cameraCalibrationErrors",
+        "body": [
+            "cameraCalibrationErrors"
+        ],
+        "description": "cameraCalibrationErrors (Matlab Vision method)"
+    },
+    "cameraMatrix": {
+        "prefix": "cameraMatrix",
+        "body": [
+            "cameraMatrix"
+        ],
+        "description": "cameraMatrix (Matlab Vision method)"
+    },
+    "cameraParameters": {
+        "prefix": "cameraParameters",
+        "body": [
+            "cameraParameters"
+        ],
+        "description": "cameraParameters (Matlab Vision method)"
+    },
+    "cameraPose": {
+        "prefix": "cameraPose",
+        "body": [
+            "cameraPose"
+        ],
+        "description": "cameraPose (Matlab Vision method)"
+    },
+    "configureKalmanFilter": {
+        "prefix": "configureKalmanFilter",
+        "body": [
+            "configureKalmanFilter"
+        ],
+        "description": "configureKalmanFilter (Matlab Vision method)"
+    },
+    "cornerPoints": {
+        "prefix": "cornerPoints",
+        "body": [
+            "cornerPoints"
+        ],
+        "description": "cornerPoints (Matlab Vision method)"
+    },
+    "cylinderModel": {
+        "prefix": "cylinderModel",
+        "body": [
+            "cylinderModel"
+        ],
+        "description": "cylinderModel (Matlab Vision method)"
+    },
+    "depthToPointCloud": {
+        "prefix": "depthToPointCloud",
+        "body": [
+            "depthToPointCloud"
+        ],
+        "description": "depthToPointCloud (Matlab Vision method)"
+    },
+    "detectBRISKFeatures": {
+        "prefix": "detectBRISKFeatures",
+        "body": [
+            "detectBRISKFeatures"
+        ],
+        "description": "detectBRISKFeatures (Matlab Vision method)"
+    },
+    "detectCheckerboardPoints": {
+        "prefix": "detectCheckerboardPoints",
+        "body": [
+            "detectCheckerboardPoints"
+        ],
+        "description": "detectCheckerboardPoints (Matlab Vision method)"
+    },
+    "detectFASTFeatures": {
+        "prefix": "detectFASTFeatures",
+        "body": [
+            "detectFASTFeatures"
+        ],
+        "description": "detectFASTFeatures (Matlab Vision method)"
+    },
+    "detectHarrisFeatures": {
+        "prefix": "detectHarrisFeatures",
+        "body": [
+            "detectHarrisFeatures"
+        ],
+        "description": "detectHarrisFeatures (Matlab Vision method)"
+    },
+    "detectMSERFeatures": {
+        "prefix": "detectMSERFeatures",
+        "body": [
+            "detectMSERFeatures"
+        ],
+        "description": "detectMSERFeatures (Matlab Vision method)"
+    },
+    "detectMinEigenFeatures": {
+        "prefix": "detectMinEigenFeatures",
+        "body": [
+            "detectMinEigenFeatures"
+        ],
+        "description": "detectMinEigenFeatures (Matlab Vision method)"
+    },
+    "detectSURFFeatures": {
+        "prefix": "detectSURFFeatures",
+        "body": [
+            "detectSURFFeatures"
+        ],
+        "description": "detectSURFFeatures (Matlab Vision method)"
+    },
+    "disparity": {
+        "prefix": "disparity",
+        "body": [
+            "disparity"
+        ],
+        "description": "disparity (Matlab Vision method)"
+    },
+    "epipolarLine": {
+        "prefix": "epipolarLine",
+        "body": [
+            "epipolarLine"
+        ],
+        "description": "epipolarLine (Matlab Vision method)"
+    },
+    "estimateCameraParameters": {
+        "prefix": "estimateCameraParameters",
+        "body": [
+            "estimateCameraParameters"
+        ],
+        "description": "estimateCameraParameters (Matlab Vision method)"
+    },
+    "estimateFundamentalMatrix": {
+        "prefix": "estimateFundamentalMatrix",
+        "body": [
+            "estimateFundamentalMatrix"
+        ],
+        "description": "estimateFundamentalMatrix (Matlab Vision method)"
+    },
+    "estimateGeometricTransform": {
+        "prefix": "estimateGeometricTransform",
+        "body": [
+            "estimateGeometricTransform"
+        ],
+        "description": "estimateGeometricTransform (Matlab Vision method)"
+    },
+    "estimateUncalibratedRectification": {
+        "prefix": "estimateUncalibratedRectification",
+        "body": [
+            "estimateUncalibratedRectification"
+        ],
+        "description": "estimateUncalibratedRectification (Matlab Vision method)"
+    },
+    "evaluateImageRetrieval": {
+        "prefix": "evaluateImageRetrieval",
+        "body": [
+            "evaluateImageRetrieval"
+        ],
+        "description": "evaluateImageRetrieval (Matlab Vision method)"
+    },
+    "extractFeatures": {
+        "prefix": "extractFeatures",
+        "body": [
+            "extractFeatures"
+        ],
+        "description": "extractFeatures (Matlab Vision method)"
+    },
+    "extractHOGFeatures": {
+        "prefix": "extractHOGFeatures",
+        "body": [
+            "extractHOGFeatures"
+        ],
+        "description": "extractHOGFeatures (Matlab Vision method)"
+    },
+    "extractLBPFeatures": {
+        "prefix": "extractLBPFeatures",
+        "body": [
+            "extractLBPFeatures"
+        ],
+        "description": "extractLBPFeatures (Matlab Vision method)"
+    },
+    "extrinsics": {
+        "prefix": "extrinsics",
+        "body": [
+            "extrinsics"
+        ],
+        "description": "extrinsics (Matlab Vision method)"
+    },
+    "extrinsicsEstimationErrors": {
+        "prefix": "extrinsicsEstimationErrors",
+        "body": [
+            "extrinsicsEstimationErrors"
+        ],
+        "description": "extrinsicsEstimationErrors (Matlab Vision method)"
+    },
+    "findNearestNeighbors": {
+        "prefix": "findNearestNeighbors",
+        "body": [
+            "findNearestNeighbors"
+        ],
+        "description": "findNearestNeighbors (Matlab Vision method)"
+    },
+    "findNeighborsInRadius": {
+        "prefix": "findNeighborsInRadius",
+        "body": [
+            "findNeighborsInRadius"
+        ],
+        "description": "findNeighborsInRadius (Matlab Vision method)"
+    },
+    "findPointsInROI": {
+        "prefix": "findPointsInROI",
+        "body": [
+            "findPointsInROI"
+        ],
+        "description": "findPointsInROI (Matlab Vision method)"
+    },
+    "generateCheckerboardPoints": {
+        "prefix": "generateCheckerboardPoints",
+        "body": [
+            "generateCheckerboardPoints"
+        ],
+        "description": "generateCheckerboardPoints (Matlab Vision method)"
+    },
+    "imageCategoryClassifier": {
+        "prefix": "imageCategoryClassifier",
+        "body": [
+            "imageCategoryClassifier"
+        ],
+        "description": "imageCategoryClassifier (Matlab Vision method)"
+    },
+    "imageSet": {
+        "prefix": "imageSet",
+        "body": [
+            "imageSet"
+        ],
+        "description": "imageSet (Matlab Vision method)"
+    },
+    "imbothat": {
+        "prefix": "imbothat",
+        "body": [
+            "imbothat"
+        ],
+        "description": "imbothat (Matlab Vision method)"
+    },
+    "imclose": {
+        "prefix": "imclose",
+        "body": [
+            "imclose"
+        ],
+        "description": "imclose (Matlab Vision method)"
+    },
+    "imdilate": {
+        "prefix": "imdilate",
+        "body": [
+            "imdilate"
+        ],
+        "description": "imdilate (Matlab Vision method)"
+    },
+    "imerode": {
+        "prefix": "imerode",
+        "body": [
+            "imerode"
+        ],
+        "description": "imerode (Matlab Vision method)"
+    },
+    "imopen": {
+        "prefix": "imopen",
+        "body": [
+            "imopen"
+        ],
+        "description": "imopen (Matlab Vision method)"
+    },
+    "imreconstruct": {
+        "prefix": "imreconstruct",
+        "body": [
+            "imreconstruct"
+        ],
+        "description": "imreconstruct (Matlab Vision method)"
+    },
+    "imtophat": {
+        "prefix": "imtophat",
+        "body": [
+            "imtophat"
+        ],
+        "description": "imtophat (Matlab Vision method)"
+    },
+    "imwarp": {
+        "prefix": "imwarp",
+        "body": [
+            "imwarp"
+        ],
+        "description": "imwarp (Matlab Vision method)"
+    },
+    "indexImages": {
+        "prefix": "indexImages",
+        "body": [
+            "indexImages"
+        ],
+        "description": "indexImages (Matlab Vision method)"
+    },
+    "insertMarker": {
+        "prefix": "insertMarker",
+        "body": [
+            "insertMarker"
+        ],
+        "description": "insertMarker (Matlab Vision method)"
+    },
+    "insertObjectAnnotation": {
+        "prefix": "insertObjectAnnotation",
+        "body": [
+            "insertObjectAnnotation"
+        ],
+        "description": "insertObjectAnnotation (Matlab Vision method)"
+    },
+    "insertShape": {
+        "prefix": "insertShape",
+        "body": [
+            "insertShape"
+        ],
+        "description": "insertShape (Matlab Vision method)"
+    },
+    "insertText": {
+        "prefix": "insertText",
+        "body": [
+            "insertText"
+        ],
+        "description": "insertText (Matlab Vision method)"
+    },
+    "integralFilter": {
+        "prefix": "integralFilter",
+        "body": [
+            "integralFilter"
+        ],
+        "description": "integralFilter (Matlab Vision method)"
+    },
+    "integralImage": {
+        "prefix": "integralImage",
+        "body": [
+            "integralImage"
+        ],
+        "description": "integralImage (Matlab Vision method)"
+    },
+    "integralKernel": {
+        "prefix": "integralKernel",
+        "body": [
+            "integralKernel"
+        ],
+        "description": "integralKernel (Matlab Vision method)"
+    },
+    "intrinsicsEstimationErrors": {
+        "prefix": "intrinsicsEstimationErrors",
+        "body": [
+            "intrinsicsEstimationErrors"
+        ],
+        "description": "intrinsicsEstimationErrors (Matlab Vision method)"
+    },
+    "invertedImageIndex": {
+        "prefix": "invertedImageIndex",
+        "body": [
+            "invertedImageIndex"
+        ],
+        "description": "invertedImageIndex (Matlab Vision method)"
+    },
+    "isEpipoleInImage": {
+        "prefix": "isEpipoleInImage",
+        "body": [
+            "isEpipoleInImage"
+        ],
+        "description": "isEpipoleInImage (Matlab Vision method)"
+    },
+    "isfilterseparable": {
+        "prefix": "isfilterseparable",
+        "body": [
+            "isfilterseparable"
+        ],
+        "description": "isfilterseparable (Matlab Vision method)"
+    },
+    "lineToBorderPoints": {
+        "prefix": "lineToBorderPoints",
+        "body": [
+            "lineToBorderPoints"
+        ],
+        "description": "lineToBorderPoints (Matlab Vision method)"
+    },
+    "listTrueTypeFonts": {
+        "prefix": "listTrueTypeFonts",
+        "body": [
+            "listTrueTypeFonts"
+        ],
+        "description": "listTrueTypeFonts (Matlab Vision method)"
+    },
+    "matchFeatures": {
+        "prefix": "matchFeatures",
+        "body": [
+            "matchFeatures"
+        ],
+        "description": "matchFeatures (Matlab Vision method)"
+    },
+    "ocr": {
+        "prefix": "ocr",
+        "body": [
+            "ocr"
+        ],
+        "description": "ocr (Matlab Vision method)"
+    },
+    "ocrText": {
+        "prefix": "ocrText",
+        "body": [
+            "ocrText"
+        ],
+        "description": "ocrText (Matlab Vision method)"
+    },
+    "ocvCheckFeaturePointsStruct": {
+        "prefix": "ocvCheckFeaturePointsStruct",
+        "body": [
+            "ocvCheckFeaturePointsStruct"
+        ],
+        "description": "ocvCheckFeaturePointsStruct (Matlab Vision method)"
+    },
+    "ocvCvBox2DToMxArray": {
+        "prefix": "ocvCvBox2DToMxArray",
+        "body": [
+            "ocvCvBox2DToMxArray"
+        ],
+        "description": "ocvCvBox2DToMxArray (Matlab Vision method)"
+    },
+    "ocvCvRectToMxArray": {
+        "prefix": "ocvCvRectToMxArray",
+        "body": [
+            "ocvCvRectToMxArray"
+        ],
+        "description": "ocvCvRectToMxArray (Matlab Vision method)"
+    },
+    "ocvKeyPointsToStruct": {
+        "prefix": "ocvKeyPointsToStruct",
+        "body": [
+            "ocvKeyPointsToStruct"
+        ],
+        "description": "ocvKeyPointsToStruct (Matlab Vision method)"
+    },
+    "ocvMxArrayFromPoints2f": {
+        "prefix": "ocvMxArrayFromPoints2f",
+        "body": [
+            "ocvMxArrayFromPoints2f"
+        ],
+        "description": "ocvMxArrayFromPoints2f (Matlab Vision method)"
+    },
+    "ocvMxArrayFromVector": {
+        "prefix": "ocvMxArrayFromVector",
+        "body": [
+            "ocvMxArrayFromVector"
+        ],
+        "description": "ocvMxArrayFromVector (Matlab Vision method)"
+    },
+    "ocvMxArrayToCvRect": {
+        "prefix": "ocvMxArrayToCvRect",
+        "body": [
+            "ocvMxArrayToCvRect"
+        ],
+        "description": "ocvMxArrayToCvRect (Matlab Vision method)"
+    },
+    "ocvMxArrayToSize": {
+        "prefix": "ocvMxArrayToSize",
+        "body": [
+            "ocvMxArrayToSize"
+        ],
+        "description": "ocvMxArrayToSize (Matlab Vision method)"
+    },
+    "ocvStructToKeyPoints": {
+        "prefix": "ocvStructToKeyPoints",
+        "body": [
+            "ocvStructToKeyPoints"
+        ],
+        "description": "ocvStructToKeyPoints (Matlab Vision method)"
+    },
+    "opticalFlow": {
+        "prefix": "opticalFlow",
+        "body": [
+            "opticalFlow"
+        ],
+        "description": "opticalFlow (Matlab Vision method)"
+    },
+    "opticalFlowFarneback": {
+        "prefix": "opticalFlowFarneback",
+        "body": [
+            "opticalFlowFarneback"
+        ],
+        "description": "opticalFlowFarneback (Matlab Vision method)"
+    },
+    "opticalFlowHS": {
+        "prefix": "opticalFlowHS",
+        "body": [
+            "opticalFlowHS"
+        ],
+        "description": "opticalFlowHS (Matlab Vision method)"
+    },
+    "opticalFlowLK": {
+        "prefix": "opticalFlowLK",
+        "body": [
+            "opticalFlowLK"
+        ],
+        "description": "opticalFlowLK (Matlab Vision method)"
+    },
+    "opticalFlowLKDoG": {
+        "prefix": "opticalFlowLKDoG",
+        "body": [
+            "opticalFlowLKDoG"
+        ],
+        "description": "opticalFlowLKDoG (Matlab Vision method)"
+    },
+    "pcdenoise": {
+        "prefix": "pcdenoise",
+        "body": [
+            "pcdenoise"
+        ],
+        "description": "pcdenoise (Matlab Vision method)"
+    },
+    "pcdownsample": {
+        "prefix": "pcdownsample",
+        "body": [
+            "pcdownsample"
+        ],
+        "description": "pcdownsample (Matlab Vision method)"
+    },
+    "pcfitcylinder": {
+        "prefix": "pcfitcylinder",
+        "body": [
+            "pcfitcylinder"
+        ],
+        "description": "pcfitcylinder (Matlab Vision method)"
+    },
+    "pcfitplane": {
+        "prefix": "pcfitplane",
+        "body": [
+            "pcfitplane"
+        ],
+        "description": "pcfitplane (Matlab Vision method)"
+    },
+    "pcfitsphere": {
+        "prefix": "pcfitsphere",
+        "body": [
+            "pcfitsphere"
+        ],
+        "description": "pcfitsphere (Matlab Vision method)"
+    },
+    "pcfromkinect": {
+        "prefix": "pcfromkinect",
+        "body": [
+            "pcfromkinect"
+        ],
+        "description": "pcfromkinect (Matlab Vision method)"
+    },
+    "pcmerge": {
+        "prefix": "pcmerge",
+        "body": [
+            "pcmerge"
+        ],
+        "description": "pcmerge (Matlab Vision method)"
+    },
+    "pcnormals": {
+        "prefix": "pcnormals",
+        "body": [
+            "pcnormals"
+        ],
+        "description": "pcnormals (Matlab Vision method)"
+    },
+    "pcplayer": {
+        "prefix": "pcplayer",
+        "body": [
+            "pcplayer"
+        ],
+        "description": "pcplayer (Matlab Vision method)"
+    },
+    "pcread": {
+        "prefix": "pcread",
+        "body": [
+            "pcread"
+        ],
+        "description": "pcread (Matlab Vision method)"
+    },
+    "pcregrigid": {
+        "prefix": "pcregrigid",
+        "body": [
+            "pcregrigid"
+        ],
+        "description": "pcregrigid (Matlab Vision method)"
+    },
+    "pcshow": {
+        "prefix": "pcshow",
+        "body": [
+            "pcshow"
+        ],
+        "description": "pcshow (Matlab Vision method)"
+    },
+    "pcshowpair": {
+        "prefix": "pcshowpair",
+        "body": [
+            "pcshowpair"
+        ],
+        "description": "pcshowpair (Matlab Vision method)"
+    },
+    "pctransform": {
+        "prefix": "pctransform",
+        "body": [
+            "pctransform"
+        ],
+        "description": "pctransform (Matlab Vision method)"
+    },
+    "pcwrite": {
+        "prefix": "pcwrite",
+        "body": [
+            "pcwrite"
+        ],
+        "description": "pcwrite (Matlab Vision method)"
+    },
+    "planeModel": {
+        "prefix": "planeModel",
+        "body": [
+            "planeModel"
+        ],
+        "description": "planeModel (Matlab Vision method)"
+    },
+    "plotCamera": {
+        "prefix": "plotCamera",
+        "body": [
+            "plotCamera"
+        ],
+        "description": "plotCamera (Matlab Vision method)"
+    },
+    "pointCloud": {
+        "prefix": "pointCloud",
+        "body": [
+            "pointCloud"
+        ],
+        "description": "pointCloud (Matlab Vision method)"
+    },
+    "projective2d": {
+        "prefix": "projective2d",
+        "body": [
+            "projective2d"
+        ],
+        "description": "projective2d (Matlab Vision method)"
+    },
+    "reconstructScene": {
+        "prefix": "reconstructScene",
+        "body": [
+            "reconstructScene"
+        ],
+        "description": "reconstructScene (Matlab Vision method)"
+    },
+    "rectifyStereoImages": {
+        "prefix": "rectifyStereoImages",
+        "body": [
+            "rectifyStereoImages"
+        ],
+        "description": "rectifyStereoImages (Matlab Vision method)"
+    },
+    "removeInvalidPoints": {
+        "prefix": "removeInvalidPoints",
+        "body": [
+            "removeInvalidPoints"
+        ],
+        "description": "removeInvalidPoints (Matlab Vision method)"
+    },
+    "retrieveImages": {
+        "prefix": "retrieveImages",
+        "body": [
+            "retrieveImages"
+        ],
+        "description": "retrieveImages (Matlab Vision method)"
+    },
+    "selectStrongestBbox": {
+        "prefix": "selectStrongestBbox",
+        "body": [
+            "selectStrongestBbox"
+        ],
+        "description": "selectStrongestBbox (Matlab Vision method)"
+    },
+    "showExtrinsics": {
+        "prefix": "showExtrinsics",
+        "body": [
+            "showExtrinsics"
+        ],
+        "description": "showExtrinsics (Matlab Vision method)"
+    },
+    "showMatchedFeatures": {
+        "prefix": "showMatchedFeatures",
+        "body": [
+            "showMatchedFeatures"
+        ],
+        "description": "showMatchedFeatures (Matlab Vision method)"
+    },
+    "showReprojectionErrors": {
+        "prefix": "showReprojectionErrors",
+        "body": [
+            "showReprojectionErrors"
+        ],
+        "description": "showReprojectionErrors (Matlab Vision method)"
+    },
+    "sphereModel": {
+        "prefix": "sphereModel",
+        "body": [
+            "sphereModel"
+        ],
+        "description": "sphereModel (Matlab Vision method)"
+    },
+    "stereoAnaglyph": {
+        "prefix": "stereoAnaglyph",
+        "body": [
+            "stereoAnaglyph"
+        ],
+        "description": "stereoAnaglyph (Matlab Vision method)"
+    },
+    "stereoCalibrationErrors": {
+        "prefix": "stereoCalibrationErrors",
+        "body": [
+            "stereoCalibrationErrors"
+        ],
+        "description": "stereoCalibrationErrors (Matlab Vision method)"
+    },
+    "stereoParameters": {
+        "prefix": "stereoParameters",
+        "body": [
+            "stereoParameters"
+        ],
+        "description": "stereoParameters (Matlab Vision method)"
+    },
+    "trainCascadeObjectDetector": {
+        "prefix": "trainCascadeObjectDetector",
+        "body": [
+            "trainCascadeObjectDetector"
+        ],
+        "description": "trainCascadeObjectDetector (Matlab Vision method)"
+    },
+    "trainImageCategoryClassifier": {
+        "prefix": "trainImageCategoryClassifier",
+        "body": [
+            "trainImageCategoryClassifier"
+        ],
+        "description": "trainImageCategoryClassifier (Matlab Vision method)"
+    },
+    "triangulate": {
+        "prefix": "triangulate",
+        "body": [
+            "triangulate"
+        ],
+        "description": "triangulate (Matlab Vision method)"
+    },
+    "undistortImage": {
+        "prefix": "undistortImage",
+        "body": [
+            "undistortImage"
+        ],
+        "description": "undistortImage (Matlab Vision method)"
+    },
+    "undistortPoints": {
+        "prefix": "undistortPoints",
+        "body": [
+            "undistortPoints"
+        ],
+        "description": "undistortPoints (Matlab Vision method)"
+    },
+    "vision.AlphaBlender": {
+        "prefix": "vision.AlphaBlender",
+        "body": [
+            "vision.AlphaBlender"
+        ],
+        "description": "vision.AlphaBlender (Matlab Vision method)"
+    },
+    "vision.Autocorrelator": {
+        "prefix": "vision.Autocorrelator",
+        "body": [
+            "vision.Autocorrelator"
+        ],
+        "description": "vision.Autocorrelator (Matlab Vision method)"
+    },
+    "vision.Autothresholder": {
+        "prefix": "vision.Autothresholder",
+        "body": [
+            "vision.Autothresholder"
+        ],
+        "description": "vision.Autothresholder (Matlab Vision method)"
+    },
+    "vision.BinaryFileReader": {
+        "prefix": "vision.BinaryFileReader",
+        "body": [
+            "vision.BinaryFileReader"
+        ],
+        "description": "vision.BinaryFileReader (Matlab Vision method)"
+    },
+    "vision.BinaryFileWriter": {
+        "prefix": "vision.BinaryFileWriter",
+        "body": [
+            "vision.BinaryFileWriter"
+        ],
+        "description": "vision.BinaryFileWriter (Matlab Vision method)"
+    },
+    "vision.BlobAnalysis": {
+        "prefix": "vision.BlobAnalysis",
+        "body": [
+            "vision.BlobAnalysis"
+        ],
+        "description": "vision.BlobAnalysis (Matlab Vision method)"
+    },
+    "vision.BlockMatcher": {
+        "prefix": "vision.BlockMatcher",
+        "body": [
+            "vision.BlockMatcher"
+        ],
+        "description": "vision.BlockMatcher (Matlab Vision method)"
+    },
+    "vision.BoundaryTracer": {
+        "prefix": "vision.BoundaryTracer",
+        "body": [
+            "vision.BoundaryTracer"
+        ],
+        "description": "vision.BoundaryTracer (Matlab Vision method)"
+    },
+    "vision.CascadeObjectDetector": {
+        "prefix": "vision.CascadeObjectDetector",
+        "body": [
+            "vision.CascadeObjectDetector"
+        ],
+        "description": "vision.CascadeObjectDetector (Matlab Vision method)"
+    },
+    "vision.ChromaResampler": {
+        "prefix": "vision.ChromaResampler",
+        "body": [
+            "vision.ChromaResampler"
+        ],
+        "description": "vision.ChromaResampler (Matlab Vision method)"
+    },
+    "vision.ColorSpaceConverter": {
+        "prefix": "vision.ColorSpaceConverter",
+        "body": [
+            "vision.ColorSpaceConverter"
+        ],
+        "description": "vision.ColorSpaceConverter (Matlab Vision method)"
+    },
+    "vision.ConnectedComponentLabeler": {
+        "prefix": "vision.ConnectedComponentLabeler",
+        "body": [
+            "vision.ConnectedComponentLabeler"
+        ],
+        "description": "vision.ConnectedComponentLabeler (Matlab Vision method)"
+    },
+    "vision.ContrastAdjuster": {
+        "prefix": "vision.ContrastAdjuster",
+        "body": [
+            "vision.ContrastAdjuster"
+        ],
+        "description": "vision.ContrastAdjuster (Matlab Vision method)"
+    },
+    "vision.Convolver": {
+        "prefix": "vision.Convolver",
+        "body": [
+            "vision.Convolver"
+        ],
+        "description": "vision.Convolver (Matlab Vision method)"
+    },
+    "vision.Crosscorrelator": {
+        "prefix": "vision.Crosscorrelator",
+        "body": [
+            "vision.Crosscorrelator"
+        ],
+        "description": "vision.Crosscorrelator (Matlab Vision method)"
+    },
+    "vision.DCT": {
+        "prefix": "vision.DCT",
+        "body": [
+            "vision.DCT"
+        ],
+        "description": "vision.DCT (Matlab Vision method)"
+    },
+    "vision.Deinterlacer": {
+        "prefix": "vision.Deinterlacer",
+        "body": [
+            "vision.Deinterlacer"
+        ],
+        "description": "vision.Deinterlacer (Matlab Vision method)"
+    },
+    "vision.DemosaicInterpolator": {
+        "prefix": "vision.DemosaicInterpolator",
+        "body": [
+            "vision.DemosaicInterpolator"
+        ],
+        "description": "vision.DemosaicInterpolator (Matlab Vision method)"
+    },
+    "vision.DeployableVideoPlayer": {
+        "prefix": "vision.DeployableVideoPlayer",
+        "body": [
+            "vision.DeployableVideoPlayer"
+        ],
+        "description": "vision.DeployableVideoPlayer (Matlab Vision method)"
+    },
+    "vision.EdgeDetector": {
+        "prefix": "vision.EdgeDetector",
+        "body": [
+            "vision.EdgeDetector"
+        ],
+        "description": "vision.EdgeDetector (Matlab Vision method)"
+    },
+    "vision.FFT": {
+        "prefix": "vision.FFT",
+        "body": [
+            "vision.FFT"
+        ],
+        "description": "vision.FFT (Matlab Vision method)"
+    },
+    "vision.ForegroundDetector": {
+        "prefix": "vision.ForegroundDetector",
+        "body": [
+            "vision.ForegroundDetector"
+        ],
+        "description": "vision.ForegroundDetector (Matlab Vision method)"
+    },
+    "vision.GammaCorrector": {
+        "prefix": "vision.GammaCorrector",
+        "body": [
+            "vision.GammaCorrector"
+        ],
+        "description": "vision.GammaCorrector (Matlab Vision method)"
+    },
+    "vision.GeometricRotator": {
+        "prefix": "vision.GeometricRotator",
+        "body": [
+            "vision.GeometricRotator"
+        ],
+        "description": "vision.GeometricRotator (Matlab Vision method)"
+    },
+    "vision.GeometricScaler": {
+        "prefix": "vision.GeometricScaler",
+        "body": [
+            "vision.GeometricScaler"
+        ],
+        "description": "vision.GeometricScaler (Matlab Vision method)"
+    },
+    "vision.GeometricShearer": {
+        "prefix": "vision.GeometricShearer",
+        "body": [
+            "vision.GeometricShearer"
+        ],
+        "description": "vision.GeometricShearer (Matlab Vision method)"
+    },
+    "vision.GeometricTransformEstimator": {
+        "prefix": "vision.GeometricTransformEstimator",
+        "body": [
+            "vision.GeometricTransformEstimator"
+        ],
+        "description": "vision.GeometricTransformEstimator (Matlab Vision method)"
+    },
+    "vision.GeometricTransformer": {
+        "prefix": "vision.GeometricTransformer",
+        "body": [
+            "vision.GeometricTransformer"
+        ],
+        "description": "vision.GeometricTransformer (Matlab Vision method)"
+    },
+    "vision.GeometricTranslator": {
+        "prefix": "vision.GeometricTranslator",
+        "body": [
+            "vision.GeometricTranslator"
+        ],
+        "description": "vision.GeometricTranslator (Matlab Vision method)"
+    },
+    "vision.Histogram": {
+        "prefix": "vision.Histogram",
+        "body": [
+            "vision.Histogram"
+        ],
+        "description": "vision.Histogram (Matlab Vision method)"
+    },
+    "vision.HistogramBasedTracker": {
+        "prefix": "vision.HistogramBasedTracker",
+        "body": [
+            "vision.HistogramBasedTracker"
+        ],
+        "description": "vision.HistogramBasedTracker (Matlab Vision method)"
+    },
+    "vision.HistogramEqualizer": {
+        "prefix": "vision.HistogramEqualizer",
+        "body": [
+            "vision.HistogramEqualizer"
+        ],
+        "description": "vision.HistogramEqualizer (Matlab Vision method)"
+    },
+    "vision.HoughLines": {
+        "prefix": "vision.HoughLines",
+        "body": [
+            "vision.HoughLines"
+        ],
+        "description": "vision.HoughLines (Matlab Vision method)"
+    },
+    "vision.HoughTransform": {
+        "prefix": "vision.HoughTransform",
+        "body": [
+            "vision.HoughTransform"
+        ],
+        "description": "vision.HoughTransform (Matlab Vision method)"
+    },
+    "vision.IDCT": {
+        "prefix": "vision.IDCT",
+        "body": [
+            "vision.IDCT"
+        ],
+        "description": "vision.IDCT (Matlab Vision method)"
+    },
+    "vision.IFFT": {
+        "prefix": "vision.IFFT",
+        "body": [
+            "vision.IFFT"
+        ],
+        "description": "vision.IFFT (Matlab Vision method)"
+    },
+    "vision.ImageComplementer": {
+        "prefix": "vision.ImageComplementer",
+        "body": [
+            "vision.ImageComplementer"
+        ],
+        "description": "vision.ImageComplementer (Matlab Vision method)"
+    },
+    "vision.ImageDataTypeConverter": {
+        "prefix": "vision.ImageDataTypeConverter",
+        "body": [
+            "vision.ImageDataTypeConverter"
+        ],
+        "description": "vision.ImageDataTypeConverter (Matlab Vision method)"
+    },
+    "vision.ImageFilter": {
+        "prefix": "vision.ImageFilter",
+        "body": [
+            "vision.ImageFilter"
+        ],
+        "description": "vision.ImageFilter (Matlab Vision method)"
+    },
+    "vision.ImagePadder": {
+        "prefix": "vision.ImagePadder",
+        "body": [
+            "vision.ImagePadder"
+        ],
+        "description": "vision.ImagePadder (Matlab Vision method)"
+    },
+    "vision.KalmanFilter": {
+        "prefix": "vision.KalmanFilter",
+        "body": [
+            "vision.KalmanFilter"
+        ],
+        "description": "vision.KalmanFilter (Matlab Vision method)"
+    },
+    "vision.LocalMaximaFinder": {
+        "prefix": "vision.LocalMaximaFinder",
+        "body": [
+            "vision.LocalMaximaFinder"
+        ],
+        "description": "vision.LocalMaximaFinder (Matlab Vision method)"
+    },
+    "vision.MarkerInserter": {
+        "prefix": "vision.MarkerInserter",
+        "body": [
+            "vision.MarkerInserter"
+        ],
+        "description": "vision.MarkerInserter (Matlab Vision method)"
+    },
+    "vision.Maximum": {
+        "prefix": "vision.Maximum",
+        "body": [
+            "vision.Maximum"
+        ],
+        "description": "vision.Maximum (Matlab Vision method)"
+    },
+    "vision.Mean": {
+        "prefix": "vision.Mean",
+        "body": [
+            "vision.Mean"
+        ],
+        "description": "vision.Mean (Matlab Vision method)"
+    },
+    "vision.Median": {
+        "prefix": "vision.Median",
+        "body": [
+            "vision.Median"
+        ],
+        "description": "vision.Median (Matlab Vision method)"
+    },
+    "vision.MedianFilter": {
+        "prefix": "vision.MedianFilter",
+        "body": [
+            "vision.MedianFilter"
+        ],
+        "description": "vision.MedianFilter (Matlab Vision method)"
+    },
+    "vision.Minimum": {
+        "prefix": "vision.Minimum",
+        "body": [
+            "vision.Minimum"
+        ],
+        "description": "vision.Minimum (Matlab Vision method)"
+    },
+    "vision.MorphologicalBottomHat": {
+        "prefix": "vision.MorphologicalBottomHat",
+        "body": [
+            "vision.MorphologicalBottomHat"
+        ],
+        "description": "vision.MorphologicalBottomHat (Matlab Vision method)"
+    },
+    "vision.MorphologicalClose": {
+        "prefix": "vision.MorphologicalClose",
+        "body": [
+            "vision.MorphologicalClose"
+        ],
+        "description": "vision.MorphologicalClose (Matlab Vision method)"
+    },
+    "vision.MorphologicalDilate": {
+        "prefix": "vision.MorphologicalDilate",
+        "body": [
+            "vision.MorphologicalDilate"
+        ],
+        "description": "vision.MorphologicalDilate (Matlab Vision method)"
+    },
+    "vision.MorphologicalErode": {
+        "prefix": "vision.MorphologicalErode",
+        "body": [
+            "vision.MorphologicalErode"
+        ],
+        "description": "vision.MorphologicalErode (Matlab Vision method)"
+    },
+    "vision.MorphologicalOpen": {
+        "prefix": "vision.MorphologicalOpen",
+        "body": [
+            "vision.MorphologicalOpen"
+        ],
+        "description": "vision.MorphologicalOpen (Matlab Vision method)"
+    },
+    "vision.MorphologicalTopHat": {
+        "prefix": "vision.MorphologicalTopHat",
+        "body": [
+            "vision.MorphologicalTopHat"
+        ],
+        "description": "vision.MorphologicalTopHat (Matlab Vision method)"
+    },
+    "vision.OpticalFlow": {
+        "prefix": "vision.OpticalFlow",
+        "body": [
+            "vision.OpticalFlow"
+        ],
+        "description": "vision.OpticalFlow (Matlab Vision method)"
+    },
+    "vision.PSNR": {
+        "prefix": "vision.PSNR",
+        "body": [
+            "vision.PSNR"
+        ],
+        "description": "vision.PSNR (Matlab Vision method)"
+    },
+    "vision.PeopleDetector": {
+        "prefix": "vision.PeopleDetector",
+        "body": [
+            "vision.PeopleDetector"
+        ],
+        "description": "vision.PeopleDetector (Matlab Vision method)"
+    },
+    "vision.PointTracker": {
+        "prefix": "vision.PointTracker",
+        "body": [
+            "vision.PointTracker"
+        ],
+        "description": "vision.PointTracker (Matlab Vision method)"
+    },
+    "vision.Pyramid": {
+        "prefix": "vision.Pyramid",
+        "body": [
+            "vision.Pyramid"
+        ],
+        "description": "vision.Pyramid (Matlab Vision method)"
+    },
+    "vision.ShapeInserter": {
+        "prefix": "vision.ShapeInserter",
+        "body": [
+            "vision.ShapeInserter"
+        ],
+        "description": "vision.ShapeInserter (Matlab Vision method)"
+    },
+    "vision.StandardDeviation": {
+        "prefix": "vision.StandardDeviation",
+        "body": [
+            "vision.StandardDeviation"
+        ],
+        "description": "vision.StandardDeviation (Matlab Vision method)"
+    },
+    "vision.TemplateMatcher": {
+        "prefix": "vision.TemplateMatcher",
+        "body": [
+            "vision.TemplateMatcher"
+        ],
+        "description": "vision.TemplateMatcher (Matlab Vision method)"
+    },
+    "vision.TextInserter": {
+        "prefix": "vision.TextInserter",
+        "body": [
+            "vision.TextInserter"
+        ],
+        "description": "vision.TextInserter (Matlab Vision method)"
+    },
+    "vision.Variance": {
+        "prefix": "vision.Variance",
+        "body": [
+            "vision.Variance"
+        ],
+        "description": "vision.Variance (Matlab Vision method)"
+    },
+    "vision.VideoFileReader": {
+        "prefix": "vision.VideoFileReader",
+        "body": [
+            "vision.VideoFileReader"
+        ],
+        "description": "vision.VideoFileReader (Matlab Vision method)"
+    },
+    "vision.VideoFileWriter": {
+        "prefix": "vision.VideoFileWriter",
+        "body": [
+            "vision.VideoFileWriter"
+        ],
+        "description": "vision.VideoFileWriter (Matlab Vision method)"
+    },
+    "vision.VideoPlayer": {
+        "prefix": "vision.VideoPlayer",
+        "body": [
+            "vision.VideoPlayer"
+        ],
+        "description": "vision.VideoPlayer (Matlab Vision method)"
+    },
+    "visionSupportPackages": {
+        "prefix": "visionSupportPackages",
+        "body": [
+            "visionSupportPackages"
+        ],
+        "description": "visionSupportPackages (Matlab Vision method)"
+    }
+}

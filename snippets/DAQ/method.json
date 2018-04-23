@@ -1,0 +1,352 @@
+{
+	"addAnalogInputChannel": {
+		"prefix": "addAnalogInputChannel",
+		"body": [
+			"addAnalogInputChannel"
+		],
+		"description": "addAnalogInputChannel (Matlab DAQ method)"
+	},
+	"addAnalogOutputChannel": {
+		"prefix": "addAnalogOutputChannel",
+		"body": [
+			"addAnalogOutputChannel"
+		],
+		"description": "addAnalogOutputChannel (Matlab DAQ method)"
+	},
+	"addAudioInputChannel": {
+		"prefix": "addAudioInputChannel",
+		"body": [
+			"addAudioInputChannel"
+		],
+		"description": "addAudioInputChannel (Matlab DAQ method)"
+	},
+	"addAudioOutputChannel": {
+		"prefix": "addAudioOutputChannel",
+		"body": [
+			"addAudioOutputChannel"
+		],
+		"description": "addAudioOutputChannel (Matlab DAQ method)"
+	},
+	"addClockConnection": {
+		"prefix": "addClockConnection",
+		"body": [
+			"addClockConnection"
+		],
+		"description": "addClockConnection (Matlab DAQ method)"
+	},
+	"addCounterInputChannel": {
+		"prefix": "addCounterInputChannel",
+		"body": [
+			"addCounterInputChannel"
+		],
+		"description": "addCounterInputChannel (Matlab DAQ method)"
+	},
+	"addCounterOutputChannel": {
+		"prefix": "addCounterOutputChannel",
+		"body": [
+			"addCounterOutputChannel"
+		],
+		"description": "addCounterOutputChannel (Matlab DAQ method)"
+	},
+	"addDigitalChannel": {
+		"prefix": "addDigitalChannel",
+		"body": [
+			"addDigitalChannel"
+		],
+		"description": "addDigitalChannel (Matlab DAQ method)"
+	},
+	"addFunctionGeneratorChannel": {
+		"prefix": "addFunctionGeneratorChannel",
+		"body": [
+			"addFunctionGeneratorChannel"
+		],
+		"description": "addFunctionGeneratorChannel (Matlab DAQ method)"
+	},
+	"addTriggerConnection": {
+		"prefix": "addTriggerConnection",
+		"body": [
+			"addTriggerConnection"
+		],
+		"description": "addTriggerConnection (Matlab DAQ method)"
+	},
+	"addchannel": {
+		"prefix": "addchannel",
+		"body": [
+			"addchannel"
+		],
+		"description": "addchannel (Matlab DAQ method)"
+	},
+	"addline": {
+		"prefix": "addline",
+		"body": [
+			"addline"
+		],
+		"description": "addline (Matlab DAQ method)"
+	},
+	"addlistener": {
+		"prefix": "addlistener",
+		"body": [
+			"addlistener"
+		],
+		"description": "addlistener (Matlab DAQ method)"
+	},
+	"addmuxchannel": {
+		"prefix": "addmuxchannel",
+		"body": [
+			"addmuxchannel"
+		],
+		"description": "addmuxchannel (Matlab DAQ method)"
+	},
+	"analoginput": {
+		"prefix": "analoginput",
+		"body": [
+			"analoginput"
+		],
+		"description": "analoginput (Matlab DAQ method)"
+	},
+	"analogoutput": {
+		"prefix": "analogoutput",
+		"body": [
+			"analogoutput"
+		],
+		"description": "analogoutput (Matlab DAQ method)"
+	},
+	"binaryVectorToDecimal": {
+		"prefix": "binaryVectorToDecimal",
+		"body": [
+			"binaryVectorToDecimal"
+		],
+		"description": "binaryVectorToDecimal (Matlab DAQ method)"
+	},
+	"binaryVectorToHex": {
+		"prefix": "binaryVectorToHex",
+		"body": [
+			"binaryVectorToHex"
+		],
+		"description": "binaryVectorToHex (Matlab DAQ method)"
+	},
+	"binvec2dec": {
+		"prefix": "binvec2dec",
+		"body": [
+			"binvec2dec"
+		],
+		"description": "binvec2dec (Matlab DAQ method)"
+	},
+	"daq.createSession": {
+		"prefix": "daq.createSession",
+		"body": [
+			"daq.createSession"
+		],
+		"description": "daq.createSession (Matlab DAQ method)"
+	},
+	"daq.getDevices": {
+		"prefix": "daq.getDevices",
+		"body": [
+			"daq.getDevices"
+		],
+		"description": "daq.getDevices (Matlab DAQ method)"
+	},
+	"daq.getVendors": {
+		"prefix": "daq.getVendors",
+		"body": [
+			"daq.getVendors"
+		],
+		"description": "daq.getVendors (Matlab DAQ method)"
+	},
+	"daqhwinfo": {
+		"prefix": "daqhwinfo",
+		"body": [
+			"daqhwinfo"
+		],
+		"description": "daqhwinfo (Matlab DAQ method)"
+	},
+	"dec2binvec": {
+		"prefix": "dec2binvec",
+		"body": [
+			"dec2binvec"
+		],
+		"description": "dec2binvec (Matlab DAQ method)"
+	},
+	"decimalToBinaryVector": {
+		"prefix": "decimalToBinaryVector",
+		"body": [
+			"decimalToBinaryVector"
+		],
+		"description": "decimalToBinaryVector (Matlab DAQ method)"
+	},
+	"digitalio": {
+		"prefix": "digitalio",
+		"body": [
+			"digitalio"
+		],
+		"description": "digitalio (Matlab DAQ method)"
+	},
+	"flushdata": {
+		"prefix": "flushdata",
+		"body": [
+			"flushdata"
+		],
+		"description": "flushdata (Matlab DAQ method)"
+	},
+	"getdata": {
+		"prefix": "getdata",
+		"body": [
+			"getdata"
+		],
+		"description": "getdata (Matlab DAQ method)"
+	},
+	"getsample": {
+		"prefix": "getsample",
+		"body": [
+			"getsample"
+		],
+		"description": "getsample (Matlab DAQ method)"
+	},
+	"hexToBinaryVector": {
+		"prefix": "hexToBinaryVector",
+		"body": [
+			"hexToBinaryVector"
+		],
+		"description": "hexToBinaryVector (Matlab DAQ method)"
+	},
+	"inputSingleScan": {
+		"prefix": "inputSingleScan",
+		"body": [
+			"inputSingleScan"
+		],
+		"description": "inputSingleScan (Matlab DAQ method)"
+	},
+	"isdioline": {
+		"prefix": "isdioline",
+		"body": [
+			"isdioline"
+		],
+		"description": "isdioline (Matlab DAQ method)"
+	},
+	"islogging": {
+		"prefix": "islogging",
+		"body": [
+			"islogging"
+		],
+		"description": "islogging (Matlab DAQ method)"
+	},
+	"issending": {
+		"prefix": "issending",
+		"body": [
+			"issending"
+		],
+		"description": "issending (Matlab DAQ method)"
+	},
+	"outputSingleScan": {
+		"prefix": "outputSingleScan",
+		"body": [
+			"outputSingleScan"
+		],
+		"description": "outputSingleScan (Matlab DAQ method)"
+	},
+	"peekdata": {
+		"prefix": "peekdata",
+		"body": [
+			"peekdata"
+		],
+		"description": "peekdata (Matlab DAQ method)"
+	},
+	"putdata": {
+		"prefix": "putdata",
+		"body": [
+			"putdata"
+		],
+		"description": "putdata (Matlab DAQ method)"
+	},
+	"putsample": {
+		"prefix": "putsample",
+		"body": [
+			"putsample"
+		],
+		"description": "putsample (Matlab DAQ method)"
+	},
+	"putvalue": {
+		"prefix": "putvalue",
+		"body": [
+			"putvalue"
+		],
+		"description": "putvalue (Matlab DAQ method)"
+	},
+	"queueOutputData": {
+		"prefix": "queueOutputData",
+		"body": [
+			"queueOutputData"
+		],
+		"description": "queueOutputData (Matlab DAQ method)"
+	},
+	"removeChannel": {
+		"prefix": "removeChannel",
+		"body": [
+			"removeChannel"
+		],
+		"description": "removeChannel (Matlab DAQ method)"
+	},
+	"removeConnection": {
+		"prefix": "removeConnection",
+		"body": [
+			"removeConnection"
+		],
+		"description": "removeConnection (Matlab DAQ method)"
+	},
+	"resetCounters": {
+		"prefix": "resetCounters",
+		"body": [
+			"resetCounters"
+		],
+		"description": "resetCounters (Matlab DAQ method)"
+	},
+	"softscope": {
+		"prefix": "softscope",
+		"body": [
+			"softscope"
+		],
+		"description": "softscope (Matlab DAQ method)"
+	},
+	"start": {
+		"prefix": "start",
+		"body": [
+			"start"
+		],
+		"description": "start (Matlab DAQ method)"
+	},
+	"startBackground": {
+		"prefix": "startBackground",
+		"body": [
+			"startBackground"
+		],
+		"description": "startBackground (Matlab DAQ method)"
+	},
+	"startForeground": {
+		"prefix": "startForeground",
+		"body": [
+			"startForeground"
+		],
+		"description": "startForeground (Matlab DAQ method)"
+	},
+	"stop": {
+		"prefix": "stop",
+		"body": [
+			"stop"
+		],
+		"description": "stop (Matlab DAQ method)"
+	},
+	"trigger": {
+		"prefix": "trigger",
+		"body": [
+			"trigger"
+		],
+		"description": "trigger (Matlab DAQ method)"
+	},
+	"wait": {
+		"prefix": "wait",
+		"body": [
+			"wait"
+		],
+		"description": "wait (Matlab DAQ method)"
+	}
+}

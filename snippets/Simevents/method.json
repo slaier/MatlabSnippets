@@ -1,0 +1,359 @@
+{
+    "continueFcn": {
+        "prefix": "continueFcn",
+        "body": [
+            "continueFcn"
+        ],
+        "description": "continueFcn (Matlab Simevents method)"
+    },
+    "entityAdvance": {
+        "prefix": "entityAdvance",
+        "body": [
+            "entityAdvance"
+        ],
+        "description": "entityAdvance (Matlab Simevents method)"
+    },
+    "entityCombine": {
+        "prefix": "entityCombine",
+        "body": [
+            "entityCombine"
+        ],
+        "description": "entityCombine (Matlab Simevents method)"
+    },
+    "entityDestroy": {
+        "prefix": "entityDestroy",
+        "body": [
+            "entityDestroy"
+        ],
+        "description": "entityDestroy (Matlab Simevents method)"
+    },
+    "entityGenerate": {
+        "prefix": "entityGenerate",
+        "body": [
+            "entityGenerate"
+        ],
+        "description": "entityGenerate (Matlab Simevents method)"
+    },
+    "entityQueue": {
+        "prefix": "entityQueue",
+        "body": [
+            "entityQueue"
+        ],
+        "description": "entityQueue (Matlab Simevents method)"
+    },
+    "entityReplicate": {
+        "prefix": "entityReplicate",
+        "body": [
+            "entityReplicate"
+        ],
+        "description": "entityReplicate (Matlab Simevents method)"
+    },
+    "entitySplit": {
+        "prefix": "entitySplit",
+        "body": [
+            "entitySplit"
+        ],
+        "description": "entitySplit (Matlab Simevents method)"
+    },
+    "eventCancel": {
+        "prefix": "eventCancel",
+        "body": [
+            "eventCancel"
+        ],
+        "description": "eventCancel (Matlab Simevents method)"
+    },
+    "eventExecute": {
+        "prefix": "eventExecute",
+        "body": [
+            "eventExecute"
+        ],
+        "description": "eventExecute (Matlab Simevents method)"
+    },
+    "eventSchedule": {
+        "prefix": "eventSchedule",
+        "body": [
+            "eventSchedule"
+        ],
+        "description": "eventSchedule (Matlab Simevents method)"
+    },
+    "getBlocksToObserve": {
+        "prefix": "getBlocksToObserve",
+        "body": [
+            "getBlocksToObserve"
+        ],
+        "description": "getBlocksToObserve (Matlab Simevents method)"
+    },
+    "getPace": {
+        "prefix": "getPace",
+        "body": [
+            "getPace"
+        ],
+        "description": "getPace (Matlab Simevents method)"
+    },
+    "initialize": {
+        "prefix": "initialize",
+        "body": [
+            "initialize"
+        ],
+        "description": "initialize (Matlab Simevents method)"
+    },
+    "pauseFcn": {
+        "prefix": "pauseFcn",
+        "body": [
+            "pauseFcn"
+        ],
+        "description": "pauseFcn (Matlab Simevents method)"
+    },
+    "se_getdbopts": {
+        "prefix": "se_getdbopts",
+        "body": [
+            "se_getdbopts"
+        ],
+        "description": "se_getdbopts (Matlab Simevents method)"
+    },
+    "se_getseeds": {
+        "prefix": "se_getseeds",
+        "body": [
+            "se_getseeds"
+        ],
+        "description": "se_getseeds (Matlab Simevents method)"
+    },
+    "se_randomizeseeds": {
+        "prefix": "se_randomizeseeds",
+        "body": [
+            "se_randomizeseeds"
+        ],
+        "description": "se_randomizeseeds (Matlab Simevents method)"
+    },
+    "se_setseeds": {
+        "prefix": "se_setseeds",
+        "body": [
+            "se_setseeds"
+        ],
+        "description": "se_setseeds (Matlab Simevents method)"
+    },
+    "sedb.animate": {
+        "prefix": "sedb.animate",
+        "body": [
+            "sedb.animate"
+        ],
+        "description": "sedb.animate (Matlab Simevents method)"
+    },
+    "sedb.bdelete": {
+        "prefix": "sedb.bdelete",
+        "body": [
+            "sedb.bdelete"
+        ],
+        "description": "sedb.bdelete (Matlab Simevents method)"
+    },
+    "sedb.blkbreak": {
+        "prefix": "sedb.blkbreak",
+        "body": [
+            "sedb.blkbreak"
+        ],
+        "description": "sedb.blkbreak (Matlab Simevents method)"
+    },
+    "sedb.blkinfo": {
+        "prefix": "sedb.blkinfo",
+        "body": [
+            "sedb.blkinfo"
+        ],
+        "description": "sedb.blkinfo (Matlab Simevents method)"
+    },
+    "sedb.blklist": {
+        "prefix": "sedb.blklist",
+        "body": [
+            "sedb.blklist"
+        ],
+        "description": "sedb.blklist (Matlab Simevents method)"
+    },
+    "sedb.breakpoints": {
+        "prefix": "sedb.breakpoints",
+        "body": [
+            "sedb.breakpoints"
+        ],
+        "description": "sedb.breakpoints (Matlab Simevents method)"
+    },
+    "sedb.cont": {
+        "prefix": "sedb.cont",
+        "body": [
+            "sedb.cont"
+        ],
+        "description": "sedb.cont (Matlab Simevents method)"
+    },
+    "sedb.currentop": {
+        "prefix": "sedb.currentop",
+        "body": [
+            "sedb.currentop"
+        ],
+        "description": "sedb.currentop (Matlab Simevents method)"
+    },
+    "sedb.detail": {
+        "prefix": "sedb.detail",
+        "body": [
+            "sedb.detail"
+        ],
+        "description": "sedb.detail (Matlab Simevents method)"
+    },
+    "sedb.disable": {
+        "prefix": "sedb.disable",
+        "body": [
+            "sedb.disable"
+        ],
+        "description": "sedb.disable (Matlab Simevents method)"
+    },
+    "sedb.enable": {
+        "prefix": "sedb.enable",
+        "body": [
+            "sedb.enable"
+        ],
+        "description": "sedb.enable (Matlab Simevents method)"
+    },
+    "sedb.enbreak": {
+        "prefix": "sedb.enbreak",
+        "body": [
+            "sedb.enbreak"
+        ],
+        "description": "sedb.enbreak (Matlab Simevents method)"
+    },
+    "sedb.eninfo": {
+        "prefix": "sedb.eninfo",
+        "body": [
+            "sedb.eninfo"
+        ],
+        "description": "sedb.eninfo (Matlab Simevents method)"
+    },
+    "sedb.evbreak": {
+        "prefix": "sedb.evbreak",
+        "body": [
+            "sedb.evbreak"
+        ],
+        "description": "sedb.evbreak (Matlab Simevents method)"
+    },
+    "sedb.evcal": {
+        "prefix": "sedb.evcal",
+        "body": [
+            "sedb.evcal"
+        ],
+        "description": "sedb.evcal (Matlab Simevents method)"
+    },
+    "sedb.evinfo": {
+        "prefix": "sedb.evinfo",
+        "body": [
+            "sedb.evinfo"
+        ],
+        "description": "sedb.evinfo (Matlab Simevents method)"
+    },
+    "sedb.gceb": {
+        "prefix": "sedb.gceb",
+        "body": [
+            "sedb.gceb"
+        ],
+        "description": "sedb.gceb (Matlab Simevents method)"
+    },
+    "sedb.gcebid": {
+        "prefix": "sedb.gcebid",
+        "body": [
+            "sedb.gcebid"
+        ],
+        "description": "sedb.gcebid (Matlab Simevents method)"
+    },
+    "sedb.gcen": {
+        "prefix": "sedb.gcen",
+        "body": [
+            "sedb.gcen"
+        ],
+        "description": "sedb.gcen (Matlab Simevents method)"
+    },
+    "sedb.gcev": {
+        "prefix": "sedb.gcev",
+        "body": [
+            "sedb.gcev"
+        ],
+        "description": "sedb.gcev (Matlab Simevents method)"
+    },
+    "sedb.quit": {
+        "prefix": "sedb.quit",
+        "body": [
+            "sedb.quit"
+        ],
+        "description": "sedb.quit (Matlab Simevents method)"
+    },
+    "sedb.runtoend": {
+        "prefix": "sedb.runtoend",
+        "body": [
+            "sedb.runtoend"
+        ],
+        "description": "sedb.runtoend (Matlab Simevents method)"
+    },
+    "sedb.simtime": {
+        "prefix": "sedb.simtime",
+        "body": [
+            "sedb.simtime"
+        ],
+        "description": "sedb.simtime (Matlab Simevents method)"
+    },
+    "sedb.step": {
+        "prefix": "sedb.step",
+        "body": [
+            "sedb.step"
+        ],
+        "description": "sedb.step (Matlab Simevents method)"
+    },
+    "sedb.tbreak": {
+        "prefix": "sedb.tbreak",
+        "body": [
+            "sedb.tbreak"
+        ],
+        "description": "sedb.tbreak (Matlab Simevents method)"
+    },
+    "sedebug": {
+        "prefix": "sedebug",
+        "body": [
+            "sedebug"
+        ],
+        "description": "sedebug (Matlab Simevents method)"
+    },
+    "simevents": {
+        "prefix": "simevents",
+        "body": [
+            "simevents"
+        ],
+        "description": "simevents (Matlab Simevents method)"
+    },
+    "simevents.CustomObserverInterface": {
+        "prefix": "simevents.CustomObserverInterface",
+        "body": [
+            "simevents.CustomObserverInterface"
+        ],
+        "description": "simevents.CustomObserverInterface (Matlab Simevents method)"
+    },
+    "simevents.connectObserver": {
+        "prefix": "simevents.connectObserver",
+        "body": [
+            "simevents.connectObserver"
+        ],
+        "description": "simevents.connectObserver (Matlab Simevents method)"
+    },
+    "simevents.disconnectObserver": {
+        "prefix": "simevents.disconnectObserver",
+        "body": [
+            "simevents.disconnectObserver"
+        ],
+        "description": "simevents.disconnectObserver (Matlab Simevents method)"
+    },
+    "simeventslib": {
+        "prefix": "simeventslib",
+        "body": [
+            "simeventslib"
+        ],
+        "description": "simeventslib (Matlab Simevents method)"
+    },
+    "terminate": {
+        "prefix": "terminate",
+        "body": [
+            "terminate"
+        ],
+        "description": "terminate (Matlab Simevents method)"
+    }
+}

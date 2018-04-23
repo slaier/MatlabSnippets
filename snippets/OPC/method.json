@@ -1,0 +1,492 @@
+{
+    "addgroup": {
+        "prefix": "addgroup",
+        "body": [
+            "addgroup"
+        ],
+        "description": "addgroup (Matlab OPC method)"
+    },
+    "additem": {
+        "prefix": "additem",
+        "body": [
+            "additem"
+        ],
+        "description": "additem (Matlab OPC method)"
+    },
+    "arrayHasSameTimeStamp": {
+        "prefix": "arrayHasSameTimeStamp",
+        "body": [
+            "arrayHasSameTimeStamp"
+        ],
+        "description": "arrayHasSameTimeStamp (Matlab OPC method)"
+    },
+    "browsenamespace": {
+        "prefix": "browsenamespace",
+        "body": [
+            "browsenamespace"
+        ],
+        "description": "browsenamespace (Matlab OPC method)"
+    },
+    "cancelasync": {
+        "prefix": "cancelasync",
+        "body": [
+            "cancelasync"
+        ],
+        "description": "cancelasync (Matlab OPC method)"
+    },
+    "cleareventlog": {
+        "prefix": "cleareventlog",
+        "body": [
+            "cleareventlog"
+        ],
+        "description": "cleareventlog (Matlab OPC method)"
+    },
+    "clonegroup": {
+        "prefix": "clonegroup",
+        "body": [
+            "clonegroup"
+        ],
+        "description": "clonegroup (Matlab OPC method)"
+    },
+    "connect": {
+        "prefix": "connect",
+        "body": [
+            "connect"
+        ],
+        "description": "connect (Matlab OPC method)"
+    },
+    "disconnect": {
+        "prefix": "disconnect",
+        "body": [
+            "disconnect"
+        ],
+        "description": "disconnect (Matlab OPC method)"
+    },
+    "findNodeById": {
+        "prefix": "findNodeById",
+        "body": [
+            "findNodeById"
+        ],
+        "description": "findNodeById (Matlab OPC method)"
+    },
+    "flatnamespace": {
+        "prefix": "flatnamespace",
+        "body": [
+            "flatnamespace"
+        ],
+        "description": "flatnamespace (Matlab OPC method)"
+    },
+    "genslread": {
+        "prefix": "genslread",
+        "body": [
+            "genslread"
+        ],
+        "description": "genslread (Matlab OPC method)"
+    },
+    "genslwrite": {
+        "prefix": "genslwrite",
+        "body": [
+            "genslwrite"
+        ],
+        "description": "genslwrite (Matlab OPC method)"
+    },
+    "getDescription": {
+        "prefix": "getDescription",
+        "body": [
+            "getDescription"
+        ],
+        "description": "getDescription (Matlab OPC method)"
+    },
+    "getIDFromname": {
+        "prefix": "getIDFromname",
+        "body": [
+            "getIDFromname"
+        ],
+        "description": "getIDFromname (Matlab OPC method)"
+    },
+    "getIDList": {
+        "prefix": "getIDList",
+        "body": [
+            "getIDList"
+        ],
+        "description": "getIDList (Matlab OPC method)"
+    },
+    "getIndexFromID": {
+        "prefix": "getIndexFromID",
+        "body": [
+            "getIndexFromID"
+        ],
+        "description": "getIndexFromID (Matlab OPC method)"
+    },
+    "getNameList": {
+        "prefix": "getNameList",
+        "body": [
+            "getNameList"
+        ],
+        "description": "getNameList (Matlab OPC method)"
+    },
+    "getNameSpace": {
+        "prefix": "getNameSpace",
+        "body": [
+            "getNameSpace"
+        ],
+        "description": "getNameSpace (Matlab OPC method)"
+    },
+    "getNamespace": {
+        "prefix": "getNamespace",
+        "body": [
+            "getNamespace"
+        ],
+        "description": "getNamespace (Matlab OPC method)"
+    },
+    "getnamespace": {
+        "prefix": "getnamespace",
+        "body": [
+            "getnamespace"
+        ],
+        "description": "getnamespace (Matlab OPC method)"
+    },
+    "isConnected": {
+        "prefix": "isConnected",
+        "body": [
+            "isConnected"
+        ],
+        "description": "isConnected (Matlab OPC method)"
+    },
+    "isObjectType": {
+        "prefix": "isObjectType",
+        "body": [
+            "isObjectType"
+        ],
+        "description": "isObjectType (Matlab OPC method)"
+    },
+    "makepublic": {
+        "prefix": "makepublic",
+        "body": [
+            "makepublic"
+        ],
+        "description": "makepublic (Matlab OPC method)"
+    },
+    "opc.daQualityString": {
+        "prefix": "opc.daQualityString",
+        "body": [
+            "opc.daQualityString"
+        ],
+        "description": "opc.daQualityString (Matlab OPC method)"
+    },
+    "opc.daSupport": {
+        "prefix": "opc.daSupport",
+        "body": [
+            "opc.daSupport"
+        ],
+        "description": "opc.daSupport (Matlab OPC method)"
+    },
+    "opc.getDateDisplayFormat": {
+        "prefix": "opc.getDateDisplayFormat",
+        "body": [
+            "opc.getDateDisplayFormat"
+        ],
+        "description": "opc.getDateDisplayFormat (Matlab OPC method)"
+    },
+    "opc.hda.Client": {
+        "prefix": "opc.hda.Client",
+        "body": [
+            "opc.hda.Client"
+        ],
+        "description": "opc.hda.Client (Matlab OPC method)"
+    },
+    "opc.hda.getServerInfo": {
+        "prefix": "opc.hda.getServerInfo",
+        "body": [
+            "opc.hda.getServerInfo"
+        ],
+        "description": "opc.hda.getServerInfo (Matlab OPC method)"
+    },
+    "opc.hda.reset": {
+        "prefix": "opc.hda.reset",
+        "body": [
+            "opc.hda.reset"
+        ],
+        "description": "opc.hda.reset (Matlab OPC method)"
+    },
+    "opc.hdaQualityString": {
+        "prefix": "opc.hdaQualityString",
+        "body": [
+            "opc.hdaQualityString"
+        ],
+        "description": "opc.hdaQualityString (Matlab OPC method)"
+    },
+    "opc.hdaSupport": {
+        "prefix": "opc.hdaSupport",
+        "body": [
+            "opc.hdaSupport"
+        ],
+        "description": "opc.hdaSupport (Matlab OPC method)"
+    },
+    "opc.setDateDisplayFormat": {
+        "prefix": "opc.setDateDisplayFormat",
+        "body": [
+            "opc.setDateDisplayFormat"
+        ],
+        "description": "opc.setDateDisplayFormat (Matlab OPC method)"
+    },
+    "opcDataAccessExplorer": {
+        "prefix": "opcDataAccessExplorer",
+        "body": [
+            "opcDataAccessExplorer"
+        ],
+        "description": "opcDataAccessExplorer (Matlab OPC method)"
+    },
+    "opccallback": {
+        "prefix": "opccallback",
+        "body": [
+            "opccallback"
+        ],
+        "description": "opccallback (Matlab OPC method)"
+    },
+    "opcda": {
+        "prefix": "opcda",
+        "body": [
+            "opcda"
+        ],
+        "description": "opcda (Matlab OPC method)"
+    },
+    "opcfind": {
+        "prefix": "opcfind",
+        "body": [
+            "opcfind"
+        ],
+        "description": "opcfind (Matlab OPC method)"
+    },
+    "opchda": {
+        "prefix": "opchda",
+        "body": [
+            "opchda"
+        ],
+        "description": "opchda (Matlab OPC method)"
+    },
+    "opchdaserverinfo": {
+        "prefix": "opchdaserverinfo",
+        "body": [
+            "opchdaserverinfo"
+        ],
+        "description": "opchdaserverinfo (Matlab OPC method)"
+    },
+    "opchelp": {
+        "prefix": "opchelp",
+        "body": [
+            "opchelp"
+        ],
+        "description": "opchelp (Matlab OPC method)"
+    },
+    "opcqid": {
+        "prefix": "opcqid",
+        "body": [
+            "opcqid"
+        ],
+        "description": "opcqid (Matlab OPC method)"
+    },
+    "opcqparts": {
+        "prefix": "opcqparts",
+        "body": [
+            "opcqparts"
+        ],
+        "description": "opcqparts (Matlab OPC method)"
+    },
+    "opcqstr": {
+        "prefix": "opcqstr",
+        "body": [
+            "opcqstr"
+        ],
+        "description": "opcqstr (Matlab OPC method)"
+    },
+    "opcread": {
+        "prefix": "opcread",
+        "body": [
+            "opcread"
+        ],
+        "description": "opcread (Matlab OPC method)"
+    },
+    "opcregister": {
+        "prefix": "opcregister",
+        "body": [
+            "opcregister"
+        ],
+        "description": "opcregister (Matlab OPC method)"
+    },
+    "opcreset": {
+        "prefix": "opcreset",
+        "body": [
+            "opcreset"
+        ],
+        "description": "opcreset (Matlab OPC method)"
+    },
+    "opcserverinfo": {
+        "prefix": "opcserverinfo",
+        "body": [
+            "opcserverinfo"
+        ],
+        "description": "opcserverinfo (Matlab OPC method)"
+    },
+    "opcstruct2array": {
+        "prefix": "opcstruct2array",
+        "body": [
+            "opcstruct2array"
+        ],
+        "description": "opcstruct2array (Matlab OPC method)"
+    },
+    "opcstruct2timeseries": {
+        "prefix": "opcstruct2timeseries",
+        "body": [
+            "opcstruct2timeseries"
+        ],
+        "description": "opcstruct2timeseries (Matlab OPC method)"
+    },
+    "opcsupport": {
+        "prefix": "opcsupport",
+        "body": [
+            "opcsupport"
+        ],
+        "description": "opcsupport (Matlab OPC method)"
+    },
+    "opcua": {
+        "prefix": "opcua",
+        "body": [
+            "opcua"
+        ],
+        "description": "opcua (Matlab OPC method)"
+    },
+    "opcuanode": {
+        "prefix": "opcuanode",
+        "body": [
+            "opcuanode"
+        ],
+        "description": "opcuanode (Matlab OPC method)"
+    },
+    "openosf": {
+        "prefix": "openosf",
+        "body": [
+            "openosf"
+        ],
+        "description": "openosf (Matlab OPC method)"
+    },
+    "readAtTime": {
+        "prefix": "readAtTime",
+        "body": [
+            "readAtTime"
+        ],
+        "description": "readAtTime (Matlab OPC method)"
+    },
+    "readHistory": {
+        "prefix": "readHistory",
+        "body": [
+            "readHistory"
+        ],
+        "description": "readHistory (Matlab OPC method)"
+    },
+    "readItemAttributes": {
+        "prefix": "readItemAttributes",
+        "body": [
+            "readItemAttributes"
+        ],
+        "description": "readItemAttributes (Matlab OPC method)"
+    },
+    "readModified": {
+        "prefix": "readModified",
+        "body": [
+            "readModified"
+        ],
+        "description": "readModified (Matlab OPC method)"
+    },
+    "readProcessed": {
+        "prefix": "readProcessed",
+        "body": [
+            "readProcessed"
+        ],
+        "description": "readProcessed (Matlab OPC method)"
+    },
+    "readRaw": {
+        "prefix": "readRaw",
+        "body": [
+            "readRaw"
+        ],
+        "description": "readRaw (Matlab OPC method)"
+    },
+    "readValue": {
+        "prefix": "readValue",
+        "body": [
+            "readValue"
+        ],
+        "description": "readValue (Matlab OPC method)"
+    },
+    "removepublicgroup": {
+        "prefix": "removepublicgroup",
+        "body": [
+            "removepublicgroup"
+        ],
+        "description": "removepublicgroup (Matlab OPC method)"
+    },
+    "serveritemprops": {
+        "prefix": "serveritemprops",
+        "body": [
+            "serveritemprops"
+        ],
+        "description": "serveritemprops (Matlab OPC method)"
+    },
+    "serveritems": {
+        "prefix": "serveritems",
+        "body": [
+            "serveritems"
+        ],
+        "description": "serveritems (Matlab OPC method)"
+    },
+    "showValues": {
+        "prefix": "showValues",
+        "body": [
+            "showValues"
+        ],
+        "description": "showValues (Matlab OPC method)"
+    },
+    "showopcevents": {
+        "prefix": "showopcevents",
+        "body": [
+            "showopcevents"
+        ],
+        "description": "showopcevents (Matlab OPC method)"
+    },
+    "trend": {
+        "prefix": "trend",
+        "body": [
+            "trend"
+        ],
+        "description": "trend (Matlab OPC method)"
+    },
+    "tsintersect": {
+        "prefix": "tsintersect",
+        "body": [
+            "tsintersect"
+        ],
+        "description": "tsintersect (Matlab OPC method)"
+    },
+    "tsunion": {
+        "prefix": "tsunion",
+        "body": [
+            "tsunion"
+        ],
+        "description": "tsunion (Matlab OPC method)"
+    },
+    "writeValue": {
+        "prefix": "writeValue",
+        "body": [
+            "writeValue"
+        ],
+        "description": "writeValue (Matlab OPC method)"
+    },
+    "writeasync": {
+        "prefix": "writeasync",
+        "body": [
+            "writeasync"
+        ],
+        "description": "writeasync (Matlab OPC method)"
+    }
+}

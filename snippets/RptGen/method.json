@@ -1,0 +1,555 @@
+{
+    "compwiz": {
+        "prefix": "compwiz",
+        "body": [
+            "compwiz"
+        ],
+        "description": "compwiz (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.Container.append": {
+        "prefix": "mlreportgen.dom.Container.append",
+        "body": [
+            "mlreportgen.dom.Container.append"
+        ],
+        "description": "mlreportgen.dom.Container.append (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.Container.clone": {
+        "prefix": "mlreportgen.dom.Container.clone",
+        "body": [
+            "mlreportgen.dom.Container.clone"
+        ],
+        "description": "mlreportgen.dom.Container.clone (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.CustomElement.append": {
+        "prefix": "mlreportgen.dom.CustomElement.append",
+        "body": [
+            "mlreportgen.dom.CustomElement.append"
+        ],
+        "description": "mlreportgen.dom.CustomElement.append (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.Document.addHTML": {
+        "prefix": "mlreportgen.dom.Document.addHTML",
+        "body": [
+            "mlreportgen.dom.Document.addHTML"
+        ],
+        "description": "mlreportgen.dom.Document.addHTML (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.Document.addHTMLFile": {
+        "prefix": "mlreportgen.dom.Document.addHTMLFile",
+        "body": [
+            "mlreportgen.dom.Document.addHTMLFile"
+        ],
+        "description": "mlreportgen.dom.Document.addHTMLFile (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.Document.append": {
+        "prefix": "mlreportgen.dom.Document.append",
+        "body": [
+            "mlreportgen.dom.Document.append"
+        ],
+        "description": "mlreportgen.dom.Document.append (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.Document.close": {
+        "prefix": "mlreportgen.dom.Document.close",
+        "body": [
+            "mlreportgen.dom.Document.close"
+        ],
+        "description": "mlreportgen.dom.Document.close (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.Document.createAutoNumberStream": {
+        "prefix": "mlreportgen.dom.Document.createAutoNumberStream",
+        "body": [
+            "mlreportgen.dom.Document.createAutoNumberStream"
+        ],
+        "description": "mlreportgen.dom.Document.createAutoNumberStream (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.Document.createTemplate": {
+        "prefix": "mlreportgen.dom.Document.createTemplate",
+        "body": [
+            "mlreportgen.dom.Document.createTemplate"
+        ],
+        "description": "mlreportgen.dom.Document.createTemplate (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.Document.fill": {
+        "prefix": "mlreportgen.dom.Document.fill",
+        "body": [
+            "mlreportgen.dom.Document.fill"
+        ],
+        "description": "mlreportgen.dom.Document.fill (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.Document.getAutoNumberStream": {
+        "prefix": "mlreportgen.dom.Document.getAutoNumberStream",
+        "body": [
+            "mlreportgen.dom.Document.getAutoNumberStream"
+        ],
+        "description": "mlreportgen.dom.Document.getAutoNumberStream (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.Document.getCoreProperties": {
+        "prefix": "mlreportgen.dom.Document.getCoreProperties",
+        "body": [
+            "mlreportgen.dom.Document.getCoreProperties"
+        ],
+        "description": "mlreportgen.dom.Document.getCoreProperties (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.Document.getImageDirectory": {
+        "prefix": "mlreportgen.dom.Document.getImageDirectory",
+        "body": [
+            "mlreportgen.dom.Document.getImageDirectory"
+        ],
+        "description": "mlreportgen.dom.Document.getImageDirectory (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.Document.getImagePrefix": {
+        "prefix": "mlreportgen.dom.Document.getImagePrefix",
+        "body": [
+            "mlreportgen.dom.Document.getImagePrefix"
+        ],
+        "description": "mlreportgen.dom.Document.getImagePrefix (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.Document.getMainPartPath": {
+        "prefix": "mlreportgen.dom.Document.getMainPartPath",
+        "body": [
+            "mlreportgen.dom.Document.getMainPartPath"
+        ],
+        "description": "mlreportgen.dom.Document.getMainPartPath (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.Document.getOPCMainPart": {
+        "prefix": "mlreportgen.dom.Document.getOPCMainPart",
+        "body": [
+            "mlreportgen.dom.Document.getOPCMainPart"
+        ],
+        "description": "mlreportgen.dom.Document.getOPCMainPart (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.Document.moveToNextHole": {
+        "prefix": "mlreportgen.dom.Document.moveToNextHole",
+        "body": [
+            "mlreportgen.dom.Document.moveToNextHole"
+        ],
+        "description": "mlreportgen.dom.Document.moveToNextHole (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.Document.open": {
+        "prefix": "mlreportgen.dom.Document.open",
+        "body": [
+            "mlreportgen.dom.Document.open"
+        ],
+        "description": "mlreportgen.dom.Document.open (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.Document.package": {
+        "prefix": "mlreportgen.dom.Document.package",
+        "body": [
+            "mlreportgen.dom.Document.package"
+        ],
+        "description": "mlreportgen.dom.Document.package (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.Document.setCoreProperties": {
+        "prefix": "mlreportgen.dom.Document.setCoreProperties",
+        "body": [
+            "mlreportgen.dom.Document.setCoreProperties"
+        ],
+        "description": "mlreportgen.dom.Document.setCoreProperties (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.ExternalLink.append": {
+        "prefix": "mlreportgen.dom.ExternalLink.append",
+        "body": [
+            "mlreportgen.dom.ExternalLink.append"
+        ],
+        "description": "mlreportgen.dom.ExternalLink.append (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.FormalTable.appendFooterRow": {
+        "prefix": "mlreportgen.dom.FormalTable.appendFooterRow",
+        "body": [
+            "mlreportgen.dom.FormalTable.appendFooterRow"
+        ],
+        "description": "mlreportgen.dom.FormalTable.appendFooterRow (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.FormalTable.appendHeaderRow": {
+        "prefix": "mlreportgen.dom.FormalTable.appendHeaderRow",
+        "body": [
+            "mlreportgen.dom.FormalTable.appendHeaderRow"
+        ],
+        "description": "mlreportgen.dom.FormalTable.appendHeaderRow (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.Group.append": {
+        "prefix": "mlreportgen.dom.Group.append",
+        "body": [
+            "mlreportgen.dom.Group.append"
+        ],
+        "description": "mlreportgen.dom.Group.append (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.HTML.append": {
+        "prefix": "mlreportgen.dom.HTML.append",
+        "body": [
+            "mlreportgen.dom.HTML.append"
+        ],
+        "description": "mlreportgen.dom.HTML.append (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.HTML.clone": {
+        "prefix": "mlreportgen.dom.HTML.clone",
+        "body": [
+            "mlreportgen.dom.HTML.clone"
+        ],
+        "description": "mlreportgen.dom.HTML.clone (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.HTMLFile.append": {
+        "prefix": "mlreportgen.dom.HTMLFile.append",
+        "body": [
+            "mlreportgen.dom.HTMLFile.append"
+        ],
+        "description": "mlreportgen.dom.HTMLFile.append (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.LinkTarget.append": {
+        "prefix": "mlreportgen.dom.LinkTarget.append",
+        "body": [
+            "mlreportgen.dom.LinkTarget.append"
+        ],
+        "description": "mlreportgen.dom.LinkTarget.append (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.MessageDispatcher.dispatch": {
+        "prefix": "mlreportgen.dom.MessageDispatcher.dispatch",
+        "body": [
+            "mlreportgen.dom.MessageDispatcher.dispatch"
+        ],
+        "description": "mlreportgen.dom.MessageDispatcher.dispatch (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.MessageDispatcher.getTheDispatcher": {
+        "prefix": "mlreportgen.dom.MessageDispatcher.getTheDispatcher",
+        "body": [
+            "mlreportgen.dom.MessageDispatcher.getTheDispatcher"
+        ],
+        "description": "mlreportgen.dom.MessageDispatcher.getTheDispatcher (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.OrderedList.append": {
+        "prefix": "mlreportgen.dom.OrderedList.append",
+        "body": [
+            "mlreportgen.dom.OrderedList.append"
+        ],
+        "description": "mlreportgen.dom.OrderedList.append (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.Paragraph.append": {
+        "prefix": "mlreportgen.dom.Paragraph.append",
+        "body": [
+            "mlreportgen.dom.Paragraph.append"
+        ],
+        "description": "mlreportgen.dom.Paragraph.append (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.Paragraph.clone": {
+        "prefix": "mlreportgen.dom.Paragraph.clone",
+        "body": [
+            "mlreportgen.dom.Paragraph.clone"
+        ],
+        "description": "mlreportgen.dom.Paragraph.clone (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.ProgressMessage.formatAsHTML": {
+        "prefix": "mlreportgen.dom.ProgressMessage.formatAsHTML",
+        "body": [
+            "mlreportgen.dom.ProgressMessage.formatAsHTML"
+        ],
+        "description": "mlreportgen.dom.ProgressMessage.formatAsHTML (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.ProgressMessage.formatAsText": {
+        "prefix": "mlreportgen.dom.ProgressMessage.formatAsText",
+        "body": [
+            "mlreportgen.dom.ProgressMessage.formatAsText"
+        ],
+        "description": "mlreportgen.dom.ProgressMessage.formatAsText (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.ProgressMessage.passesFilter": {
+        "prefix": "mlreportgen.dom.ProgressMessage.passesFilter",
+        "body": [
+            "mlreportgen.dom.ProgressMessage.passesFilter"
+        ],
+        "description": "mlreportgen.dom.ProgressMessage.passesFilter (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.Table.entry": {
+        "prefix": "mlreportgen.dom.Table.entry",
+        "body": [
+            "mlreportgen.dom.Table.entry"
+        ],
+        "description": "mlreportgen.dom.Table.entry (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.Table.row": {
+        "prefix": "mlreportgen.dom.Table.row",
+        "body": [
+            "mlreportgen.dom.Table.row"
+        ],
+        "description": "mlreportgen.dom.Table.row (Matlab RptGen method)"
+    },
+    "mlreportgen.dom.TableRow.append": {
+        "prefix": "mlreportgen.dom.TableRow.append",
+        "body": [
+            "mlreportgen.dom.TableRow.append"
+        ],
+        "description": "mlreportgen.dom.TableRow.append (Matlab RptGen method)"
+    },
+    "mlreportgen.ppt.ContentPlaceholder.add": {
+        "prefix": "mlreportgen.ppt.ContentPlaceholder.add",
+        "body": [
+            "mlreportgen.ppt.ContentPlaceholder.add"
+        ],
+        "description": "mlreportgen.ppt.ContentPlaceholder.add (Matlab RptGen method)"
+    },
+    "mlreportgen.ppt.ContentPlaceholder.replace": {
+        "prefix": "mlreportgen.ppt.ContentPlaceholder.replace",
+        "body": [
+            "mlreportgen.ppt.ContentPlaceholder.replace"
+        ],
+        "description": "mlreportgen.ppt.ContentPlaceholder.replace (Matlab RptGen method)"
+    },
+    "mlreportgen.ppt.MessageDispatcher.dispatch": {
+        "prefix": "mlreportgen.ppt.MessageDispatcher.dispatch",
+        "body": [
+            "mlreportgen.ppt.MessageDispatcher.dispatch"
+        ],
+        "description": "mlreportgen.ppt.MessageDispatcher.dispatch (Matlab RptGen method)"
+    },
+    "mlreportgen.ppt.MessageDispatcher.getTheDispatcher": {
+        "prefix": "mlreportgen.ppt.MessageDispatcher.getTheDispatcher",
+        "body": [
+            "mlreportgen.ppt.MessageDispatcher.getTheDispatcher"
+        ],
+        "description": "mlreportgen.ppt.MessageDispatcher.getTheDispatcher (Matlab RptGen method)"
+    },
+    "mlreportgen.ppt.Paragraph.append": {
+        "prefix": "mlreportgen.ppt.Paragraph.append",
+        "body": [
+            "mlreportgen.ppt.Paragraph.append"
+        ],
+        "description": "mlreportgen.ppt.Paragraph.append (Matlab RptGen method)"
+    },
+    "mlreportgen.ppt.Picture.replace": {
+        "prefix": "mlreportgen.ppt.Picture.replace",
+        "body": [
+            "mlreportgen.ppt.Picture.replace"
+        ],
+        "description": "mlreportgen.ppt.Picture.replace (Matlab RptGen method)"
+    },
+    "mlreportgen.ppt.PicturePlaceholder.replace": {
+        "prefix": "mlreportgen.ppt.PicturePlaceholder.replace",
+        "body": [
+            "mlreportgen.ppt.PicturePlaceholder.replace"
+        ],
+        "description": "mlreportgen.ppt.PicturePlaceholder.replace (Matlab RptGen method)"
+    },
+    "mlreportgen.ppt.Presentation.add": {
+        "prefix": "mlreportgen.ppt.Presentation.add",
+        "body": [
+            "mlreportgen.ppt.Presentation.add"
+        ],
+        "description": "mlreportgen.ppt.Presentation.add (Matlab RptGen method)"
+    },
+    "mlreportgen.ppt.Presentation.close": {
+        "prefix": "mlreportgen.ppt.Presentation.close",
+        "body": [
+            "mlreportgen.ppt.Presentation.close"
+        ],
+        "description": "mlreportgen.ppt.Presentation.close (Matlab RptGen method)"
+    },
+    "mlreportgen.ppt.Presentation.find": {
+        "prefix": "mlreportgen.ppt.Presentation.find",
+        "body": [
+            "mlreportgen.ppt.Presentation.find"
+        ],
+        "description": "mlreportgen.ppt.Presentation.find (Matlab RptGen method)"
+    },
+    "mlreportgen.ppt.Presentation.getLayoutNames": {
+        "prefix": "mlreportgen.ppt.Presentation.getLayoutNames",
+        "body": [
+            "mlreportgen.ppt.Presentation.getLayoutNames"
+        ],
+        "description": "mlreportgen.ppt.Presentation.getLayoutNames (Matlab RptGen method)"
+    },
+    "mlreportgen.ppt.Presentation.getMasterNames": {
+        "prefix": "mlreportgen.ppt.Presentation.getMasterNames",
+        "body": [
+            "mlreportgen.ppt.Presentation.getMasterNames"
+        ],
+        "description": "mlreportgen.ppt.Presentation.getMasterNames (Matlab RptGen method)"
+    },
+    "mlreportgen.ppt.Presentation.getTableStyleNames": {
+        "prefix": "mlreportgen.ppt.Presentation.getTableStyleNames",
+        "body": [
+            "mlreportgen.ppt.Presentation.getTableStyleNames"
+        ],
+        "description": "mlreportgen.ppt.Presentation.getTableStyleNames (Matlab RptGen method)"
+    },
+    "mlreportgen.ppt.Presentation.open": {
+        "prefix": "mlreportgen.ppt.Presentation.open",
+        "body": [
+            "mlreportgen.ppt.Presentation.open"
+        ],
+        "description": "mlreportgen.ppt.Presentation.open (Matlab RptGen method)"
+    },
+    "mlreportgen.ppt.Presentation.replace": {
+        "prefix": "mlreportgen.ppt.Presentation.replace",
+        "body": [
+            "mlreportgen.ppt.Presentation.replace"
+        ],
+        "description": "mlreportgen.ppt.Presentation.replace (Matlab RptGen method)"
+    },
+    "mlreportgen.ppt.ProgressMessage.formatAsHTML": {
+        "prefix": "mlreportgen.ppt.ProgressMessage.formatAsHTML",
+        "body": [
+            "mlreportgen.ppt.ProgressMessage.formatAsHTML"
+        ],
+        "description": "mlreportgen.ppt.ProgressMessage.formatAsHTML (Matlab RptGen method)"
+    },
+    "mlreportgen.ppt.ProgressMessage.formatAsText": {
+        "prefix": "mlreportgen.ppt.ProgressMessage.formatAsText",
+        "body": [
+            "mlreportgen.ppt.ProgressMessage.formatAsText"
+        ],
+        "description": "mlreportgen.ppt.ProgressMessage.formatAsText (Matlab RptGen method)"
+    },
+    "mlreportgen.ppt.ProgressMessage.passesFilter": {
+        "prefix": "mlreportgen.ppt.ProgressMessage.passesFilter",
+        "body": [
+            "mlreportgen.ppt.ProgressMessage.passesFilter"
+        ],
+        "description": "mlreportgen.ppt.ProgressMessage.passesFilter (Matlab RptGen method)"
+    },
+    "mlreportgen.ppt.Slide.add": {
+        "prefix": "mlreportgen.ppt.Slide.add",
+        "body": [
+            "mlreportgen.ppt.Slide.add"
+        ],
+        "description": "mlreportgen.ppt.Slide.add (Matlab RptGen method)"
+    },
+    "mlreportgen.ppt.Slide.find": {
+        "prefix": "mlreportgen.ppt.Slide.find",
+        "body": [
+            "mlreportgen.ppt.Slide.find"
+        ],
+        "description": "mlreportgen.ppt.Slide.find (Matlab RptGen method)"
+    },
+    "mlreportgen.ppt.Slide.replace": {
+        "prefix": "mlreportgen.ppt.Slide.replace",
+        "body": [
+            "mlreportgen.ppt.Slide.replace"
+        ],
+        "description": "mlreportgen.ppt.Slide.replace (Matlab RptGen method)"
+    },
+    "mlreportgen.ppt.Table.append": {
+        "prefix": "mlreportgen.ppt.Table.append",
+        "body": [
+            "mlreportgen.ppt.Table.append"
+        ],
+        "description": "mlreportgen.ppt.Table.append (Matlab RptGen method)"
+    },
+    "mlreportgen.ppt.Table.entry": {
+        "prefix": "mlreportgen.ppt.Table.entry",
+        "body": [
+            "mlreportgen.ppt.Table.entry"
+        ],
+        "description": "mlreportgen.ppt.Table.entry (Matlab RptGen method)"
+    },
+    "mlreportgen.ppt.Table.replace": {
+        "prefix": "mlreportgen.ppt.Table.replace",
+        "body": [
+            "mlreportgen.ppt.Table.replace"
+        ],
+        "description": "mlreportgen.ppt.Table.replace (Matlab RptGen method)"
+    },
+    "mlreportgen.ppt.Table.row": {
+        "prefix": "mlreportgen.ppt.Table.row",
+        "body": [
+            "mlreportgen.ppt.Table.row"
+        ],
+        "description": "mlreportgen.ppt.Table.row (Matlab RptGen method)"
+    },
+    "mlreportgen.ppt.TableEntry.append": {
+        "prefix": "mlreportgen.ppt.TableEntry.append",
+        "body": [
+            "mlreportgen.ppt.TableEntry.append"
+        ],
+        "description": "mlreportgen.ppt.TableEntry.append (Matlab RptGen method)"
+    },
+    "mlreportgen.ppt.TablePlaceholder.replace": {
+        "prefix": "mlreportgen.ppt.TablePlaceholder.replace",
+        "body": [
+            "mlreportgen.ppt.TablePlaceholder.replace"
+        ],
+        "description": "mlreportgen.ppt.TablePlaceholder.replace (Matlab RptGen method)"
+    },
+    "mlreportgen.ppt.TableRow.append": {
+        "prefix": "mlreportgen.ppt.TableRow.append",
+        "body": [
+            "mlreportgen.ppt.TableRow.append"
+        ],
+        "description": "mlreportgen.ppt.TableRow.append (Matlab RptGen method)"
+    },
+    "mlreportgen.ppt.TextBox.add": {
+        "prefix": "mlreportgen.ppt.TextBox.add",
+        "body": [
+            "mlreportgen.ppt.TextBox.add"
+        ],
+        "description": "mlreportgen.ppt.TextBox.add (Matlab RptGen method)"
+    },
+    "mlreportgen.ppt.TextBox.replace": {
+        "prefix": "mlreportgen.ppt.TextBox.replace",
+        "body": [
+            "mlreportgen.ppt.TextBox.replace"
+        ],
+        "description": "mlreportgen.ppt.TextBox.replace (Matlab RptGen method)"
+    },
+    "mlreportgen.ppt.TextBoxPlaceholder.add": {
+        "prefix": "mlreportgen.ppt.TextBoxPlaceholder.add",
+        "body": [
+            "mlreportgen.ppt.TextBoxPlaceholder.add"
+        ],
+        "description": "mlreportgen.ppt.TextBoxPlaceholder.add (Matlab RptGen method)"
+    },
+    "mlreportgen.ppt.TextBoxPlaceholder.replace": {
+        "prefix": "mlreportgen.ppt.TextBoxPlaceholder.replace",
+        "body": [
+            "mlreportgen.ppt.TextBoxPlaceholder.replace"
+        ],
+        "description": "mlreportgen.ppt.TextBoxPlaceholder.replace (Matlab RptGen method)"
+    },
+    "report": {
+        "prefix": "report",
+        "body": [
+            "report"
+        ],
+        "description": "report (Matlab RptGen method)"
+    },
+    "rptconvert": {
+        "prefix": "rptconvert",
+        "body": [
+            "rptconvert"
+        ],
+        "description": "rptconvert (Matlab RptGen method)"
+    },
+    "rptlist": {
+        "prefix": "rptlist",
+        "body": [
+            "rptlist"
+        ],
+        "description": "rptlist (Matlab RptGen method)"
+    },
+    "rptview": {
+        "prefix": "rptview",
+        "body": [
+            "rptview"
+        ],
+        "description": "rptview (Matlab RptGen method)"
+    },
+    "setedit": {
+        "prefix": "setedit",
+        "body": [
+            "setedit"
+        ],
+        "description": "setedit (Matlab RptGen method)"
+    },
+    "unzipTemplate": {
+        "prefix": "unzipTemplate",
+        "body": [
+            "unzipTemplate"
+        ],
+        "description": "unzipTemplate (Matlab RptGen method)"
+    },
+    "zipTemplate": {
+        "prefix": "zipTemplate",
+        "body": [
+            "zipTemplate"
+        ],
+        "description": "zipTemplate (Matlab RptGen method)"
+    }
+}

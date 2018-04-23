@@ -1,0 +1,324 @@
+{
+    "AccessRights": {
+        "prefix": "AccessRights",
+        "body": [
+            "AccessRights"
+        ],
+        "description": "AccessRights (Matlab OPC prop)"
+    },
+    "Active": {
+        "prefix": "Active",
+        "body": [
+            "Active"
+        ],
+        "description": "Active (Matlab OPC prop)"
+    },
+    "CancelAsyncFcn": {
+        "prefix": "CancelAsyncFcn",
+        "body": [
+            "CancelAsyncFcn"
+        ],
+        "description": "CancelAsyncFcn (Matlab OPC prop)"
+    },
+    "CanonicalDataType": {
+        "prefix": "CanonicalDataType",
+        "body": [
+            "CanonicalDataType"
+        ],
+        "description": "CanonicalDataType (Matlab OPC prop)"
+    },
+    "DataChangeFcn": {
+        "prefix": "DataChangeFcn",
+        "body": [
+            "DataChangeFcn"
+        ],
+        "description": "DataChangeFcn (Matlab OPC prop)"
+    },
+    "DataType": {
+        "prefix": "DataType",
+        "body": [
+            "DataType"
+        ],
+        "description": "DataType (Matlab OPC prop)"
+    },
+    "DeadbandPercent": {
+        "prefix": "DeadbandPercent",
+        "body": [
+            "DeadbandPercent"
+        ],
+        "description": "DeadbandPercent (Matlab OPC prop)"
+    },
+    "ErrorFcn": {
+        "prefix": "ErrorFcn",
+        "body": [
+            "ErrorFcn"
+        ],
+        "description": "ErrorFcn (Matlab OPC prop)"
+    },
+    "EventLog": {
+        "prefix": "EventLog",
+        "body": [
+            "EventLog"
+        ],
+        "description": "EventLog (Matlab OPC prop)"
+    },
+    "EventLogMax": {
+        "prefix": "EventLogMax",
+        "body": [
+            "EventLogMax"
+        ],
+        "description": "EventLogMax (Matlab OPC prop)"
+    },
+    "Group": {
+        "prefix": "Group",
+        "body": [
+            "Group"
+        ],
+        "description": "Group (Matlab OPC prop)"
+    },
+    "GroupType": {
+        "prefix": "GroupType",
+        "body": [
+            "GroupType"
+        ],
+        "description": "GroupType (Matlab OPC prop)"
+    },
+    "Host": {
+        "prefix": "Host",
+        "body": [
+            "Host"
+        ],
+        "description": "Host (Matlab OPC prop)"
+    },
+    "Item": {
+        "prefix": "Item",
+        "body": [
+            "Item"
+        ],
+        "description": "Item (Matlab OPC prop)"
+    },
+    "ItemID": {
+        "prefix": "ItemID",
+        "body": [
+            "ItemID"
+        ],
+        "description": "ItemID (Matlab OPC prop)"
+    },
+    "LogFileName": {
+        "prefix": "LogFileName",
+        "body": [
+            "LogFileName"
+        ],
+        "description": "LogFileName (Matlab OPC prop)"
+    },
+    "LogToDiskMode": {
+        "prefix": "LogToDiskMode",
+        "body": [
+            "LogToDiskMode"
+        ],
+        "description": "LogToDiskMode (Matlab OPC prop)"
+    },
+    "Logging": {
+        "prefix": "Logging",
+        "body": [
+            "Logging"
+        ],
+        "description": "Logging (Matlab OPC prop)"
+    },
+    "LoggingMode": {
+        "prefix": "LoggingMode",
+        "body": [
+            "LoggingMode"
+        ],
+        "description": "LoggingMode (Matlab OPC prop)"
+    },
+    "Parent": {
+        "prefix": "Parent",
+        "body": [
+            "Parent"
+        ],
+        "description": "Parent (Matlab OPC prop)"
+    },
+    "Quality": {
+        "prefix": "Quality",
+        "body": [
+            "Quality"
+        ],
+        "description": "Quality (Matlab OPC prop)"
+    },
+    "QualityID": {
+        "prefix": "QualityID",
+        "body": [
+            "QualityID"
+        ],
+        "description": "QualityID (Matlab OPC prop)"
+    },
+    "ReadAsyncFcn": {
+        "prefix": "ReadAsyncFcn",
+        "body": [
+            "ReadAsyncFcn"
+        ],
+        "description": "ReadAsyncFcn (Matlab OPC prop)"
+    },
+    "RecordsAcquired": {
+        "prefix": "RecordsAcquired",
+        "body": [
+            "RecordsAcquired"
+        ],
+        "description": "RecordsAcquired (Matlab OPC prop)"
+    },
+    "RecordsAcquiredFcn": {
+        "prefix": "RecordsAcquiredFcn",
+        "body": [
+            "RecordsAcquiredFcn"
+        ],
+        "description": "RecordsAcquiredFcn (Matlab OPC prop)"
+    },
+    "RecordsAcquiredFcnCount": {
+        "prefix": "RecordsAcquiredFcnCount",
+        "body": [
+            "RecordsAcquiredFcnCount"
+        ],
+        "description": "RecordsAcquiredFcnCount (Matlab OPC prop)"
+    },
+    "RecordsAvailable": {
+        "prefix": "RecordsAvailable",
+        "body": [
+            "RecordsAvailable"
+        ],
+        "description": "RecordsAvailable (Matlab OPC prop)"
+    },
+    "RecordsToAcquire": {
+        "prefix": "RecordsToAcquire",
+        "body": [
+            "RecordsToAcquire"
+        ],
+        "description": "RecordsToAcquire (Matlab OPC prop)"
+    },
+    "ScanRate": {
+        "prefix": "ScanRate",
+        "body": [
+            "ScanRate"
+        ],
+        "description": "ScanRate (Matlab OPC prop)"
+    },
+    "ServerID": {
+        "prefix": "ServerID",
+        "body": [
+            "ServerID"
+        ],
+        "description": "ServerID (Matlab OPC prop)"
+    },
+    "ShutDownFcn": {
+        "prefix": "ShutDownFcn",
+        "body": [
+            "ShutDownFcn"
+        ],
+        "description": "ShutDownFcn (Matlab OPC prop)"
+    },
+    "StartFcn": {
+        "prefix": "StartFcn",
+        "body": [
+            "StartFcn"
+        ],
+        "description": "StartFcn (Matlab OPC prop)"
+    },
+    "Status": {
+        "prefix": "Status",
+        "body": [
+            "Status"
+        ],
+        "description": "Status (Matlab OPC prop)"
+    },
+    "StopFcn": {
+        "prefix": "StopFcn",
+        "body": [
+            "StopFcn"
+        ],
+        "description": "StopFcn (Matlab OPC prop)"
+    },
+    "Subscription": {
+        "prefix": "Subscription",
+        "body": [
+            "Subscription"
+        ],
+        "description": "Subscription (Matlab OPC prop)"
+    },
+    "Tag": {
+        "prefix": "Tag",
+        "body": [
+            "Tag"
+        ],
+        "description": "Tag (Matlab OPC prop)"
+    },
+    "TimeBias": {
+        "prefix": "TimeBias",
+        "body": [
+            "TimeBias"
+        ],
+        "description": "TimeBias (Matlab OPC prop)"
+    },
+    "TimeStamp": {
+        "prefix": "TimeStamp",
+        "body": [
+            "TimeStamp"
+        ],
+        "description": "TimeStamp (Matlab OPC prop)"
+    },
+    "Timeout": {
+        "prefix": "Timeout",
+        "body": [
+            "Timeout"
+        ],
+        "description": "Timeout (Matlab OPC prop)"
+    },
+    "TimerFcn": {
+        "prefix": "TimerFcn",
+        "body": [
+            "TimerFcn"
+        ],
+        "description": "TimerFcn (Matlab OPC prop)"
+    },
+    "TimerPeriod": {
+        "prefix": "TimerPeriod",
+        "body": [
+            "TimerPeriod"
+        ],
+        "description": "TimerPeriod (Matlab OPC prop)"
+    },
+    "Type": {
+        "prefix": "Type",
+        "body": [
+            "Type"
+        ],
+        "description": "Type (Matlab OPC prop)"
+    },
+    "UpdateRate": {
+        "prefix": "UpdateRate",
+        "body": [
+            "UpdateRate"
+        ],
+        "description": "UpdateRate (Matlab OPC prop)"
+    },
+    "UserData": {
+        "prefix": "UserData",
+        "body": [
+            "UserData"
+        ],
+        "description": "UserData (Matlab OPC prop)"
+    },
+    "Value": {
+        "prefix": "Value",
+        "body": [
+            "Value"
+        ],
+        "description": "Value (Matlab OPC prop)"
+    },
+    "WriteAsyncFcn": {
+        "prefix": "WriteAsyncFcn",
+        "body": [
+            "WriteAsyncFcn"
+        ],
+        "description": "WriteAsyncFcn (Matlab OPC prop)"
+    }
+}

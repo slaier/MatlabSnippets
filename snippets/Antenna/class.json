@@ -1,0 +1,191 @@
+{
+	"biquad": {
+		"prefix": "biquad",
+		"body": [
+			"biquad"
+		],
+		"description": "biquad (Matlab antenna class)"
+	},
+	"bowtieRounded": {
+		"prefix": "bowtieRounded",
+		"body": [
+			"bowtieRounded"
+		],
+		"description": "bowtieRounded (Matlab antenna class)"
+	},
+	"bowtieTriangular": {
+		"prefix": "bowtieTriangular",
+		"body": [
+			"bowtieTriangular"
+		],
+		"description": "bowtieTriangular (Matlab antenna class)"
+	},
+	"cavity": {
+		"prefix": "cavity",
+		"body": [
+			"cavity"
+		],
+		"description": "cavity (Matlab antenna class)"
+	},
+	"customAntennaMesh": {
+		"prefix": "customAntennaMesh",
+		"body": [
+			"customAntennaMesh"
+		],
+		"description": "customAntennaMesh (Matlab antenna class)"
+	},
+	"dipole": {
+		"prefix": "dipole",
+		"body": [
+			"dipole"
+		],
+		"description": "dipole (Matlab antenna class)"
+	},
+	"dipoleFolded": {
+		"prefix": "dipoleFolded",
+		"body": [
+			"dipoleFolded"
+		],
+		"description": "dipoleFolded (Matlab antenna class)"
+	},
+	"dipoleMeander": {
+		"prefix": "dipoleMeander",
+		"body": [
+			"dipoleMeander"
+		],
+		"description": "dipoleMeander (Matlab antenna class)"
+	},
+	"dipoleVee": {
+		"prefix": "dipoleVee",
+		"body": [
+			"dipoleVee"
+		],
+		"description": "dipoleVee (Matlab antenna class)"
+	},
+	"helix": {
+		"prefix": "helix",
+		"body": [
+			"helix"
+		],
+		"description": "helix (Matlab antenna class)"
+	},
+	"infiniteArray": {
+		"prefix": "infiniteArray",
+		"body": [
+			"infiniteArray"
+		],
+		"description": "infiniteArray (Matlab antenna class)"
+	},
+	"invertedF": {
+		"prefix": "invertedF",
+		"body": [
+			"invertedF"
+		],
+		"description": "invertedF (Matlab antenna class)"
+	},
+	"invertedL": {
+		"prefix": "invertedL",
+		"body": [
+			"invertedL"
+		],
+		"description": "invertedL (Matlab antenna class)"
+	},
+	"linearArray": {
+		"prefix": "linearArray",
+		"body": [
+			"linearArray"
+		],
+		"description": "linearArray (Matlab antenna class)"
+	},
+	"loopCircular": {
+		"prefix": "loopCircular",
+		"body": [
+			"loopCircular"
+		],
+		"description": "loopCircular (Matlab antenna class)"
+	},
+	"loopRectangular": {
+		"prefix": "loopRectangular",
+		"body": [
+			"loopRectangular"
+		],
+		"description": "loopRectangular (Matlab antenna class)"
+	},
+	"monopole": {
+		"prefix": "monopole",
+		"body": [
+			"monopole"
+		],
+		"description": "monopole (Matlab antenna class)"
+	},
+	"monopoleTopHat": {
+		"prefix": "monopoleTopHat",
+		"body": [
+			"monopoleTopHat"
+		],
+		"description": "monopoleTopHat (Matlab antenna class)"
+	},
+	"patchMicrostrip": {
+		"prefix": "patchMicrostrip",
+		"body": [
+			"patchMicrostrip"
+		],
+		"description": "patchMicrostrip (Matlab antenna class)"
+	},
+	"pifa": {
+		"prefix": "pifa",
+		"body": [
+			"pifa"
+		],
+		"description": "pifa (Matlab antenna class)"
+	},
+	"rectangularArray": {
+		"prefix": "rectangularArray",
+		"body": [
+			"rectangularArray"
+		],
+		"description": "rectangularArray (Matlab antenna class)"
+	},
+	"reflector": {
+		"prefix": "reflector",
+		"body": [
+			"reflector"
+		],
+		"description": "reflector (Matlab antenna class)"
+	},
+	"slot": {
+		"prefix": "slot",
+		"body": [
+			"slot"
+		],
+		"description": "slot (Matlab antenna class)"
+	},
+	"spiralArchimedean": {
+		"prefix": "spiralArchimedean",
+		"body": [
+			"spiralArchimedean"
+		],
+		"description": "spiralArchimedean (Matlab antenna class)"
+	},
+	"spiralEquiangular": {
+		"prefix": "spiralEquiangular",
+		"body": [
+			"spiralEquiangular"
+		],
+		"description": "spiralEquiangular (Matlab antenna class)"
+	},
+	"vivaldi": {
+		"prefix": "vivaldi",
+		"body": [
+			"vivaldi"
+		],
+		"description": "vivaldi (Matlab antenna class)"
+	},
+	"yagiUda": {
+		"prefix": "yagiUda",
+		"body": [
+			"yagiUda"
+		],
+		"description": "yagiUda (Matlab antenna class)"
+	}
+}

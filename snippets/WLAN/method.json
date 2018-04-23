@@ -1,0 +1,226 @@
+{
+    "wlanCoarseCFOEstimate": {
+        "prefix": "wlanCoarseCFOEstimate",
+        "body": [
+            "wlanCoarseCFOEstimate"
+        ],
+        "description": "wlanCoarseCFOEstimate (Matlab WLAN method)"
+    },
+    "wlanFieldIndices": {
+        "prefix": "wlanFieldIndices",
+        "body": [
+            "wlanFieldIndices"
+        ],
+        "description": "wlanFieldIndices (Matlab WLAN method)"
+    },
+    "wlanFineCFOEstimate": {
+        "prefix": "wlanFineCFOEstimate",
+        "body": [
+            "wlanFineCFOEstimate"
+        ],
+        "description": "wlanFineCFOEstimate (Matlab WLAN method)"
+    },
+    "wlanHTData": {
+        "prefix": "wlanHTData",
+        "body": [
+            "wlanHTData"
+        ],
+        "description": "wlanHTData (Matlab WLAN method)"
+    },
+    "wlanHTDataRecover": {
+        "prefix": "wlanHTDataRecover",
+        "body": [
+            "wlanHTDataRecover"
+        ],
+        "description": "wlanHTDataRecover (Matlab WLAN method)"
+    },
+    "wlanHTLTF": {
+        "prefix": "wlanHTLTF",
+        "body": [
+            "wlanHTLTF"
+        ],
+        "description": "wlanHTLTF (Matlab WLAN method)"
+    },
+    "wlanHTLTFChannelEstimate": {
+        "prefix": "wlanHTLTFChannelEstimate",
+        "body": [
+            "wlanHTLTFChannelEstimate"
+        ],
+        "description": "wlanHTLTFChannelEstimate (Matlab WLAN method)"
+    },
+    "wlanHTLTFDemodulate": {
+        "prefix": "wlanHTLTFDemodulate",
+        "body": [
+            "wlanHTLTFDemodulate"
+        ],
+        "description": "wlanHTLTFDemodulate (Matlab WLAN method)"
+    },
+    "wlanHTSIG": {
+        "prefix": "wlanHTSIG",
+        "body": [
+            "wlanHTSIG"
+        ],
+        "description": "wlanHTSIG (Matlab WLAN method)"
+    },
+    "wlanHTSIGRecover": {
+        "prefix": "wlanHTSIGRecover",
+        "body": [
+            "wlanHTSIGRecover"
+        ],
+        "description": "wlanHTSIGRecover (Matlab WLAN method)"
+    },
+    "wlanHTSTF": {
+        "prefix": "wlanHTSTF",
+        "body": [
+            "wlanHTSTF"
+        ],
+        "description": "wlanHTSTF (Matlab WLAN method)"
+    },
+    "wlanLLTF": {
+        "prefix": "wlanLLTF",
+        "body": [
+            "wlanLLTF"
+        ],
+        "description": "wlanLLTF (Matlab WLAN method)"
+    },
+    "wlanLLTFChannelEstimate": {
+        "prefix": "wlanLLTFChannelEstimate",
+        "body": [
+            "wlanLLTFChannelEstimate"
+        ],
+        "description": "wlanLLTFChannelEstimate (Matlab WLAN method)"
+    },
+    "wlanLLTFDemodulate": {
+        "prefix": "wlanLLTFDemodulate",
+        "body": [
+            "wlanLLTFDemodulate"
+        ],
+        "description": "wlanLLTFDemodulate (Matlab WLAN method)"
+    },
+    "wlanLSIG": {
+        "prefix": "wlanLSIG",
+        "body": [
+            "wlanLSIG"
+        ],
+        "description": "wlanLSIG (Matlab WLAN method)"
+    },
+    "wlanLSIGRecover": {
+        "prefix": "wlanLSIGRecover",
+        "body": [
+            "wlanLSIGRecover"
+        ],
+        "description": "wlanLSIGRecover (Matlab WLAN method)"
+    },
+    "wlanLSTF": {
+        "prefix": "wlanLSTF",
+        "body": [
+            "wlanLSTF"
+        ],
+        "description": "wlanLSTF (Matlab WLAN method)"
+    },
+    "wlanNonHTData": {
+        "prefix": "wlanNonHTData",
+        "body": [
+            "wlanNonHTData"
+        ],
+        "description": "wlanNonHTData (Matlab WLAN method)"
+    },
+    "wlanNonHTDataRecover": {
+        "prefix": "wlanNonHTDataRecover",
+        "body": [
+            "wlanNonHTDataRecover"
+        ],
+        "description": "wlanNonHTDataRecover (Matlab WLAN method)"
+    },
+    "wlanTGacChannel": {
+        "prefix": "wlanTGacChannel",
+        "body": [
+            "wlanTGacChannel"
+        ],
+        "description": "wlanTGacChannel (Matlab WLAN method)"
+    },
+    "wlanTGnChannel": {
+        "prefix": "wlanTGnChannel",
+        "body": [
+            "wlanTGnChannel"
+        ],
+        "description": "wlanTGnChannel (Matlab WLAN method)"
+    },
+    "wlanVHTData": {
+        "prefix": "wlanVHTData",
+        "body": [
+            "wlanVHTData"
+        ],
+        "description": "wlanVHTData (Matlab WLAN method)"
+    },
+    "wlanVHTDataRecover": {
+        "prefix": "wlanVHTDataRecover",
+        "body": [
+            "wlanVHTDataRecover"
+        ],
+        "description": "wlanVHTDataRecover (Matlab WLAN method)"
+    },
+    "wlanVHTLTF": {
+        "prefix": "wlanVHTLTF",
+        "body": [
+            "wlanVHTLTF"
+        ],
+        "description": "wlanVHTLTF (Matlab WLAN method)"
+    },
+    "wlanVHTLTFChannelEstimate": {
+        "prefix": "wlanVHTLTFChannelEstimate",
+        "body": [
+            "wlanVHTLTFChannelEstimate"
+        ],
+        "description": "wlanVHTLTFChannelEstimate (Matlab WLAN method)"
+    },
+    "wlanVHTLTFDemodulate": {
+        "prefix": "wlanVHTLTFDemodulate",
+        "body": [
+            "wlanVHTLTFDemodulate"
+        ],
+        "description": "wlanVHTLTFDemodulate (Matlab WLAN method)"
+    },
+    "wlanVHTSIGA": {
+        "prefix": "wlanVHTSIGA",
+        "body": [
+            "wlanVHTSIGA"
+        ],
+        "description": "wlanVHTSIGA (Matlab WLAN method)"
+    },
+    "wlanVHTSIGARecover": {
+        "prefix": "wlanVHTSIGARecover",
+        "body": [
+            "wlanVHTSIGARecover"
+        ],
+        "description": "wlanVHTSIGARecover (Matlab WLAN method)"
+    },
+    "wlanVHTSIGB": {
+        "prefix": "wlanVHTSIGB",
+        "body": [
+            "wlanVHTSIGB"
+        ],
+        "description": "wlanVHTSIGB (Matlab WLAN method)"
+    },
+    "wlanVHTSIGBRecover": {
+        "prefix": "wlanVHTSIGBRecover",
+        "body": [
+            "wlanVHTSIGBRecover"
+        ],
+        "description": "wlanVHTSIGBRecover (Matlab WLAN method)"
+    },
+    "wlanVHTSTF": {
+        "prefix": "wlanVHTSTF",
+        "body": [
+            "wlanVHTSTF"
+        ],
+        "description": "wlanVHTSTF (Matlab WLAN method)"
+    },
+    "wlanWaveformGenerator": {
+        "prefix": "wlanWaveformGenerator",
+        "body": [
+            "wlanWaveformGenerator"
+        ],
+        "description": "wlanWaveformGenerator (Matlab WLAN method)"
+    }
+}

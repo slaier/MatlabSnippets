@@ -1,0 +1,177 @@
+{
+	"DataTypeWorkflow.Converter": {
+		"prefix": "DataTypeWorkflow.Converter",
+		"body": [
+			"DataTypeWorkflow.Converter"
+		],
+		"description": "DataTypeWorkflow.Converter (Matlab FixedPoint class)"
+	},
+	"DataTypeWorkflow.DiffRunResult": {
+		"prefix": "DataTypeWorkflow.DiffRunResult",
+		"body": [
+			"DataTypeWorkflow.DiffRunResult"
+		],
+		"description": "DataTypeWorkflow.DiffRunResult (Matlab FixedPoint class)"
+	},
+	"DataTypeWorkflow.DiffSignalResult": {
+		"prefix": "DataTypeWorkflow.DiffSignalResult",
+		"body": [
+			"DataTypeWorkflow.DiffSignalResult"
+		],
+		"description": "DataTypeWorkflow.DiffSignalResult (Matlab FixedPoint class)"
+	},
+	"DataTypeWorkflow.ProposalSettings": {
+		"prefix": "DataTypeWorkflow.ProposalSettings",
+		"body": [
+			"DataTypeWorkflow.ProposalSettings"
+		],
+		"description": "DataTypeWorkflow.ProposalSettings (Matlab FixedPoint class)"
+	},
+	"DataTypeWorkflow.Result": {
+		"prefix": "DataTypeWorkflow.Result",
+		"body": [
+			"DataTypeWorkflow.Result"
+		],
+		"description": "DataTypeWorkflow.Result (Matlab FixedPoint class)"
+	},
+	"assignmentquantizer": {
+		"prefix": "assignmentquantizer",
+		"body": [
+			"assignmentquantizer"
+		],
+		"description": "assignmentquantizer (Matlab FixedPoint class)"
+	},
+	"coder.ArrayType": {
+		"prefix": "coder.ArrayType",
+		"body": [
+			"coder.ArrayType"
+		],
+		"description": "coder.ArrayType (Matlab FixedPoint class)"
+	},
+	"coder.CellType": {
+		"prefix": "coder.CellType",
+		"body": [
+			"coder.CellType"
+		],
+		"description": "coder.CellType (Matlab FixedPoint class)"
+	},
+	"coder.Constant": {
+		"prefix": "coder.Constant",
+		"body": [
+			"coder.Constant"
+		],
+		"description": "coder.Constant (Matlab FixedPoint class)"
+	},
+	"coder.EnumType": {
+		"prefix": "coder.EnumType",
+		"body": [
+			"coder.EnumType"
+		],
+		"description": "coder.EnumType (Matlab FixedPoint class)"
+	},
+	"coder.FiType": {
+		"prefix": "coder.FiType",
+		"body": [
+			"coder.FiType"
+		],
+		"description": "coder.FiType (Matlab FixedPoint class)"
+	},
+	"coder.FixptConfig": {
+		"prefix": "coder.FixptConfig",
+		"body": [
+			"coder.FixptConfig"
+		],
+		"description": "coder.FixptConfig (Matlab FixedPoint class)"
+	},
+	"coder.MexConfig": {
+		"prefix": "coder.MexConfig",
+		"body": [
+			"coder.MexConfig"
+		],
+		"description": "coder.MexConfig (Matlab FixedPoint class)"
+	},
+	"coder.PrimitiveType": {
+		"prefix": "coder.PrimitiveType",
+		"body": [
+			"coder.PrimitiveType"
+		],
+		"description": "coder.PrimitiveType (Matlab FixedPoint class)"
+	},
+	"coder.SingleConfig": {
+		"prefix": "coder.SingleConfig",
+		"body": [
+			"coder.SingleConfig"
+		],
+		"description": "coder.SingleConfig (Matlab FixedPoint class)"
+	},
+	"coder.StructType": {
+		"prefix": "coder.StructType",
+		"body": [
+			"coder.StructType"
+		],
+		"description": "coder.StructType (Matlab FixedPoint class)"
+	},
+	"coder.Type": {
+		"prefix": "coder.Type",
+		"body": [
+			"coder.Type"
+		],
+		"description": "coder.Type (Matlab FixedPoint class)"
+	},
+	"embedded.fi": {
+		"prefix": "embedded.fi",
+		"body": [
+			"embedded.fi"
+		],
+		"description": "embedded.fi (Matlab FixedPoint class)"
+	},
+	"embedded.fimath": {
+		"prefix": "embedded.fimath",
+		"body": [
+			"embedded.fimath"
+		],
+		"description": "embedded.fimath (Matlab FixedPoint class)"
+	},
+	"embedded.numerictype": {
+		"prefix": "embedded.numerictype",
+		"body": [
+			"embedded.numerictype"
+		],
+		"description": "embedded.numerictype (Matlab FixedPoint class)"
+	},
+	"fixed.aggregateType": {
+		"prefix": "fixed.aggregateType",
+		"body": [
+			"fixed.aggregateType"
+		],
+		"description": "fixed.aggregateType (Matlab FixedPoint class)"
+	},
+	"quantizer": {
+		"prefix": "quantizer",
+		"body": [
+			"quantizer"
+		],
+		"description": "quantizer (Matlab FixedPoint class)"
+	},
+	"savefipref": {
+		"prefix": "savefipref",
+		"body": [
+			"savefipref"
+		],
+		"description": "savefipref (Matlab FixedPoint class)"
+	},
+	"tostring": {
+		"prefix": "tostring",
+		"body": [
+			"tostring"
+		],
+		"description": "tostring (Matlab FixedPoint class)"
+	},
+	"unitquantizer": {
+		"prefix": "unitquantizer",
+		"body": [
+			"unitquantizer"
+		],
+		"description": "unitquantizer (Matlab FixedPoint class)"
+	}
+}

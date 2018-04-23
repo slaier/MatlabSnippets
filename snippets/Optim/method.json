@@ -1,0 +1,121 @@
+{
+    "color": {
+        "prefix": "color",
+        "body": [
+            "color"
+        ],
+        "description": "color (Matlab Optim method)"
+    },
+    "fgoalattain": {
+        "prefix": "fgoalattain",
+        "body": [
+            "fgoalattain"
+        ],
+        "description": "fgoalattain (Matlab Optim method)"
+    },
+    "fmincon": {
+        "prefix": "fmincon",
+        "body": [
+            "fmincon"
+        ],
+        "description": "fmincon (Matlab Optim method)"
+    },
+    "fminimax": {
+        "prefix": "fminimax",
+        "body": [
+            "fminimax"
+        ],
+        "description": "fminimax (Matlab Optim method)"
+    },
+    "fminunc": {
+        "prefix": "fminunc",
+        "body": [
+            "fminunc"
+        ],
+        "description": "fminunc (Matlab Optim method)"
+    },
+    "fseminf": {
+        "prefix": "fseminf",
+        "body": [
+            "fseminf"
+        ],
+        "description": "fseminf (Matlab Optim method)"
+    },
+    "fsolve": {
+        "prefix": "fsolve",
+        "body": [
+            "fsolve"
+        ],
+        "description": "fsolve (Matlab Optim method)"
+    },
+    "fzmult": {
+        "prefix": "fzmult",
+        "body": [
+            "fzmult"
+        ],
+        "description": "fzmult (Matlab Optim method)"
+    },
+    "gangstr": {
+        "prefix": "gangstr",
+        "body": [
+            "gangstr"
+        ],
+        "description": "gangstr (Matlab Optim method)"
+    },
+    "intlinprog": {
+        "prefix": "intlinprog",
+        "body": [
+            "intlinprog"
+        ],
+        "description": "intlinprog (Matlab Optim method)"
+    },
+    "linprog": {
+        "prefix": "linprog",
+        "body": [
+            "linprog"
+        ],
+        "description": "linprog (Matlab Optim method)"
+    },
+    "lsqcurvefit": {
+        "prefix": "lsqcurvefit",
+        "body": [
+            "lsqcurvefit"
+        ],
+        "description": "lsqcurvefit (Matlab Optim method)"
+    },
+    "lsqlin": {
+        "prefix": "lsqlin",
+        "body": [
+            "lsqlin"
+        ],
+        "description": "lsqlin (Matlab Optim method)"
+    },
+    "lsqnonlin": {
+        "prefix": "lsqnonlin",
+        "body": [
+            "lsqnonlin"
+        ],
+        "description": "lsqnonlin (Matlab Optim method)"
+    },
+    "mpsread": {
+        "prefix": "mpsread",
+        "body": [
+            "mpsread"
+        ],
+        "description": "mpsread (Matlab Optim method)"
+    },
+    "optimtool": {
+        "prefix": "optimtool",
+        "body": [
+            "optimtool"
+        ],
+        "description": "optimtool (Matlab Optim method)"
+    },
+    "quadprog": {
+        "prefix": "quadprog",
+        "body": [
+            "quadprog"
+        ],
+        "description": "quadprog (Matlab Optim method)"
+    }
+}

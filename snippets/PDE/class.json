@@ -1,0 +1,58 @@
+{
+    "AnalyticGeometry": {
+        "prefix": "AnalyticGeometry",
+        "body": [
+            "AnalyticGeometry"
+        ],
+        "description": "AnalyticGeometry (Matlab PDE class)"
+    },
+    "BoundaryCondition": {
+        "prefix": "BoundaryCondition",
+        "body": [
+            "BoundaryCondition"
+        ],
+        "description": "BoundaryCondition (Matlab PDE class)"
+    },
+    "DiscreteGeometry": {
+        "prefix": "DiscreteGeometry",
+        "body": [
+            "DiscreteGeometry"
+        ],
+        "description": "DiscreteGeometry (Matlab PDE class)"
+    },
+    "FEMesh": {
+        "prefix": "FEMesh",
+        "body": [
+            "FEMesh"
+        ],
+        "description": "FEMesh (Matlab PDE class)"
+    },
+    "PDEModel": {
+        "prefix": "PDEModel",
+        "body": [
+            "PDEModel"
+        ],
+        "description": "PDEModel (Matlab PDE class)"
+    },
+    "PDEResults": {
+        "prefix": "PDEResults",
+        "body": [
+            "PDEResults"
+        ],
+        "description": "PDEResults (Matlab PDE class)"
+    },
+    "pdeBoundaryConditions": {
+        "prefix": "pdeBoundaryConditions",
+        "body": [
+            "pdeBoundaryConditions"
+        ],
+        "description": "pdeBoundaryConditions (Matlab PDE class)"
+    },
+    "pdeInterpolant": {
+        "prefix": "pdeInterpolant",
+        "body": [
+            "pdeInterpolant"
+        ],
+        "description": "pdeInterpolant (Matlab PDE class)"
+    }
+}

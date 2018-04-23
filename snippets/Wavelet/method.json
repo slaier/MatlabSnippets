@@ -1,0 +1,1339 @@
+{
+    "addlift": {
+        "prefix": "addlift",
+        "body": [
+            "addlift"
+        ],
+        "description": "addlift (Matlab Wavelet method)"
+    },
+    "allnodes": {
+        "prefix": "allnodes",
+        "body": [
+            "allnodes"
+        ],
+        "description": "allnodes (Matlab Wavelet method)"
+    },
+    "appcoef": {
+        "prefix": "appcoef",
+        "body": [
+            "appcoef"
+        ],
+        "description": "appcoef (Matlab Wavelet method)"
+    },
+    "appcoef2": {
+        "prefix": "appcoef2",
+        "body": [
+            "appcoef2"
+        ],
+        "description": "appcoef2 (Matlab Wavelet method)"
+    },
+    "bestlevt": {
+        "prefix": "bestlevt",
+        "body": [
+            "bestlevt"
+        ],
+        "description": "bestlevt (Matlab Wavelet method)"
+    },
+    "besttree": {
+        "prefix": "besttree",
+        "body": [
+            "besttree"
+        ],
+        "description": "besttree (Matlab Wavelet method)"
+    },
+    "biorfilt": {
+        "prefix": "biorfilt",
+        "body": [
+            "biorfilt"
+        ],
+        "description": "biorfilt (Matlab Wavelet method)"
+    },
+    "biorwavf": {
+        "prefix": "biorwavf",
+        "body": [
+            "biorwavf"
+        ],
+        "description": "biorwavf (Matlab Wavelet method)"
+    },
+    "bswfun": {
+        "prefix": "bswfun",
+        "body": [
+            "bswfun"
+        ],
+        "description": "bswfun (Matlab Wavelet method)"
+    },
+    "centfrq": {
+        "prefix": "centfrq",
+        "body": [
+            "centfrq"
+        ],
+        "description": "centfrq (Matlab Wavelet method)"
+    },
+    "cfs2wpt": {
+        "prefix": "cfs2wpt",
+        "body": [
+            "cfs2wpt"
+        ],
+        "description": "cfs2wpt (Matlab Wavelet method)"
+    },
+    "cgauwavf": {
+        "prefix": "cgauwavf",
+        "body": [
+            "cgauwavf"
+        ],
+        "description": "cgauwavf (Matlab Wavelet method)"
+    },
+    "chgwdeccfs": {
+        "prefix": "chgwdeccfs",
+        "body": [
+            "chgwdeccfs"
+        ],
+        "description": "chgwdeccfs (Matlab Wavelet method)"
+    },
+    "cmddenoise": {
+        "prefix": "cmddenoise",
+        "body": [
+            "cmddenoise"
+        ],
+        "description": "cmddenoise (Matlab Wavelet method)"
+    },
+    "cmorwavf": {
+        "prefix": "cmorwavf",
+        "body": [
+            "cmorwavf"
+        ],
+        "description": "cmorwavf (Matlab Wavelet method)"
+    },
+    "coifwavf": {
+        "prefix": "coifwavf",
+        "body": [
+            "coifwavf"
+        ],
+        "description": "coifwavf (Matlab Wavelet method)"
+    },
+    "conofinf": {
+        "prefix": "conofinf",
+        "body": [
+            "conofinf"
+        ],
+        "description": "conofinf (Matlab Wavelet method)"
+    },
+    "cwt": {
+        "prefix": "cwt",
+        "body": [
+            "cwt"
+        ],
+        "description": "cwt (Matlab Wavelet method)"
+    },
+    "cwtext": {
+        "prefix": "cwtext",
+        "body": [
+            "cwtext"
+        ],
+        "description": "cwtext (Matlab Wavelet method)"
+    },
+    "cwtft": {
+        "prefix": "cwtft",
+        "body": [
+            "cwtft"
+        ],
+        "description": "cwtft (Matlab Wavelet method)"
+    },
+    "cwtft2": {
+        "prefix": "cwtft2",
+        "body": [
+            "cwtft2"
+        ],
+        "description": "cwtft2 (Matlab Wavelet method)"
+    },
+    "cwtftinfo": {
+        "prefix": "cwtftinfo",
+        "body": [
+            "cwtftinfo"
+        ],
+        "description": "cwtftinfo (Matlab Wavelet method)"
+    },
+    "cwtftinfo2": {
+        "prefix": "cwtftinfo2",
+        "body": [
+            "cwtftinfo2"
+        ],
+        "description": "cwtftinfo2 (Matlab Wavelet method)"
+    },
+    "dbaux": {
+        "prefix": "dbaux",
+        "body": [
+            "dbaux"
+        ],
+        "description": "dbaux (Matlab Wavelet method)"
+    },
+    "dbwavf": {
+        "prefix": "dbwavf",
+        "body": [
+            "dbwavf"
+        ],
+        "description": "dbwavf (Matlab Wavelet method)"
+    },
+    "dddtree": {
+        "prefix": "dddtree",
+        "body": [
+            "dddtree"
+        ],
+        "description": "dddtree (Matlab Wavelet method)"
+    },
+    "dddtree2": {
+        "prefix": "dddtree2",
+        "body": [
+            "dddtree2"
+        ],
+        "description": "dddtree2 (Matlab Wavelet method)"
+    },
+    "dddtreecfs": {
+        "prefix": "dddtreecfs",
+        "body": [
+            "dddtreecfs"
+        ],
+        "description": "dddtreecfs (Matlab Wavelet method)"
+    },
+    "ddencmp": {
+        "prefix": "ddencmp",
+        "body": [
+            "ddencmp"
+        ],
+        "description": "ddencmp (Matlab Wavelet method)"
+    },
+    "depo2ind": {
+        "prefix": "depo2ind",
+        "body": [
+            "depo2ind"
+        ],
+        "description": "depo2ind (Matlab Wavelet method)"
+    },
+    "detcoef": {
+        "prefix": "detcoef",
+        "body": [
+            "detcoef"
+        ],
+        "description": "detcoef (Matlab Wavelet method)"
+    },
+    "detcoef2": {
+        "prefix": "detcoef2",
+        "body": [
+            "detcoef2"
+        ],
+        "description": "detcoef2 (Matlab Wavelet method)"
+    },
+    "displs": {
+        "prefix": "displs",
+        "body": [
+            "displs"
+        ],
+        "description": "displs (Matlab Wavelet method)"
+    },
+    "drawtree": {
+        "prefix": "drawtree",
+        "body": [
+            "drawtree"
+        ],
+        "description": "drawtree (Matlab Wavelet method)"
+    },
+    "dtfilters": {
+        "prefix": "dtfilters",
+        "body": [
+            "dtfilters"
+        ],
+        "description": "dtfilters (Matlab Wavelet method)"
+    },
+    "dtree": {
+        "prefix": "dtree",
+        "body": [
+            "dtree"
+        ],
+        "description": "dtree (Matlab Wavelet method)"
+    },
+    "dwt": {
+        "prefix": "dwt",
+        "body": [
+            "dwt"
+        ],
+        "description": "dwt (Matlab Wavelet method)"
+    },
+    "dwt2": {
+        "prefix": "dwt2",
+        "body": [
+            "dwt2"
+        ],
+        "description": "dwt2 (Matlab Wavelet method)"
+    },
+    "dwt3": {
+        "prefix": "dwt3",
+        "body": [
+            "dwt3"
+        ],
+        "description": "dwt3 (Matlab Wavelet method)"
+    },
+    "dwtmode": {
+        "prefix": "dwtmode",
+        "body": [
+            "dwtmode"
+        ],
+        "description": "dwtmode (Matlab Wavelet method)"
+    },
+    "dyaddown": {
+        "prefix": "dyaddown",
+        "body": [
+            "dyaddown"
+        ],
+        "description": "dyaddown (Matlab Wavelet method)"
+    },
+    "dyadup": {
+        "prefix": "dyadup",
+        "body": [
+            "dyadup"
+        ],
+        "description": "dyadup (Matlab Wavelet method)"
+    },
+    "entrupd": {
+        "prefix": "entrupd",
+        "body": [
+            "entrupd"
+        ],
+        "description": "entrupd (Matlab Wavelet method)"
+    },
+    "fbspwavf": {
+        "prefix": "fbspwavf",
+        "body": [
+            "fbspwavf"
+        ],
+        "description": "fbspwavf (Matlab Wavelet method)"
+    },
+    "fejerkorovkin": {
+        "prefix": "fejerkorovkin",
+        "body": [
+            "fejerkorovkin"
+        ],
+        "description": "fejerkorovkin (Matlab Wavelet method)"
+    },
+    "filt2ls": {
+        "prefix": "filt2ls",
+        "body": [
+            "filt2ls"
+        ],
+        "description": "filt2ls (Matlab Wavelet method)"
+    },
+    "gauswavf": {
+        "prefix": "gauswavf",
+        "body": [
+            "gauswavf"
+        ],
+        "description": "gauswavf (Matlab Wavelet method)"
+    },
+    "icwtft": {
+        "prefix": "icwtft",
+        "body": [
+            "icwtft"
+        ],
+        "description": "icwtft (Matlab Wavelet method)"
+    },
+    "icwtlin": {
+        "prefix": "icwtlin",
+        "body": [
+            "icwtlin"
+        ],
+        "description": "icwtlin (Matlab Wavelet method)"
+    },
+    "idddtree": {
+        "prefix": "idddtree",
+        "body": [
+            "idddtree"
+        ],
+        "description": "idddtree (Matlab Wavelet method)"
+    },
+    "idddtree2": {
+        "prefix": "idddtree2",
+        "body": [
+            "idddtree2"
+        ],
+        "description": "idddtree2 (Matlab Wavelet method)"
+    },
+    "idwt": {
+        "prefix": "idwt",
+        "body": [
+            "idwt"
+        ],
+        "description": "idwt (Matlab Wavelet method)"
+    },
+    "idwt2": {
+        "prefix": "idwt2",
+        "body": [
+            "idwt2"
+        ],
+        "description": "idwt2 (Matlab Wavelet method)"
+    },
+    "idwt3": {
+        "prefix": "idwt3",
+        "body": [
+            "idwt3"
+        ],
+        "description": "idwt3 (Matlab Wavelet method)"
+    },
+    "ilwt": {
+        "prefix": "ilwt",
+        "body": [
+            "ilwt"
+        ],
+        "description": "ilwt (Matlab Wavelet method)"
+    },
+    "ilwt2": {
+        "prefix": "ilwt2",
+        "body": [
+            "ilwt2"
+        ],
+        "description": "ilwt2 (Matlab Wavelet method)"
+    },
+    "imodwt": {
+        "prefix": "imodwt",
+        "body": [
+            "imodwt"
+        ],
+        "description": "imodwt (Matlab Wavelet method)"
+    },
+    "ind2depo": {
+        "prefix": "ind2depo",
+        "body": [
+            "ind2depo"
+        ],
+        "description": "ind2depo (Matlab Wavelet method)"
+    },
+    "intwave": {
+        "prefix": "intwave",
+        "body": [
+            "intwave"
+        ],
+        "description": "intwave (Matlab Wavelet method)"
+    },
+    "isnode": {
+        "prefix": "isnode",
+        "body": [
+            "isnode"
+        ],
+        "description": "isnode (Matlab Wavelet method)"
+    },
+    "istnode": {
+        "prefix": "istnode",
+        "body": [
+            "istnode"
+        ],
+        "description": "istnode (Matlab Wavelet method)"
+    },
+    "iswt": {
+        "prefix": "iswt",
+        "body": [
+            "iswt"
+        ],
+        "description": "iswt (Matlab Wavelet method)"
+    },
+    "iswt2": {
+        "prefix": "iswt2",
+        "body": [
+            "iswt2"
+        ],
+        "description": "iswt2 (Matlab Wavelet method)"
+    },
+    "laurmat": {
+        "prefix": "laurmat",
+        "body": [
+            "laurmat"
+        ],
+        "description": "laurmat (Matlab Wavelet method)"
+    },
+    "laurpoly": {
+        "prefix": "laurpoly",
+        "body": [
+            "laurpoly"
+        ],
+        "description": "laurpoly (Matlab Wavelet method)"
+    },
+    "leaves": {
+        "prefix": "leaves",
+        "body": [
+            "leaves"
+        ],
+        "description": "leaves (Matlab Wavelet method)"
+    },
+    "liftfilt": {
+        "prefix": "liftfilt",
+        "body": [
+            "liftfilt"
+        ],
+        "description": "liftfilt (Matlab Wavelet method)"
+    },
+    "liftwave": {
+        "prefix": "liftwave",
+        "body": [
+            "liftwave"
+        ],
+        "description": "liftwave (Matlab Wavelet method)"
+    },
+    "localmax": {
+        "prefix": "localmax",
+        "body": [
+            "localmax"
+        ],
+        "description": "localmax (Matlab Wavelet method)"
+    },
+    "ls2filt": {
+        "prefix": "ls2filt",
+        "body": [
+            "ls2filt"
+        ],
+        "description": "ls2filt (Matlab Wavelet method)"
+    },
+    "lsinfo": {
+        "prefix": "lsinfo",
+        "body": [
+            "lsinfo"
+        ],
+        "description": "lsinfo (Matlab Wavelet method)"
+    },
+    "lwt": {
+        "prefix": "lwt",
+        "body": [
+            "lwt"
+        ],
+        "description": "lwt (Matlab Wavelet method)"
+    },
+    "lwt2": {
+        "prefix": "lwt2",
+        "body": [
+            "lwt2"
+        ],
+        "description": "lwt2 (Matlab Wavelet method)"
+    },
+    "lwtcoef": {
+        "prefix": "lwtcoef",
+        "body": [
+            "lwtcoef"
+        ],
+        "description": "lwtcoef (Matlab Wavelet method)"
+    },
+    "lwtcoef2": {
+        "prefix": "lwtcoef2",
+        "body": [
+            "lwtcoef2"
+        ],
+        "description": "lwtcoef2 (Matlab Wavelet method)"
+    },
+    "mdwtcluster": {
+        "prefix": "mdwtcluster",
+        "body": [
+            "mdwtcluster"
+        ],
+        "description": "mdwtcluster (Matlab Wavelet method)"
+    },
+    "mdwtdec": {
+        "prefix": "mdwtdec",
+        "body": [
+            "mdwtdec"
+        ],
+        "description": "mdwtdec (Matlab Wavelet method)"
+    },
+    "mdwtrec": {
+        "prefix": "mdwtrec",
+        "body": [
+            "mdwtrec"
+        ],
+        "description": "mdwtrec (Matlab Wavelet method)"
+    },
+    "measerr": {
+        "prefix": "measerr",
+        "body": [
+            "measerr"
+        ],
+        "description": "measerr (Matlab Wavelet method)"
+    },
+    "mexihat": {
+        "prefix": "mexihat",
+        "body": [
+            "mexihat"
+        ],
+        "description": "mexihat (Matlab Wavelet method)"
+    },
+    "meyer": {
+        "prefix": "meyer",
+        "body": [
+            "meyer"
+        ],
+        "description": "meyer (Matlab Wavelet method)"
+    },
+    "meyeraux": {
+        "prefix": "meyeraux",
+        "body": [
+            "meyeraux"
+        ],
+        "description": "meyeraux (Matlab Wavelet method)"
+    },
+    "modwt": {
+        "prefix": "modwt",
+        "body": [
+            "modwt"
+        ],
+        "description": "modwt (Matlab Wavelet method)"
+    },
+    "modwtcorr": {
+        "prefix": "modwtcorr",
+        "body": [
+            "modwtcorr"
+        ],
+        "description": "modwtcorr (Matlab Wavelet method)"
+    },
+    "modwtmra": {
+        "prefix": "modwtmra",
+        "body": [
+            "modwtmra"
+        ],
+        "description": "modwtmra (Matlab Wavelet method)"
+    },
+    "modwtvar": {
+        "prefix": "modwtvar",
+        "body": [
+            "modwtvar"
+        ],
+        "description": "modwtvar (Matlab Wavelet method)"
+    },
+    "modwtxcorr": {
+        "prefix": "modwtxcorr",
+        "body": [
+            "modwtxcorr"
+        ],
+        "description": "modwtxcorr (Matlab Wavelet method)"
+    },
+    "morlet": {
+        "prefix": "morlet",
+        "body": [
+            "morlet"
+        ],
+        "description": "morlet (Matlab Wavelet method)"
+    },
+    "mswcmp": {
+        "prefix": "mswcmp",
+        "body": [
+            "mswcmp"
+        ],
+        "description": "mswcmp (Matlab Wavelet method)"
+    },
+    "mswcmpscr": {
+        "prefix": "mswcmpscr",
+        "body": [
+            "mswcmpscr"
+        ],
+        "description": "mswcmpscr (Matlab Wavelet method)"
+    },
+    "mswcmptp": {
+        "prefix": "mswcmptp",
+        "body": [
+            "mswcmptp"
+        ],
+        "description": "mswcmptp (Matlab Wavelet method)"
+    },
+    "mswden": {
+        "prefix": "mswden",
+        "body": [
+            "mswden"
+        ],
+        "description": "mswden (Matlab Wavelet method)"
+    },
+    "mswthresh": {
+        "prefix": "mswthresh",
+        "body": [
+            "mswthresh"
+        ],
+        "description": "mswthresh (Matlab Wavelet method)"
+    },
+    "nodeasc": {
+        "prefix": "nodeasc",
+        "body": [
+            "nodeasc"
+        ],
+        "description": "nodeasc (Matlab Wavelet method)"
+    },
+    "nodedesc": {
+        "prefix": "nodedesc",
+        "body": [
+            "nodedesc"
+        ],
+        "description": "nodedesc (Matlab Wavelet method)"
+    },
+    "nodejoin": {
+        "prefix": "nodejoin",
+        "body": [
+            "nodejoin"
+        ],
+        "description": "nodejoin (Matlab Wavelet method)"
+    },
+    "nodepar": {
+        "prefix": "nodepar",
+        "body": [
+            "nodepar"
+        ],
+        "description": "nodepar (Matlab Wavelet method)"
+    },
+    "nodesplt": {
+        "prefix": "nodesplt",
+        "body": [
+            "nodesplt"
+        ],
+        "description": "nodesplt (Matlab Wavelet method)"
+    },
+    "noleaves": {
+        "prefix": "noleaves",
+        "body": [
+            "noleaves"
+        ],
+        "description": "noleaves (Matlab Wavelet method)"
+    },
+    "ntnode": {
+        "prefix": "ntnode",
+        "body": [
+            "ntnode"
+        ],
+        "description": "ntnode (Matlab Wavelet method)"
+    },
+    "ntree": {
+        "prefix": "ntree",
+        "body": [
+            "ntree"
+        ],
+        "description": "ntree (Matlab Wavelet method)"
+    },
+    "orthfilt": {
+        "prefix": "orthfilt",
+        "body": [
+            "orthfilt"
+        ],
+        "description": "orthfilt (Matlab Wavelet method)"
+    },
+    "otnodes": {
+        "prefix": "otnodes",
+        "body": [
+            "otnodes"
+        ],
+        "description": "otnodes (Matlab Wavelet method)"
+    },
+    "pat2cwav": {
+        "prefix": "pat2cwav",
+        "body": [
+            "pat2cwav"
+        ],
+        "description": "pat2cwav (Matlab Wavelet method)"
+    },
+    "plotdt": {
+        "prefix": "plotdt",
+        "body": [
+            "plotdt"
+        ],
+        "description": "plotdt (Matlab Wavelet method)"
+    },
+    "qmf": {
+        "prefix": "qmf",
+        "body": [
+            "qmf"
+        ],
+        "description": "qmf (Matlab Wavelet method)"
+    },
+    "rbiowavf": {
+        "prefix": "rbiowavf",
+        "body": [
+            "rbiowavf"
+        ],
+        "description": "rbiowavf (Matlab Wavelet method)"
+    },
+    "readtree": {
+        "prefix": "readtree",
+        "body": [
+            "readtree"
+        ],
+        "description": "readtree (Matlab Wavelet method)"
+    },
+    "scal2frq": {
+        "prefix": "scal2frq",
+        "body": [
+            "scal2frq"
+        ],
+        "description": "scal2frq (Matlab Wavelet method)"
+    },
+    "shanwavf": {
+        "prefix": "shanwavf",
+        "body": [
+            "shanwavf"
+        ],
+        "description": "shanwavf (Matlab Wavelet method)"
+    },
+    "swt": {
+        "prefix": "swt",
+        "body": [
+            "swt"
+        ],
+        "description": "swt (Matlab Wavelet method)"
+    },
+    "swt2": {
+        "prefix": "swt2",
+        "body": [
+            "swt2"
+        ],
+        "description": "swt2 (Matlab Wavelet method)"
+    },
+    "symaux": {
+        "prefix": "symaux",
+        "body": [
+            "symaux"
+        ],
+        "description": "symaux (Matlab Wavelet method)"
+    },
+    "symwavf": {
+        "prefix": "symwavf",
+        "body": [
+            "symwavf"
+        ],
+        "description": "symwavf (Matlab Wavelet method)"
+    },
+    "thselect": {
+        "prefix": "thselect",
+        "body": [
+            "thselect"
+        ],
+        "description": "thselect (Matlab Wavelet method)"
+    },
+    "tnodes": {
+        "prefix": "tnodes",
+        "body": [
+            "tnodes"
+        ],
+        "description": "tnodes (Matlab Wavelet method)"
+    },
+    "treedpth": {
+        "prefix": "treedpth",
+        "body": [
+            "treedpth"
+        ],
+        "description": "treedpth (Matlab Wavelet method)"
+    },
+    "treeord": {
+        "prefix": "treeord",
+        "body": [
+            "treeord"
+        ],
+        "description": "treeord (Matlab Wavelet method)"
+    },
+    "upcoef": {
+        "prefix": "upcoef",
+        "body": [
+            "upcoef"
+        ],
+        "description": "upcoef (Matlab Wavelet method)"
+    },
+    "upcoef2": {
+        "prefix": "upcoef2",
+        "body": [
+            "upcoef2"
+        ],
+        "description": "upcoef2 (Matlab Wavelet method)"
+    },
+    "upwlev": {
+        "prefix": "upwlev",
+        "body": [
+            "upwlev"
+        ],
+        "description": "upwlev (Matlab Wavelet method)"
+    },
+    "upwlev2": {
+        "prefix": "upwlev2",
+        "body": [
+            "upwlev2"
+        ],
+        "description": "upwlev2 (Matlab Wavelet method)"
+    },
+    "wave2lp": {
+        "prefix": "wave2lp",
+        "body": [
+            "wave2lp"
+        ],
+        "description": "wave2lp (Matlab Wavelet method)"
+    },
+    "wavedec": {
+        "prefix": "wavedec",
+        "body": [
+            "wavedec"
+        ],
+        "description": "wavedec (Matlab Wavelet method)"
+    },
+    "wavedec2": {
+        "prefix": "wavedec2",
+        "body": [
+            "wavedec2"
+        ],
+        "description": "wavedec2 (Matlab Wavelet method)"
+    },
+    "wavedec3": {
+        "prefix": "wavedec3",
+        "body": [
+            "wavedec3"
+        ],
+        "description": "wavedec3 (Matlab Wavelet method)"
+    },
+    "wavefun": {
+        "prefix": "wavefun",
+        "body": [
+            "wavefun"
+        ],
+        "description": "wavefun (Matlab Wavelet method)"
+    },
+    "wavefun2": {
+        "prefix": "wavefun2",
+        "body": [
+            "wavefun2"
+        ],
+        "description": "wavefun2 (Matlab Wavelet method)"
+    },
+    "waveinfo": {
+        "prefix": "waveinfo",
+        "body": [
+            "waveinfo"
+        ],
+        "description": "waveinfo (Matlab Wavelet method)"
+    },
+    "waveletfamilies": {
+        "prefix": "waveletfamilies",
+        "body": [
+            "waveletfamilies"
+        ],
+        "description": "waveletfamilies (Matlab Wavelet method)"
+    },
+    "wavemenu": {
+        "prefix": "wavemenu",
+        "body": [
+            "wavemenu"
+        ],
+        "description": "wavemenu (Matlab Wavelet method)"
+    },
+    "wavemngr": {
+        "prefix": "wavemngr",
+        "body": [
+            "wavemngr"
+        ],
+        "description": "wavemngr (Matlab Wavelet method)"
+    },
+    "wavenames": {
+        "prefix": "wavenames",
+        "body": [
+            "wavenames"
+        ],
+        "description": "wavenames (Matlab Wavelet method)"
+    },
+    "waverec": {
+        "prefix": "waverec",
+        "body": [
+            "waverec"
+        ],
+        "description": "waverec (Matlab Wavelet method)"
+    },
+    "waverec2": {
+        "prefix": "waverec2",
+        "body": [
+            "waverec2"
+        ],
+        "description": "waverec2 (Matlab Wavelet method)"
+    },
+    "waverec3": {
+        "prefix": "waverec3",
+        "body": [
+            "waverec3"
+        ],
+        "description": "waverec3 (Matlab Wavelet method)"
+    },
+    "wavsupport": {
+        "prefix": "wavsupport",
+        "body": [
+            "wavsupport"
+        ],
+        "description": "wavsupport (Matlab Wavelet method)"
+    },
+    "wbmpen": {
+        "prefix": "wbmpen",
+        "body": [
+            "wbmpen"
+        ],
+        "description": "wbmpen (Matlab Wavelet method)"
+    },
+    "wcodemat": {
+        "prefix": "wcodemat",
+        "body": [
+            "wcodemat"
+        ],
+        "description": "wcodemat (Matlab Wavelet method)"
+    },
+    "wcoher": {
+        "prefix": "wcoher",
+        "body": [
+            "wcoher"
+        ],
+        "description": "wcoher (Matlab Wavelet method)"
+    },
+    "wcompress": {
+        "prefix": "wcompress",
+        "body": [
+            "wcompress"
+        ],
+        "description": "wcompress (Matlab Wavelet method)"
+    },
+    "wdcbm": {
+        "prefix": "wdcbm",
+        "body": [
+            "wdcbm"
+        ],
+        "description": "wdcbm (Matlab Wavelet method)"
+    },
+    "wdcbm2": {
+        "prefix": "wdcbm2",
+        "body": [
+            "wdcbm2"
+        ],
+        "description": "wdcbm2 (Matlab Wavelet method)"
+    },
+    "wdecenergy": {
+        "prefix": "wdecenergy",
+        "body": [
+            "wdecenergy"
+        ],
+        "description": "wdecenergy (Matlab Wavelet method)"
+    },
+    "wden": {
+        "prefix": "wden",
+        "body": [
+            "wden"
+        ],
+        "description": "wden (Matlab Wavelet method)"
+    },
+    "wdencmp": {
+        "prefix": "wdencmp",
+        "body": [
+            "wdencmp"
+        ],
+        "description": "wdencmp (Matlab Wavelet method)"
+    },
+    "wenergy": {
+        "prefix": "wenergy",
+        "body": [
+            "wenergy"
+        ],
+        "description": "wenergy (Matlab Wavelet method)"
+    },
+    "wenergy2": {
+        "prefix": "wenergy2",
+        "body": [
+            "wenergy2"
+        ],
+        "description": "wenergy2 (Matlab Wavelet method)"
+    },
+    "wentropy": {
+        "prefix": "wentropy",
+        "body": [
+            "wentropy"
+        ],
+        "description": "wentropy (Matlab Wavelet method)"
+    },
+    "wextend": {
+        "prefix": "wextend",
+        "body": [
+            "wextend"
+        ],
+        "description": "wextend (Matlab Wavelet method)"
+    },
+    "wfbm": {
+        "prefix": "wfbm",
+        "body": [
+            "wfbm"
+        ],
+        "description": "wfbm (Matlab Wavelet method)"
+    },
+    "wfbmesti": {
+        "prefix": "wfbmesti",
+        "body": [
+            "wfbmesti"
+        ],
+        "description": "wfbmesti (Matlab Wavelet method)"
+    },
+    "wfilters": {
+        "prefix": "wfilters",
+        "body": [
+            "wfilters"
+        ],
+        "description": "wfilters (Matlab Wavelet method)"
+    },
+    "wfusimg": {
+        "prefix": "wfusimg",
+        "body": [
+            "wfusimg"
+        ],
+        "description": "wfusimg (Matlab Wavelet method)"
+    },
+    "wfusmat": {
+        "prefix": "wfusmat",
+        "body": [
+            "wfusmat"
+        ],
+        "description": "wfusmat (Matlab Wavelet method)"
+    },
+    "wkeep": {
+        "prefix": "wkeep",
+        "body": [
+            "wkeep"
+        ],
+        "description": "wkeep (Matlab Wavelet method)"
+    },
+    "wmaxlev": {
+        "prefix": "wmaxlev",
+        "body": [
+            "wmaxlev"
+        ],
+        "description": "wmaxlev (Matlab Wavelet method)"
+    },
+    "wmpalg": {
+        "prefix": "wmpalg",
+        "body": [
+            "wmpalg"
+        ],
+        "description": "wmpalg (Matlab Wavelet method)"
+    },
+    "wmpdictionary": {
+        "prefix": "wmpdictionary",
+        "body": [
+            "wmpdictionary"
+        ],
+        "description": "wmpdictionary (Matlab Wavelet method)"
+    },
+    "wmspca": {
+        "prefix": "wmspca",
+        "body": [
+            "wmspca"
+        ],
+        "description": "wmspca (Matlab Wavelet method)"
+    },
+    "wmulden": {
+        "prefix": "wmulden",
+        "body": [
+            "wmulden"
+        ],
+        "description": "wmulden (Matlab Wavelet method)"
+    },
+    "wnoise": {
+        "prefix": "wnoise",
+        "body": [
+            "wnoise"
+        ],
+        "description": "wnoise (Matlab Wavelet method)"
+    },
+    "wnoisest": {
+        "prefix": "wnoisest",
+        "body": [
+            "wnoisest"
+        ],
+        "description": "wnoisest (Matlab Wavelet method)"
+    },
+    "wp2wtree": {
+        "prefix": "wp2wtree",
+        "body": [
+            "wp2wtree"
+        ],
+        "description": "wp2wtree (Matlab Wavelet method)"
+    },
+    "wpbmpen": {
+        "prefix": "wpbmpen",
+        "body": [
+            "wpbmpen"
+        ],
+        "description": "wpbmpen (Matlab Wavelet method)"
+    },
+    "wpcoef": {
+        "prefix": "wpcoef",
+        "body": [
+            "wpcoef"
+        ],
+        "description": "wpcoef (Matlab Wavelet method)"
+    },
+    "wpcutree": {
+        "prefix": "wpcutree",
+        "body": [
+            "wpcutree"
+        ],
+        "description": "wpcutree (Matlab Wavelet method)"
+    },
+    "wpdec": {
+        "prefix": "wpdec",
+        "body": [
+            "wpdec"
+        ],
+        "description": "wpdec (Matlab Wavelet method)"
+    },
+    "wpdec2": {
+        "prefix": "wpdec2",
+        "body": [
+            "wpdec2"
+        ],
+        "description": "wpdec2 (Matlab Wavelet method)"
+    },
+    "wpdencmp": {
+        "prefix": "wpdencmp",
+        "body": [
+            "wpdencmp"
+        ],
+        "description": "wpdencmp (Matlab Wavelet method)"
+    },
+    "wpfun": {
+        "prefix": "wpfun",
+        "body": [
+            "wpfun"
+        ],
+        "description": "wpfun (Matlab Wavelet method)"
+    },
+    "wpjoin": {
+        "prefix": "wpjoin",
+        "body": [
+            "wpjoin"
+        ],
+        "description": "wpjoin (Matlab Wavelet method)"
+    },
+    "wprcoef": {
+        "prefix": "wprcoef",
+        "body": [
+            "wprcoef"
+        ],
+        "description": "wprcoef (Matlab Wavelet method)"
+    },
+    "wprec": {
+        "prefix": "wprec",
+        "body": [
+            "wprec"
+        ],
+        "description": "wprec (Matlab Wavelet method)"
+    },
+    "wprec2": {
+        "prefix": "wprec2",
+        "body": [
+            "wprec2"
+        ],
+        "description": "wprec2 (Matlab Wavelet method)"
+    },
+    "wpspectrum": {
+        "prefix": "wpspectrum",
+        "body": [
+            "wpspectrum"
+        ],
+        "description": "wpspectrum (Matlab Wavelet method)"
+    },
+    "wpsplt": {
+        "prefix": "wpsplt",
+        "body": [
+            "wpsplt"
+        ],
+        "description": "wpsplt (Matlab Wavelet method)"
+    },
+    "wpthcoef": {
+        "prefix": "wpthcoef",
+        "body": [
+            "wpthcoef"
+        ],
+        "description": "wpthcoef (Matlab Wavelet method)"
+    },
+    "wptree": {
+        "prefix": "wptree",
+        "body": [
+            "wptree"
+        ],
+        "description": "wptree (Matlab Wavelet method)"
+    },
+    "wpviewcf": {
+        "prefix": "wpviewcf",
+        "body": [
+            "wpviewcf"
+        ],
+        "description": "wpviewcf (Matlab Wavelet method)"
+    },
+    "wrcoef": {
+        "prefix": "wrcoef",
+        "body": [
+            "wrcoef"
+        ],
+        "description": "wrcoef (Matlab Wavelet method)"
+    },
+    "wrcoef2": {
+        "prefix": "wrcoef2",
+        "body": [
+            "wrcoef2"
+        ],
+        "description": "wrcoef2 (Matlab Wavelet method)"
+    },
+    "wrev": {
+        "prefix": "wrev",
+        "body": [
+            "wrev"
+        ],
+        "description": "wrev (Matlab Wavelet method)"
+    },
+    "wscalogram": {
+        "prefix": "wscalogram",
+        "body": [
+            "wscalogram"
+        ],
+        "description": "wscalogram (Matlab Wavelet method)"
+    },
+    "wtbo": {
+        "prefix": "wtbo",
+        "body": [
+            "wtbo"
+        ],
+        "description": "wtbo (Matlab Wavelet method)"
+    },
+    "wthcoef": {
+        "prefix": "wthcoef",
+        "body": [
+            "wthcoef"
+        ],
+        "description": "wthcoef (Matlab Wavelet method)"
+    },
+    "wthcoef2": {
+        "prefix": "wthcoef2",
+        "body": [
+            "wthcoef2"
+        ],
+        "description": "wthcoef2 (Matlab Wavelet method)"
+    },
+    "wthresh": {
+        "prefix": "wthresh",
+        "body": [
+            "wthresh"
+        ],
+        "description": "wthresh (Matlab Wavelet method)"
+    },
+    "wthrmngr": {
+        "prefix": "wthrmngr",
+        "body": [
+            "wthrmngr"
+        ],
+        "description": "wthrmngr (Matlab Wavelet method)"
+    },
+    "wtreemgr": {
+        "prefix": "wtreemgr",
+        "body": [
+            "wtreemgr"
+        ],
+        "description": "wtreemgr (Matlab Wavelet method)"
+    },
+    "wvarchg": {
+        "prefix": "wvarchg",
+        "body": [
+            "wvarchg"
+        ],
+        "description": "wvarchg (Matlab Wavelet method)"
+    }
+}

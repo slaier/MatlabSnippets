@@ -1,0 +1,58 @@
+{
+	"HullWhite1F": {
+		"prefix": "HullWhite1F",
+		"body": [
+			"HullWhite1F"
+		],
+		"description": "HullWhite1F (Matlab FinInst class)"
+	},
+	"IRBootstrapOptions": {
+		"prefix": "IRBootstrapOptions",
+		"body": [
+			"IRBootstrapOptions"
+		],
+		"description": "IRBootstrapOptions (Matlab FinInst class)"
+	},
+	"IRDataCurve": {
+		"prefix": "IRDataCurve",
+		"body": [
+			"IRDataCurve"
+		],
+		"description": "IRDataCurve (Matlab FinInst class)"
+	},
+	"IRFitOptions": {
+		"prefix": "IRFitOptions",
+		"body": [
+			"IRFitOptions"
+		],
+		"description": "IRFitOptions (Matlab FinInst class)"
+	},
+	"IRFunctionCurve": {
+		"prefix": "IRFunctionCurve",
+		"body": [
+			"IRFunctionCurve"
+		],
+		"description": "IRFunctionCurve (Matlab FinInst class)"
+	},
+	"LiborMarketModel": {
+		"prefix": "LiborMarketModel",
+		"body": [
+			"LiborMarketModel"
+		],
+		"description": "LiborMarketModel (Matlab FinInst class)"
+	},
+	"LinearGaussian2F": {
+		"prefix": "LinearGaussian2F",
+		"body": [
+			"LinearGaussian2F"
+		],
+		"description": "LinearGaussian2F (Matlab FinInst class)"
+	},
+	"numerix": {
+		"prefix": "numerix",
+		"body": [
+			"numerix"
+		],
+		"description": "numerix (Matlab FinInst class)"
+	}
+}

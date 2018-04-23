@@ -1,0 +1,352 @@
+{
+	"addric": {
+		"prefix": "addric",
+		"body": [
+			"addric"
+		],
+		"description": "addric (Matlab DataFeed method)"
+	},
+	"aggregation": {
+		"prefix": "aggregation",
+		"body": [
+			"aggregation"
+		],
+		"description": "aggregation (Matlab DataFeed method)"
+	},
+	"bdl": {
+		"prefix": "bdl",
+		"body": [
+			"bdl"
+		],
+		"description": "bdl (Matlab DataFeed method)"
+	},
+	"blp": {
+		"prefix": "blp",
+		"body": [
+			"blp"
+		],
+		"description": "blp (Matlab DataFeed method)"
+	},
+	"blpsrv": {
+		"prefix": "blpsrv",
+		"body": [
+			"blpsrv"
+		],
+		"description": "blpsrv (Matlab DataFeed method)"
+	},
+	"bpipe": {
+		"prefix": "bpipe",
+		"body": [
+			"bpipe"
+		],
+		"description": "bpipe (Matlab DataFeed method)"
+	},
+	"builduniverse": {
+		"prefix": "builduniverse",
+		"body": [
+			"builduniverse"
+		],
+		"description": "builduniverse (Matlab DataFeed method)"
+	},
+	"chain": {
+		"prefix": "chain",
+		"body": [
+			"chain"
+		],
+		"description": "chain (Matlab DataFeed method)"
+	},
+	"contrib": {
+		"prefix": "contrib",
+		"body": [
+			"contrib"
+		],
+		"description": "contrib (Matlab DataFeed method)"
+	},
+	"datastream": {
+		"prefix": "datastream",
+		"body": [
+			"datastream"
+		],
+		"description": "datastream (Matlab DataFeed method)"
+	},
+	"deleteric": {
+		"prefix": "deleteric",
+		"body": [
+			"deleteric"
+		],
+		"description": "deleteric (Matlab DataFeed method)"
+	},
+	"dftool": {
+		"prefix": "dftool",
+		"body": [
+			"dftool"
+		],
+		"description": "dftool (Matlab DataFeed method)"
+	},
+	"entitlements": {
+		"prefix": "entitlements",
+		"body": [
+			"entitlements"
+		],
+		"description": "entitlements (Matlab DataFeed method)"
+	},
+	"eqs": {
+		"prefix": "eqs",
+		"body": [
+			"eqs"
+		],
+		"description": "eqs (Matlab DataFeed method)"
+	},
+	"esig": {
+		"prefix": "esig",
+		"body": [
+			"esig"
+		],
+		"description": "esig (Matlab DataFeed method)"
+	},
+	"factset": {
+		"prefix": "factset",
+		"body": [
+			"factset"
+		],
+		"description": "factset (Matlab DataFeed method)"
+	},
+	"fds": {
+		"prefix": "fds",
+		"body": [
+			"fds"
+		],
+		"description": "fds (Matlab DataFeed method)"
+	},
+	"fieldinfo": {
+		"prefix": "fieldinfo",
+		"body": [
+			"fieldinfo"
+		],
+		"description": "fieldinfo (Matlab DataFeed method)"
+	},
+	"fieldsearch": {
+		"prefix": "fieldsearch",
+		"body": [
+			"fieldsearch"
+		],
+		"description": "fieldsearch (Matlab DataFeed method)"
+	},
+	"fred": {
+		"prefix": "fred",
+		"body": [
+			"fred"
+		],
+		"description": "fred (Matlab DataFeed method)"
+	},
+	"getbulkdata": {
+		"prefix": "getbulkdata",
+		"body": [
+			"getbulkdata"
+		],
+		"description": "getbulkdata (Matlab DataFeed method)"
+	},
+	"getfundamentaldata": {
+		"prefix": "getfundamentaldata",
+		"body": [
+			"getfundamentaldata"
+		],
+		"description": "getfundamentaldata (Matlab DataFeed method)"
+	},
+	"haver": {
+		"prefix": "haver",
+		"body": [
+			"haver"
+		],
+		"description": "haver (Matlab DataFeed method)"
+	},
+	"havertool": {
+		"prefix": "havertool",
+		"body": [
+			"havertool"
+		],
+		"description": "havertool (Matlab DataFeed method)"
+	},
+	"history": {
+		"prefix": "history",
+		"body": [
+			"history"
+		],
+		"description": "history (Matlab DataFeed method)"
+	},
+	"idc": {
+		"prefix": "idc",
+		"body": [
+			"idc"
+		],
+		"description": "idc (Matlab DataFeed method)"
+	},
+	"iqf": {
+		"prefix": "iqf",
+		"body": [
+			"iqf"
+		],
+		"description": "iqf (Matlab DataFeed method)"
+	},
+	"kx": {
+		"prefix": "kx",
+		"body": [
+			"kx"
+		],
+		"description": "kx (Matlab DataFeed method)"
+	},
+	"lookup": {
+		"prefix": "lookup",
+		"body": [
+			"lookup"
+		],
+		"description": "lookup (Matlab DataFeed method)"
+	},
+	"marketdepth": {
+		"prefix": "marketdepth",
+		"body": [
+			"marketdepth"
+		],
+		"description": "marketdepth (Matlab DataFeed method)"
+	},
+	"news": {
+		"prefix": "news",
+		"body": [
+			"news"
+		],
+		"description": "news (Matlab DataFeed method)"
+	},
+	"nextinfo": {
+		"prefix": "nextinfo",
+		"body": [
+			"nextinfo"
+		],
+		"description": "nextinfo (Matlab DataFeed method)"
+	},
+	"portfolio": {
+		"prefix": "portfolio",
+		"body": [
+			"portfolio"
+		],
+		"description": "portfolio (Matlab DataFeed method)"
+	},
+	"ravenpack": {
+		"prefix": "ravenpack",
+		"body": [
+			"ravenpack"
+		],
+		"description": "ravenpack (Matlab DataFeed method)"
+	},
+	"rdth": {
+		"prefix": "rdth",
+		"body": [
+			"rdth"
+		],
+		"description": "rdth (Matlab DataFeed method)"
+	},
+	"rdthloader": {
+		"prefix": "rdthloader",
+		"body": [
+			"rdthloader"
+		],
+		"description": "rdthloader (Matlab DataFeed method)"
+	},
+	"realtime": {
+		"prefix": "realtime",
+		"body": [
+			"realtime"
+		],
+		"description": "realtime (Matlab DataFeed method)"
+	},
+	"reuters": {
+		"prefix": "reuters",
+		"body": [
+			"reuters"
+		],
+		"description": "reuters (Matlab DataFeed method)"
+	},
+	"rmdsconfig": {
+		"prefix": "rmdsconfig",
+		"body": [
+			"rmdsconfig"
+		],
+		"description": "rmdsconfig (Matlab DataFeed method)"
+	},
+	"rnseloader": {
+		"prefix": "rnseloader",
+		"body": [
+			"rnseloader"
+		],
+		"description": "rnseloader (Matlab DataFeed method)"
+	},
+	"rploader": {
+		"prefix": "rploader",
+		"body": [
+			"rploader"
+		],
+		"description": "rploader (Matlab DataFeed method)"
+	},
+	"status": {
+		"prefix": "status",
+		"body": [
+			"status"
+		],
+		"description": "status (Matlab DataFeed method)"
+	},
+	"submitftp": {
+		"prefix": "submitftp",
+		"body": [
+			"submitftp"
+		],
+		"description": "submitftp (Matlab DataFeed method)"
+	},
+	"tahistory": {
+		"prefix": "tahistory",
+		"body": [
+			"tahistory"
+		],
+		"description": "tahistory (Matlab DataFeed method)"
+	},
+	"tkfieldtoid": {
+		"prefix": "tkfieldtoid",
+		"body": [
+			"tkfieldtoid"
+		],
+		"description": "tkfieldtoid (Matlab DataFeed method)"
+	},
+	"tkidtofield": {
+		"prefix": "tkidtofield",
+		"body": [
+			"tkidtofield"
+		],
+		"description": "tkidtofield (Matlab DataFeed method)"
+	},
+	"tlkrs": {
+		"prefix": "tlkrs",
+		"body": [
+			"tlkrs"
+		],
+		"description": "tlkrs (Matlab DataFeed method)"
+	},
+	"treikon": {
+		"prefix": "treikon",
+		"body": [
+			"treikon"
+		],
+		"description": "treikon (Matlab DataFeed method)"
+	},
+	"trpdata": {
+		"prefix": "trpdata",
+		"body": [
+			"trpdata"
+		],
+		"description": "trpdata (Matlab DataFeed method)"
+	},
+	"yahoo": {
+		"prefix": "yahoo",
+		"body": [
+			"yahoo"
+		],
+		"description": "yahoo (Matlab DataFeed method)"
+	}
+}

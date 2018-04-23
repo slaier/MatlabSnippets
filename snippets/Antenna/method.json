@@ -1,0 +1,121 @@
+{
+	"EHfields": {
+		"prefix": "EHfields",
+		"body": [
+			"EHfields"
+		],
+		"description": "EHfields (Matlab Antenna method)"
+	},
+	"axialRatio": {
+		"prefix": "axialRatio",
+		"body": [
+			"axialRatio"
+		],
+		"description": "axialRatio (Matlab Antenna method)"
+	},
+	"beamwidth": {
+		"prefix": "beamwidth",
+		"body": [
+			"beamwidth"
+		],
+		"description": "beamwidth (Matlab Antenna method)"
+	},
+	"charge": {
+		"prefix": "charge",
+		"body": [
+			"charge"
+		],
+		"description": "charge (Matlab Antenna method)"
+	},
+	"correlation": {
+		"prefix": "correlation",
+		"body": [
+			"correlation"
+		],
+		"description": "correlation (Matlab Antenna method)"
+	},
+	"current": {
+		"prefix": "current",
+		"body": [
+			"current"
+		],
+		"description": "current (Matlab Antenna method)"
+	},
+	"cylinder2strip": {
+		"prefix": "cylinder2strip",
+		"body": [
+			"cylinder2strip"
+		],
+		"description": "cylinder2strip (Matlab Antenna method)"
+	},
+	"helixpitch2spacing": {
+		"prefix": "helixpitch2spacing",
+		"body": [
+			"helixpitch2spacing"
+		],
+		"description": "helixpitch2spacing (Matlab Antenna method)"
+	},
+	"impedance": {
+		"prefix": "impedance",
+		"body": [
+			"impedance"
+		],
+		"description": "impedance (Matlab Antenna method)"
+	},
+	"meshconfig": {
+		"prefix": "meshconfig",
+		"body": [
+			"meshconfig"
+		],
+		"description": "meshconfig (Matlab Antenna method)"
+	},
+	"pattern": {
+		"prefix": "pattern",
+		"body": [
+			"pattern"
+		],
+		"description": "pattern (Matlab Antenna method)"
+	},
+	"patternAzimuth": {
+		"prefix": "patternAzimuth",
+		"body": [
+			"patternAzimuth"
+		],
+		"description": "patternAzimuth (Matlab Antenna method)"
+	},
+	"patternElevation": {
+		"prefix": "patternElevation",
+		"body": [
+			"patternElevation"
+		],
+		"description": "patternElevation (Matlab Antenna method)"
+	},
+	"returnLoss": {
+		"prefix": "returnLoss",
+		"body": [
+			"returnLoss"
+		],
+		"description": "returnLoss (Matlab Antenna method)"
+	},
+	"show": {
+		"prefix": "show",
+		"body": [
+			"show"
+		],
+		"description": "show (Matlab Antenna method)"
+	},
+	"sparameters": {
+		"prefix": "sparameters",
+		"body": [
+			"sparameters"
+		],
+		"description": "sparameters (Matlab Antenna method)"
+	},
+	"vswr": {
+		"prefix": "vswr",
+		"body": [
+			"vswr"
+		],
+		"description": "vswr (Matlab Antenna method)"
+	}
+}

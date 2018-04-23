@@ -1,0 +1,268 @@
+{
+    "accounts": {
+        "prefix": "accounts",
+        "body": [
+            "accounts"
+        ],
+        "description": "accounts (Matlab Trading method)"
+    },
+    "addListener": {
+        "prefix": "addListener",
+        "body": [
+            "addListener"
+        ],
+        "description": "addListener (Matlab Trading method)"
+    },
+    "contractdetails": {
+        "prefix": "contractdetails",
+        "body": [
+            "contractdetails"
+        ],
+        "description": "contractdetails (Matlab Trading method)"
+    },
+    "cqg": {
+        "prefix": "cqg",
+        "body": [
+            "cqg"
+        ],
+        "description": "cqg (Matlab Trading method)"
+    },
+    "createInstrument": {
+        "prefix": "createInstrument",
+        "body": [
+            "createInstrument"
+        ],
+        "description": "createInstrument (Matlab Trading method)"
+    },
+    "createNotifier": {
+        "prefix": "createNotifier",
+        "body": [
+            "createNotifier"
+        ],
+        "description": "createNotifier (Matlab Trading method)"
+    },
+    "createOrder": {
+        "prefix": "createOrder",
+        "body": [
+            "createOrder"
+        ],
+        "description": "createOrder (Matlab Trading method)"
+    },
+    "createOrderAndRoute": {
+        "prefix": "createOrderAndRoute",
+        "body": [
+            "createOrderAndRoute"
+        ],
+        "description": "createOrderAndRoute (Matlab Trading method)"
+    },
+    "createOrderAndRouteWithStrat": {
+        "prefix": "createOrderAndRouteWithStrat",
+        "body": [
+            "createOrderAndRouteWithStrat"
+        ],
+        "description": "createOrderAndRouteWithStrat (Matlab Trading method)"
+    },
+    "createOrderProfile": {
+        "prefix": "createOrderProfile",
+        "body": [
+            "createOrderProfile"
+        ],
+        "description": "createOrderProfile (Matlab Trading method)"
+    },
+    "createOrderSet": {
+        "prefix": "createOrderSet",
+        "body": [
+            "createOrderSet"
+        ],
+        "description": "createOrderSet (Matlab Trading method)"
+    },
+    "deleteOrder": {
+        "prefix": "deleteOrder",
+        "body": [
+            "deleteOrder"
+        ],
+        "description": "deleteOrder (Matlab Trading method)"
+    },
+    "deleteRoute": {
+        "prefix": "deleteRoute",
+        "body": [
+            "deleteRoute"
+        ],
+        "description": "deleteRoute (Matlab Trading method)"
+    },
+    "emsx": {
+        "prefix": "emsx",
+        "body": [
+            "emsx"
+        ],
+        "description": "emsx (Matlab Trading method)"
+    },
+    "emsxOrderBlotter": {
+        "prefix": "emsxOrderBlotter",
+        "body": [
+            "emsxOrderBlotter"
+        ],
+        "description": "emsxOrderBlotter (Matlab Trading method)"
+    },
+    "executions": {
+        "prefix": "executions",
+        "body": [
+            "executions"
+        ],
+        "description": "executions (Matlab Trading method)"
+    },
+    "fix2struct": {
+        "prefix": "fix2struct",
+        "body": [
+            "fix2struct"
+        ],
+        "description": "fix2struct (Matlab Trading method)"
+    },
+    "fix2table": {
+        "prefix": "fix2table",
+        "body": [
+            "fix2table"
+        ],
+        "description": "fix2table (Matlab Trading method)"
+    },
+    "fixflyer": {
+        "prefix": "fixflyer",
+        "body": [
+            "fixflyer"
+        ],
+        "description": "fixflyer (Matlab Trading method)"
+    },
+    "getAllFieldMetaData": {
+        "prefix": "getAllFieldMetaData",
+        "body": [
+            "getAllFieldMetaData"
+        ],
+        "description": "getAllFieldMetaData (Matlab Trading method)"
+    },
+    "getBrokerInfo": {
+        "prefix": "getBrokerInfo",
+        "body": [
+            "getBrokerInfo"
+        ],
+        "description": "getBrokerInfo (Matlab Trading method)"
+    },
+    "groupRouteOrderWithStrat": {
+        "prefix": "groupRouteOrderWithStrat",
+        "body": [
+            "groupRouteOrderWithStrat"
+        ],
+        "description": "groupRouteOrderWithStrat (Matlab Trading method)"
+    },
+    "ibtws": {
+        "prefix": "ibtws",
+        "body": [
+            "ibtws"
+        ],
+        "description": "ibtws (Matlab Trading method)"
+    },
+    "modifyOrder": {
+        "prefix": "modifyOrder",
+        "body": [
+            "modifyOrder"
+        ],
+        "description": "modifyOrder (Matlab Trading method)"
+    },
+    "modifyRoute": {
+        "prefix": "modifyRoute",
+        "body": [
+            "modifyRoute"
+        ],
+        "description": "modifyRoute (Matlab Trading method)"
+    },
+    "modifyRouteWithStrat": {
+        "prefix": "modifyRouteWithStrat",
+        "body": [
+            "modifyRouteWithStrat"
+        ],
+        "description": "modifyRouteWithStrat (Matlab Trading method)"
+    },
+    "orderid": {
+        "prefix": "orderid",
+        "body": [
+            "orderid"
+        ],
+        "description": "orderid (Matlab Trading method)"
+    },
+    "orders": {
+        "prefix": "orders",
+        "body": [
+            "orders"
+        ],
+        "description": "orders (Matlab Trading method)"
+    },
+    "processEvent": {
+        "prefix": "processEvent",
+        "body": [
+            "processEvent"
+        ],
+        "description": "processEvent (Matlab Trading method)"
+    },
+    "routeOrder": {
+        "prefix": "routeOrder",
+        "body": [
+            "routeOrder"
+        ],
+        "description": "routeOrder (Matlab Trading method)"
+    },
+    "routeOrderWithStrat": {
+        "prefix": "routeOrderWithStrat",
+        "body": [
+            "routeOrderWithStrat"
+        ],
+        "description": "routeOrderWithStrat (Matlab Trading method)"
+    },
+    "routes": {
+        "prefix": "routes",
+        "body": [
+            "routes"
+        ],
+        "description": "routes (Matlab Trading method)"
+    },
+    "sendMessage": {
+        "prefix": "sendMessage",
+        "body": [
+            "sendMessage"
+        ],
+        "description": "sendMessage (Matlab Trading method)"
+    },
+    "shutDown": {
+        "prefix": "shutDown",
+        "body": [
+            "shutDown"
+        ],
+        "description": "shutDown (Matlab Trading method)"
+    },
+    "startUp": {
+        "prefix": "startUp",
+        "body": [
+            "startUp"
+        ],
+        "description": "startUp (Matlab Trading method)"
+    },
+    "struct2fix": {
+        "prefix": "struct2fix",
+        "body": [
+            "struct2fix"
+        ],
+        "description": "struct2fix (Matlab Trading method)"
+    },
+    "table2fix": {
+        "prefix": "table2fix",
+        "body": [
+            "table2fix"
+        ],
+        "description": "table2fix (Matlab Trading method)"
+    },
+    "xtrdr": {
+        "prefix": "xtrdr",
+        "body": [
+            "xtrdr"
+        ],
+        "description": "xtrdr (Matlab Trading method)"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "wlanGeneratorConfig": {
+        "prefix": "wlanGeneratorConfig",
+        "body": [
+            "wlanGeneratorConfig"
+        ],
+        "description": "wlanGeneratorConfig (Matlab WLAN prop)"
+    },
+    "wlanHTConfig": {
+        "prefix": "wlanHTConfig",
+        "body": [
+            "wlanHTConfig"
+        ],
+        "description": "wlanHTConfig (Matlab WLAN prop)"
+    },
+    "wlanNonHTConfig": {
+        "prefix": "wlanNonHTConfig",
+        "body": [
+            "wlanNonHTConfig"
+        ],
+        "description": "wlanNonHTConfig (Matlab WLAN prop)"
+    },
+    "wlanRecoveryConfig": {
+        "prefix": "wlanRecoveryConfig",
+        "body": [
+            "wlanRecoveryConfig"
+        ],
+        "description": "wlanRecoveryConfig (Matlab WLAN prop)"
+    },
+    "wlanVHTConfig": {
+        "prefix": "wlanVHTConfig",
+        "body": [
+            "wlanVHTConfig"
+        ],
+        "description": "wlanVHTConfig (Matlab WLAN prop)"
+    }
+}

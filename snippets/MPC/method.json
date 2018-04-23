@@ -1,0 +1,247 @@
+{
+	"cloffset": {
+		"prefix": "cloffset",
+		"body": [
+			"cloffset"
+		],
+		"description": "cloffset (Matlab MPC method)"
+	},
+	"compare": {
+		"prefix": "compare",
+		"body": [
+			"compare"
+		],
+		"description": "compare (Matlab MPC method)"
+	},
+	"generateExplicitMPC": {
+		"prefix": "generateExplicitMPC",
+		"body": [
+			"generateExplicitMPC"
+		],
+		"description": "generateExplicitMPC (Matlab MPC method)"
+	},
+	"generateExplicitOptions": {
+		"prefix": "generateExplicitOptions",
+		"body": [
+			"generateExplicitOptions"
+		],
+		"description": "generateExplicitOptions (Matlab MPC method)"
+	},
+	"generateExplicitRange": {
+		"prefix": "generateExplicitRange",
+		"body": [
+			"generateExplicitRange"
+		],
+		"description": "generateExplicitRange (Matlab MPC method)"
+	},
+	"generatePlotParameters": {
+		"prefix": "generatePlotParameters",
+		"body": [
+			"generatePlotParameters"
+		],
+		"description": "generatePlotParameters (Matlab MPC method)"
+	},
+	"getEstimator": {
+		"prefix": "getEstimator",
+		"body": [
+			"getEstimator"
+		],
+		"description": "getEstimator (Matlab MPC method)"
+	},
+	"getconstraint": {
+		"prefix": "getconstraint",
+		"body": [
+			"getconstraint"
+		],
+		"description": "getconstraint (Matlab MPC method)"
+	},
+	"getindist": {
+		"prefix": "getindist",
+		"body": [
+			"getindist"
+		],
+		"description": "getindist (Matlab MPC method)"
+	},
+	"getname": {
+		"prefix": "getname",
+		"body": [
+			"getname"
+		],
+		"description": "getname (Matlab MPC method)"
+	},
+	"getoutdist": {
+		"prefix": "getoutdist",
+		"body": [
+			"getoutdist"
+		],
+		"description": "getoutdist (Matlab MPC method)"
+	},
+	"gpc2mpc": {
+		"prefix": "gpc2mpc",
+		"body": [
+			"gpc2mpc"
+		],
+		"description": "gpc2mpc (Matlab MPC method)"
+	},
+	"mpc": {
+		"prefix": "mpc",
+		"body": [
+			"mpc"
+		],
+		"description": "mpc (Matlab MPC method)"
+	},
+	"mpcmove": {
+		"prefix": "mpcmove",
+		"body": [
+			"mpcmove"
+		],
+		"description": "mpcmove (Matlab MPC method)"
+	},
+	"mpcmoveAdaptive": {
+		"prefix": "mpcmoveAdaptive",
+		"body": [
+			"mpcmoveAdaptive"
+		],
+		"description": "mpcmoveAdaptive (Matlab MPC method)"
+	},
+	"mpcmoveExplicit": {
+		"prefix": "mpcmoveExplicit",
+		"body": [
+			"mpcmoveExplicit"
+		],
+		"description": "mpcmoveExplicit (Matlab MPC method)"
+	},
+	"mpcmoveMultiple": {
+		"prefix": "mpcmoveMultiple",
+		"body": [
+			"mpcmoveMultiple"
+		],
+		"description": "mpcmoveMultiple (Matlab MPC method)"
+	},
+	"mpcmoveopt": {
+		"prefix": "mpcmoveopt",
+		"body": [
+			"mpcmoveopt"
+		],
+		"description": "mpcmoveopt (Matlab MPC method)"
+	},
+	"mpcprops": {
+		"prefix": "mpcprops",
+		"body": [
+			"mpcprops"
+		],
+		"description": "mpcprops (Matlab MPC method)"
+	},
+	"mpcqpsolver": {
+		"prefix": "mpcqpsolver",
+		"body": [
+			"mpcqpsolver"
+		],
+		"description": "mpcqpsolver (Matlab MPC method)"
+	},
+	"mpcqpsolverOptions": {
+		"prefix": "mpcqpsolverOptions",
+		"body": [
+			"mpcqpsolverOptions"
+		],
+		"description": "mpcqpsolverOptions (Matlab MPC method)"
+	},
+	"mpcsimopt": {
+		"prefix": "mpcsimopt",
+		"body": [
+			"mpcsimopt"
+		],
+		"description": "mpcsimopt (Matlab MPC method)"
+	},
+	"mpcstate": {
+		"prefix": "mpcstate",
+		"body": [
+			"mpcstate"
+		],
+		"description": "mpcstate (Matlab MPC method)"
+	},
+	"mpcverbosity": {
+		"prefix": "mpcverbosity",
+		"body": [
+			"mpcverbosity"
+		],
+		"description": "mpcverbosity (Matlab MPC method)"
+	},
+	"plotSection": {
+		"prefix": "plotSection",
+		"body": [
+			"plotSection"
+		],
+		"description": "plotSection (Matlab MPC method)"
+	},
+	"review": {
+		"prefix": "review",
+		"body": [
+			"review"
+		],
+		"description": "review (Matlab MPC method)"
+	},
+	"sensitivity": {
+		"prefix": "sensitivity",
+		"body": [
+			"sensitivity"
+		],
+		"description": "sensitivity (Matlab MPC method)"
+	},
+	"setEstimator": {
+		"prefix": "setEstimator",
+		"body": [
+			"setEstimator"
+		],
+		"description": "setEstimator (Matlab MPC method)"
+	},
+	"setconstraint": {
+		"prefix": "setconstraint",
+		"body": [
+			"setconstraint"
+		],
+		"description": "setconstraint (Matlab MPC method)"
+	},
+	"setindist": {
+		"prefix": "setindist",
+		"body": [
+			"setindist"
+		],
+		"description": "setindist (Matlab MPC method)"
+	},
+	"setmpcsignals": {
+		"prefix": "setmpcsignals",
+		"body": [
+			"setmpcsignals"
+		],
+		"description": "setmpcsignals (Matlab MPC method)"
+	},
+	"setname": {
+		"prefix": "setname",
+		"body": [
+			"setname"
+		],
+		"description": "setname (Matlab MPC method)"
+	},
+	"setoutdist": {
+		"prefix": "setoutdist",
+		"body": [
+			"setoutdist"
+		],
+		"description": "setoutdist (Matlab MPC method)"
+	},
+	"setterminal": {
+		"prefix": "setterminal",
+		"body": [
+			"setterminal"
+		],
+		"description": "setterminal (Matlab MPC method)"
+	},
+	"simplify": {
+		"prefix": "simplify",
+		"body": [
+			"simplify"
+		],
+		"description": "simplify (Matlab MPC method)"
+	}
+}

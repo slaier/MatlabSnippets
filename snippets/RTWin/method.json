@@ -1,0 +1,23 @@
+{
+    "rtwho": {
+        "prefix": "rtwho",
+        "body": [
+            "rtwho"
+        ],
+        "description": "rtwho (Matlab RTWin method)"
+    },
+    "sldrtconfigset": {
+        "prefix": "sldrtconfigset",
+        "body": [
+            "sldrtconfigset"
+        ],
+        "description": "sldrtconfigset (Matlab RTWin method)"
+    },
+    "sldrtkernel": {
+        "prefix": "sldrtkernel",
+        "body": [
+            "sldrtkernel"
+        ],
+        "description": "sldrtkernel (Matlab RTWin method)"
+    }
+}
