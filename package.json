@@ -2,7 +2,7 @@
 	"name": "matlab-complete",
 	"displayName": "matlab-complete",
 	"description": "Matlab AutoComplete",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"publisher": "slaier",
 	"galleryBanner": {
 		"theme": "light"
