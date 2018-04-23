@@ -1,6 +1,8 @@
-# matLab-complete
+# matlab-complete
 
-[github](https://github.com/slaier/matlab-complete)
+## github
+
+[https://github.com/slaier/matlab-complete](https://github.com/slaier/matlab-complete)
 
 ## About
 
