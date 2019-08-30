@@ -9,7 +9,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/slaier/matlab-complete.git"
+		"url": "https://github.com/slaier/MatlabSnippets.git"
 	},
 	"engines": {
 		"vscode": "^1.21.0"

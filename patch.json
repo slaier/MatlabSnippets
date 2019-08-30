@@ -8,5 +8,16 @@
         ],
         "description": "while expression, statements, end\n evaluates an expression, and repeats the execution of a group of statements in a loop while the expression is true. An expression is true when its result is nonempty and contains only nonzero elements (logical or real numeric). Otherwise, the expression is false."
     },
-    "B": {}
+    "A": {},
+    "B": {},
+    "~A": {},
+    "X": {},
+    "A^B": {},
+    "A*B": {},
+    "A.^B": {},
+    "A./B": {},
+    "A.*B": {},
+    "-A": {},
+    "A_1": {},
+    "A.'": {}
 }
