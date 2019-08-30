@@ -1,0 +1,2 @@
+scrapy>=1.6.0
+pyquery>=1.4.0

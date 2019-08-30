@@ -1,9 +1,0 @@
-{
-    "slwebview": {
-        "prefix": "slwebview",
-        "body": [
-            "slwebview"
-        ],
-        "description": "slwebview (Matlab RptGenext method)"
-    }
-}

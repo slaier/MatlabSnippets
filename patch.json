@@ -1,0 +1,12 @@
+{
+    "while": {
+        "prefix": "while",
+        "body": [
+            "while $expression",
+            "\t$0",
+            "end"
+        ],
+        "description": "while expression, statements, end\n evaluates an expression, and repeats the execution of a group of statements in a loop while the expression is true. An expression is true when its result is nonempty and contains only nonzero elements (logical or real numeric). Otherwise, the expression is false."
+    },
+    "B": {}
+}

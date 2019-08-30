@@ -1,0 +1,15 @@
+# python
+__pycache__
+
+# vscode
+.vscode/
+
+# temp
+log.txt
+funcs.json
+test.m
+*.vsix
+
+funcs_spider.py
+patch.json
+requirements.txt

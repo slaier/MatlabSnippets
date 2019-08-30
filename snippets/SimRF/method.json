@@ -1,9 +1,0 @@
-{
-    "simrfSupportPackages": {
-        "prefix": "simrfSupportPackages",
-        "body": [
-            "simrfSupportPackages"
-        ],
-        "description": "simrfSupportPackages (Matlab SimRF method)"
-    }
-}

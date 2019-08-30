@@ -1,27 +1,17 @@
-# matlab-complete
+# MatlabSnippets
 
-## github
+All the snippets of R2019a.
 
-[https://github.com/slaier/matlab-complete](https://github.com/slaier/matlab-complete)
+## Preview
 
-## About
-
-All Completion Suggestions for Matlab on Visual Studio Code.
+![preview](media/preview.gif)
 
 ## How to Use
 
 Start typing on a Matlab file and press tab to select completion suggestion.
 
-## Contributing
-
-All contributions are welcome.
-
 ## License
 
-© 2015 Taiwo Kareem.
+Licensed under the **Mozilla Public License Version 2.0**
 
-Read **License.txt**
-
-## Acknowledgements
-
-I'd first like to say a very big thank you to God my creator. Without him, this wouldn't be possible.
+Copyright 2019 by Slaier
