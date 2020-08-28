@@ -9,6 +9,42 @@ import scrapy
 from scrapy.cmdline import execute
 from pyquery import PyQuery as pq
 
+class FunctionParser(object):
+    def __init__(self, prefix, syntax):
+        self.isFunc = '(' in syntax
+        syntax = re.sub(r"(?P<param>\w+)1\s*,?\s*((?P=param)2)?\s*,?\s*((\.+)|(\u2026))\s*,?\s*(?P=param)[nN]", r"\g<param>1_\g<param>N", syntax) # Ellipsis
+        if self.isFunc or (syntax.count("=") == 1):
+            syntax = re.sub(r".*=\s+(?=[\w.]+\s*(\(|$))", "", syntax) # delete return
+        syntax = syntax.replace(",", " ").replace("(", " ").replace(")", "")
+        self.identifier = syntax.split()
+        self.prefix = prefix
+
+    def getFname(self):
+        if len(self.identifier):
+            return self.identifier[0]
+        return self.prefix
+
+    def genSyntax(self):
+        return self._genFunction() if self.isFunc else self._genCommand()
+
+    def _genFunction(self):
+        return "{}({})".format(self.getFname(), self.genParams())
+
+    
+    def _genCommand(self):
+        return "{} {}".format(self.getFname(), self.genParams()).strip()
+
+    def genPlainParams(self):
+        sep = r"\, " if self.isFunc else r" "
+        return sep.join(self.identifier[1:])
+
+    def genParams(self):
+        sep = ", " if self.isFunc else r" "
+        return sep.join([param if self._isConst(param) else "${" + param + "}" for param in self.identifier[1:]])
+
+    def _isConst(self, s):
+        return  "'" in s or '"' in s or "=" in s or s.startswith("-")
+
 
 class FunctionsSpider(scrapy.Spider):
     name = "funcs"
@@ -79,7 +115,8 @@ class FunctionsSpider(scrapy.Spider):
         desc:str = desc_pq.text()
         
         title = response.xpath('//span[@class="refname"]/text() | //h1[@itemprop="title"]/text()').get()
-        for syntax in desc.strip().split('\n'):
+        syntaxs = desc.strip().split('\n')
+        for syntax in syntaxs:
             prefix = syntax.strip().split('(')[0]
             prefix = prefix.strip().split('=')[-1]
             prefix = prefix.strip().split(' ')[0]
@@ -91,15 +128,50 @@ class FunctionsSpider(scrapy.Spider):
             return
 
         name = response.meta.get('product') + "/" + prefix
-        return {
-            name: {
-                "prefix": prefix,
-                "body": [
-                    prefix
-                ],
-                "description": name + "\n\n" + desc + "\n\nref: " + response.url
+
+        elements = response.css('.description_element').getall() or response.xpath('//h2[text()="Description"]/..//span[@itemprop="syntax"]/..').getall()
+        if not elements:
+            return {
+                name: {
+                    "prefix": prefix,
+                    "body": [
+                        prefix
+                    ],
+                    "description": name + "\n\n" + desc + "\n\nref: " + response.url
+                }
             }
-        }
+        
+        paramOpt = []
+        plains = []
+        opts = None
+        for idx, element in enumerate(elements):
+            element_pq = pq(element)
+            element_pq('.syntax_example').remove()
+            syntax = element_pq('span[itemprop="syntax"]').text()
+            syntaxParser = FunctionParser(prefix, syntax)
+            syntax = syntaxParser.genSyntax()
+            if '___' not in syntax:
+                plain = syntaxParser.genPlainParams()
+                if len(syntaxParser.identifier) > 1 and plain not in plains:
+                    paramOpt.append(syntaxParser)
+                    plains.append(plain)
+            elif len(paramOpt) == 0:
+                self.log("___ replace fail on {}".format(response.url), logging.ERROR)
+            elif len(paramOpt) == 1:
+                syntax = syntax.replace('${___}', paramOpt[0].genParams(), 1)
+            else:
+                if opts is None:
+                    opts = ','.join(set([syn.genPlainParams() for syn in paramOpt]))
+                syntax = syntax.replace("${___}", "$0${}1|{}|{}".format('{', opts, "}"), 1)
+            yield {
+                name + ("_{}".format(idx) if idx else ''): {
+                    "prefix": prefix,
+                    "body": [
+                        syntax
+                    ],
+                    "description": name + "\n\n" + element_pq.text()
+                }
+            }
 
 
     def close(self, reason):
