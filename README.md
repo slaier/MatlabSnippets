@@ -1,10 +1,6 @@
 # MatlabSnippets
 
-All the snippets of R2019a.
-
-## Preview
-
-![preview](media/preview.gif)
+All the snippets of R2020a.
 
 ## How to Use
 
@@ -14,4 +10,4 @@ Start typing on a Matlab file and press tab to select completion suggestion.
 
 Licensed under the **Mozilla Public License Version 2.0**
 
-Copyright 2019 by Slaier
+Copyright 2020 by Slaier
