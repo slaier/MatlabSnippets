@@ -163,6 +163,7 @@ class FunctionsSpider(scrapy.Spider):
                 if opts is None:
                     opts = ','.join(set([syn.genPlainParams() for syn in paramOpt]))
                 syntax = syntax.replace("${___}", "$0${}1|{}|{}".format('{', opts, "}"), 1)
+            syntax = syntax.replace("${...}", "${etc}")
             yield {
                 name + ("_{}".format(idx) if idx else ''): {
                     "prefix": prefix,
