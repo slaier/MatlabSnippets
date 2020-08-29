@@ -161,7 +161,12 @@ class FunctionsSpider(scrapy.Spider):
                 syntax = syntax.replace('${___}', paramOpt[0].genParams(), 1)
             else:
                 if opts is None:
-                    opts = ','.join(set([syn.genPlainParams() for syn in paramOpt]))
+                    params = []
+                    for syn in paramOpt:
+                        param = syn.genPlainParams()
+                        if param not in params:
+                            params.append(param)
+                    opts = ','.join(params)
                 syntax = syntax.replace("${___}", "$0${}1|{}|{}".format('{', opts, "}"), 1)
             syntax = syntax.replace("${...}", "${etc}")
             yield {
