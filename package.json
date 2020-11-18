@@ -1,7 +1,7 @@
 {
-	"name": "matlab-complete",
-	"displayName": "MatlabSnippets",
-	"description": "Matlab Snippets",
+	"name": "MatlabSnippetsPY",
+	"displayName": "MatlabSnippetsPY",
+	"description": "Matlab Snippets with jupyter",
 	"version": "1.1.1",
 	"publisher": "Slaier",
 	"galleryBanner": {
@@ -25,6 +25,10 @@
 		"snippets": [
 			{
 				"language": "matlab",
+				"path": "snippets.json"
+			},
+			{
+				"language": "python",
 				"path": "snippets.json"
 			}
 		]
