@@ -2,7 +2,7 @@
 	"name": "matlab-complete",
 	"displayName": "MatlabSnippets",
 	"description": "Matlab Snippets",
-	"version": "1.0.4",
+	"version": "1.1.1",
 	"publisher": "Slaier",
 	"galleryBanner": {
 		"theme": "light"
@@ -12,7 +12,7 @@
 		"url": "https://github.com/slaier/MatlabSnippets.git"
 	},
 	"engines": {
-		"vscode": "^1.21.0"
+		"vscode": "^1.51.1"
 	},
 	"categories": [
 		"Snippets"

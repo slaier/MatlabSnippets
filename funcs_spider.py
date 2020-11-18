@@ -137,7 +137,7 @@ class FunctionsSpider(scrapy.Spider):
                     "body": [
                         prefix
                     ],
-                    "description": name + "\n\n" + desc + "\n\nref: " + response.url
+                    "description": desc + " ref: " + response.url
                 }
             }
         
@@ -175,7 +175,7 @@ class FunctionsSpider(scrapy.Spider):
                     "body": [
                         syntax
                     ],
-                    "description": name + "\n\n" + element_pq.text()
+                    "description": element_pq.text()
                 }
             }
 
